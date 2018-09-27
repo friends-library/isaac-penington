@@ -5,7 +5,7 @@ to experience and discern the two seeds, that is,
 the seed of enmity and the seed of love,
 the seed of the flesh and the seed of the Spirit,
 the seed of Hagar and the seed of Sarah,
-the seed of the Egyptian womb and the holy seed of Israel; and second,
+the seed of the Egyptian womb and the holy seed of Israel; and _second,_
 to experience the judgments of God administered to one of these seeds,
 till it be brought into bondage and death;
 and to experience the other raised up in the love and mercy of the Lord to live in us,
@@ -106,7 +106,7 @@ according to the very heart of the Father.
 This may be further illustrated, and perhaps made more manifest to some,
 by a scripture or two.
 
-[quote, , Gal. 5:17]
+[quote.scripture, , Gal. 5:17]
 ____
 The flesh lusts against the Spirit, and the Spirit against the flesh;
 and these are contrary one to the other.
@@ -197,7 +197,7 @@ Oh take heed of the same unbelief now!
 
 === Concerning Coming to the Father by Christ
 
-[quote, , John 14:6]
+[quote.scripture, , John 14:6]
 ____
 I am the way, the truth, and the life: no man comes unto the Father but by me.
 ____

@@ -164,7 +164,7 @@ Therefore observe, and consider well,
 what this faith which is of man's self can do;
 and how far it may go in the changing of man,
 and in producing a conformity to the outward letter of Scripture.
-And then also consider where man's faith is shut out, and what it cannot do,
+And then also consider where man's faith is shut out, and what it _cannot_ do,
 what change it cannot make, what it cannot conform to.
 Thus a true distinction may be established in your mind,
 and not a foundation laid for so great a mistake in a matter of such great importance.
@@ -240,7 +240,7 @@ but to the unbelievers!
 But, the growth of this faith, and the spreading of it into all his knowledge, zeal,
 and devotion, has not changed the nature of it all this while.
 It remains the same that it was at the beginning,
-even a power of nature in the first birth.
+_even a power of nature in the first birth._
 And all these fruits are but the fruits of the first nature,
 which is still alive underneath all.
 And everything which stands on this false faith
@@ -698,7 +698,7 @@ wherein life springs.
 
 Hear and consider:  It is recorded, Rev. 22:18-19:
 
-[quote]
+[quote.scripture]
 ____
 "`If any man will add unto these things,
 God will add unto him the plagues that are written in this book.
