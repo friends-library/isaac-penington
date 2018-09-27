@@ -1,7 +1,7 @@
 [#ch8, short="The Authority and Government Christ Excluded"]
 == Chapter VIII. The Authority and Government which Christ Excluded from His Church
 
-[quote, , Matthew 20:25-28]
+[quote.scripture, , Matthew 20:25-28]
 ____
 But Jesus called them to himself and said,
 "`You know that the rulers of the Gentiles lord it over them,

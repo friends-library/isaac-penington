@@ -1,6 +1,6 @@
 == Chapter I. Spiritual Knowledge
 
-[quote, , John 17:3]
+[quote.scripture, , John 17:3]
 ____
 This is life eternal, that they might know you, the only true God,
 and Jesus Christ whom you have sent.

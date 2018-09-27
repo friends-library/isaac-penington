@@ -8,7 +8,7 @@ And the Father, who sent him to preach the gospel, anointed him,
 and filled him with his Spirit,
 that he might preach the gospel according to that scripture, Isa. 61:1-3:
 
-[quote]
+[quote.scripture]
 ____
 The Spirit of the Lord God is upon me,
 because the Lord has anointed me to preach good tidings to the poor;

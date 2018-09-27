@@ -2,7 +2,7 @@
 
 === Preface
 
-[quote, , Jer. 2:13]
+[quote.scripture, , Jer. 2:13]
 ____
 "`My people have committed two great evils; they have forsaken me,
 the fountain of living waters, and hewed them out cisterns, broken cisterns,
