@@ -316,7 +316,7 @@ Peter's Chalfonte, 19th of Sixth Month, 1665
 [.letter-heading]
 To His Wife
 
-[.signed-section-context-open]
+[.signed-section-context-open.centered]
 (Written on Occasion of His Fourth Imprisonment)
 
 [.salutation]
@@ -365,7 +365,7 @@ I+++.+++ P.
 [.letter-heading]
 To a Friend in London
 
-[.signed-section-context-open]
+[.signed-section-context-open.centered]
 (Written on Occasion of the Plague, 1665)
 
 [.salutation]
