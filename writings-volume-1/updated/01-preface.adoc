@@ -7,8 +7,8 @@ known English politician and Puritan Congregationalist.
 He was brought up in a wealthy and influential family,
 and "`well cultivated and polished with an ingenuous and full education.`"^
 footnote:[From _The Testimony of Thomas Ellwood Concerning Isaac Penington._
-Written upon the occasion of Penington's death.]
-Nevertheless, Penington's aspirations, from his earliest days,
+Written upon the occasion of Penington`'s death.]
+Nevertheless, Penington`'s aspirations, from his earliest days,
 were entirely fixed upon things above,
 and not upon the many things of the world that were within his reach.
 He says of himself: "`My heart from my childhood was pointed towards the Lord,
@@ -17,7 +17,7 @@ I felt that I could not be satisfied with (nor indeed seek after) the
 things of this perishing world which naturally pass away;
 but I desired a true sense of, and unity with, that which abides forever.`"
 Indeed,
-Penington's hunger and desperation for the true knowledge and experience of God
+Penington`'s hunger and desperation for the true knowledge and experience of God
 (as the reader of this volume will no doubt recognize) was the hallmark of his life.
 Seeking, he found; knocking, the door swung wide open before him.
 He sought the Lord with all his heart, soul, mind and strength, and without a doubt,
@@ -46,7 +46,7 @@ just two years after his death.
 A second addition was printed in 1761, consisting of four volumes.
 A third edition appeared in 1784,
 and a fourth (which is available online in various digital formats) was printed in 1863.
-In the 1990's,
+In the 1990`'s,
 Quaker Heritage Press transcribed and reprinted the 1863
 edition of his complete works in four hardcover volumes,
 which can be purchased through their website at www.qhpress.org.
@@ -56,28 +56,27 @@ I strongly recommend these four volumes for the serious student of Penington.
 === About This Edition
 
 Most readers find the original four volumes of
-Pening­ton's works somewhat difficult to read.
+Pening­ton`'s works somewhat difficult to read.
 Though his writings are considered to be of the Early Modern English period,
-today's readers often find aspects of the language, punctuation,
+today`'s readers often find aspects of the language, punctuation,
 and syntax to be fairly distracting or burdensome.
 Because of this,
 many give up on this tremendous book rather than make the effort to wade through it.
  
-
 My desire in putting together this edition is twofold: First,
 I have tried to reduce the four volumes down to a more manageable two
 volumes by retaining the bulk of his spiritual writings and letters,
 while eliminating certain things I judged to be less weighty or relevant to our day.
-Some of Penington's writings were papers addressed to Parliament, the City of London,
+Some of Penington`'s writings were papers addressed to Parliament, the City of London,
 or the Army, having to do with specific laws, events, and persecutions of his time.
 Others were lengthy examinations and refutations
 of books or papers published against Quakers.
 Most of these, and other writings of this nature, were not included in this publication.
 
 My second goal in preparing this edition was to make the English somewhat
-more readable without changing Penington's meaning or over-modernizing his language.
+more readable without changing Penington`'s meaning or over-modernizing his language.
 I struggled with this.
-I deeply appreciate Penington's carefulness with words,
+I deeply appreciate Penington`'s carefulness with words,
 and I know that he was profoundly aware of both what and how he was communicating.
 Furthermore,
 I have no doubt but that the Spirit of God was the true Author behind much of his work.
@@ -95,30 +94,29 @@ word order, and spelling.
 An example of the kind of changes I made can be seen below.
 
 Original Edition::
-Thou takest up Cain's weapons, and fain wouldst thou kill thy brother,
+Thou takest up Cain`'s weapons, and fain wouldst thou kill thy brother,
 because his sacrifice in the faith testifies against thine.
 
 This Edition::
-You take up Cain's weapons, and you would eagerly kill your brother,
+You take up Cain`'s weapons, and you would eagerly kill your brother,
 because his sacrifice in the faith testifies against yours.
 
-Some words from Penington's era simply do not carry the same meaning today.
+Some words from Penington`'s era simply do not carry the same meaning today.
 These words were replaced with the closest modern equivalent I could find.
 A few words and concepts warranted further explanation which can be found in footnotes.
 The reader will also notice that pronouns and other terms referring to deity (like
 seed or lamb) are usually not capitalized in this volume (though there are some
-exceptions). It was not customary to capitalize such words in Penington's era,
+exceptions). It was not customary to capitalize such words in Penington`'s era,
 and I have left them as he wrote them.
 
 === About the Quakers
 
-According to George Fox's autobiography,
+According to George Fox`'s autobiography,
 the name Quaker originated with a magistrate named Gervase Bennet.
 "`Bennet,`" says Fox, "`was the first person that called us Quakers,
 because I bade them tremble at the word of the Lord.`"
-Thus the name Quaker began as a way of ridiculing George Fox's admonition,
+Thus the name Quaker began as a way of ridiculing George Fox`'s admonition,
 but it soon became widely accepted and used by both Quakers and their enemies.
- 
 
 In my view,
 the work of the Lord in and through the original Quakers of
