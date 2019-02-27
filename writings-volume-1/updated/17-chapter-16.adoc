@@ -311,8 +311,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Peter`'s Chalfonte, 19th of Sixth Month, 1665
 
-
-
 [.letter-heading]
 To His Wife
 
@@ -359,8 +357,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 1st of Seventh Month, 1665
-
-
 
 [.letter-heading]
 To a Friend in London
@@ -411,8 +407,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 8th of Seventh Month, 1665
 
-
-
 [.letter-heading]
 To Elizabeth Walmsley
 
@@ -449,8 +443,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Aylesbury Jail, 19th of Eighth Month, 1665
-
-
 
 [.letter-heading]
 To Friends at Horton
@@ -559,8 +551,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Aylesbury Jail, 22d of Eighth Month, 1665
 
-
-
 [.letter-heading]
 To Friends of Truth In and About the Two Chalfonts
 
@@ -635,8 +625,6 @@ From my place of confinement in Aylesbury
 [.signed-section-context-close]
 20th of Fourth Month, 1666
 
-
-
 [.letter-heading]
 To Elizabeth Walmsley, of Giles Chalfont
 
@@ -668,8 +656,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Aylesbury, 20th of Fourth Month, 1666
-
-
 
 [.letter-heading]
 To the Earl of Bridgewater^
@@ -783,8 +769,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 From Aylesbury Jail, 24th of Sixth Month, 1666
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -836,8 +820,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Aylesbury Jail, 20th of Tenth Month, 1666
-
-
 
 [.letter-heading]
 To the Friends in Truth In and About the Two Chalfonts
@@ -904,8 +886,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Aylesbury Jail, 25th of Eleventh Month, 1666
-
-
 
 [.letter-heading]
 To the Faithful Friends of Truth In and About the Two Chalfonts
@@ -1056,8 +1036,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 1st of Third Month, 1667
-
-
 
 [.letter-heading]
 To My Dear Children J. J. and M. P.
@@ -1231,8 +1209,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 10th of Third month, 1667
 
-
-
 [.letter-heading]
 To the Friends at Chalfont in Buckinghamshire
 
@@ -1281,8 +1257,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Aylesbury Jail, 8th of Fifth Month, 1667
 
-
-
 [.letter-heading]
 To George Fox
 
@@ -1318,8 +1292,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Aylesbury Jail, 15th of Fifth Month, 1667
-
-
 
 [.letter-heading]
 To Friends of Both the Chalfonts
@@ -1518,8 +1490,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Aylesbury Jail, 2nd & 3rd of Sixth Month, 1667
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -1604,8 +1574,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 From Aylesbury Jail, 28th of Seventh Month, 1667
-
-
 
 [.letter-heading]
 To His Brother
@@ -1733,8 +1701,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Aylesbury Jail, 7th of Eighth Month, 1667
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -1814,8 +1780,6 @@ in the love and goodwill of the Lord, wishing to your soul as to my own.
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -1876,8 +1840,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 4th of Fourth Month, 1668
 
-
-
 [.letter-heading]
 To a Couple About to Marry
 
@@ -1920,8 +1882,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 4th of Third Month, 1668.
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -1963,8 +1923,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 12th of Third Month, 1669.
-
-
 
 [.letter-heading]
 To Catherine Pordage
@@ -2028,8 +1986,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 11th of First Month 1670.
-
-
 
 [.letter-heading]
 To Thomas Walmsley
@@ -2110,8 +2066,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 28th of First Month, 1670
 
-
-
 [.letter-heading]
 To Widow Hemmings
 
@@ -2170,8 +2124,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Reading Jail, 3rd of Sixth Month, 1670
-
-
 
 [.letter-heading]
 To an Unknown Recipient
@@ -2256,8 +2208,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Reading Jail, 19th of Seventh Month, 1670
 
-
-
 [.letter-heading]
 To Nathaniel Stonar
 
@@ -2337,8 +2287,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Reading Jail, 24th of Seventh Month, 1670
-
-
 
 [.letter-heading]
 To Widow Hemmings
@@ -2523,8 +2471,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 26th of Eighth Month, 1670
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -2619,8 +2565,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 27th of Ninth Month, 1670
-
-
 
 [.letter-heading]
 To Widow Hemmings
@@ -2752,8 +2696,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 28th of Ninth Month, 1670
 
-
-
 [.letter-heading]
 To Elizabeth Stonar
 
@@ -2810,8 +2752,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 16th of Twelfth Month, 1670
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -2857,8 +2797,6 @@ and you will learn the precious lesson of being content in every state.
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -2894,8 +2832,6 @@ hearts will soon and easily depart from us.
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 To an Unknown Recipient
@@ -2955,8 +2891,6 @@ This, the believer must witness in himself, and from it he will draw water with 
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To the Friend of Francis Fines
 
@@ -3008,7 +2942,6 @@ Yes, there truth springs out of the earth, and righteousness looks down from hea
 
 [.signed-section-signature]
 I+++.+++ P.
-
 
 [.letter-heading]
 To the Lady Conway
@@ -3090,8 +3023,6 @@ The Lord God of my life be with you, preserving and ordering your heart.
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -3140,8 +3071,6 @@ and feel the inward virtue of that which can restore and preserve you.
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To Widow Hemmings
 
@@ -3189,8 +3118,6 @@ Your friend, in the truest and most sincere love,
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 To Catherine Pordage

@@ -177,8 +177,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Reading Jail, 22nd of Third Month, 1671
 
-
-
 [.letter-heading]
 To Catherine Pordage
 
@@ -241,8 +239,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 26th Third Month, 1671
-
-
 
 [.letter-heading]
 To Nathaniel Stonar
@@ -375,8 +371,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 7th Fourth Month, 1671
 
-
-
 [.letter-heading]
 To Nathaniel Stonar
 
@@ -424,8 +418,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 17th Fifth Month, 1671
-
-
 
 [.letter-heading]
 To Catharine Pordage
@@ -532,8 +524,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 21st Sixth Month, 1671
 
-
-
 [.letter-heading]
 To Catharine Pordage and Another
 
@@ -576,8 +566,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 7th Seventh Month, 1671
-
-
 
 [.letter-heading]
 To an Unknown Recipient
@@ -702,8 +690,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 20th Tenth Month, 1671
 
-
-
 [.letter-heading]
 To Thomas and Ann Mudd
 
@@ -779,8 +765,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 19th Twelfth Month, 1672
-
-
 
 [.letter-heading]
 To Colonel Kenrick
@@ -913,8 +897,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 19th Fourth Month, 1673
 
-
-
 [.letter-heading]
 To Widow Hemmings
 
@@ -966,8 +948,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 4th Ninth Month, 1673
-
-
 
 [.letter-heading]
 To an Unknown Recipient
@@ -1064,7 +1044,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Grove Place, 17th of Ninth Month, 1673
 
-
 [.letter-heading]
 To Elizabeth Stonar
 
@@ -1143,8 +1122,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Amersham, Bury End, 20th of First Month, 1675
-
-
 
 [.letter-heading]
 To Catharine Pordage^
@@ -1233,8 +1210,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Amersham, 25th of Ninth Month, 1675
-
-
 
 [.letter-heading]
 To His Brother Arthur^
@@ -1372,7 +1347,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 20th Seventh Month, 1676
 
-
 [.letter-heading]
 To Sir William Armorer^
 footnote:[About this man, Thomas Ellwood writes,
@@ -1455,8 +1429,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Reading Jail
 
-
-
 [.letter-heading]
 To the Lady Conway
 
@@ -1535,8 +1507,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 17th Third Month, 1677
 
-
-
 [.letter-heading]
 To James Eeles^
 footnote:[James Eeles with either a magistrate
@@ -1613,8 +1583,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 25th Fourth Month, 1677
 
-
-
 [.letter-heading]
 To Dulcibella Laiton
 
@@ -1669,8 +1637,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 11th Fifth Month, 1677
-
-
 
 [.letter-heading]
 To Sir William Drake
@@ -1761,8 +1727,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 19th Fifth Month, 1678
-
-
 
 [.letter-heading]
 To the Women`'s Meeting at John Mannock`'s
@@ -1855,8 +1819,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 19th Fifth Month, 1678
 
-
-
 [.letter-heading]
 To Those Who Drink of the Waters at Astrop Wells
 
@@ -1907,8 +1869,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Astrop, 15th of Sixth Month, 1678
-
-
 
 [.letter-heading]
 To Such as Drink of the Waters at Astrop Wells
@@ -1985,8 +1945,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Astrop, 20th of Sixth Month, 1678
-
-
 
 [.letter-heading]
 To One Who Sent a Message from Astrop Wells
@@ -2079,8 +2037,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Astrop, 28th of Sixth Month, 1678
 
-
-
 [.letter-heading]
 To the Women Friends that Meet at Armscot in Worcestershire
 
@@ -2159,8 +2115,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Written at John Hawford`'s, 7th of Seventh Month, 1678
 
-
-
 [.letter-heading]
 To S. W.
 
@@ -2223,8 +2177,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 13th Twelfth Month, 1678
 
-
-
 [.letter-heading]
 To the Lady Conway
 
@@ -2272,8 +2224,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 14th 12th Month, 1678
-
-
 
 [.letter-heading]
 To S. W.
@@ -2380,8 +2330,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 27th Twelfth Month, 1678
 
-
-
 [.letter-heading]
 To M. Hiorns
 
@@ -2465,8 +2413,6 @@ I+++.+++ P.
 [.signed-section-context-close]
 Amersham, Woodside, 4th of Fifth Month, 1679.
 
-
-
 [.letter-heading]
 To Sarah Elgar
 
@@ -2501,8 +2447,6 @@ I+++.+++ P.
 
 [.signed-section-context-close]
 Nunnington, Sixth Month, 1679
-
-
 
 [.letter-heading]
 To Sarah Bond
@@ -2590,8 +2534,6 @@ Oh, that it might rise up in you, and be severed from the earth, that your soul 
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To Friends in the Truth at Lewes
 
@@ -2628,8 +2570,6 @@ unchangeable truth of our blessed God and Savior.
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 To an Unknown Recipient
@@ -2715,8 +2655,6 @@ From a faithful friend and lover of souls,
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To E. Terry
 
@@ -2788,8 +2726,6 @@ For, indeed, if you do, you fight against no less than the Lord Jesus Christ him
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To Richard Roberts
 
@@ -2844,8 +2780,6 @@ for him,`" to do the Father`'s will therein.
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 To the Independents at Canterbury
@@ -2940,8 +2874,6 @@ dwellings and quiet resting places`" upon Mount Zion. Isa. 32:18.
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To Francis Pordage
 
@@ -3005,8 +2937,6 @@ live, act, and worship, we should yet perish, and be cut off from the land of th
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 In Reply to an Answer of I. H.
@@ -3090,8 +3020,6 @@ and endanger the body. Jude 4.
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To Bridget Atley
 
@@ -3140,8 +3068,6 @@ Your faithful friend,
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 To Abraham Grimsden
@@ -3194,8 +3120,6 @@ and that it may not forever perish from the presence and power of the Lord,
 [.signed-section-signature]
 I+++.+++ P.
 
-
-
 [.letter-heading]
 To an Unknown Recipient
 
@@ -3239,8 +3163,6 @@ Amen.
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 To an Unknown Recipient
@@ -3358,8 +3280,6 @@ who am your true and faithful friend, and a hearty well-wisher to you and yours,
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 To Ruth Palmer
@@ -3489,8 +3409,6 @@ which is the hearty desire of your soul`'s true and faithful friend,
 
 [.signed-section-signature]
 I+++.+++ P.
-
-
 
 [.letter-heading]
 To Joseph Wright

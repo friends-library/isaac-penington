@@ -155,7 +155,6 @@ The publishing company requires that I also make
 copies available for sale online through Amazon,
 but all proceeds from sales go to the free distribution of this and other publications.
 
-
 [.signed-section-signature]
 Jason R. Henderson
 
