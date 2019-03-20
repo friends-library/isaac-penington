@@ -172,6 +172,9 @@ I chose rather to include that here.
 [.offset]
 The first account that Isaac Penington gives of his own spiritual travail is as follows:
 
+[.embedded-content-document.testimony]
+--
+
 "`A true and faithful relation, in brief, concerning myself,
 in reference to my spiritual travails and the Lord`'s dealings with me.
 I say true and faithful because it is of the truth, and not given forth in my own will,
@@ -360,10 +363,15 @@ Isaac Penington
 [.signed-section-context-close]
 Aylesbury Jail, 15th of 3rd month, 1667
 
+--
+
 [.offset]
 The following is a second autobiographical sketch taken
 from Penington`'s writings which he entitled,
 __"`A Brief Account of My Soul`'s Travel Towards the Holy Land.`"__
+
+[.embedded-content-document.testimony]
+--
 
 "`My heart from my childhood was pointed towards the Lord, whom I cared for,
 and looked after, from my tender years.
@@ -615,6 +623,8 @@ and satisfies it with the true, precious substance forevermore.`"
 
 [.signed-section-signature]
 Isaac Penington
+
+--
 
 Neither to Isaac Penington was it given only to believe,
 but to suffer also for the sake of Christ.
