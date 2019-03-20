@@ -1,6 +1,5 @@
 == Chapter I. Memoir of Isaac Penington
 
-[.blurb]
 === The following is a testimony written by Thomas Ellwood after the death of Isaac Penington, containing two short autobiographical narratives taken from Penington`'s own writings.
 
 [.asterism]
@@ -359,6 +358,7 @@ Isaac Penington
 
 [.signed-section-context-close]
 Aylesbury Jail, 15th of 3rd month, 1667
+//Does this above need to be embedded within this testimony?
 
 [.offset]
 The following is a second autobiographical sketch taken
@@ -615,6 +615,7 @@ and satisfies it with the true, precious substance forevermore.`"
 
 [.signed-section-signature]
 Isaac Penington
+//and this one?
 
 Neither to Isaac Penington was it given only to believe,
 but to suffer also for the sake of Christ.
