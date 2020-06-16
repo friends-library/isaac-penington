@@ -1139,6 +1139,9 @@ which may be serviceable and helpful to you in your present condition.
 They are four propositions, relating to the right knowledge of the things of God,
 which are these following:
 
+[.numbered-group]
+====
+
 [.numbered]
 _First,_ that the knowledge of the things of God comes from the Spirit.
 As the Scriptures themselves came from the Spirit,
@@ -1203,6 +1206,8 @@ Also it is easy retaining knowledge and making use of
 it in the will and wisdom of the earthly mind,
 for both these are natural; but it is hard denying the reason,
 the thoughts and imaginations, and watching to the Spirit.
+
+====
 
 O professors, wait for the living appearance of God!
 Wait for the freshness of his Spirit in your spirits,

@@ -251,6 +251,9 @@ footnote:[The following assertions are made in response to what was a common
 that they taught Christ to be only an inward life or light that worked in the heart,
 but denied or neglected the outward work of Christ accomplished in His natural body.]
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ We do indeed acknowledge that the Word of God (the only begotten
 of the Father) did take up a body of the flesh of the virgin Mary,
@@ -279,6 +282,8 @@ For man was shut out from this living virtue and power by the fall;
 but through the true knowledge of the death of Christ, the way is made open for it again,
 and man is brought to it to be baptized, washed, cleansed, sanctified, fitted for,
 and filled with life.
+
+====
 
 Now of this thing we might speak yet more clearly and plainly,
 if men could hear our words.
@@ -883,9 +888,15 @@ that in his strength you may overcome all that stands between you and life.
 
 === Some Assertions Concerning the Seed and Way of Life
 
+[.numbered-group]
+====
+
 [.numbered.emphasized]
 1+++.+++ That it is a great and hard matter to come into
 a capacity of knowing and receiving the truth.
+
+[.small-break]
+'''
 
 It is no hard matter to take up any religion that a man finds in the world.
 To read Scriptures and believe what is found related
@@ -901,6 +912,9 @@ and he that desires to find it must go further than this.
 2+++.+++ That which gives the true capacity is a seed of life from God,
 and there alone and nowhere else, can man meet with it and receive the truth.
 
+[.small-break]
+'''
+
 This seed is the seed of the kingdom, or heavenly leaven,
 with which the mind must be in some measure leavened,
 before it can come into a true capacity of understanding and receiving the truth.
@@ -909,6 +923,9 @@ if it is to abide and grow in the true knowledge.
 
 [.numbered.emphasized]
 3+++.+++ That from this seed, and in this seed, are all things given.
+
+[.small-break]
+'''
 
 Not only are the true light and knowledge of the Lord
 Jesus Christ given and received in this seed;
@@ -920,6 +937,9 @@ but a garment of man`'s own forming, and not the covering of the Spirit.
 [.numbered.emphasized]
 4+++.+++ That the Spirit himself sows this seed, and is received in this seed.
 
+[.small-break]
+'''
+
 He that receives this seed, and is born of this seed,
 receives and is born of the Spirit.
 He that receives it not, nor is born of it,
@@ -929,6 +949,9 @@ and is not in the truth as it is in Jesus.
 
 [.numbered.emphasized]
 5+++.+++ That in this seed the new covenant is made with the soul and entered into.
+
+[.small-break]
+'''
 
 He that receives this seed from the hand of God, receives life,
 and enters into the covenant of life,
@@ -949,6 +972,9 @@ Indeed, your law is written in the midst of my heart!`"
 6+++.+++ Among those who are gathered into this seed, and abide in the sense,
 light, and life of this seed, there is great love and unity.
 
+[.small-break]
+'''
+
 They are of one mind, of one heart, of one soul, of one spirit, of one life,
 gathered into one demonstration of truth.
 And there is no jarring, no doubting, no dissenting, etc.
@@ -959,6 +985,9 @@ and from those that are gathered into and abide therein.
 [.numbered.emphasized]
 7+++.+++ That all who are not gathered into, nor walk or live in this seed,
 they are yet in the darkness and err from the pure power of God.
+
+[.small-break]
+'''
 
 These stand and walk in slippery places;
 and though their way may seem very right,
@@ -980,6 +1009,9 @@ spotless life and righteousness of the Son)?
 8+++.+++ That to those who see in the light of this seed,
 the mountain of the Lord`'s house is discovered.
 
+[.small-break]
+'''
+
 Those who abide and grow up in the mountain of the Lord`'s
 house know and experience it established above all mountains,
 and exalted above all hills--all earthly knowledge, earthly religions, earthly ways,
@@ -1000,6 +1032,9 @@ and joy of the kingdom given forth and received.
 reproves it, witnesses against it, and strives with the mind to turn it from it,
 and to wait for life and power from on high.
 
+[.small-break]
+'''
+
 In that seed is the divine nature, even the nature of God`'s Spirit,
 which was always against sin, and ever will be so.
 In all its appearances it testifies against it,
@@ -1018,6 +1053,9 @@ and to be gathered under his banner, which is the cross.
 [.numbered.emphasized]
 10+++.+++ That the true and certain way of knowledge of the
 things of God is in the faith and obedience of this seed.
+
+[.small-break]
+'''
 
 It is not by reasoning and considering things in the mind (after the
 manner of men) that a man comes to know spiritual things;
@@ -1045,3 +1083,5 @@ you will enter into the will and wisdom of the flesh.
 Here you will find disputes, discontents, murmurings,
 ill tempers and dispositions of the mind,
 which will increase and grow upon you to your hurt.
+
+====
