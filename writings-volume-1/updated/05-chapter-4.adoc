@@ -169,6 +169,9 @@ what change it cannot make, what it cannot conform to.
 Thus a true distinction may be established in your mind,
 and not a foundation laid for so great a mistake in a matter of such great importance.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ A man may believe the history of the Scriptures; yes, and all the doctrines of them,
 so far as he can reach them with his understanding, with this faith which is of man.
@@ -246,6 +249,8 @@ which is still alive underneath all.
 And everything which stands on this false faith
 can never kill the seed out of which it grows;
 but rather feeds it more, and fattens it for the slaughter.
+
+====
 
 Thus far can man`'s faith go:
 but then there is something that it is excluded from at the very first.
@@ -761,13 +766,15 @@ All the while, he himself is in the error, and in the heresy, and against the tr
 being a stranger to that Spirit, in whose immediate life and presence the truth grows.
 
 [.discourse-part]
-Question:
-But how may I avoid adding to the things and diminishing from
+Question: But how may I avoid adding to the things and diminishing from
 the words of this prophecy and of other scriptures;
 that I may not meet with the weight of this curse, or miss of the blessing?
 
-[.discourse-part]
-Answer: 1. Wait for the key of knowledge, which is God`'s free gift.
+[.numbered-group]
+====
+
+[.numbered]
+_Answer:_ 1. Wait for the key of knowledge, which is God`'s free gift.
 Do not go with a false key to the Scriptures of Truth; for it will not open them.
 Man is too hasty to know the meaning of the Scriptures,
 and to enter into the things of God,
@@ -836,6 +843,8 @@ Have nothing which you may call your own anymore, but be lost to yourself,
 and found in him.
 Know the land of the living, wherein all the things of life live,
 and can live nowhere else.
+
+====
 
 Now in all this, there is stability and security.
 From the very first opening of the true key, I begin to learn something of God;

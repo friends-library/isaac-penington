@@ -114,6 +114,9 @@ Be persuaded, therefore,
 to seriously consider (in the child-like simplicity of his begetting,
 where the true life springs) the following things.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ That the whole law of Moses (the ten commandments,
 as well as the institutions about sacrifices and
@@ -147,6 +150,8 @@ and so to put an end to that dispensation of it. Psa. 40. Rom. 10:4.
 And so he takes away the first administration of the law,
 which was in the letter, that he might establish the second, which is in the Spirit.
 Heb. 10:9. 2 Cor. 3:7-11.
+
+====
 
 This then is the truth as it is in Jesus concerning this thing:
 That Christ coming in the flesh,
@@ -460,16 +465,18 @@ mother of all the children of the new covenant.
 
 Observe therefore diligently the following few things in the fear of the Lord:
 
+[.numbered-group]
+====
+
 [.numbered]
-_First:_
-The ten commandments given by Moses from Mount Horeb were the
+_First:_ The ten commandments given by Moses from Mount Horeb were the
 covenant which God made with the Jews when he took them by the
 hand to lead them out of the land of Egypt.
 
 [.numbered]
-_Secondly:_
-That covenant God found fault with because it was not able (through
-the weakness of the flesh on their parts) to keep them to God.
+_Secondly:_ That covenant God found fault with because it was not able
+(through the weakness of the flesh on their parts)
+to keep them to God.
 
 [.numbered]
 _Thirdly:_ In Christ`'s coming God provides a new covenant,
@@ -496,6 +503,8 @@ acknowledged and received even in Christ the substance.
 But the ten commandments, so far as they were a shadow,
 pass away before the Sun of righteousness,
 as well as the other types and shadows of the law.
+
+====
 
 [.discourse-part]
 Objection: But was there anything in the ten commandments that was a shadow?

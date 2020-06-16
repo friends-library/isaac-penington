@@ -225,6 +225,9 @@ wherever the Father`'s earth opens to drink them in.
 [.old-style]
 === Some Propositions / Concerning the Only Way of Salvation
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ That there is no way of being saved from sin and
 wrath eternal but by Christ alone who died at Jerusalem.
@@ -268,6 +271,8 @@ gather comforts from Scripture promises, run into ordinances,
 be exceedingly zealous and affectionate in all of these, and yet perish in the end.
 Yes, the devil will let him alone (if not help him) in all of this,
 knowing that he has him the surer thereby.
+
+====
 
 [.discourse-part]
 Objection: But I may be deceived in hearkening to a light within;
