@@ -1,32 +1,50 @@
-== AN EXAMINATION OF THE GROUNDS OR CAUSES WHICH ARE SAID TO INDUCE THE COURT OF BOSTON IN NEW ENGLAND TO MAKE THAT ORDER OR LAW OF BANISHMENT, UPON PAIN OF DEATH, AGAINST THE QUAKERS
+[#boston, short="An Examination of the Court of Boston`'s Proceedings"]
+== An Examination of the Grounds or Causes
 
-AS ALSO OF THE GROUNDS AND CONSIDERATIONS BY THEM PRODUCED,
-TO MANIFEST THE WARRANTABLENESS AND JUSTNESS BOTH OF THEIR MAKING AND EXECUTING THE SAME;
-WHICH THEY NOW STAND DEEPLY ENGAGED TO DEFEND, HAVING ALREADY THEREUPON PUT TWO OF THEM TO DEATH
+[.heading-continuation-blurb]
+Which are said to induce the _Court of Boston_ in _New England_
+to make that order or law of banishment, upon pain of death, against the _Quakers._
 
-AS ALSO OF SOME FURTHER GROUNDS FOR JUSTIFYING OF THE SAME, IN AN APPENDIX TO JOHN NORTON`'s BOOK
-(WHICH WAS PRINTED AFTER THE BOOK ITSELF, YET AS PART THEREOF);
-WHERETO HE IS SAID TO BE APPOINTED BY THE GENERAL COURT
+[.heading-continuation-blurb]
+As also of the _Grounds_ and _Considerations_ by them produced,
+to manifest the _Warrantableness_ and _Justness_ both of their making and executing the same;
+which they now stand deeply engaged to _Defend,_ having already thereupon put two of them to death.
 
+[.heading-continuation-blurb]
+As also of some further grounds for justifying of the same,
+in an _Appendix_ to _John Norton`'s_ Book
+(which was printed after the Book itself, yet as part thereof);
+whereto he is said to be appointed by the General Court.
+
+[.heading-continuation-blurb]
 And likewise of the Arguments briefly hinted, in that which is called,
-"`A true Relation of the Proceedings against the Quakers, etc.`"
+"`A true Relation of the Proceedings against the _Quakers,_ etc.`"
 
+[.heading-continuation-blurb]
 Whereunto somewhat is added about the Authority and Government Christ excluded out of his Church;
-which occasioneth somewhat concerning the true Church-Government
+which occasioneth somewhat concerning the true Church-Government.
 
-BY ISAAC PENINGTON, THE YOUNGER
+[.section-author]
+By _Isaac Penington,_ the Younger
 
-+++[+++1660]
+[.section-date]
+1660
 
+[quote.section-epigraph]
+____
 The stone the builders refused, is become the head of the corner.
 This is the Lord`'s doing; it is marvellous in our eyes.
 Ps. 118:22-23
+____
 
+[quote.section-epigraph]
+____
 I thank thee, O Father,
 Lord of heaven and earth because thou hast hid these things from the wise and prudent,
 and hast revealed them unto babes.
 Even so Father; for so it seemed good in thy sight.
 Matt. 11:25-26
+____
 
 === TO THE RULERS, TEACHERS, AND PEOPLE OF New England
 
@@ -2104,7 +2122,7 @@ but a sweet waiting on the Lord for every one`'s growth in their several ranks a
 [.blurb]
 === Since my waiting on the LORD for the Presence and Guidance of his Spirit, in the examining the foregoing Grounds and Considerations, there came forth an appendix to JOHN NORTON`'s Book, wherein are laid down some further Grounds by way of justifying of their Proceedings; which, for their Sakes, and likewise on the Behalf of the Truth and People of GOD, I may also say somewhat to.
 
-1. THEY insinuate an argument concerning "`the not suffering of evil,
+1+++.+++ THEY insinuate an argument concerning "`the not suffering of evil,
 which`" they say "`is common to all that fear God, with themselves.`"
 
 Ans.

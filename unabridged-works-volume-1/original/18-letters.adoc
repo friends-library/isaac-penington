@@ -1,15 +1,15 @@
 == Letters of Isaac Penington
 
-TO HIS FATHER
+[.letter-heading]
+To His Father
 
-AH!
-DEAR FATHER,
+AH! DEAR FATHER,
 
 Why dost thou so often give me occasion of mourning before the Lord,
 on account of hard and unrighteous charges from thee!
 How often have I solemnly professed, that there was never any desire in me,
-or endeavor used by me,
-to draw thee to this way +++[+++of religious profession]. All that is in my soul is this,
+or endeavor used by me, to draw thee to this way +++[+++of religious profession].
+All that is in my soul is this,
 that thou mightst have the true knowledge of Christ,
 that thou mightst indeed hear his sayings, and do them,
 and not set up thy own or other men`'s imaginations and invented reasonings,
@@ -27,8 +27,7 @@ My father lays down three reasons why he cannot believe this way to be of God.
 
 1+++.+++ God`'s way is a way of love, peace, and unity.
 
-Answer.
-If my father had that eye which can see the things of God,
+Answer. If my father had that eye which can see the things of God,
 and did apply himself to look therewith, he might see that peace, that love, that unity,
 among this people, which other men do but talk of;
 but if he take things by the report of the enemies both to God and to them,

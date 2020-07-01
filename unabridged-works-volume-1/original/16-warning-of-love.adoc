@@ -1,31 +1,33 @@
-== A WARNING OF LOVE FROM THE BOWELS OF LIFE
+== A Warning of Love from the Bowels of Life / to the Several Generations of Professors of this Age
 
-to the several generations of professors of this age
-
-That they may awaken, and turn towards the LIFE,
+[.heading-continuation-blurb]
+That they may awaken, and turn towards the _Life,_
 to be truly cleansed and saved by its powerful, living Virtue,
 before the Storm of Wrath break forth, and the overflowing Scourge overtake them,
 which will sweep away the strongest and most well-built Refuge of Lies;
 and sink those souls even into the Pit of Misery,
 which are there found when the Storm comes.
 
-HELD FORTH IN FOUR PROPOSITIONS, ASSERTIONS, OR CONSIDERATIONS,
-CONCERNING MAN IN HIS LOST STATE, AND HIS RECOVERY OUT OF IT
+[.heading-continuation-blurb]
+Held forth in Four _Propositions,_ _Assertions,_ or _Considerations,_
+concerning _Man_ in his _Lost State,_ and his _Recovery_ out of it.
 
-+++[+++1660]
+[.section-date]
+1660
 
-=== PROPOSITION I
+=== Proposition I
 
-// section-summary-preface ???
-That MAN is fallen from GOD
+[.section-summary-preface]
+That _Man_ is fallen from _God_
 
-THERE is an everlasting, infinite, pure fountain, and wellspring of life,
+There is an everlasting, infinite, pure fountain, and wellspring of life,
 from whence all creatures came; from whence their life, being, motion, virtue,
 and rest flow; in which they all have a place and standing according to their nature,
 estate, temperature, and course of operation in his eternal counsel, who made all,
 disposeth of all, ruleth in and over all eternally;
-whose everlasting kingdom and dominion (which was before all,
-and will be after all) cannot be excluded by any
+whose everlasting kingdom and dominion
+(which was before all, and will be after all)
+cannot be excluded by any
 power or dominion which ariseth after it;
 but only so far as itself hath pleased, it hath given way to that power of darkness,
 which is contrary to it; which how it sprang up, what it hath to do,
@@ -89,14 +91,14 @@ many prophets to reduce and restore them to the right path of holiness and obedi
 but still they were erring in their hearts from the Lord, and his pure law of life;
 not knowing their owner, or their master`'s crib, so well as the ox or ass did theirs. Isa. 1:3.
 
-=== PROPOSITION II
+=== Proposition II
 
-// section-summary-preface ???
+[.section-summary-preface]
 That man, by all the imaginations that can enter into his heart,
 and by all the means he can use, or courses he can run,
 cannot return back to God again, or so much as desire it.
 
-THE fall of man from God is such, that it hath benumbed all his senses; yea,
+The fall of man from God is such, that it hath benumbed all his senses; yea,
 so bereft him of them, that he cannot feel his own estate.
 He is dead, spiritually dead; and can no more feel his death, his spiritual death,
 than a man naturally dead can his natural death.
@@ -237,15 +239,15 @@ but they must lie down in the bed of eternal sorrow, misery, and torment;
 and in utter separation from that wherein they thought
 they had a large and unquestionable share.
 
-=== PROPOSITION III
+=== Proposition III
 
-// section-summary-preface ???
+[.section-summary-preface]
 That all professions of God and of Christ upon the earth;
 all knowledge and beliefs whatsoever, with all practices of duties and ordinances of worship,
 save only such as proceed from, and are held in, the pure life, are but as so many fig-leaves,
 or deceitful plasters, which may skin over the wound, but cannot truly heal it.
 
-THE wound of man is deep by the fall: he hath really lost God,
+The wound of man is deep by the fall: he hath really lost God,
 he is shut out of his commonwealth; yea, in that estate,
 he is altogether without hope (for the hope springs
 from God`'s visitation of him with his light,
@@ -284,13 +286,13 @@ and hath its place and residence in the mortal part
 (and not in the true treasury) will come to an end,
 and disappoint all who have their hopes of the inheritance there.
 
-=== PROPOSITION IV
+=== Proposition IV
 
-// section-summary-preface ???
+[.section-summary-preface]
 That the living seed of eternal life, which God hath hid in man underneath his earth,
 hath in it the living virtue, which alone can heal man, and restore him to God.
 
-THAT which heals of the death, is the tree of life, whose rind or bark, whose leaves,
+That which heals of the death, is the tree of life, whose rind or bark, whose leaves,
 whose blossoms, whose fruit, whose boughs and branches, whose bulk or body,
 with the whole sap thereof, are all healing, and there is nothing else can heal.
 Let man catch all the knowledge that ever sprang from the life;
@@ -353,4 +355,5 @@ and receive you with it into its everlasting mansion,
 where every servant and constant sufferer with the seed shall be welcomed of its Father,
 and remain a partaker of their joy and fulness forever.
 
-ISAAC PENINGTON, THE YOUNGER
+[.signed-section-signature]
+Isaac Penington, the Younger

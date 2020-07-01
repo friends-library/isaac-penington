@@ -1,6 +1,8 @@
+[#to-parliament.style-blurb, short="To the Parliament"]
 == To the Parliament, the Army, and all the Well-affected in the Nation, who have been faithful to the Good Old Cause
 
-+++[+++1659]
+[.section-date]
+1659
 
 THAT there hath been a backsliding and turning aside from
 the GOOD OLD CAUSE even by the army (who formerly were glorious

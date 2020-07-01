@@ -1,13 +1,17 @@
-== WHERE IS THE WISE?
+== Where is the Wise?
 
+[quote.section-epigraph]
+____
 Where is the Scribe?
 Where is the Disputer of this World?
 Hath not God made foolish the Wisdom of this World?
 1 Cor. 1:20
+____
 
-+++[+++1660]
+[.section-date]
+1660
 
-THESE have always been the enemies and opposers of truth,
+These have always been the enemies and opposers of truth,
 and setters-up of false images thereof in all ages; the wise, the learned,
 the great disputants.
 To these truth has still been mean and contemptible, their eye hath still over-looked it,

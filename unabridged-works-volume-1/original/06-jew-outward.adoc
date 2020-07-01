@@ -1,25 +1,27 @@
-== THE JEW OUTWARD
+== The Jew Outward / Being a Glass for the Professors of this Age
 
-BEING A GLASS FOR THE PROFESSORS OF THIS AGE
+[.heading-continuation-blurb]
+Wherein if they Read with Meekness, and in the true _Light,_
+such of them as have not overslipped the Day of their Visitation,
+may see their own Spirits, to their own everlasting Advantage and Comfort,
+by learning Subjection to that which hath Power in it to destroy the evil Spirit in them.
 
-WHEREIN IF THEY READ WITH MEEKNESS, AND IN THE TRUE LIGHT,
-SUCH OF THEM AS HAVE NOT OVERSLIPPED THE DAY OF THEIR VISITATION,
-MAY SEE THEIR OWN SPIRITS, TO THEIR OWN EVERLASTING ADVANTAGE AND COMFORT,
-BY LEARNING SUBJECTION TO THAT WHICH HATH POWER IN IT TO DESTROY THE EVIL SPIRIT IN THEM
-
-CONTAINING Some EXCEPTIONS and ARGUMENTS of the JEWS against Christ`'s
+[.heading-continuation-blurb]
+Containing some _Exceptions_ and _Arguments_ of the _Jews_ against _Christ`'s_
 Appearance in that Body of Flesh in their Days;
-which the present PROFESSORS may view and compare with their Exceptions
-and Arguments against his Appearance in Spirit in this Age;
+which the present _Professors_ may view and compare with their Exceptions
+and Arguments against his Appearance in Spirit in this _Age;_
 that they may see and consider which of them are the more weighty
 
-BY ISAAC PENINGTON, THE YOUNGER
+[.section-author]
+By _Isaac Penington,_ the Younger
 
-+++[+++1659]
+[.section-date]
+1659
 
-=== PREFACE
+=== Preface
 
-THE Lord God of infinite goodness, hath ever dearly loved mankind,
+The Lord God of infinite goodness, hath ever dearly loved mankind,
 yet could never so appear to them since the transgression, as to be owned by them,
 till the veil was taken from before their hearts.
 Israel in Egypt hearkened not to Moses, because of their anguish and bondage.

@@ -1,20 +1,24 @@
-== THE WAY OF LIFE AND DEATH MADE MANIFEST AND SET BEFORE MEN
+[#way-of-life, short="The Way of Life and Death"]
+== The Way of Life and Death / Made Manifest and Set Before Men
 
-Whereby the many Paths of DEATH are impleaded, and the one Path of LIFE propounded,
-and pleaded for;
-in some POSITIONS concerning the Apostasy from the CHRISTIAN SPIRIT and LIFE;
-with some PRINCIPLES guiding out of it; and also an ANSWER to some Objections,
+[.heading-continuation-blurb]
+Whereby the many Paths of _Death_ are impleaded,
+and the one Path of _Life_ propounded, and pleaded for;
+in some _Positions_ concerning the Apostasy from the _Christian Spirit_ and _Life;_
+with some _Principles_ guiding out of it; and also an _Answer_ to some Objections,
 whereby the simplicity in some may be entangled;
-held forth in tender Good-will, both to PAPISTS and PROTESTANTS,
+held forth in tender Good-will, both to _Papists_ and _Protestants_,
 who have generally erred from the Faith for these many Generations,
-since the days of the APOSTLES;
+since the days of the _Apostles_;
 and with that which they have erred from are they comprehended.
 
-By ISAAC PENINGTON, the Younger
+[.section-author]
+By _Isaac Penington,_ the Younger
 
-+++[+++1658]
+[.section-date]
+1658
 
-=== THE PREFACE
+=== The Preface
 
 MY soul hath still in remembrance the grievous shakings
 and rendings that have been in this nation,

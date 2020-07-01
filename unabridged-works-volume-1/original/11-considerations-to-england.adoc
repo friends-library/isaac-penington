@@ -1,19 +1,28 @@
-== SOME CONSIDERATIONS Proposed to the distracted nation of England,
+[#considerations-distracted, short="Considerations Proposed to the Nation of England"]
+== Some Considerations
 
+[.heading-continuation-blurb]
+Proposed to the distracted nation of England,
 concerning the present design and work of God therein;
 upon their submitting whereto doth their settlement alone depend,
 and not upon any Form of Government, or change of Governors,
 as that spirit which seeketh their ruin tempteth them to believe.
 
-+++[+++1659]
+[.section-date]
+1659
 
-1+++.+++ THAT God, in great mercy, broke the bonds of the Romish yoke,
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ That God, in great mercy, broke the bonds of the Romish yoke,
 which lay hard upon the neck of this nation,
 and was very weighty upon those consciences wherein
 the true reforming light did arise in any measure;
 and who were in any measure true to that light which
 the Lord caused to break in upon them.
 
+[.numbered]
 2+++.+++ That the reformation out of Popery was not presently perfected (nay,
 was never yet perfected), but was very weak and low,
 many things therein savoring very much of Popery (the nation
@@ -22,6 +31,7 @@ so that there were many things still continuing,
 which could not but be burdensome to the upright-hearted, and to the tender consciences,
 as the light which began their reformation did grow and increase in them.
 
+[.numbered]
 3+++.+++ That the Lord God (who, in such great mercy,
 had delivered this nation from the yoke of Popery) could not but expect
 that the reformation should grow and increase until it were perfected;
@@ -33,6 +43,7 @@ to return to the pure worship of him in spirit and in truth;
 even as in the days of the apostles,
 before the apostasy from the Spirit and from the Truth.
 
+[.numbered]
 4+++.+++ That the reformation out of Popery was not pursued as the Lord expected it should;
 but a dark way of worship established in the land,
 and a dark church-government (both like that of Rome);
@@ -44,6 +55,7 @@ and a formal way of church-government and worship erected;
 which was pleasing to the loose and carnal spirit; but sharp, cruel,
 and burdensome to the stricter sort, and to such as were tender-hearted toward God.
 
+[.numbered]
 5+++.+++ That under this church-government and way of worship
 there was a going backwards towards Popery again,
 instead of going further from it.
@@ -69,6 +81,7 @@ Only the Lord hath reserved to himself a remnant,
 who could not bow to these things but groaned under them, and witnessed against them,
 mourning bitterly to the Lord under the load and weight of them.
 
+[.numbered]
 6+++.+++ That when the wrath of the Lord arose against this form of church-government
 and worship (as indeed it was high time for the Lord to appear;
 for the power and life of religion was even expiring),
@@ -79,6 +92,8 @@ but fain would they have had either the same form up again,
 or at least some other such like in the stead of it;
 whereby the loose spirit of the nation might be settled in some way of formal worship,
 and the growing reforming light snibbed in the spirits of the tender-hearted towards God.
+
+====
 
 Look back with a single and honest eye.
 Hath it not been thus?

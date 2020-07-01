@@ -1,31 +1,46 @@
-== THE AXE LAID TO THE ROOT OF THE OLD CORRUPT TREE
+[#axe, short="The Axe Laid to the Root"]
+== The Axe Laid to the Root / of the Old Corrupt Tree
 
-AND THE SPIRIT OF DECEIT STRUCK AT IN ITS NATURE FROM WHENCE ALL THE ERROR FROM THE LIFE,
-AMONG BOTH PAPISTS AND PROTESTANTS, HATH ARISEN,
-AND BY WHICH IT IS NOURISHED AND FED AT THIS DAY IN A DISTINCTION BETWEEN
-THE FAITH WHICH IS OF MAN AND THE FAITH WHICH IS OF GOD
+[.heading-continuation-blurb]
+And the Spirit of Deceit struck at in its nature,
+from whence all the error from the Life,
+among both Papists and Protestants, hath arisen,
+and by which it is nourished and fed at this Day.
 
-AND In some ASSERTIONS concerning true FAITH; its NATURE, RISE, etc.;
-its receiving of CHRIST, its abiding and growing in his living VIRTUE
+[.heading-continuation-blurb]
+In a distinction between the Faith which is of man and the Faith which is of _God._
 
-WITH A Warning concerning Adding to and Diminishing from the Scripture in general,
-and the Prophecies of the Revelations in particular.
-Discovering what it is, and the great Danger of it,
-with the only Way of Preservation from it.
-Whereto is added A short Touch about the Use of Means
+[.heading-continuation-blurb]
+And In some _Assertions_ concerning true _Faith;_ its _Nature,_ _Rise,_ etc;
+its receiving of _Christ,_ its abiding and growing in his living _Virtue_.
 
-AS ALSO A Brief History concerning the State of the Church since the Days of the Apostles
-WITH AN EXHORTATION TO THE PRESENT AGE By the Movings of the Life,
-in a Friend to the Living Truth of the Most High God;
-but an utter Enemy to the Spirit of Error and Blasphemy,
+[.heading-continuation-blurb]
+With a warning concerning adding to and diminishing from the Scripture in general,
+(and the Prophecies of the _Revelations_ in particular.)
+Discovering what it is, and the great danger of it,
+with the only way of preservation from it;
+whereto is added a short touch about the use of means.
+
+[.heading-continuation-blurb]
+As also a brief History concerning the State of the _Church_ since the days of the Apostles.
+
+[.heading-continuation-blurb]
+With an Exhortation to the present _Age._
+
+[.heading-continuation-blurb]
+By the movings of the Life,
+in a friend to the Living Truth of the most High God;
+but an utter enemy to the Spirit of Error and Blasphemy,
 wherever it is found, as well in the strictest of the Protestants,
 as among the grossest of the Papists
 
-ISAAC PENINGTON, THE YOUNGER
+[.section-author]
+By _Isaac Penington,_ the Younger
 
-+++[+++1659]
+[.section-date]
+1659
 
-=== PREFACE
+=== Preface
 
 There was a glorious day, and bright appearance of Truth in the times of the apostles.
 They had the true Comforter, who led them into all Truth, and kept them alive in Truth,
