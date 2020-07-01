@@ -1,23 +1,21 @@
-== A BRIEF ACCOUNT OF SOME REASONS
+== A Brief Account of Some Reasons / (Amongst many that might be given)
 
-(Amongst many that might be given)
-
-Why those People called QUAKERS cannot do some Things on the one hand,
+[.heading-continuation-blurb]
+Why those People called _Quakers_ cannot do some Things on the one hand,
 and forbear doing of some Things on the other hand; for which they have suffered,
 and do still suffer, so much Violence from the People,
 and such sore Persecution from the Teachers and Magistrates of these Nations.
-
 Whereby it may appear to all,
 who are willing to take any fair Consideration of their Cause,
 that their Sufferings are for Righteousness`' Sake,
 because of the Integrity of their Hearts towards God,
 and void of any just Ground of Offence towards Man.
 
+[.heading-continuation-blurb]
 This account was drawn up thus brief,
 for their sakes who want either time or patience to consider of it more at large;
-and answers to the heads of their sufferings, in a particular declaration to the PARLIAMENT.
-
-+++[+++no date]
+and answers to the heads of their sufferings,
+in a particular declaration to the _Parliament._
 
 1+++.+++ Why we go into meeting-places or markets or other-where to testify to the truth,
 and against deceit.
@@ -33,7 +31,7 @@ as it is recorded in Scripture.
 
 2+++.+++ Why we cannot pay tithes.
 
-Reas.
+Reason.
 Because tithes were not a maintenance appointed by Christ for his ministers,
 but were set up by the Pope (as the maintenance of
 his ministers) since the days of the apostles.
@@ -44,13 +42,13 @@ may appear.
 
 3+++.+++ Why we meet together on the first days of the week, and at other times.
 
-Reas.
+Reason.
 Because we find the Lord drawing of us, and his presence among us in our meetings,
 and receive refreshings to our souls thereby.
 
 4+++.+++ Why we cannot swear.
 
-Reas.
+Reason.
 Because Christ our Lord (who is greater than Moses,
 who gave the law about swearing) hath said,
 "`Swear not at all;`" and his apostle (who abode in his doctrine) saith, "`Above all things,
@@ -69,7 +67,7 @@ which forbad all profane and unlawful swearing. Lev. 19:12.
 
 5+++.+++ Why we cannot put off our hats to men.
 
-Reas.
+Reason.
 Because it lifts up that in man which God will destroy.
 It is suitable to that nature which is of the earth, and feeds it.
 It is pleasing to the flesh; and that which is an enemy to the flesh,
@@ -84,7 +82,7 @@ it being done in simplicity of heart upon this account.
 
 6+++.+++ Why we cannot justly be looked upon as vagrants or sturdy beggars.
 
-Reas.
+Reason.
 Because we beg not, nor pass up and down in any idle way;
 but either about our civil employments and occasions, or about the work of our God;
 nor are any way burdensome to the nation.
@@ -94,7 +92,7 @@ if it had been in their days?
 
 7+++.+++ Why we visit friends in prison.
 
-Reas.
+Reason.
 Because they being imprisoned for their obedience to Christ, what we do to them,
 we do to him; and we are afraid, lest he should say to us at the great day;
 "`I was sick and in prison,
@@ -105,7 +103,7 @@ what will they answer?
 8+++.+++ Why we cannot contribute towards the repairing of the steeple-houses,
 or pay clerks`' wages.
 
-Reas.
+Reason.
 Because they are places which were erected for popish and idolatrous worship;
 and where a worship not differing in its nature and
 ground (but only in form) is continued in this day;

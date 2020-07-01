@@ -1,21 +1,27 @@
-== SOME CONSIDERATIONS Proposed to the City of LONDON,
+[#considerations-london, short="Considerations Proposed to the City of London"]
+== Some Considerations
 
-and the nation of ENGLAND, to calm their spirits,
-and prepare them to wait for what the LORD is bringing about,
+[.heading-continuation-blurb]
+Proposed to the City of _London,_ and the nation of _England,_
+to calm their spirits,
+and prepare them to wait for what the _Lord_ is bringing about,
 that they may not run headily into their ruin and destruction; and,
 by this extraordinary heat of their spirits,
 kindle that Fire which will soon devour them:
 with a short exhortation to them relating to their true Settlement,
 and the Removal of that which hinders it.
 
-+++[+++no date]
+[.numbered-group]
+====
 
-1+++.+++ THE Lord God Almighty, who made heaven and earth;
+[.numbered]
+1+++.+++ The Lord God Almighty, who made heaven and earth;
 who upholds them by the word of his power; whose they are, with all their inhabitants;
 he ruleth in the kingdoms of men; establishing or overturning laws, governments,
 and governors at his pleasure. Ps. 75:5.
 etc. Dan. 4:25,35.
 
+[.numbered]
 2+++.+++ That the Lord hath had an especial hand in the shakings and changes of this nation;
 and hath some great things to bring about, which he ordereth all unto.
 And though many of the transactions and passages
@@ -24,6 +30,7 @@ yet the Lord hath been just and good in them all; and can, in his own good time,
 recover the ground which he hath seemed to lose, and advance both the good of his people,
 and of the nation, by all their sufferings, losses, discouragements, and disadvantages.
 
+[.numbered]
 3+++.+++ In this late revolution, there may be more of God than man is aware of.
 God, in his infinite wisdom, might see that this parliament was not fit for work,
 and so might suffer such a thing to fall out between them and the army (heightening
@@ -32,6 +39,7 @@ Yea, and this present change may be but a passage to another,
 unless the Lord find these very faithful and diligent in his service,
 and not minding themselves and their own interests.
 
+[.numbered]
 4+++.+++ If this late revolution was of God, and he saw it good to bring it about,
 for the further carrying on of his work, he will be able to maintain it;
 and those that oppose him therein shall not be able to stand before him.
@@ -40,6 +48,8 @@ but they cannot set up what God throws down,
 nor raise up any thing else in the stead of it, according to their wills;
 but that which he, by his providence and disposing hand, appointed to succeed,
 must have the time of trial which he allotteth it.
+
+====
 
 Therefore let men fear the Lord God, whose eye is upon us, and whose power is over us;
 and let us take heed of being found fighters against him.

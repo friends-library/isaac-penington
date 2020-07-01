@@ -1,16 +1,22 @@
-== SOME CONSIDERATIONS
+[#state-of-things, short="Some Considerations Concerning the State of Things"]
+== Some Considerations
 
+[.heading-continuation-blurb]
 Concerning the State of Things relating to what hath been, now is,
 and shortly is to come to pass; warning all People to look about them,
-and to wait on the LORD for the unerring Light of his Spirit,
+and to wait on the _Lord_ for the unerring Light of his Spirit,
 that they may know the Times and Seasons,
-and the Work which GOD is now about in the World, which is Great and Wonderful;
-and so may not be found Fighters against GOD, his Truths,
+and the Work which _God_ is now about in the World, which is Great and Wonderful;
+and so may not be found Fighters against _God,_ his Truths,
 and the Witnesses of this Age and Generation;
-more particularly Lamenting over and Exhorting ENGLAND.
-With a faithful testimony concerning the QUAKERS.
+more particularly Lamenting over and Exhorting _England._
+With a faithful testimony concerning the _Quakers._
 
-1+++.+++ THAT the spouse of Christ,
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ That the spouse of Christ,
 the true church which God built in the apostles`' days by his Spirit,
 the church against which the gates of hell could not prevail;
 the church which was the temple of the living God, the pillar and ground of truth;
@@ -32,6 +38,7 @@ insomuch as the serpent could find her no more,
 but "`went to make war with the remnant of her seed, which kept the commandments of God,
 and have the testimony of Jesus Christ.`" Rev. 12:17.
 
+[.numbered]
 2+++.+++ That the true church cannot come out of the wilderness,
 till the time of her abode there (the set time appointed by God) be ended,
 nor then either, but by the out-stretched arm of the Lord.
@@ -42,6 +49,7 @@ The Lord must pity the dust of Zion, and, by his everlasting strength and compas
 raise up the tabernacle of David, which is fallen down, or it can be restored no more.
 ver. 16. Rev. 21:3.
 
+[.numbered]
 3+++.+++ That the state of the people of God, all this time of the true church`'s absence,
 hath been a state of captivity.
 The seed hath been in bondage in Egypt, the dark land, in Babylon,
@@ -68,6 +76,7 @@ though they who have drunk of the false woman`'s cup (new-mixed for them,
 and so are enchanted afresh into some new,
 fine-painted bed of her fornication) cannot believe it to be so.
 
+[.numbered]
 4+++.+++ That when God redeems his people out of Babylon,
 he brings them not immediately unto Zion (not immediately into a built city),
 but into the wilderness where the church lies unbuilt,
@@ -90,6 +99,8 @@ And in this state of misery and sore distress,
 the Lord lays the foundation of the new heavens, and of the new earth,
 in the spirits of his people; which, when it is finished,
 then at length he saith to Zion, "`Thou art my people.`" Isa. 51:16.
+
+====
 
 Observe therefore the error of the reformations since the apostasy.
 They have been still building too fast, and not waiting on God to be hewn and squared,

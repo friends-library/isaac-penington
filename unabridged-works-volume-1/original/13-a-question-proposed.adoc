@@ -1,6 +1,8 @@
-== A QUESTION
+[#question-propounded, short="A Question Propounded to Rulers, Teachers, and People"]
+== A Question
 
-Propounded to the Rulers, Teachers, and People of the Nation of ENGLAND,
+[.heading-continuation-blurb]
+Propounded to the Rulers, Teachers, and People of the Nation of _England,_
 for them singly to answer in their hearts and consciences,
 in the fear and dread of the Mighty God of Heaven and Earth;
 whose mighty Arm of Power is stretched out in this Nation,
@@ -20,7 +22,8 @@ for the day of Recompense is come, the day of the eternal vengeance of our God,
 and the day of his everlasting Mercy and plentiful Redemption.
 The Question is as followeth.
 
-+++[+++1659]
+[.section-date]
+1659
 
 When this nation was rent from Popery (in part I mean: for wholly it was never rent,
 but did still retain the same spirit;
@@ -273,9 +276,9 @@ and sought with our hearts to prevent thy drinking of that bitter cup,
 which is to go round the nations.
 And if thine ear could have been opened, thou mightest have been spared.
 
-=== POSTSCRIPT
+=== Postscript
 
-THE gospel is free; the grace and mercy thereof free;
+The gospel is free; the grace and mercy thereof free;
 the spirit a free spirit (freely given of God, and freely ministering for God);
 the church a spiritual building,
 built in the freedom and liberty of the life of the spirit;
@@ -301,7 +304,7 @@ Will not his hand at length be stretched forth against thee?
 Given forth by ISAAC PENINGTON the Younger, in the fear and dread of the Most High,
 the 14th of the 12th Month, 1659.
 
-=== REMARK
+=== Remark
 
 "`The day of the Lord so cometh as a thief in the night.
 For when they shall say, Peace and safety; then sudden destruction cometh upon them,

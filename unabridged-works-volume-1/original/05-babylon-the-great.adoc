@@ -1,21 +1,33 @@
-== BABYLON THE GREAT DESCRIBED
+== Babylon the Great Described / The City of Confusion
 
-THE CITY OF CONFUSION IN EVERY PART WHEREOF ANTICHRIST REIGNS WHICH KNOWETH
-NOT THE ORDER AND UNITY OF THE SPIRIT,
-BUT STRIVETH TO SET UP AN ORDER AND UNIFORMITY ACCORDING TO THE WISDOM OF THE FLESH,
-IN ALL HER TERRITORIES AND DOMINIONS
+[.heading-continuation-blurb]
+In every Part whereof _Antichrist_ reigns;
 
-HER SINS, HER JUDGMENTS WITH SOME PLAIN QUERIES FURTHER TO DISCOVER HER;
-AND SOME CONSIDERATIONS TO HELP OUT OF HER SUBURBS,
-THAT HER INWARD BUILDING MAY LIE THE MORE OPEN TO THE BREATH AND SPIRIT OF THE LORD,
-FROM WHICH IT IS TO RECEIVE ITS CONSUMPTION AND OVERTHROW
+[.heading-continuation-blurb]
+Which knoweth not the Order and Unity of the _Spirit,_
+but striveth to set up an Order and Uniformity according to the Wisdom of the Flesh,
+in all her Territories and Dominions.
 
-ALSO AN EXHORTATION TO THE POWERS OF THE EARTH
+[.heading-continuation-blurb]
+Her _Sins,_ her _Judgments._
 
-BY ISAAC PENINGTON, THE YOUNGER
+[.heading-continuation-blurb]
+With some plain _Queries_ further to discover her;
+and some Considerations to help out of her Suburbs,
+that her inward Building may lie the more open to the Breath and Spirit of the Lord,
+from which it is to receive its Consumption and Overthrow
 
-+++[+++1659]
+[.heading-continuation-blurb]
+Also an _Exhortation_ to the _Powers_ of the _Earth._
 
+[.section-author]
+By _Isaac Penington,_ the Younger
+
+[.section-date]
+1659
+
+[quote.section-epigraph]
+____
 That which is far off, and exceeding deep, who can find out?
 I applied mine heart to know, and to search, and to seek out wisdom, and the reason;
 and to know the wickedness of folly, even of foolishness and madness.
@@ -23,18 +35,30 @@ And I find more bitter than death the woman whose heart is snares and nets,
 her hands bands.
 He that is good before God shall escape from her; but the sinner shall be taken by her.
 Ecc. 7:24-26
+____
 
+[quote.section-epigraph]
+____
 He that is born of the pure, immortal seed, and lives in the anointing,
 escapes the golden cup of fornication, and all the painted beds of fornication,
 and is not defiled with women; Rev. 14:4. but remains chaste to the bridegroom.
+____
 
+[quote.section-epigraph]
+____
 Lo this is the city which is built up of and filled with
 images and likenesses of the ways and truths of God,
 without the life and power.
+____
 
+[quote.section-epigraph]
+____
 On her outside there is the likeness of a church, the likeness of a ministry,
 the likeness of the ordinances, duties, and ways of holiness.
+____
 
+[quote.section-epigraph]
+____
 On her inside there is the likeness of the good knowledge,
 the likeness of repentance and conversion, the likeness of faith,
 the likeness of zeal for God, the likeness of love to God and his saints,
@@ -44,21 +68,31 @@ peace, joy, rest, and satisfaction, etc., but the substance, the truth,
 the virtue of all these is wanting to her;
 and she herself is found persecuting that very thing (where
 it is found in truth) the image whereof she cries up.
+____
 
+[quote.section-epigraph]
+____
 This, this is the woman that hath bewitched the whole earth for these many generations,
 and is still changing her dresses and paints, that she might still bewitch people,
 and sit as a queen reigning over their consciences;
 but blessed be the light which is arisen to discover,
 and the power which is able to overthrow this stately, this lofty, this mighty city,
 and all that take part with it.
+____
 
+[quote.section-epigraph]
+____
 The Lord God Omnipotent reigneth in Zion; and antichrist, with his city Babylon, falleth.
 Sing praises, sing praises, O inhabitant of Zion! to him who subjecteth Babylon,
 with all her glory, under thy feet.
+____
 
+[quote.section-epigraph]
+____
 For he bringeth down them that dwell on high; the lofty city he layeth it low;
 he layeth it low, even to the ground; he bringeth it even to the dust.
 The foot shall tread it down; the feet of the poor, the steps of the needy. Isaiah 26:5-6.
+____
 
 === PREFACE
 
