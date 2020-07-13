@@ -158,18 +158,21 @@ Not to enumerate each particular.
 
 The account he gives of his spiritual travail is as followeth:
 
-"`A true and faithful relation, in brief, concerning myself,
+[.embedded-content-document.testimony]
+--
+
+A true and faithful relation, in brief, concerning myself,
 in reference to my spiritual travails, and the Lord`'s dealings with me.
 I say true and faithful, because it is of the truth, and not given forth in my own will,
 but in the Lord`'s will and requirings of me at this time, for his service.
 The relation is as follows:
 
-"`I have been a man of sorrow and affliction from my childhood,
+I have been a man of sorrow and affliction from my childhood,
 feeling the want of the Lord, and mourning after him: separated by him from the love,
 nature, and spirit of this world, and turned in spirit towards him,
 almost ever since I could remember.
 
-"`In the sense of my lost estate, I sought after the Lord; I read the Scripture;
+In the sense of my lost estate, I sought after the Lord; I read the Scripture;
 I watched over mine own heart; I cried unto the Lord for what I felt the want of;
 I blessed his name in what he mercifully did for me, and bestowed on me, etc.
 Whatever I read in the Scriptures as the way of God to my understanding,
@@ -180,7 +183,7 @@ And I cannot but say that the Lord was good unto me, did visit me, did teach me,
 did help me, did testify his acceptance of me many times,
 to the refreshing and joy of my heart before him.
 
-"`But my soul was not satisfied with what I met with, nor indeed could be,
+But my soul was not satisfied with what I met with, nor indeed could be,
 there being further quickenings and pressings in my spirit, after a more full, certain,
 and satisfactory knowledge; even after the sense, sight, and enjoyment of God,
 as was testified in the Scriptures to have been felt and enjoyed in the former times:
@@ -193,7 +196,7 @@ which we had hardly so much as the literal knowledge or apprehension what they w
 So that I saw the whole course of religion among us was, for the most part, but a talk,
 to what they felt, enjoyed, possessed, and lived in.
 
-"`This sense made me sick at heart indeed, and set me upon deep crying to God,
+This sense made me sick at heart indeed, and set me upon deep crying to God,
 close searching the Scriptures, and waiting on God,
 that I might receive the pure sense and understanding of them, from and in the light,
 and by the help of his Spirit.
@@ -221,7 +224,7 @@ save in one people, who had a touch of truth;
 but I never expressed so much to any of them,
 nor indeed felt them at all able to reach my condition.
 
-"`At last, after all my distresses, wanderings, and sore travails,
+At last, after all my distresses, wanderings, and sore travails,
 I met with some of the writings of this people called QUAKERS,
 which I cast a slight eye upon and disdained, as falling very short of that wisdom,
 light, life, and power, which I had been longing for, and searching after.
@@ -244,7 +247,7 @@ which caused the love in me always to continue, yea, sometimes to increase towar
 but daily my understanding got more and more over them,
 and therein I daily more and more despised them.
 
-"`After a long time I was invited to hear one of them (as I had been often,
+After a long time I was invited to hear one of them (as I had been often,
 they in tender love pitying me, and feeling my want of that which they possessed);
 and there was an answer in my heart, and I went with fear and trembling,
 with desires to the Most High, who was over all, and knew all,
@@ -257,16 +260,16 @@ opening my state as in the presence of the Lord.
 Yea, I did not only feel words and demonstrations from without,
 but I felt the dead quickened, the seed raised;
 insomuch that my heart (in the certainty of light, and clearness of true sense) said,
-This is he, there is no other:
+_This is he, there is no other:
 this is he whom I have waited for and sought after from my childhood;
 who was always near me, and had often begotten life in my heart;
-but I knew him not distinctly, nor how to receive him, or dwell with him.
+but I knew him not distinctly, nor how to receive him, or dwell with him._
 And then in this sense (in the melting and breakings
 of my spirit) was I given up to the Lord,
 to become his, both in waiting for the further revealing of his seed in me,
 and to serve him in the life and power of his seed.
 
-"`Now what I met with after this, in my travails, in my waitings,
+Now what I met with after this, in my travails, in my waitings,
 in my spiritual exercises, is not to be uttered: only in general I may say this,
 I met with the very strength of hell.
 The cruel oppressor roared upon me, and made me feel the bitterness of his captivity,
@@ -284,8 +287,8 @@ before whom my heart and ways are; who preserved me in love to them,
 in the midst of all I suffered from them, and doth still so preserve me;
 blessed be his pure and holy name.
 
-"`But some may desire to know what I have at last met with?
-I answer, I have met with the Seed.
+But some may desire to know what I have at last met with?
+I answer, _I have met with the Seed._
 Understand that word, and thou wilt be satisfied, and inquire no further.
 I have met with my God; I have met with my Saviour;
 and he hath not been present with me without his salvation;
@@ -315,7 +318,7 @@ And also I know very well and distinctly in spirit where the doubts and disputes
 and where the certainty and full assurance are,
 and in the tender mercy of the Lord am preserved out of the one, and in the other.
 
-"`Now the Lord knows, these things I do not utter in a boasting way;
+Now the Lord knows, these things I do not utter in a boasting way;
 but would rather be speaking of my nothingness, my emptiness, my weakness,
 my manifold infirmities, which I feel more than ever.
 The Lord hath broken the man`'s part in me, and I am a worm, and no man before him.
@@ -328,11 +331,15 @@ and my weakness which I feel in myself, is not my loss, but advantage before him
 -- And these things I write, as having no end at all therein of my own,
 but felt it this morning required of me;
 and so in submission and subjection to my God have I given up to do it,
-leaving the success and service of it with him.`"
+leaving the success and service of it with him.
 
+[.signed-section-signature]
 I.P.
 
+[.signed-section-context-close]
 Aylesbury, 15th of 3d month, 1667
+
+--
 
 Neither to him was it given only to believe, but to suffer also for the sake of Christ.
 His imprisonments were many, and some of them long,

@@ -20,7 +20,7 @@ By _Isaac Penington,_ the Younger
 
 === The Preface
 
-MY soul hath still in remembrance the grievous shakings
+My soul hath still in remembrance the grievous shakings
 and rendings that have been in this nation,
 which entered deep into the bowels of it, and made every heart ache,
 and every mind astonished.
@@ -34,7 +34,8 @@ and wondered what would become of all.
 The former religion was almost buried in confusion, and in danger of being utterly lost.
 A long-spun, corroding war were we entangled in,
 which administered no hopes nor likelihood of peace.
--- The hand of the Lord reached through all these dominions; magistracy, ministry,
+The hand of the Lord reached through all these dominions;
+magistracy, ministry,
 the common people, the people of God (both such as were accounted so,
 and such as were indeed so), the line of confusion was stretched over them all;
 they did all reel and totter like a drunken man,
@@ -157,15 +158,16 @@ shall in the end lose all, and yet not gain this either;
 therefore be no longer wise in the eye of flesh, or according to what man calleth wisdom;
 but be TRULY wise.
 
-=== SOME POSITIONS Concerning the Apostasy from the Christian Spirit and Life
+=== Some Positions Concerning the Apostasy from the Christian Spirit and Life
 
-==== POSITION I
+==== Position I
 
+[.section-summary-preface]
 That there hath been a great apostasy from the Spirit of Christ,
 and from the true light and life of Christianity:
 which apostasy began in the apostles`' days, and ripened apace afterwards.
 
-THAT the apostles and Christians in their days had the true spirit, the true light,
+That the apostles and Christians in their days had the true spirit, the true light,
 and true life, I think will not be denied.
 "`We know that we are of God, and that the Son of God is come,
 and hath given us an understanding that we may know him that is true;
@@ -498,8 +500,9 @@ And as the light breaks forth, and their eyes come to be opened,
 they will see that they have been and are haters of God, and of his life and spirit;
 but lovers of the world, and of such a religion as suits the worldly spirit.
 
-==== POSITION II
+==== Position II
 
+[.section-summary-preface]
 That in this great apostasy, the true state of Christianity hath been lost.
 
 This must needs be; for if there was an apostasy from the thing,
@@ -511,8 +514,15 @@ Now it may be instanced in every particular how the state of Christianity was lo
 but that would be too vast and tedious: it may suffice, therefore,
 to instance in some considerable ones, which may lead into the discovery of the rest.
 
-1+++.+++ The true rule of Christianity, or the rule of a Christian, which is to direct, guide,
-and order him in his whole course, was apostatized from, and lost.
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ _The true rule of Christianity, or the rule of a Christian, which is to direct, guide,
+and order him in his whole course, was apostatized from, and lost._
+
+[.small-break]
+'''
 
 What is a Christian`'s rule, whereby he is to steer and order his course?
 
@@ -613,6 +623,7 @@ Christ lives in him by his spirit, and he in Christ by the same spirit: there he
 and hath fellowship with the Father and the Son, in the light wherein they live,
 and not by any outward rule. 1 John 1:6-7.
 
+[.offset]
 But what is the rule now in the apostasy?
 
 Among the Papists, the rule is the Scripture,
@@ -630,13 +641,15 @@ And this is a grievous apostasy, and the root, spring, and foundation of all the
 for he that misseth in his beginning, he that begins his religion without the true rule,
 how can he proceed aright in any thing afterwards?
 
-Objection.
+[.discourse-part]
+_Objection._
 But are not the Scriptures the word of God?
 -- And is not the word of God to be a Christian`'s rule?
 If every one should be left to his own spirit,
 what confusion and uncertainty would this produce!
 
-Answer.
+[.discourse-part]
+_Answer._
 The Scriptures are not that living Word,
 which is appointed by God to be the rule of a Christian;
 but they contain words spoken by the spirit of God, testifying of that Word,
@@ -842,7 +855,11 @@ and then it shall be no longer abused and wrested by man`'s earthly and unlearne
 but, in the hands of the Spirit, come to its true use and service to the seed,
 and to the world.
 
-2+++.+++ The true worship was lost.
+[.numbered]
+2+++.+++ _The true worship was lost._
+
+[.small-break]
+'''
 
 The true worship of God in the gospel is in the Spirit.
 "`The hour cometh, and now is,
@@ -927,6 +944,7 @@ and the heavy yoke of his own laboring after life taken off from his shoulders.
 Now here is the truth, here is the life, here is the sabbath,
 here is the worship of the soul, that is led into the truth, and preserved in the truth.
 
+[.offset]
 But what is the worship now in the apostasy?
 
 Among the Papists, a very gross worship;
@@ -952,7 +970,11 @@ They also observe days and times, and perishing ordinances,
 and are not come out of the flesh, into that Spirit where the worship is to be known,
 and to be in.
 
-3+++.+++ The faith, the true faith, was lost.
+[.numbered]
+3+++.+++ _The faith, the true faith, was lost._
+
+[.small-break]
+'''
 
 The faith which gives victory over the world; the faith which feeds the life of the just,
 and slays the unjust; the faith which is pure,
@@ -996,7 +1018,11 @@ but are in opinions, ways, and practices suitable to the earthly spirit;
 which may easily be shaken, and must be shaken down to the ground,
 if ever they know the building of God, and the true faith.
 
-4+++.+++ The love, the true love, was lost.
+[.numbered]
+4+++.+++ _The love, the true love, was lost._
+
+[.small-break]
+'''
 
 The innocent love, which thinks no ill, nor wishes no ill,
 much less can do any ill to any; but suffereth long, and is kind, meek, humble,
@@ -1057,7 +1083,11 @@ causing risings in the heart against them at least, if it proceed not further.
 The true love grows from true union and fellowship in the light; where that is not known,
 there cannot be true love in the Spirit, but a feigned love in the flesh.
 
-5+++.+++ The true hope, joy, and peace are lost.
+[.numbered]
+5+++.+++ _The true hope, joy, and peace are lost._
+
+[.small-break]
+'''
 
 The true ground of hope is Christ in the heart,
 and the true hope is that hope which ariseth from this ground,
@@ -1097,7 +1127,11 @@ while that of God which is in them, witnesseth against them, and checks them,
 and wars with them; and they are not one with it, and cannot be,
 in that nature and understanding wherein their life lies, to which belongs no peace.
 
-6+++.+++ The true repentance, conversion, and regeneration have been lost.
+[.numbered]
+6+++.+++ _The true repentance, conversion, and regeneration have been lost._
+
+[.small-break]
+'''
 
 The true repentance is from dead works,
 and from the dead principle whence all the dead works proceed:
@@ -1128,7 +1162,11 @@ and consists, at best, but in a such a conformity to the letter,
 as the old nature may imitate and attain; but the immortal seed is not sprung up in them,
 nor they dead to the mortal, nor alive to the immortal.
 
-7+++.+++ The true wisdom, righteousness, sanctification, and redemption are lost.
+[.numbered]
+7+++.+++ _The true wisdom, righteousness, sanctification, and redemption are lost._
+
+[.small-break]
+'''
 
 The true wisdom stands in the fear of God, and departing from evil:
 this those that are taught of God learn, and thereby are made wise unto salvation.
@@ -1267,7 +1305,11 @@ and his sheep hear his voice (there are many faithful witnesses thereof);
 and he that will not hear his voice, must be cut off; there is no avoiding of it:
 for the two-edged sword is in his hand, and he will cut down the transgressor.
 
-8+++.+++ The church, the true church, was lost.
+[.numbered]
+8+++.+++ _The church, the true church, was lost._
+
+[.small-break]
+'''
 
 The true church was a company gathered out of the world into God, begotten of,
 and gathered into his life by the living Word,
@@ -1325,7 +1367,11 @@ not a church in God, and by the gathering of his Spirit; but of their own gather
 after a form,
 according as they have imagined from their reading and studying of the Scriptures.
 
-9+++.+++ (Which may be the last instance.) The ministry, the true ministry, hath been lost.
+[.numbered]
+9+++.+++ _(Which may be the last instance.) The ministry, the true ministry, hath been lost._
+
+[.small-break]
+'''
 
 The true ministry was a ministry made and appointed by the Spirit,
 by the gift of the Spirit bestowed on them, and by the Spirit sending of them,
@@ -1372,7 +1418,8 @@ which man cannot possibly do till he meet with the Spirit of God to lead out of 
 So that that ministry also is but an invention of man made by man,
 and comes not from the Spirit, nor is able to minister spirit to the spirit.
 
-Objection.
+[.discourse-part]
+_Objection._
 But hath there been no true religion since the days of the apostles?
 No true rule, no true worship, no true faith, no true love, no true hope, joy,
 or peace! no true repentance, conversion, and regeneration! no true wisdom,
@@ -1387,7 +1434,8 @@ yet are not many of them zealous and conscientious preachers of the word at this
 By such reasonings as these,
 the wisdom of man much strengthens and hardens itself against the truth.
 
-Answer.
+[.discourse-part]
+_Answer._
 The rule in nations, the worship in nations, the faith, love, hope, joy, peace,
 repentance, conversion, regeneration, etc.,
 which have been cried up in nations for the truth, the churches in nations,
@@ -1510,12 +1558,15 @@ and this may go for life with you now: but in the presence of the truth,
 where the eye is open, it vanisheth; yea, the Spirit of the Lord hath so blown upon it,
 that it is even withered in the sight of a more inferior eye in many people.
 
-==== POSITION III
+====
 
+==== Position III
+
+[.section-summary-preface]
 That there is to be a recovery, a true recovery, out of this state of apostasy,
 into the true state of Christianity again.
 
-GOD will not let the desolations of Zion remain forever;
+God will not let the desolations of Zion remain forever;
 but he will again "`build up Zion, and appear in his glory.`"
 He will set his "`king upon his holy hill of Zion.
 The new Jerusalem shall again come down from heaven.
@@ -1595,12 +1646,13 @@ so the severity against those who now resist will appear more also;
 and death shall have its sting, which they that will love darkness, and hate the light,
 shall feel.
 
-==== POSITION IV
+==== Position IV
 
+[.section-summary-preface]
 That they that are in those things which have been set up in the times of the apostasy,
 are not yet come to the recovery from the apostasy.
 
-THEY that are in the doctrines and bodies of divinity which have been formed since,
+They that are in the doctrines and bodies of divinity which have been formed since,
 are not in the true doctrine.
 
 They that are in the rules of life which wise church-men
@@ -1715,11 +1767,13 @@ and other inventions of theirs (in imitation of the Jews) idolatrous?
 And are not the inventions of the heathenish spirit, or antichristian nature in man,
 are not they also idolatrous?
 
-Objection.
+[.discourse-part]
+_Objection._
 But is praying idolatry, preaching idolatry, singing idolatry,
 baptizing of infants idolatry, breaking of bread idolatry?
 
-Answer.
+[.discourse-part]
+_Answer._
 The praying which God appointed is not idolatry: praying in the Spirit of God,
 when he moves, and according to the will of God, which is only known in the Spirit,
 is not idolatry; but thy praying in thine own spirit, and at thine own times,
@@ -1733,13 +1787,15 @@ but that spirit which helped thee to invent and set up the idol.
 The same might be said concerning preaching, singing, washing with water,
 breaking of bread, and whatever else is practised in religion upon these terms.
 
-Objection.
+[.discourse-part]
+_Objection._
 But doth not the scripture mention these things?
 And did not the saints practise these things?
 Surely they were not idolaters!
 Can I be an idolater in practising that which they practised?
 
-Answer.
+[.discourse-part]
+_Answer._
 Nay, thou art mistaken; they are not the things which they practised.
 The stress of their religion lay in the life of it,
 in the presence of the Spirit of God in it; it was his breath made it the truth.
@@ -1803,12 +1859,13 @@ without which no man shall see him.
 For the wicked shall be turned into hell, and all the nations that forget God;
 and ye have forgotten him days without number.
 
-==== POSITION V
+==== Position V
 
+[.section-summary-preface]
 That the only way of recovery out of the apostasy is by returning to,
 and keeping in, that Spirit from which the apostasy was.
 
-THE apostasy came by leaving the Spirit of God, and running after another spirit;
+The apostasy came by leaving the Spirit of God, and running after another spirit;
 and the recovery must be by leaving that other spirit,
 and returning to the Spirit of God again.
 How did Christians formerly begin their religion?
@@ -1908,9 +1965,13 @@ popery and episcopacy was innocent before the Lord,
 though accused by them as guilty of error in itself,
 and of disturbance to the public peace, as this is now by thee.
 
-=== SOME PRINCIPLES GUIDING OUT OF THE APOSTASY, TO THE CHRISTIAN SPIRIT AND LIFE AGAIN
+=== Some Principles Guiding out of the Apostasy, to the Christian Spirit and Life Again
 
-1+++.+++ That there is no salvation but by the true knowledge of Christ.
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ _That there is no salvation but by the true knowledge of Christ._
 The Jews had received the ordinances of God, and knew of the Messiah to come,
 and believed it, and were very zealous in their worship, in observation of circumcision,
 the passover, new moons, and sabbaths, etc., ("`Wherewith shall I come before the Lord,
@@ -1941,8 +2002,9 @@ in him answerable to such knowledge) will not save:
 but a man must know him in that Spirit, life, and power wherein he lived,
 if he groundedly hope to be saved by him. 2 Cor. 5:16-17.
 
-2+++.+++ That Christ saves by the new covenant:
-not by any thing got into the mind by the oldness of the letter; but by a life begotten,
+[.numbered]
+2+++.+++ _That Christ saves by the new covenant:_
+not by anything got into the mind by the oldness of the letter; but by a life begotten,
 which is new.
 There are two covenants made mention of in scripture, one whereof is called the old,
 the other the new.
@@ -1955,7 +2017,8 @@ Man, by his disunion and distance from God, perisheth: by being brought again to
 he lives again; which thing Christ effecteth by the new covenant.
 So then he that is not led by Christ into that covenant, is not in the state of salvation.
 
-3+++.+++ That the new covenant is written in the heart;
+[.numbered]
+3+++.+++ _That the new covenant is written in the heart;_
 or there is no other way of coming into the new covenant,
 whereof Christ is High-priest and Mediator,
 but by having the laws of God written in the heart.
@@ -1993,7 +2056,8 @@ that covenant whereby Christ the Mediator saves.
 Mark: there is not the least in this covenant but hath the law so written in his heart,
 that he need not seek out for knowledge.
 
-4+++.+++ That the Spirit of God alone can write the covenant in the heart;
+[.numbered]
+4+++.+++ _That the Spirit of God alone can write the covenant in the heart;_
 or that Christ writes the covenant by his Spirit, -- Man, by all his wisdom,
 cannot attain it.
 Man is driven out from God, and cannot find the way back again to him,
@@ -2018,8 +2082,9 @@ and union with him.
 This is part of the covenant,
 and indeed that part whereby all the rest is wrought.
 
-5+++.+++ Therefore, the first proper step in religion,
-is to know how to meet with God`'s Spirit.
+[.numbered]
+5+++.+++ _Therefore, the first proper step in religion,
+is to know how to meet with God`'s Spirit._
 There is no progress, no true progress, to be made in the true religion,
 till a man comes into the covenant;
 and there is no coming into the covenant but by the Spirit:
@@ -2045,7 +2110,8 @@ So then, if nothing in religion can be done (with acceptance to God) without the
 then the Spirit is the first thing to be looked after,
 by him who would be truly and well-groundedly religious.
 
-6+++.+++ The first way of meeting with the Spirit of God, is as a convincer of sin.
+[.numbered]
+6+++.+++ _The first way of meeting with the Spirit of God, is as a convincer of sin._
 Here is the true entrance; this is the key that opens into life eternal;
 he that can receive it, let him.
 It is not by soaring aloft into high imaginations and forms of worship;
@@ -2065,8 +2131,8 @@ So that the great work for man,
 while he lies in the darkness (for when he is translated into light he will be
 easy) is to distinguish the movings and stirrings of the Spirit of God.
 And this is the best way for man in this state to know them by:
-that which discovers that which is evil, THAT is good.
-That which discovers that which is spiritually evil, THAT must needs be spiritually good;
+that which discovers that which is evil, _that_ is good.
+That which discovers that which is spiritually evil, _that_ must needs be spiritually good;
 for evil is darkness, and cannot make itself manifest.
 That which discovers that which is undoubtedly pure, and inclines to it,
 THAT must needs be of God.
@@ -2074,8 +2140,9 @@ Now to know this, and be joined unto it, is a joining of the creature unto God,
 by somewhat of him that comes from his Spirit,
 and so is a true beginning of life eternal.
 
-7+++.+++ That whereby the Spirit of God convinceth of sin,
-is his light shining in the conscience.
+[.numbered]
+7+++.+++ _That whereby the Spirit of God convinceth of sin,
+is his light shining in the conscience._
 Fallen man is darkness; the light shines in the darkness, and shows man the evil,
 which otherwise would lie covered in him.
 Man fell from God, lost the image of God, and became wholly darkness;
@@ -2105,7 +2172,8 @@ into a living principle, and keep in that principle; and then he shall know life
 and the true food of that life, and the true worship and service from that life,
 and the reward belonging to all.
 
-8+++.+++ That this light convincing of sin, shineth in every conscience.
+[.numbered]
+8+++.+++ _That this light convincing of sin, shineth in every conscience._
 "`He hath showed thee, O man,
 what is good,`" Micah 6:8. "`The life,`" which was in Christ, was "`the light of men.`" John 1:4.
 Christ is "`the light of the world,`" John 8:12. God,
@@ -2129,8 +2197,9 @@ He hearkens to the reasonings of his mind against the light,
 and so smothers and chokes it; but does not turn to the light,
 to have all the reasonings of his mind subdued by it, and subjected to it.
 
-9+++.+++ The true way to life eternal, is by believing in the light of the Spirit,
-which shineth in the conscience.
+[.numbered]
+9+++.+++ _The true way to life eternal, is by believing in the light of the Spirit,
+which shineth in the conscience._
 Man is in darkness, which keeps him in death;
 and there is no way to come out of the death, but by coming out of the darkness;
 and there is no way to come out of the darkness,
@@ -2163,8 +2232,9 @@ Then the true peace, which passeth understanding, fills and refreshes the heart;
 whereas the peace which was in the soul before, was but the peace of the enemy,
 and will abide no longer than the enemy is suffered to keep possession quietly.
 
-10+++.+++ That believing in the light of the Spirit, which shines in the conscience,
-unites the soul to God, and opens the springs of life to it.
+[.numbered]
+10+++.+++ _That believing in the light of the Spirit, which shines in the conscience,
+unites the soul to God, and opens the springs of life to it._
 Belief in darkness (which is unbelief towards God) disunited the soul,
 and closed up the springs of life from it.
 Belief in the light, which is sent to lead from the darkness, unites again,
@@ -2190,6 +2260,8 @@ but when the witness awakes, and the light of the day shines, the soul, which is
 will find itself in the hands of the enemy, in the bonds of sin,
 and feel that it never knew that power that could redeem it;
 but the subtle serpent deceived it with a name, instead of the thing.
+
+====
 
 This is the true way, the narrow way (I can, in the presence of the living God,
 set my seal to the truth of it) which it hath pleased God to discover,
@@ -2382,10 +2454,12 @@ yet because underneath all this there is a simplicity in some,
 which is betrayed; for the relief of that,
 somewhat further may be spoken in answer to these things.
 
-Objection.
+[.discourse-part]
+_Objection._
 1+++.+++ To the first objection, that this is a new way, or new light, I answer:
 
-Answer.
+[.discourse-part]
+_Answer._
 It is new indeed to them who have lain long in the apostasy, and set up another light;
 but it is not new in itself, but the same that was in the beginning; yea,
 and before the beginning also.
@@ -2422,10 +2496,12 @@ So that this light is not new in itself, but only new to the old spirit,
 which hath long lain hid in the region of darkness and death,
 and hath not known the light of life.
 
-Objection.
+[.discourse-part]
+_Objection._
 2+++.+++ That this is a natural light, or the light of old Adam`'s nature.
 
-Answer.
+[.discourse-part]
+_Answer._
 It is in one sense a natural light; it is of the nature of him from whom it comes;
 of the nature of God, and of his Christ, whom it appears for:
 but it is not of the nature of corrupt Adam, whom it always reproved,
@@ -2455,10 +2531,12 @@ hath raised up a light by his study and invention, in the strength of the fallen
 and now setting up this for light, he must needs call the true light darkness,
 as the Pharisees did Christ.
 
-Objection.
+[.discourse-part]
+_Objection._
 3+++.+++ That it makes the Scriptures void and useless.
 
-Answer.
+[.discourse-part]
+_Answer._
 It came from the Spirit that gave forth the Scriptures;
 it is of the same nature with the light that shone in them that gave forth scriptures;
 it speaks the same thing with scriptures, it leads to the same thing,
@@ -2516,10 +2594,12 @@ But he that is in the deceit, in the imagination, out of the true knowledge,
 he cannot know the deceit of his own spirit, or the spirits of deceivers;
 but calls the truth deceit, and the deceit truth.
 
-Objection.
+[.discourse-part]
+_Objection._
 4+++.+++ That this light teaches things contrary to the Scriptures.
 
-Answer.
+[.discourse-part]
+_Answer._
 That light which comes from the same Spirit which the Scriptures came from,
 cannot teach things contrary to the Scriptures.
 But man, who hath taken the tools of his understanding,
@@ -2535,7 +2615,8 @@ and with the Scriptures, and with one another,
 in that light which the wisdom of man cannot but despise,
 as hath not been in any age since the apostasy until now.
 
-Objection.
+[.discourse-part]
+_Objection._
 5+++.+++ That this sets up free-will.
 When persons are exhorted to embrace the light, to let in the light,
 and told that condemnation comes for not believing or receiving the light,
@@ -2543,7 +2624,8 @@ then they cry out, Can man believe?
 Can man receive the light?
 Hath man free-will?
 
-Answer.
+[.discourse-part]
+_Answer._
 The will of man is bound; but there is liberty, power,
 and freedom in the light which visits man, and comes to unbind and save him.
 And man feels this power, tastes of this liberty,
@@ -2619,11 +2701,13 @@ and wait for some great power and appearance of God,
 the soul is held in the bonds of iniquity, and kept from the life,
 as strongly as by the grossest form.
 
-Objection.
+[.discourse-part]
+_Objection._
 6+++.+++ That this sets up a covenant of works; for a man is bid to do, bid to obey the light;
 and when he does, when he obeys, he has peace; and when he obeys not, he has not peace.
 
-Answer.
+[.discourse-part]
+_Answer._
 This sets not up the works of the law;
 but it leads through the works of the law to the righteousness of faith.
 "`When the commandment came, sin revived, and I died.`"
@@ -2665,11 +2749,13 @@ which he that is out of the light cannot receive, but stumbles at: and the wiser
 in his own devised way and knowledge of things, the more stumbling-blocks he has,
 and the more he stumbles.
 
-Objection 7. and last.
+[.discourse-part]
+_Objection 7._ and last.
 That it breaks down relations, laws, governments;
 takes away due respect from magistracy and superiors, and turns the world upside-down.
 
-Answer.
+[.discourse-part]
+_Answer._
 Iniquity hath reigned, unrighteousness hath wound itself into,
 and twisted about everything.
 And now the truth comes to discover and purge out the iniquity; the strong man,
@@ -2859,7 +2945,11 @@ and find any desire kindled in you after the living God,
 and a hungering and thirsting after his righteousness, take notice of these three things,
 which I have upon my heart to say to you, by way of advice:
 
-1+++.+++ Know and take up thy cross, the cross of Christ, the daily cross of Christ.
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ _Know and take up thy cross,_ the cross of Christ, the daily cross of Christ.
 The cross of Christ is that which crosseth the natural;
 and this is the power of God to deliver from the natural.
 How should the earthly understanding, the earthly will, the earthly affections,
@@ -2890,7 +2980,8 @@ in everything, till the earthly be slain;
 till the wisdom and strength of the flesh be wholly subdued,
 and then the wisdom and power of God will become natural.
 
-2+++.+++ Keep to the sense, keep to the feeling; beware of the understanding,
+[.numbered]
+2+++.+++ _Keep to the sense,_ keep to the feeling; beware of the understanding,
 beware of the imagining, conceiving mind.
 These cannot be for God, nor bring forth any thing for God, until they be new cast,
 and new moulded.
@@ -2941,7 +3032,8 @@ and happy are they who are shaken by his hand in all that is outward,
 and established in the inward life, power, and rest, which remaineth forever,
 and cannot be shaken.
 
-3+++.+++ Wait patiently the Lord`'s leisure.
+[.numbered]
+3+++.+++ _Wait patiently the Lord`'s leisure._
 Be not hasty after life and salvation in the will of the flesh;
 but leave the Lord to choose his own season for the
 showering down of his mercy and blessing.
@@ -3009,8 +3101,11 @@ contending and disputing about them, but can never know,
 while they are from the thing within: for that mind is not the heir,
 nor must it inherit the kingdom of God.
 
-==== POSTSCRIPT
+====
 
+=== Postscript
+
+[.section-summary-preface]
 To those who have had a seriousness and depth in their religion,
 who could not sit down in empty forms and shadows of things,
 but have been pressing after the living substance; and missing of that,
@@ -3020,7 +3115,7 @@ the old nature; and have taken up a pitiful rest and centre in the earth,
 having let fall the pursuit of their spirits after
 the true center of rest in the life: a word to such from the love in the life.
 
-THERE was a spirit, soul, or image of God brought forth, and standing in his life,
+There was a spirit, soul, or image of God brought forth, and standing in his life,
 before the fall.
 
 This soul was brought into death, under the burden and bondage of corruption,
@@ -3118,9 +3213,9 @@ and daily weakened in that part which lived before.
 These are true words, from an honest heart,
 for the relief of those who may have been entangled in the same snare.
 
-=== A TESTIMONY of great concernment to all those that call themselves Christians, but have not known the true church, of which alone the true Christian can be born.
+=== A Testimony of great concernment to all those that call themselves Christians, but have not known the true church, of which alone the true Christian can be born.
 
-THERE hath been a great war between the woman and her seed,
+There hath been a great war between the woman and her seed,
 and the harlot and her seed, from the beginning to this day;
 and they have each had their prevailings in the war.
 The woman and her seed have been made strong in God,
@@ -3200,9 +3295,9 @@ which was not to be known or tasted of in any of the ordinances of the apostasy.
 Ye will all one day acknowledge this to be a true testimony,
 held forth to you in true love: it were good for you that ye could see it now.
 
-==== A brief account of what we are, and what our work is in the world
+=== A brief account of what we are, and what our work is in the world
 
-WE are a people whom God hath converted to himself;
+We are a people whom God hath converted to himself;
 a people in whom God hath raised up the seed of his own life,
 and caused it to reign over the earthly part in ourselves;
 a people whom God hath divorced from the spirit of whoredom,
@@ -3341,9 +3436,9 @@ Oh that God would open your eyes, that ye might see whom ye have opposed,
 and against whom ye have hardened and strengthened yourselves, that ye might bow to him,
 and receive life from him, and not perish in your gainsaying and opposition.
 
-==== An Addition concerning the Doctrine of Justification
+=== An Addition concerning the Doctrine of Justification
 
-BECAUSE the doctrine of justification is of great concernment,
+Because the doctrine of justification is of great concernment,
 and the enemy of mankind hath exceedingly endeavored to corrupt it,
 and in the apostasy hath greatly prevailed;
 and the darkness which springs up in the fleshly wisdom
@@ -3359,6 +3454,10 @@ may dash men`'s present apprehensions about it,
 and bring them to wait for the opening of those scriptures to them,
 in another light than they have yet known.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ He affirms that justification is not "`by the deeds of the law.`"
 Rom.3:20. If a man could say with the young man,
 All these things have I done from my youth; or as Paul,
@@ -3372,6 +3471,7 @@ The knowledge of sin may put a man upon seeking out for justification;
 but it cannot justify him, but rather condemn him;
 but that which delivers him from the sin, which the law makes known, that justifies him.
 
+[.numbered]
 2+++.+++ He affirms that "`the righteousness of God`" (which is the justification)
 "`is manifested without the law.`" ver. 21. The law makes sin known,
 and shows the sinner the need of justification;
@@ -3386,6 +3486,7 @@ but the justification, Christ,
 removes the nature that pertains to those things the law commands; so that justification,
 the law, ends in Christ.
 
+[.numbered]
 3+++.+++ That this righteousness or justification is "`witnessed
 by the law and the prophets.`" ver. 21. The law,
 though it is not the justification, nor can the justification be by obedience to it,
@@ -3393,6 +3494,7 @@ or by the deeds of it; yet it gives testimony to the justification:
 for the substance of what the law and all the prophets witness is,
 that nothing can justify but the righteousness of God.
 
+[.numbered]
 4+++.+++ That this righteousness or justification is "`by the faith of
 Christ,`" ver. 22. by believing or entering into that which justifies.
 As condemnation was by unbelief, by joining unto, and entering into,
@@ -3400,12 +3502,14 @@ the spirit of enmity; so justification is by joining unto, and entering into,
 the Spirit of love, by true union with Christ in the Spirit;
 which union is by the faith which comes from Christ.
 
+[.numbered]
 5+++.+++ That this justification or righteousness is "`upon all
 that believe.`" ver. 22. He that receiveth the faith,
 believeth; and he that believeth hath righteousness;
 and he that believeth not cannot have the righteousness;
 but the condemnation and wrath abide on him.
 
+[.numbered]
 6+++.+++ That this justification is "`freely by the grace.`" ver. 24. There
 is no way to come to this righteousness but by the gift of grace;
 which gift is given freely.
@@ -3414,6 +3518,7 @@ and the gift which comes from the grace, and receive it; and receiving it,
 he cannot miss of justification; and not receiving it (but either being ignorant of it,
 or resisting of it), he cannot possibly be justified.
 
+[.numbered]
 7+++.+++ That this justification is by the "`redemption
 of Christ.`" ver. 24. Christ is the redeemer;
 the redemption (wherein is the justification) is in him,
@@ -3431,6 +3536,7 @@ or that he did it for me, but by receiving the virtue of it into me,
 and feeling the virtue of it in me.
 This is that which saves me, and makes that which was done without to be mine.
 
+[.numbered]
 8+++.+++ That Christ is the "`propitiation,`" ver. 25. or that which
 pacifies and makes way for sinners to God;
 so that he that truly receiveth Christ hath the atonement;
@@ -3438,6 +3544,7 @@ but he that hath not received him, only dreameth of peace with God;
 but still remaineth in the enmity, and is liable to the wrath,
 having the bond of iniquity over him, and is in the night.
 
+[.numbered]
 9+++.+++ That this propitiation is by "`faith in the blood.`" ver. 25.
 There is nothing pacifies God but the blood of his Son;
 and there is nothing feels the blood but the faith, and that which is in the faith.
@@ -3447,6 +3554,7 @@ but he never comes to feel the blood, nor the life which is in the blood,
 till he receive the faith, and then he knoweth the true propitiation and the true peace,
 which before he did but talk of.
 
+[.numbered]
 10+++.+++ That this faith is "`the righteousness;`" faith is the gift of God,
 and this gift justifies; this gift is the justification;
 this is that which God "`imputeth for righteousness.`" chap. 4. ver. 3,5.
@@ -3460,6 +3568,7 @@ all thy knowledge in the letter will be but dross with thee.
 "`Ye are come to the blood of sprinkling.`" Oh, do not rest in an outward way of believing,
 an outward thing; but seek out the way of coming to the blood of sprinkling.
 
+[.numbered]
 11+++.+++ That the justification is of the "`ungodly.`" ver. 5. He whom God maketh righteous,
 was ungodly before he made him righteous.
 There was nothing but unrighteousness could be imputed to him in transgression,
@@ -3469,6 +3578,7 @@ and man only as he is taken into his righteousness;
 which is done not by a believing from the bare letter,
 but by a receiving of faith in the life.
 
+[.numbered]
 12+++.+++ That the justification of the ungodly is by believing in him that justifieth.
 ver. 5. The gift of faith goes forth from him, and is received into the heart.
 Now both by the gift itself, and by the exercise of it, is the justification;
@@ -3502,6 +3612,7 @@ but such children of Abraham as the Jews were (if so much);
 and cannot inherit that promise which belongs to the spiritual seed,
 while they live in that state.
 
+[.numbered]
 13+++.+++ That where the faith which is imputed unto righteousness is found,
 there "`sin is not imputed, but covered;`" which is a blessed state.
 ver. 6,7,8. Sin cuts off from God, who is life and blessedness.
@@ -3545,3 +3656,5 @@ or the prince of light, in the living power;
 and your reward shall be according to your choice and work, either death in the death,
 if ye choose and join to that; or life in the life, if ye join to that.
 He that hath an ear to hear, let him hear.
+
+====
