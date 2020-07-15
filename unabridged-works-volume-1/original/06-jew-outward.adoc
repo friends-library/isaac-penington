@@ -110,9 +110,10 @@ when the children of the kingdom (of this age, as well as of Christ`'s,
 and all former ages) shall be shut out in utter darkness, where shall be weeping,
 and wailing, and gnashing of teeth.
 
-=== THE JEW OUTWARD SOME EXCEPTIONS AND ARGUMENTS OF THE JEWS AGAINST CHRIST`'s APPEARANCE, etc.
+[.old-style]
+=== The Jew Outward / Some Exceptions and Arguents of the Jews Against Christ`'s Appearance, etc.
 
-THE Jews were once the only outward, visible people of God,
+The Jews were once the only outward, visible people of God,
 who were chosen by God for a peculiar people, who had the promise of, and expected,
 the Messiah; whose faith and hope of salvation was in him; yea,
 and at that very time they were looking for him, yet, when he came,
@@ -132,6 +133,10 @@ Many exceptions and arguments they had against him; against his descent, his doc
 his practices, his miracles, his followers, etc., which I shall refer to heads,
 to make them more obvious.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ They excepted at his descent and kindred.
 "`Is not this the carpenter`'s son?
 Is not his mother called Mary?
@@ -155,11 +160,13 @@ as may appear from the foregoing verse.
 He speaketh indeed boldly, and deep things, etc, as if he were the Christ;
 but how can it be he, seeing it is known from whence he comes?
 
+[.numbered]
 2+++.+++ At his country, or place of his education and residence, which was Nazareth of Galilee.
 "`Can there any good thing come out of Nazareth?`" John 1:46. "`Shall
 Christ come out of Galilee?`" John 7:41. "`Search and look;
 for out of Galilee ariseth no prophet.`" ver. 52.
 
+[.numbered]
 3+++.+++ At the time and season of his coming.
 He came (as to their sense) before Elias.
 With this argument they pinched the disciples,
@@ -175,6 +182,7 @@ for the true Messiah comes not before Elias;
 and every one knows that Elias is not yet come,
 nor his work of restoring all things so much as begun.
 
+[.numbered]
 4+++.+++ His doctrine administered abundance of offence to them,
 and they were continually stumbling at it.
 That heavenly doctrine, mentioned a little before,
@@ -322,6 +330,7 @@ who saith,
 that "`the flesh`" (which they understood) "`profiteth nothing;`" but
 the flesh which he meant was "`spirit and life.`" ver. 63.
 
+[.numbered]
 5+++.+++ At his practices and conversation.
 "`How is it that he eateth with publicans and sinners.`" Mark 2:16.
 "`Behold a gluttonous man,
@@ -374,6 +383,7 @@ And consider which way the Jews (in the
 state they stood) could understand such an answer as this,
 to rest satisfied therewith.
 
+[.numbered]
 6+++.+++ They excepted "`against his miracles,`"
 partly because he did them on the sabbath-day, John 9:16.
 whereupon, they concluded he could not be of God; for if he had been of God,
@@ -398,6 +408,7 @@ and bewitch us from the law and ordinances of Moses,
 which we are sure are of God; but show us a sign from heaven,
 or else blame us not for not leaving Moses to run after thee.
 
+[.numbered]
 7+++.+++ They excepted at the testimony which the Spirit of God in him gave concerning him.
 When he spake the inward testimony, which the Spirit of God gave from within, saying,
 "`I am the light of the world; he that followeth me shall not walk in darkness,
@@ -414,6 +425,7 @@ and the Father`'s testifying of it, and with it.
 And thou that readest this, mightest know it,
 couldst thou wait in the loss of thine own life, wisdom, and knowledge, for it.
 
+[.numbered]
 8+++.+++ They excepted against his disciples and followers, which were women, publicans,
 and sinners; the common people, yea, the meanest, the poorest,
 and most ignorant (in their account), who were fittest to be deluded and led away.
@@ -433,6 +445,7 @@ they are accursed; and therefore no marvel,
 though God give them up to follow this deceiver, and to cry up his new light,
 and forsake the good old light of Moses and the prophets.
 
+[.numbered]
 9+++.+++ They excepted against him, that he did not rebuke his disciples,
 and the multitude (spreading their garments, cutting down branches from the trees,
 and strewing them in the way), with the children that cried Hosanna to him,
@@ -440,6 +453,7 @@ as he rode on the ass`'s colt to Jerusalem; but he rather justified them. Luke 1
 and Matt. 21:15-16. What a ridiculous and vain-glorious
 piece of pageantry would this seem to the fleshly-wise eye?
 
+[.numbered]
 10+++.+++ That he did not show sufficient authority for what he did.
 "`By what authority dost thou these things; and who gave thee this authority?`" etc. Mark 11:28.
 Thou takest upon thee great authority over the people of God,
@@ -447,6 +461,7 @@ over their teachers, yea, over God`'s temple, sabbath, and ordinances;
 but where is thy authority so to do?
 Show us that, etc.
 
+[.numbered]
 11+++.+++ They excepted when he spoke of his sufferings and death.
 "`We have heard in our law that Christ abideth forever;
 and how sayest thou the Son of man must be lifted up!
@@ -469,6 +484,8 @@ and speak them from the Spirit!
 Now whosoever becomes a disciple, must wait in the obedience to know the doctrine,
 and not think to enter with that wisdom and carnal reasoning from the Scriptures,
 which the Scribes and Pharisees, and professors of that age were shut out with.
+
+====
 
 There were many other things which they could not but except against;
 as at his answers to their questions, to which sometimes he was silent,
@@ -669,6 +686,10 @@ There remain yet some other exceptions against him,
 about the time of his suffering death, with his hard usage,
 which should not wholly be passed over, as:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ His disrespectful or irreverent answering of the high-priest, as it seemed to them,
 when he asked him of his doctrine, John 18:19. his answer was,
 that "`he spake openly in the world, not in secret; Why askest thou me?
@@ -678,6 +699,7 @@ and simplicity of the life (which bows to God,
 and cannot regard man in the transgression) seem
 rude and unmannerly to the lofty spirit of the world.
 
+[.numbered]
 2+++.+++ His silence at the testimonies brought against him,
 and to the high-priest when he questioned him. Mark 14:60-61.
 Indeed either the speaking or silence in the life,
@@ -688,6 +710,7 @@ the false Christian`'s knowledge and religion stand in his own will,
 in his own understanding; he speaks in his own time;
 both which are crucified in him that is born of the Spirit.
 
+[.numbered]
 3+++.+++ When he did speak the truth himself, the high-priest rent his clothes,
 and charged him with blasphemy. Matt. 26:65.
 And those that were by fell in with the high-priest, and said,
@@ -758,6 +781,7 @@ and its enmity against the life and power.
 Be not thou blind in thy day, as they were in theirs; and an enemy,
 under pretence of being a friend.
 
+[.numbered]
 4+++.+++ Another exception or argument against him, about the time of his suffering death, was,
 that he did not put forth his power to save himself from the cross; "`He saved others,
 let him save himself,`" if he be Christ, the chosen of God. Luke 23:35.
@@ -798,6 +822,8 @@ and their sabbaths, temple, etc.) against him, that when Pilate washed his hands
 as clear of his blood, all the people answered, and said, "`His blood be on us,
 and on our children.`" Matt. 27:25.
 
+====
+
 Now let men consider what the great exceptions are,
 which they have against the living appearance of Christ in his Spirit,
 now towards the close of the apostasy, and against us his witnesses,
@@ -807,14 +833,20 @@ for want of miracles, etc.
 Is this generation more wise or more just in their exceptions than the former was?
 Consider the main ones a little.
 
+[.offset]
 Their great exceptions against our doctrine are:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That we preach up a light within, and that he that receiveth that light,
 receiveth a perfect gift; and growing up in it, groweth up to perfection,
 which in this life (through faith and obedience to
 this light or perfect gift) may be attained,
 and the body of sin put off, and the new man, Christ, put on.
 
+[.discourse-part]
 Answer.
 Indeed we cannot but preach up the Light within,
 and declare unto men how great things it hath done for us;
@@ -828,9 +860,11 @@ But he that feels unity with that which is perfect,
 cannot but acknowledge that it is able to perfect him,
 and in faith and patience is encouraged to hope and wait for it.
 
+[.numbered]
 2+++.+++ That we deny that Christ which died at Jerusalem, and his imputed righteousness,
 and set up an inherent righteousness.
 
+[.discourse-part]
 Answer.
 We know no other Christ than that which died at Jerusalem,
 only we confess our chief knowledge of him is in the Spirit.
@@ -852,8 +886,10 @@ and we wish men could come out of the reasoning about it,
 into the feeling of the same thing with us;
 for then we are sure they would not so sharply, nor so long contend.
 
+[.numbered]
 3+++.+++ That we deny the ordinances, and means of salvation.
 
+[.discourse-part]
 Answer.
 We deny nothing that the apostles and Christians formerly practised;
 nor do we deny any thing that any now practise in the light, and in the faith;
@@ -871,9 +907,13 @@ who "`trod under foot the holy city.`" Rev. 11:2. And we have found by experienc
 that, while we ourselves were crying up the outward court,
 we did trample under foot the city, though we then knew it not.
 
+====
+
+[.discourse-part]
 Their exceptions against our persons are, that we are ignorant, illiterate,
 and also unsettled persons, who have still been seeking up and down, etc.
 
+[.discourse-part]
 Answer.
 What persons are fittest for God to make use of,
 towards the recovery of his people out of the apostasy?
@@ -890,9 +930,11 @@ But have we been unsettled, since God hath fastened us on the living foundation?
 Nay, here is no more going out;
 but he that abides faithful remains a pillar in the house of God.
 
+[.discourse-part]
 Men except likewise against our practices, as that we show not respect to persons,
 and that we are not strict (after their manner) in duties, etc.
 
+[.discourse-part]
 Answer.
 We have heard that voice, "`Fear God,
 and give glory to him,`" Rev. 14:7. (not only as it is written there,
@@ -910,8 +952,10 @@ And our religion consists neither in willing nor running,
 but in waiting on the Spirit and power of the Lord, to work all in us and for us.
 All these things we look upon to be our duty, and practise them.
 
+[.discourse-part]
 It is likewise excepted against us, that we do not work miracles.
 
+[.discourse-part]
 Answer.
 We point to that which wrought all the outward miracles formerly,
 and which now worketh great inward miracles in Spirit; and we are sure the same power,
@@ -964,6 +1008,7 @@ that ye may be found worthy to know the persecuted truth on the one hand,
 and the persecuting spirit on the other hand, in this day of large profession,
 and also of bitter persecution!
 
+[.discourse-part]
 Now what might be the cause, or how could it come to pass,
 that the zealous worshippers of that age should thus err in their zeal,
 and be thus heady and rash against him, whom they looked for to be their Saviour?
@@ -973,11 +1018,16 @@ for undoubtedly if it be, it will produce the same effect,
 and so we may ignorantly draw upon our heads the same heavy wrath in our day,
 that they did in their day.
 
+[.discourse-part]
 Answer.
 The causes were very many; I may mention some few of the principal ones;
 which if they be seen into and removed, by that power which is able to do it,
 such as are of a more inferior influence, will not be able to stand.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ One cause of their blind zeal, and bitterness against Christ, was,
 Their ignorance of the Scriptures, and of the power of God.
 If they had known the Scriptures in the true light, they could not but have known Christ,
@@ -989,6 +1039,7 @@ they knew what was said in scripture concerning the power of God,
 but they knew not the thing itself; and so turned against it,
 and made use of the words (which came from it, and testified of it) against it.
 
+[.numbered]
 2+++.+++ A second cause of this their sad miscarriage in their zeal,
 was Their putting the law and ordinances, and writings of the prophets,
 out of their proper places.
@@ -998,6 +1049,7 @@ but understood not the right end and use of them.
 And by these means, practising the shadows in the carnal mind, they lost the substance,
 which the proper use of the shadows was to have pointed them unto.
 
+[.numbered]
 3+++.+++ Their high conceits of the goodness of their state in relation to God,
 and of the certainty of their knowledge of the truths of God from Moses and the prophets.
 They were confident they knew God aright, and that he was their Father,
@@ -1006,6 +1058,7 @@ And so Christ appearing in a seeming contrariety to these
 (notwithstanding all his powerful preaching and miracles),
 they made no question but they might boldly conclude him not to be of God.
 
+[.numbered]
 4+++.+++ Christ`'s coming in a way that they looked not for him.
 They had concluded from the Scriptures how Christ must appear;
 and he coming in a far different manner, they could not own him,
@@ -1017,6 +1070,7 @@ as what was said concerning his first coming, was hid from them in their age;
 and he will steal upon them as a thief, at a time, and in a way, and after a manner,
 that they expect not.
 
+[.numbered]
 5+++.+++ (Which is the main one, and cause of all the former.)
 Because they were from the light within,
 from the true light in their own hearts and consciences.
@@ -1052,6 +1106,8 @@ they themselves had "`stopped their ears, and closed their eyes,`" etc.,
 they would not see this way, they would not be converted and healed this way.
 They would keep up the knowledge which they had gathered from Moses and the prophets,
 without this eye; and with that they would see, or not at all.
+
+====
 
 Thus being from the light within, they could not see the place of life within,
 where life is to be received: they could not see the womb of wisdom, which is within,
@@ -1152,6 +1208,10 @@ Now to help any honest and single hearts among you
 over this great stumbling-block of a light within,
 consider these few things.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That all the knowledge, all the true knowledge, that ever ye had of God,
 was from a light within.
 I do not deny that ye might receive your knowledge through the Scriptures (and
@@ -1162,6 +1222,7 @@ This was the way ye then came by it, though ye perhaps might feel the thing,
 but not know how ye came by it, even as a babe may see truly,
 but doth not understand its own eye, or know how it sees.
 
+[.numbered]
 2+++.+++ While this eye was kept open in you, your knowledge was true in its measure,
 and serviceable to you, and did draw you nearer to God, making you truly tender, meek,
 sweet, humble, patient, loving, gentle, and of precious breathings towards God,
@@ -1171,6 +1232,7 @@ I loved him.`" God remembereth at this day the kindness of your youth,
 and is seeking after you.
 Oh! why do ye so harden your hearts against him?
 
+[.numbered]
 3+++.+++ That wherever this eye is shut, the virtue of the true knowledge is lost,
 and the sweet fruits thereof wither.
 The outward part of the knowledge may be retained; yea, perhaps increased,
@@ -1186,6 +1248,7 @@ for the true and living eye being shut,
 that which is then best (or afterwards attained) is held but in the dead part,
 and serves but to feed death.
 
+[.numbered]
 4+++.+++ The great work and design of the enemy of your
 souls is not to steal away the bulk of your knowledge,
 or to draw you from ordinances or duties; but to steal the life out of your spirits.
@@ -1205,6 +1268,8 @@ in reading scriptures, praying, meditating, etc., thou art the surer his hereby,
 and so much the better servant to him: for how much the richer thou art in knowledge,
 experiences, hopes, and assurance, without the life and power;
 so much the more acceptable and honorable and useful art thou in his kingdom.
+
+====
 
 Therefore see where ye are.
 Is the inward eye open in you?
