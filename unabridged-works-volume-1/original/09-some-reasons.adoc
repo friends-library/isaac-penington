@@ -17,10 +17,15 @@ for their sakes who want either time or patience to consider of it more at large
 and answers to the heads of their sufferings,
 in a particular declaration to the _Parliament._
 
+[.numbered-group]
+=====
+
+[.numbered]
 1+++.+++ Why we go into meeting-places or markets or other-where to testify to the truth,
 and against deceit.
 
-Reason.
+[.discourse-part]
+_Reason._
 Because we are moved of the Lord so to do.
 We are his; and where he bids us witness for him, and against deceivers and their deceit,
 we must do it: woe unto us (from the Lord) if we do it not.
@@ -29,9 +34,11 @@ and the Lord will require it of him.
 Now this is no more than the apostles and servants of the Lord have done,
 as it is recorded in Scripture.
 
+[.numbered]
 2+++.+++ Why we cannot pay tithes.
 
-Reason.
+[.discourse-part]
+_Reason._
 Because tithes were not a maintenance appointed by Christ for his ministers,
 but were set up by the Pope (as the maintenance of
 his ministers) since the days of the apostles.
@@ -40,15 +47,19 @@ and divers of the martyrs in Queen Mary`'s days suffered for,
 as by the articles charged against them, and the testimony that they held forth,
 may appear.
 
+[.numbered]
 3+++.+++ Why we meet together on the first days of the week, and at other times.
 
-Reason.
+[.discourse-part]
+_Reason._
 Because we find the Lord drawing of us, and his presence among us in our meetings,
 and receive refreshings to our souls thereby.
 
+[.numbered]
 4+++.+++ Why we cannot swear.
 
-Reason.
+[.discourse-part]
+_Reason._
 Because Christ our Lord (who is greater than Moses,
 who gave the law about swearing) hath said,
 "`Swear not at all;`" and his apostle (who abode in his doctrine) saith, "`Above all things,
@@ -65,9 +76,11 @@ and the putting in of an exception by man`'s wisdom, destroyeth Christ`'s words,
 making his command no straiter than the law of Moses,
 which forbad all profane and unlawful swearing. Lev. 19:12.
 
+[.discourse-part]
 5+++.+++ Why we cannot put off our hats to men.
 
-Reason.
+[.discourse-part]
+_Reason._
 Because it lifts up that in man which God will destroy.
 It is suitable to that nature which is of the earth, and feeds it.
 It is pleasing to the flesh; and that which is an enemy to the flesh,
@@ -80,9 +93,11 @@ as saith the apostle.
 And let men consider what it is in them that cannot bear with it;
 it being done in simplicity of heart upon this account.
 
+[.numbered]
 6+++.+++ Why we cannot justly be looked upon as vagrants or sturdy beggars.
 
-Reason.
+[.discourse-part]
+_Reason._
 Because we beg not, nor pass up and down in any idle way;
 but either about our civil employments and occasions, or about the work of our God;
 nor are any way burdensome to the nation.
@@ -90,9 +105,11 @@ If to be from our dwellings about the work of our God, be accounted the breach o
 would not the same law have taken hold on Christ and his apostles,
 if it had been in their days?
 
+[.numbered]
 7+++.+++ Why we visit friends in prison.
 
-Reason.
+[.discourse-part]
+_Reason._
 Because they being imprisoned for their obedience to Christ, what we do to them,
 we do to him; and we are afraid, lest he should say to us at the great day;
 "`I was sick and in prison,
@@ -100,10 +117,12 @@ and ye visited me not.`" Now they that are so far from doing this themselves,
 that they punish others for doing it, when God shall call them to account,
 what will they answer?
 
+[.discourse-part]
 8+++.+++ Why we cannot contribute towards the repairing of the steeple-houses,
 or pay clerks`' wages.
 
-Reason.
+[.discourse-part]
+_Reason._
 Because they are places which were erected for popish and idolatrous worship;
 and where a worship not differing in its nature and
 ground (but only in form) is continued in this day;
