@@ -1,6 +1,7 @@
 == To the Army
 
-FRIENDS,
+[.salutation]
+Friends,
 
 Do ye not see how often ye have been betrayed?
 The Lord hath done great things for you, and by you,
@@ -35,4 +36,5 @@ which he is shooting at the regions of Babylon.
 This is from one who waits for what the Lord will effect,
 and hopes at length to see an instrument in his hand wherein his soul will delight.
 
-ISAAC PENINGTON THE YOUNGER
+[.signed-section-signature]
+Isaac Penington the Younger
