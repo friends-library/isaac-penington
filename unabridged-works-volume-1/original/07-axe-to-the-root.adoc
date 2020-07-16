@@ -293,14 +293,15 @@ pleasant fruit unto life; but only sour fruit,
 finely painted and dressed for the eye and palate of death), its body, branches, leaves,
 and fruit will wither and die daily, and truth come to grow safely.
 
-=== THE AXE LAID TO THE ROOT OF THE OLD CORRUPT TREE
+=== The Axe Laid to the Root of the Old Corrupt Tree
 
+[.section-summary-preface]
 A DISTINCTION between the FAITH which is of MAN, and the FAITH which is of God:
 One whereof is the Faith of Zion, the other the Faith of Babylon:
 The one laying hold on Christ, as he is revealed the King of Life in Zion;
 the other lays hold on a Historical Relation of Christ, the Fame whereof hath sounded in Babylon.
 
-THERE is a faith which is of a man`'s self; and a faith which is the gift of God:
+There is a faith which is of a man`'s self; and a faith which is the gift of God:
 or a power of believing, which is found in the nature of fallen man;
 and a power of believing, which is given from above.
 As there are two births, the first and the second, so they have each their faith;
@@ -352,6 +353,10 @@ And then consider where it is shut out, what it cannot do, what change it cannot
 what it cannot conform to: that so the true distinction may be let into the mind,
 and not a foundation laid of so great a mistake in a matter of so great concernment.
 
+[.numbered-block]
+====
+
+[.numbered]
 1+++.+++ A man may believe the history of the Scriptures; yea, and all the doctrines of them,
 so far as he can reach them with his understanding, with this faith which is of man.
 As by this faith a man can believe a history probably related to him;
@@ -364,6 +369,7 @@ that there is no other way to life, etc.,
 this faith can believe the relation of these things,
 as well as it can believe the relation of other things.
 
+[.numbered]
 2+++.+++ This being believed from the relation of the history of these things,
 it naturally sets all the powers of man at work (kindling the understanding, will,
 and affections,) towards the avoiding of misery, and the attaining of happiness.
@@ -394,6 +400,7 @@ Thus man, by a natural faith, grows up and spreads into a great tree,
 and is very confident and much pleased; not perceiving the defect in his root,
 and what all his growth here will come to.
 
+[.numbered]
 3+++.+++ This being done with much seriousness and industry,
 there must needs follow a great change in man:
 his understanding will be more and more enlightened;
@@ -407,6 +414,7 @@ Yea, this being more excellent in itself,
 must needs produce a more excellent understanding, and a more excellent warmth,
 and have a greater power and influence upon the will.
 
+[.numbered]
 4+++.+++ Now, how easy is it for a man to mistake here, and call this the truth!
 First, he mistakes this for the true faith;
 and then he mistakes in applying to this all that which belongs to the true faith:
@@ -444,6 +452,8 @@ which is still alive under all this.
 All this can never kill the principle out of which it grows; but feeds it more,
 and fattens it for the slaughter.
 
+====
+
 Thus far this faith can go:
 but then there is somewhat it is shut out of at the very first:
 there is somewhat this faith cannot receive, believe, or enter into.
@@ -478,10 +488,12 @@ when the other will be manifested to be but the birth of the bond-woman,
 and be thrust forth with its mother to seek their bread abroad:
 for the seed of the bond-woman is not to inherit with Isaac, the seed of promise.
 
+[.discourse-part]
 Question.
 What then is that faith which is the gift of God?
 And which is distinct from this?
 
+[.discourse-part]
 Answer.
 It is that power of believing which springs out of the seed of eternal life;
 and leavens the heart, not with notions of knowledge, but with the powers of life.
@@ -536,15 +548,17 @@ and a new one formed,
 which alone is able to receive and retain the new wine of the kingdom; whereas the other,
 Pharisee-like, can only receive a relation of the letter concerning the kingdom.
 
-=== SOME ASSERTIONS
+=== Some Assertions
 
+[.section-summary-preface]
 Concerning FAITH, its Nature, Rise, etc., with its Receiving of CHRIST,
 and what follows thereupon; namely, a Growing in his living Virtue;
 with a Knowledge of the true, living, unerring Rule, and Obedience to it in the Life.
 
-==== ASSERTION I
+[.centered]
+==== Assertion I
 
-THAT the true faith (the faith of the gospel, the faith of the elect,
+That the true faith (the faith of the gospel, the faith of the elect,
 the faith which saves the sinner from sin,
 and makes him more than a conqueror over sin and the powers
 of darkness) is a belief in the nature of God;
@@ -569,6 +583,7 @@ a man to be a believer in the sight of God,
 but only the union with the nature of that life from whence all these sprang,
 and in which alone they have their true value.
 
+[.centered]
 ==== II
 
 That the true faith springs from the true knowledge,
@@ -583,6 +598,7 @@ and think he can make his tenets good against all the world; yet,
 if he hath not received the true knowledge of the nature of these things,
 all his professed faith in them cannot be true.
 
+[.centered]
 ==== III
 
 That the true knowledge is only to be had by the
@@ -627,6 +643,7 @@ no more than the Jews did, but sticking in the letter of the gospel,
 as the Jews did in the letter of the law, stumble at the present dispensation of life,
 and cannot do otherwise.
 
+[.centered]
 ==== IV
 
 That Christ`'s immediate revelation of the nature of his Father is to his babes.
@@ -670,6 +687,7 @@ in the conformity of the dead part to that,
 and he knows not the virtue of the knowledge of God in the newness of the Spirit
 (the veil being over his heart) which is only given to the new understanding.
 
+[.centered]
 ==== V
 
 That this faith (which springs from the true knowledge) is God`'s gift,
@@ -695,6 +713,7 @@ that so the gift of the true faith may be received:
 for there is no rising up and living of the second, without the death of the first,
 with all its natural faculties and powers.
 
+[.centered]
 ==== VI
 
 That by this faith alone, which is the gift which is from above,
@@ -733,6 +752,7 @@ This is antichrist, wherever he is found; and this is his faith,
 and great is his knowledge, and many are his coverings;
 but the Lord is searching him out, who will strip him, and make his nakedness appear.
 
+[.centered]
 ==== VII
 
 That Christ is received as a grain of mustard-seed.
@@ -789,6 +809,7 @@ Or be free from wrath when they are dead?
 For that faith concerning Christ will not save them hereafter,
 which did not bring them to receive Christ here.
 
+[.centered]
 ==== VIII
 
 That this seed being received, groweth up into its own form;
@@ -800,6 +821,7 @@ receiveth form and groweth into a plant, or living creature;
 so it is with this seed in its earth.
 Open the true eye, O ye Christians! and begin to read the mystery of godliness.
 
+[.centered]
 ==== IX
 
 That this creature, or the Spirit of life in this creature (which it is in union with,
@@ -818,6 +840,7 @@ hath not the true faith (which immediately receives him) and so is no Christian;
 but hath stolen the name from the letter,
 having never received the nature from the Spirit, to which alone the name belongs.
 
+[.centered]
 ==== X
 
 He that hath Christ, or the seed of eternal life, which is Christ,
@@ -836,6 +859,7 @@ and only let into such a kind of knowledge as the wrong key can open into.
 And with this kind of knowledge the merchants of Babylon have long traded;
 but their day is expiring apace, and their night of lamentation and howling hasteneth.
 
+[.centered]
 ==== XI
 
 Though he can understand the Scriptures,
@@ -913,16 +937,12 @@ Do not provoke the tender heart of the Lamb against you,
 who also hath the voice of a lion,
 and can roar terribly out of his holy mountain against the enemies of his life and Spirit.
 
-=== A NECESSARY WARNING
+[.old-style]
+=== A Necessary Warning / And of very great Importance to all that call themselves CHRISTIANS, and hope for a Share in the Book of LIFE, and the escaping the Damnation of Hell; which is their Portion whose Names are written in the Book of Death, and blotted by God out of the Book of LIFE, though they hope to find them written there.
 
-And of very great Importance to all that call themselves CHRISTIANS,
-and hope for a Share in the Book of LIFE, and the escaping the Damnation of Hell;
-which is their Portion whose Names are written in the Book of Death,
-and blotted by God out of the Book of LIFE, though they hope to find them written there.
+==== Hear and Consider
 
-HEAR AND CONSIDER
-
-IT is recorded, Rev. 22:18-19. "`If any man shall add unto these things,
+It is recorded, Rev. 22:18-19. "`If any man shall add unto these things,
 God shall add unto him the plagues that are written in this book.
 And if any man shall take away from the words of the book of this prophecy,
 God shall take away his part out of the book of life, and out of the holy city,
@@ -1127,15 +1147,21 @@ and ye find yourselves in the bosom of hell unawares,
 and see the children of the kingdom in Abraham`'s bosom, but yourselves shut out,
 and left to weep, and wail, and gnash your teeth.
 
+[.discourse-part]
 Question.
 But how may I avoid adding to the things, and diminishing from the words,
 of this prophecy, and of other scriptures;
 that I may not meet with the weight of this curse, or miss of the blessing?
 
+[.discourse-part]
 Answer.
 Dost thou ask this question from thy heart, in the simplicity, out of the fleshly wisdom?
 Then hearken with that ear, and thou shalt set thy seal to mine answer.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Wait for the key of knowledge, which is God`'s free gift.
 Do not go with a false key to the Scriptures of Truth; for it will not open them.
 Man is too hasty to know the meaning of the Scriptures,
@@ -1156,6 +1182,7 @@ and running before-hand) till the key be given, and to know how to receive it,
 as it is offered in the light; and not to wait in the will,
 or expect to receive it according to observations in the fleshly wisdom from the letter.
 
+[.numbered]
 2+++.+++ Let not thy understanding have the managing of this key, when it is given;
 but know the true opener, the skilful user of the key,
 the hand which can only turn the key aright;
@@ -1179,6 +1206,7 @@ or he may easily lose it: for though the gifts and calling of God are without re
 yet if that lay hold of the gift which was not called, and to which it was not given,
 the Lord will thrust that by, and take away his gift from it.
 
+[.numbered]
 3+++.+++ Do not graft any of the fruit of the tree of life upon the tree of knowledge;
 for it will not grow there: an appearance, a likeness of the true fruit may grow there;
 but the true fruit itself will not.
@@ -1199,6 +1227,7 @@ which feeds and pleases that part which fain would have life, but cannot know it
 and therefore is necessitated to make images and likenesses of things in heaven,
 or things in earth, that it might have somewhat.
 
+[.numbered]
 4+++.+++ Take not up a rest in openings of things, though by the true key.
 Take heed of overvaluing that kind of knowledge;
 for that part which overvalues that knowledge will presently be puffed up with it:
@@ -1229,6 +1258,7 @@ and then thou hast a knowledge from the nature of the thing itself;
 and this is more deep and inward than all the knowledge
 that can be had from words concerning the thing.
 
+[.numbered]
 5+++.+++ When thou feelest things,
 then seek their preservation in the proper spring of their own life.
 Let the root bear thee, and all thy knowledge, with all that is freely given thee of God.
@@ -1239,6 +1269,8 @@ and have nothing which thou mayest call thine own any more; but to be lost in th
 and found in him.
 Know the land of the living, wherein all the things of life live,
 and can live nowhere else.
+
+====
 
 Now in all this, in this whole course, from the very first step of it,
 there is certainty, there is stability, there is infallibility.
@@ -1294,13 +1326,15 @@ who never yet saw the witchery of the whorish spirit from the life,
 and how he himself hath been bewitched and cozened with the false, instead of the true?
 As for instance:
 
-Prayer; that is generally taken for a means: "`Ask, and it shall be given you; seek,
+[.discourse-part]
+_Prayer;_ that is generally taken for a means: "`Ask, and it shall be given you; seek,
 and ye shall find; knock, and it shall be opened to you.
 If parents, which are evil, know how to give good gifts to their children;
 how much more shall the heavenly Father give the Holy Spirit
 to them that ask him?`" This therefore is an undoubted thing,
 that prayer is a means.
 
+[.discourse-part]
 Answer.
 True; there is a prayer which is a means, and there is a prayer which is not a means.
 There is a prayer which is an ordinance, and there is a prayer which is an invention.
@@ -1389,9 +1423,10 @@ even a foundation of eternal life, for the true seed of life;
 and are built into the living city, which is made without hands,
 and without any of the tools of man`'s wisdom.
 
+[.blurb]
 === A Brief HISTORY of the STATE of the CHURCH since the Days of the APOSTLES, with the living Seal to it; which he that hath eternal Life abiding in him can read and witness; but that Wisdom, Zeal, and Devotion, which is in the Death, cannot.
 
-AFTER the universal degeneration and corruption of the Jewish state,
+After the universal degeneration and corruption of the Jewish state,
 and the putting an end to the shadows thereof,
 by the appearance and succession of the substance,
 it pleased God to dissolve that people, state, and policy; and by the power of his life,
@@ -1680,12 +1715,10 @@ till the letter be gained out of the hands of the whorish spirit,
 which hath built up several forms of knowledge, religion, and worship in Mystery Babylon,
 by the letter without the life; all which must fall with Babylon.
 
-=== AN EXHORTATION
+[.old-style]
+=== A Exhortation / Relating to the Workings of the Mystery of Iniquity, and the Mystery of Godliness in This Present Age
 
-RELATING TO THE WORKINGS OF THE MYSTERY OF INIQUITY,
-AND THE MYSTERY OF GODLINESS IN THIS PRESENT AGE
-
-ALL people upon earth who love your souls, and have any true, secret pantings after God,
+All people upon earth who love your souls, and have any true, secret pantings after God,
 look to the nature of your spirits,
 and look to the nature of those things ye let into your minds;
 lest ye take death for life, error for truth, and so sow to yourselves corruption,
@@ -1743,6 +1776,10 @@ Shall I speak a little of the wares of Babylon?
 Where is there an ear which can hear me?
 Yet he that opens my mouth, can open thine ear: therefore let me speak a little plainly.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ There are many glorious false births in Babylon.
 There is no inheriting the kingdom, but by being born again.
 This doctrine the king of Babylon preacheth; he is fain to do so,
@@ -1766,6 +1803,7 @@ he shall have just the very likeness of that which his heart desires,
 the lively likeness; the devil is ready at hand to furnish him with it:
 which way can the man, who never saw the true thing, espy the cheat?
 
+[.numbered]
 2+++.+++ There are many glorious desires in Babylon, many pantings,
 many breathings after that which this birth of Babylon takes to be life.
 The devil hath these wares, these images in his shop too;
@@ -1785,6 +1823,7 @@ that he may allay those pure desires,
 which otherwise would be arising from the life underneath, and which,
 notwithstanding all this, sometimes do arise, especially when the soul is in anguish.
 
+[.numbered]
 3+++.+++ There is false food in Babylon, false knowledge to feed this wrong nature with;
 there is knowledge, falsely so called.
 There are several appearances of all the truths in Zion.
@@ -1819,6 +1858,7 @@ Grasp not after the knowledge of this in the understanding part,
 but wait for the sense of it from that life which lies slain underneath these,
 and by that part which exalts these.
 
+[.numbered]
 4+++.+++ There are false keys to open the several chambers of imagery in Babylon.
 This food man cannot gather of himself, it must be given to him:
 this knowledge man cannot get into by himself, but as this spirit leads him,
@@ -1836,6 +1876,7 @@ and make thee a pleasant inhabitant of Babylon,
 and a joyful worshipper of the king thereof, whom, through this deep deceit,
 and most subtle false appearance in thy heart, thou mistakest for the King of Zion.
 
+[.numbered]
 5+++.+++ This false spirit hath his false crosses, his false combats and fightings.
 The very Papists have not only their wooden and stone crosses,
 but they have also their ways of self-denial, their ways of crossing the natural part,
@@ -1853,6 +1894,7 @@ all these conflicts and exercises of self-denial.
 He hath a circumcising-knife, which cuts off a great deal, but always spares the nature;
 and as long as the nature is spared, the devil still hath that wherein he can dwell.
 
+[.numbered]
 6+++.+++ He hath his false love to God and man, and his false zeal for God.
 Love and zeal are two distinguishing things.
 All men conclude that love determines a man to be a Christian,
@@ -1867,6 +1909,7 @@ all ye that cry up universal love from the sweet sense of its image,
 ye shall one day know, that one act of particular love from the true nature,
 exceeds this in its utmost extent.
 
+[.numbered]
 7+++.+++ He hath his false life.
 The devil hath not only a dead, formal religion, but he hath a resemblance,
 an imitation of the quickenings of the spirit.
@@ -1881,6 +1924,7 @@ Now here is the depth of deceit,
 when the devil`'s images of life in the heart are taken for the living thing,
 for the life itself.
 
+[.numbered]
 8+++.+++ He hath his false liberty.
 There is a glorious liberty in the Gospel:
 there is a perfect freedom in the service of the life;
@@ -1903,6 +1947,8 @@ and when all that is contrary to the life is perfectly bound down,
 then the life hath its full scope, without the least control of the fleshly part;
 and when the life lives, then that which is joined to the life lives also.
 
+====
+
 Now here is the mystery of iniquity; here is the inward kingdom of darkness;
 here is the glory of Babylon!
 Here is he that contends for the kingdom, for the inheritance!
@@ -1924,10 +1970,12 @@ So can they see and judge spiritual things who are in the light,
 and who live in the life; yea, we shall continue judging thee in the fear,
 and in the humility, till God open that in thee, which can seal to our judgment.
 
+[.discourse-part]
 Objection.
 How difficult do you make the way to life, if not utterly impossible!
 If all this be true, Who can be saved!
 
+[.discourse-part]
 Answer.
 The way to life is very difficult; yea, and impossible to that part in man,
 which is so busy in willing and running towards life; but it is as easy,
@@ -1949,21 +1997,28 @@ and being seen they will easily be avoided in the power of life;
 for in vain the net is spread in sight of the bird.
 Therefore that thou mayst be safe:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Know the light, the eternal light of life,
 the little glimmerings and shinings of it in thy soul.
 This comes from the rock, to lead thee to the rock: and if thou wilt follow it,
 it will fix thee upon the rock where thou canst not be shaken.
 
+[.numbered]
 2+++.+++ Keep in the light, keep within the hedge, step not out of thine own,
 keep out of the circumference of the spirit of deceit;
 the power of whose witchery and sorcery extends all over the regions of darkness.
 
+[.numbered]
 3+++.+++ Love simplicity, love the nakedness of life, stand single in the honesty of the heart,
 out of the intricate, subtle reasonings, and wise consultings about things;
 for by these means the serpent comes to twine about and deceive thy soul;
 but in the simplicity of the movings of life, in the light, lie the power, the strength,
 the safety.
 
+[.numbered]
 4+++.+++ Lie very low continually,
 even at the foot of the lowest breathing and appearances of the light.
 Take heed of being above that wherein the life lies; for the wisdom, the power,
@@ -1971,6 +2026,7 @@ the strength, yea, the great glory lie in the humility; and thou must never be e
 thou must never come out of the humility,
 but find and enjoy the honor and glory of the life in the humility.
 
+[.numbered]
 5+++.+++ Mind the reproofs of the light; for that will still be setting thee to rights.
 That will still be bringing down that which would get up above;
 and there lies the preservation.
@@ -1978,6 +2034,8 @@ Oh the chastenings of the light, the sweet chastenings of the love by the light!
 These are healing stripes.
 This brings down the exalter, and that in thee which loves to be exalted,
 and to be seeking the honor of the spiritual riches, before the humility is perfected.
+
+====
 
 Thus, in love to souls, have I poured out my soul before the Lord,
 and held forth gentle leadings, even to the most stubborn and stiff-necked.
