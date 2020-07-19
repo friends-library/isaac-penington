@@ -46,9 +46,10 @@ Even so Father; for so it seemed good in thy sight.
 Matt. 11:25-26
 ____
 
-=== TO THE RULERS, TEACHERS, AND PEOPLE OF New England
+[.blurb]
+=== To the Ruler New England
 
-MANY a weary step hath my poor soul fetched,
+Many a weary step hath my poor soul fetched,
 and many difficulties and hardships hath it met with in its pursuit after truth.
 The immortal seed hath deeply suffered in me through the mists of darkness,
 and various stratagems and powers of the enemy, which have often encompassed me,
@@ -134,9 +135,10 @@ and so at last be awakened in the bowels of that wrath and fiery indignation,
 which that spirit which erreth from, and transgresseth, the life and light within,
 can neither bear nor escape.
 
-=== AN EXAMINATION OF THE Grounds or Causes, etc.
+[.blurb]
+=== An Examination of the Grounds or Causes, etc.
 
-THAT in New England there hath been a law made of banishing the Quakers, so called,
+That in New England there hath been a law made of banishing the Quakers, so called,
 and of death in case of return, is well known in these parts;
 but what induced them hereunto, and what just grounds and reasons they had for it,
 many are not acquainted with,
@@ -212,10 +214,15 @@ and run so great a hazard and danger of the loss of their own souls.
 
 ==== The Grounds or Causes expressed of their making that Law of Banishment, are in Substance these three.
 
-1+++.+++ THE coming of the QUAKERS from foreign parts, and from other colonies,
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ The coming of the QUAKERS from foreign parts, and from other colonies,
 at sundry times, and in several companies and numbers,
 into the jurisdiction of Massachusetts.
 
+[.discourse-part]
 Answer.
 This, of itself, is far from any warrant; for "`the earth is the Lord`'s,
 and the fulness thereof.`" And though they claim a propriety in it,
@@ -237,6 +244,7 @@ and God might justly then leave your eyes to be closed,
 and your hearts hardened against his truths and people,
 for beginning with them so harshly and unrighteously, and not in his fear.
 
+[.numbered]
 2+++.+++ Those lesser punishments of the house of correction, and imprisonment for a time,
 having been inflicted on some of them; but not sufficing to deter and keep them away.
 Why do ye omit cutting off of ears?
@@ -244,6 +252,7 @@ Are ye ashamed to mention that amongst the rest?
 Indeed the remembrance of it strikes upon the spirits of people here,
 and perhaps in New England also.
 
+[.discourse-part]
 Answer.
 They that are sent by the Lord, and go in the guidance of his spirit,
 cannot be deterred from obedience to him in his service and work,
@@ -275,10 +284,12 @@ Your consciences know how true these things are,
 and will one day give in a clear and true testimony,
 although ye should be able to bribe them at present.
 
+[.numbered]
 3+++.+++ That their coming thither was upon no other grounds or occasion,
 for aught that could appear, than to scatter their corrupt opinions,
 and to draw others to their way, and so to make disturbance.
 
+[.discourse-part]
 Answer.
 Christ saith to his disciples, "`Ye are the salt of the earth,
 and the light of the world:`" and they are not to lie still,
@@ -311,6 +322,8 @@ but have formed up a way out of the Scriptures,
 whereof many that are truly conscientious, doubt whether it be the way or no;
 even as they themselves doubt, and are ready to contend against,
 the ways that others have formed!
+
+====
 
 Now those that pick a quarrel with truth, and seek matter against it to persecute it,
 do not call it truth, but error, corrupt opinions, the way of a sect,
@@ -359,13 +372,19 @@ Now the grounds and considerations themselves,
 which they held forth to clear this to be warrantable and just, follow to be scanned,
 which are in number six.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The doctrine of this sect of people (say they)
 is destructive to fundamental truths of religion.
 
+[.discourse-part]
 Answer.
 For the making of this argument forcible, two things are necessary;
 if either of which fails, it falls to the ground.
 
+[.numbered]
 1+++.+++ It is necessary to make manifest, that persons,
 for holding or propagating doctrines contrary to fundamental truths of religion, are,
 by Christ`'s institution, punishable with dismembering, banishment, or death.
@@ -450,6 +469,7 @@ even as they were once accounted offenders for differing from the Conformists;
 and so are all become transgressors of the law of God, in doing that to others,
 which they would not that others should do to them.
 
+[.numbered]
 2+++.+++ It is requisite also to make manifest,
 that the doctrine of this sort of people is destructive
 to the fundamental truths of religion.
@@ -476,6 +496,7 @@ then they are not to be blamed; but the blame will light on their accusers,
 who might easily be found guilty of injuring both them and the Scriptures,
 both in these and many other things, were they not judges.
 
+[.numbered]
 1+++.+++ Concerning the Sacred Trinity.
 They generally, both in their speakings and in their writings,
 set their seal to the truth of that scripture, 1 John 5:7.
@@ -548,6 +569,7 @@ That which is most tender towards God,
 and most growing in the inward sensibleness (which causeth it to startle at that which
 others can easily swallow) lies most open to suffering by this kind of trial.
 
+[.numbered]
 2+++.+++ Concerning the Person of Christ.
 They believe that Christ is the eternal light, life, wisdom and power of God,
 which was manifested in that body of flesh which he took of the virgin:
@@ -598,6 +620,7 @@ whose knowledge is true and certain,
 though it seem ever so different from his who hath
 attained what he hath by the search of his wisdom.
 
+[.numbered]
 3+++.+++ Concerning the holy Scriptures being a perfect rule of faith and life.
 The new covenant is the covenant of the gospel; which is a living covenant,
 a spiritual covenant, an inward covenant,
@@ -710,6 +733,7 @@ but by the blood of the Lamb, and by the word of his testimony,
 and not loving their lives unto the death,
 they will easily overcome all such kind of champions.
 
+[.numbered]
 4+++.+++ The fourth and last instance which they give of the destructiveness
 of their doctrine to the fundamental truths of religion,
 is, That opinion of theirs of being perfectly pure and without sin,
@@ -717,6 +741,7 @@ which (say they) tends to overthrow the whole gospel,
 and the very vitals of Christianity: for they that have no sin, have no need of Christ,
 or of his satisfaction, or blood to cleanse them, nor of faith, repentance, etc.
 
+[.discourse-part]
 Answer.
 That the Lord God is able perfectly to redeem from sin in this life;
 that he can cast out the strong man, cleanse the house,
@@ -746,7 +771,8 @@ as that they have no need of Christ, his satisfaction, his blood, nor of faith,
 repentance, growing in grace, God`'s word and ordinances, nor of watchfulness and prayer,
 etc.? Let us consider the thing a little further.
 
-First, The doctrine of perfection, if it should be granted to deny all this,
+[.numbered]
+_First,_ The doctrine of perfection, if it should be granted to deny all this,
 yet it cannot be supposed to deny the need thereof,
 until the state of perfection be attained.
 Nay, they that truly believe that such a state is attainable,
@@ -788,7 +814,8 @@ But how can this possibly make them guilty of denying these things,
 seeing the exercise of these things not only standeth with, but is increased by,
 such a belief and hope?
 
-Secondly, The state of perfection itself, doth not exclude these things,
+[.numbered]
+_Secondly,_ The state of perfection itself, doth not exclude these things,
 in such a way as this charge seems to intimate.
 For in the state of perfection, the blood is not laid aside as useless,
 but remains to keep pure forever.
@@ -831,11 +858,15 @@ so encompassed with the walls and bulwarks of salvation,
 as that they feel no condemnation for sin, but a continual justification of the life;
 being taught, led, and enabled to walk, not after the flesh, but after the spirit. Rom. 8:1.
 
+//So it seems like this should be marked for the answer that follows, because without it, there are just two random answers in a row.
+
+[.discourse-part]
 From what they have said concerning this opinion of perfection (as they call
 it) they draw an argument against their other doctrines in these words.
 Such fundamentals of Christianity are overthrown by this one opinion of theirs,
 and how much more by all their other doctrines?
 
+[.discourse-part]
 Answer.
 To which I shall say this:
 If their grounds and proofs against any other doctrines of the Quakers,
@@ -870,6 +901,7 @@ but without hope of deliverance in this life;
 and refer the hope to that day wherein there is no more working out of redemption,
 but the eternal judgment of the tree as it falls.
 
+//Here is where I think what this 2nd answer in a row on line 914 is answering. 
 Now having, after this manner,
 proved that the doctrines of the Quakers are destructive
 to the fundamental truths of religion,
@@ -879,6 +911,7 @@ that he that presumes to speak lies in the name of the Lord,
 and turns people out of the way which the Lord hath commanded to walk in,
 such a one must not live, but be put to death.`" Zech. 13:3. Duet. 13:6-9. 18:20.
 
+[.discourse-part]
 Answer.
 1+++.+++ By what hath been said against them,
 it is not manifest that they have spoken lies in the name of the Lord.
@@ -905,6 +938,7 @@ must first receive a measure of the Spirit to understand it with;
 even as they that wrote any part thereof,
 did first receive a measure of the Spirit to write it by.
 
+[.numbered]
 2+++.+++ It is not manifest by these places quoted,
 that the governors of New England have received authority
 from the Lord to put the Quakers to death,
@@ -973,6 +1007,9 @@ and it is exceeding hard for you (being thus deeply engaged in the sight of the
 nations) to come to a sober and serious consideration of the state of the case,
 as it stands before the Lord.
 
+//HEre is part 2 of the 6 truths
+
+[.numbered]
 2+++.+++ The second ground or consideration which they hold forth to clear their law
 of banishment and death against the QUAKERS to be warrantable and just,
 is this:
@@ -982,6 +1019,7 @@ and good men have given to them; but, on the contrary,
 show contempt against them in their very outward gesture and behavior;
 and some of them at least, spare not to belch railing and cursing speeches,`" etc.
 
+[.discourse-part]
 Answer.
 That we do not give that honor and reverence to magistrates, which the Lord requireth,
 deserves a weighty proof.
@@ -990,6 +1028,7 @@ as persons who are not only liable to suffer from men,
 but also to give an account to HIM at the last day.
 Now towards magistrates our carriage is thus, as in the presence of the Lord.
 
+[.numbered]
 1+++.+++ We observe their commands in all things that are according to God.
 We submit ourselves to the government that is supreme,
 and to the governors under the supreme, for the Lord`'s sake,
@@ -1003,12 +1042,14 @@ He that pulleth off his hat, or boweth in flattery, or to please man, in him it 
 he that forbeareth to do it in obedience to God, and in the fear of his name,
 in him it is good.
 
+[.numbered]
 2+++.+++ When any magistrates punish us for well-doing,
 for our obedience to the Lord`'s spirit,
 though we know God never gave power to any magistracy to punish therefor;
 yet we patiently suffer under them; referring our cause to him that judgeth righteously,
 and waiting on him for strength to carry us through our sufferings for his name`'s sake.
 
+[.numbered]
 3+++.+++ When we appear before them, we appear as in the Lord`'s presence,
 desiring his guidance,
 that we may give due honor and respect to all that is of him in them;
@@ -1026,6 +1067,7 @@ either to their authority or their persons;
 but in a mere single-hearted obedience to God.
 Now to drive this a little towards a fair trial, consider in meekness, and in God`'s fear.
 
+[.numbered]
 1+++.+++ What kind of honor this is which is thus much stood upon?
 Is it the honor which is from above, or the honor which is from below?
 What part springs it from in man; from the new birth, or from the earthly nature?
@@ -1063,6 +1105,7 @@ but at length the Lord will bring forth his day, wherein he will be great,
 and have every knee bow to him, and every tongue confess to him:
 and then man shall be little, and his honor fall, and the Lord alone be exalted. Isa. 2:17.
 
+[.numbered]
 2+++.+++ Doth not the image of God grow up into the likeness of God?
 Doth God respect men`'s persons?
 Did Christ regard any man`'s person?
@@ -1108,14 +1151,17 @@ and let not the weight of our plea (it having so great impression on our
 hearts) be despised by any that pretend relation to our Lord and Master,
 which I shall briefly thus recite.
 
+[.numbered]
 1+++.+++ It is the single and sincere desire of our hearts
 to give all the honor and obedience to magistrates,
 which is due unto them according to the Scriptures.
 
+[.numbered]
 2+++.+++ It is manifest that we are careful of observing all just laws;
 and patient in suffering through unjust laws,
 or where the magistrate doth persecute us without or against law.
 
+[.numbered]
 3+++.+++ This kind of honor of pulling off the hat, and bowing to the person,
 we do not find commanded in scripture; but we find Christ`'s command against it,
 who saith "`follow me;`" who both denied to receive it, and did not give it;
@@ -1125,6 +1171,7 @@ which it pleaseth, being given to it; or is offended at being denied it:
 and this part we are taught by the Lord to crucify in ourselves,
 and not to cherish in others.
 
+[.numbered]
 4+++.+++ The bowing of persons under the law (which was an earthly state,
 wherein many things were permitted,
 which are not permitted under the gospel) doth not bind Christians under the gospel;
@@ -1132,6 +1179,7 @@ and doth not limit the spirit of God from taking of any one or more,
 or all of his people, from giving that which the earthly part calleth honor,
 to that which is of the earth.
 
+[.numbered]
 5+++.+++ We do appeal to the Lord our God (who is our judge
 and law-giver) that he hath laid this upon our spirits;
 and hath smitten several of us,
@@ -1139,6 +1187,7 @@ when there hath arisen so much as a desire in us to please men in this particula
 and in the fear of his name, and in obedience to him, we do forbear it;
 and not either in contempt of authority, or of the person in authority.
 
+[.numbered]
 6+++.+++ We find by much experience,
 that the forbearing of this is a service to our Lord and Master, and a hurt to his enemy.
 It offendeth the passionate, it offendeth the rough, it offendeth the proud and lofty;
@@ -1170,11 +1219,13 @@ that they are not of the Father, but of the world, this seed the world hates,
 and the vessels in whom it bubbles up,
 and through whom it giveth forth its testimony against the world.
 
+[.discourse-part]
 Objection.
 But in the New Testament Luke styles Theophilus most excellent; and Paul,
 speaking to Festus, said, Most noble Festus;
 which are terms or expressions of honor and reverence.
 
+[.discourse-part]
 Answer.
 Christ did promise his disciples and ministers that he would be with them,
 and give them what to say.
@@ -1209,12 +1260,14 @@ and the lifting up of his heart above his brethren,
 we have not freedom in the Lord to use.
 And Elihu also found a restraint upon him in this respect. Job 32:21-22.
 
+[.discourse-part]
 Objection.
 It is noted as a brand and reproach of false teachers, that they despise dominion,
 and speak evil of dignities. 2 Pet. 2:10.
 and Jude ver. 8. Now it is well known that the
 practice of the QUAKERS is but too like those false teachers, etc.
 
+[.discourse-part]
 Answer.
 It were worth a narrow search and inquiry what the
 dominion and dignities (or glories) are,
@@ -1375,6 +1428,9 @@ but the fleshly part missing of the honor which is pleasing to it,
 and being offended thereby, is ready to apprehend that to be spoken and done in contempt,
 which is spoken and done in the humility and fear of the Lord.
 
+//Part 3 of 6 truths
+
+[.numbered]
 3+++.+++ A third ground or consideration to justify their
 law of banishment and death of the QUAKERS,
 is drawn from "`Solomon`'s confining of Shimei,
@@ -1383,6 +1439,7 @@ that "`if execution of death be lawful upon breach of confinement,
 may not the same be said for breach of banishment; banishment being not so strait,
 but giving more liberty than confinement?`"
 
+[.discourse-part]
 Answer.
 The question is not whether the magistrate, upon no occasion,
 may banish upon pain of death; but whether the banishment of the QUAKERS,
@@ -1407,6 +1464,9 @@ where it is in men`'s will and power to abstain from the place from which they a
 but they must fulfill the will of their Lord,
 not at all regarding what befals them therein.
 
+//Part 4 of 6
+
+[.numbered]
 4+++.+++ The fourth ground or consideration to justify
 their law of banishment and death against the QUAKERS,
 is drawn from "`the right and propriety which every man hath in his own house and land,
@@ -1429,6 +1489,7 @@ contrary to their express prohibition?
 If, in such violent and bold attempts, they lose their lives, they may thank themselves,
 as the blamable cause, and authors of their own death.`"
 
+[.discourse-part]
 Answer.
 It is no invasion, nor intrusion,
 for any messengers and servants of the Lord to enter
@@ -1443,6 +1504,7 @@ or his return with another message (for the Lord, if he please,
 may send him again) should fall upon him and kill him;
 upon whose head would this man`'s blood light?
 
+[.numbered]
 2+++.+++ If men will needs have it go for an invasion, it is an invasion of a spiritual nature,
 and the defence from it cannot be by carnal weapons.
 Killing of men`'s persons is not the way to suppress either truth or error.
@@ -1455,6 +1517,7 @@ by the sufferings of the witnesses to it.
 Nay, my friends, if ye will defend yourselves from this invasion,
 ye must get better weapons.
 
+[.numbered]
 3+++.+++ Is this your rule concerning any that shall come in the name of the Lord;
 that if they be not constables, or other earthly officers, ye will banish them,
 and put them to death?
@@ -1464,6 +1527,9 @@ but the Lord in his day will clear his servants and messengers,
 though they have not been constables,
 and lay it upon the heads of them who have unrighteously shed it.
 
+//Part 5 of 6
+
+[.numbered]
 5+++.+++ The fifth ground or consideration,
 whereby they justify their law of banishment and death against the Quakers, is this:
 "`Corruption of mind and judgment is a great infection and defilement,
@@ -1483,6 +1549,7 @@ but the wolves will break in amongst them,
 it is easy to see what the shepherd or keeper of
 the sheep may lawfully do in such a case.`"
 
+[.discourse-part]
 Answer.
 It is granted, that the corruption of the mind and judgment is defiling and infectious;
 and therefore every heart that knows the preciousness of truth,
@@ -1576,6 +1643,9 @@ there hath been bad work made with the magistrate`'s sword; the witnesses,
 upon every appearance and breaking forth of God`'s truth in them,
 having been liable to feel the smart of it.
 
+//Part 6 of 6
+
+[.numbered]
 6+++.+++ Their sixth and last ground and consideration,
 whereby they justify their law of banishment and death against the Quakers, is this:
 "`It was the commandment of the Lord Jesus unto his disciples,
@@ -1601,6 +1671,7 @@ and make disturbance among his people,
 they choose to go contrary to the express direction of Jesus Christ,
 and the approved example of his saints, to the hazard and peril of their own lives.`"
 
+[.discourse-part]
 Answer.
 Afflictions, tribulations, trials, and persecutions are not to be fled from,
 but to be borne and passed through to the kingdom,
@@ -1715,6 +1786,7 @@ which are of great concernment to you,
 and deserve to be weighed by an equal hand in the equal balance,
 without prejudice or partiality.
 
+[.numbered]
 1+++.+++ Consider meekly and humbly,
 whether the Scriptures be the rule of the children of the new covenant.
 For if the Scripture was not intended by God for the rule, and ye take it to be the rule,
@@ -1729,6 +1801,7 @@ besides our faithful testimony from the sight of the thing in the true, eternal 
 weigh our arguments from the Scripture; many are mentioned in our writings;
 consider at present of these three.
 
+[.numbered]
 1+++.+++ The Scripture is an outward rule or law; but the Scripture saith,
 the law of the new covenant shall be an inward law.
 It is written in the prophets, that all the children of the new covenant,
@@ -1742,6 +1815,7 @@ The covenant is inward, the teacher inward, the writing inward,
 the law inward: and there it is to be read, learned, and known,
 where the spirit teacheth and writeth it.
 
+[.numbered]
 2+++.+++ Scripture (or the writings of Moses and the prophets) was not
 the law of the children of the new covenant (as such),
 not in the time of the old covenant.
@@ -1787,6 +1861,7 @@ The outward law was but a shadow of good things to come, it made nothing perfect
 but David knew a perfect law, "`The law of the Lord is perfect,
 converting the soul.`" Ps. 19:7.
 
+[.numbered]
 3+++.+++ The Scriptures of the New Testament never call themselves the rule,
 but they call another thing the rule; they call the writings of God`'s spirit,
 in the hearts of his people, the laws of the new covenant, Heb. 8:10.
@@ -1845,6 +1920,7 @@ and the veil rent which hath overspread all nations,
 and covered professors generally in this night of antichristian darkness,
 and universal apostasy from the living power.
 
+[.numbered]
 2+++.+++ Consider whether the Scripture be your rule or no?
 that is, whether in singleness of heart ye wait on the Lord,
 to open the Scriptures by his spirit,
@@ -1935,6 +2011,7 @@ whom do they serve?
 and whither do they run themselves, and lead many other poor souls,
 whom they pretend to be helpful to save?
 
+[.numbered]
 3+++.+++ Consider whether ye did not flee from the cross,
 in your transplanting into New England, and so let up that part in you there,
 which should have been kept down by the cross here,
@@ -1967,6 +2044,7 @@ nor keep you tender, having once lost that cross which was appointed of God to d
 for all crosses do not break, humble, or keep the heart low and meek;
 but such as are sent and sanctified by God thereunto.
 
+[.numbered]
 4+++.+++ Consider, when ye came to New England, whether tenderness grew up in you,
 and was abundantly exercised towards such as might differ from you:
 or whether ye were as eager for the way that ye thought to be right,
@@ -1987,6 +2065,7 @@ In this fleshly part there is a persecuting spirit,
 which if it be not kept down by the power of God, though it loves not to be persecuted,
 yet will soon be persecuting.
 
+[.numbered]
 5+++.+++ Did you feel yourselves grow in the inward life, upon coming into New England;
 or did that begin to flag and wither,
 and your growth chiefly consist in form and outward order,
@@ -2018,6 +2097,7 @@ but as worldly interests are followed and kept up, the fleshly part thrives,
 and the life decays and suffers, even till at length it come under death,
 and then death hath the dominion.
 
+[.numbered]
 6+++.+++ Consider whether your chief strength of setting
 up your church-government and order at first,
 and of bringing persons into it, and of preserving them in it,
@@ -2043,6 +2123,7 @@ for that is indeed the only strength of the true religion,
 both of the inward and outward part thereof; in that it begins, by that it is preserved,
 and there also it grows, and is perfected.
 
+[.numbered]
 7+++.+++ Consider (for it lies upon me to press it yet further,
 and lay it more home to you for your good) whether the persecuting
 spirit did not take its advantage of assaulting you,
@@ -2119,12 +2200,19 @@ and not so much as an offence because of any difference
 (much less heart-burnings and persecutions);
 but a sweet waiting on the Lord for every one`'s growth in their several ranks and stations.
 
+====
+
 [.blurb]
 === Since my waiting on the LORD for the Presence and Guidance of his Spirit, in the examining the foregoing Grounds and Considerations, there came forth an appendix to JOHN NORTON`'s Book, wherein are laid down some further Grounds by way of justifying of their Proceedings; which, for their Sakes, and likewise on the Behalf of the Truth and People of GOD, I may also say somewhat to.
 
-1+++.+++ THEY insinuate an argument concerning "`the not suffering of evil,
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ They insinuate an argument concerning "`the not suffering of evil,
 which`" they say "`is common to all that fear God, with themselves.`"
 
+[.discourse-part]
 Answer.
 Evil is to be resisted; but in God`'s way, according to God`'s will,
 and not according to the will of the flesh.
@@ -2143,10 +2231,12 @@ than to overcome it by an unrighteous weapon.
 "`Woe to them that go down to Egypt for help, and stay on horses,
 and trust in chariots.`" Isa. 31:1.
 
+[.numbered]
 2+++.+++ A second argument is taken from "`the sole cause of (their) transplanting,
 which`" they say "`was to enjoy liberty, to walk peaceably in the faith of the gospel,
 according to the order of the gospel.`"
 
+[.discourse-part]
 Answer.
 That there was an honest intent in many of them in transplanting into New England,
 I do not doubt; though whether they had a sufficient warrant from God to transplant,
@@ -2217,11 +2307,15 @@ and to try what comes forth in his name, whether it be of him or no,
 that they may not lose the good as it breaks forth, nor be deceived with the evil,
 as it gets into and appears in the shape and likeness of the good.
 
+//This begins a section of 6 answers that are not set off by questions or objectons. I put them in where I thought they should be.
+
+[.discourse-part]
 Now the drift of the argument lies in this,
 that this liberty they cannot enjoy without a non-toleration of others.
 Toleration of any but themselves, and their own way, disturbs their peace, their faith,
 their order.
 
+[.discourse-part]
 Answer.
 The true liberty, the true faith, the true order of the gospel, was enjoyed formerly,
 without this power of suppressing others by carnal weapons, and violent laws.
@@ -2254,6 +2348,9 @@ to which the spirit of the Lord alone can make them willing,
 nor to fall upon them because they were unwilling.
 This is from the dragon, wherever it is found.
 
+//the objection or questioin of for the next answer seems to start more at the end of this paragraph, and I wasn't sure what to do.
+
+[.discourse-part]
 This then is the great matter of controversy,
 you account it your liberty not to tolerate;
 and here stands your peace and religion (which was
@@ -2275,6 +2372,7 @@ compared with "`a manifest and greatest hazard of toleration unto the country;
 their absence from hence is no detriment to them;
 their presence here threatens no less than the ruin of us all.`" etc.
 
+[.discourse-part]
 Answer.
 As for outward detriment, the QUAKERS do not consider that in cases of this nature;
 but that in them which is born of God, hearing and receiving his command,
@@ -2322,10 +2420,12 @@ they have not lost the true weapon,
 and the sight of the true thing which is to be defended,
 which the arm of the Lord alone gathers, and the arm of the Lord alone preserves.
 
+[.discourse-part]
 This argument is yet further pressed from the present state of your own people,
 "`too many of them being perilously disposed`" as ye say "`to receive their doctrine,
 being already too much disaffected, if not enemies to order,`" etc.
 
+[.discourse-part]
 Answer.
 Alas! alas! have you had your order, your church-government so long up,
 and are the multitude among you yet so ready to be shaken?
@@ -2352,6 +2452,7 @@ by terming them "`discontented and unconscionable,`"
 because their spirits are not hardened by your form;
 but yet retain some tenderness towards God, his truths, and people.
 
+[.discourse-part]
 But why do ye charge following the light within so deeply,
 as to be "`a giving up of men`'s selves to their own inclinations,`"
 and that it "`immediately canonizeth them for saints,
@@ -2359,6 +2460,7 @@ dischargeth them from subjection, both civil and sacred,
 and from the Scriptures as the rule of life; and by virtue of this their saintship,
 entitles to the estates and dignities of all who are not of their minds,`" etc.
 
+[.discourse-part]
 Answer.
 Surely if ye were guided by the light within,
 ye would be preserved from such kind of injuriousness both to persons and principles.
@@ -2414,10 +2516,12 @@ for his name`'s sake whom we are called to serve,
 and whom we do serve in following and obeying the light of his spirit in us,
 which hath led us to the true knowledge of God, and to life and peace with him.
 
+[.discourse-part]
 About the close of this argument, for the further strengthening of it, it is said,
 "`duty is not opposite to duty: passiveness for the truth,
 and activeness against the enemies of truth, are both duties in their season.`"
 
+[.discourse-part]
 Answer.
 Every kind of activeness against the enemies of the truth is not duty;
 for some kind is sinful.
@@ -2517,6 +2621,7 @@ but still it is the subtlety of the persecuting spirit
 to hide the persecutions of the present age,
 under an appearance of zeal for God, and of justice against offenders.
 
+[.numbered]
 3+++.+++ In the next place it is said, on the QUAKERS`' behalf,
 that they are the lambs of Christ.
 
@@ -2535,6 +2640,7 @@ Against this, that place, John 5:31. is alleged; "`If I bear witness of myself,
 my witness is not true:`" whereupon it is said thus, Had not Christ been God,
 the reason of the Jews had been good against him.
 
+[.discourse-part]
 Answer.
 Doth not the spirit of God dwell in the sons of God?
 And doth not the spirit of God bear witness in them that they are his children?
@@ -2667,11 +2773,13 @@ of the law of the new covenant written in the heart, of the Spirit put within, H
 and by this law is the true believer fully as able to try, as they were by the former;
 but without this, a Christian`'s trial of things is not so certain as theirs was under the law.
 
+[.numbered]
 4+++.+++ The force of the fourth argument is to this effect,
 "`That the dictate of the conscience is not a sufficient
 plea in case of mere and single ignorance,
 much less in wilful and affected ignorance.`"
 
+[.discourse-part]
 Answer.
 The dictate of conscience is not made a plea by us;
 but the answering and obeying the light of Christ in our consciences,
@@ -2806,9 +2914,11 @@ the fear of Him who can destroy the soul;
 and not such a bloody and fiery trial,
 as your proceedings and writings too much savor of.
 
+[.numbered]
 5+++.+++ That a regular defence of the truth by the godly orthodox magistrate,
 and others respectively, is not persecution.
 
+[.discourse-part]
 Answer.
 To bring the sword of the magistrate into the work of Christ`'s Spirit and power,
 this is irregular; and it doth execution irregularly, cutting down the person,
@@ -2928,14 +3038,17 @@ It were better for you to charge it upon your own hearts,
 than to have the Lord charge it upon you,
 when you come to stand before him to be eternally judged.
 
+====
+
 [.blurb]
 === There remains yet another Paper (printed here in England) called, "`A True Relation of the Proceedings against certain QUAKERS, at the General Court of Massachusetts, holden at Boston in New England, October 18th, 1659.`"
 
-THE arguments therein,
+The arguments therein,
 whereupon they would have their proceedings pass for just,
 and not be accounted persecution, are these: "`The authority of this court,
 the laws of the country, the laws of God, and their gradual proceedings.`"
 
+[.discourse-part]
 Answer.
 Persecutors are very seldom (if at any time) without these pleas for themselves.
 Had not the bishops as fair a right to this plea,
@@ -2988,16 +3101,26 @@ their whole course of proceedings will prove in truth
 
 ==== Now the Grounds of their Proceedings they mention to be these:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ "`Their having received intelligence from good hands from Barbados and England,
 of the pernicious opinions and practices of the QUAKERS.`"
 
+[.numbered]
 2+++.+++ "`Their professed tenets`" (how well you have acquitted yourselves herein,
 let all that fear God judge).
 
+[.numbered]
 3+++.+++ "`Their turbulent and contemptuous behavior to authority.`"
 
+[.numbered]
 4+++.+++ "`Their designs to undermine and ruin the order and peace here established.`"
 
+====
+
+[.discourse-part]
 Answer.
 He that is willing to receive shall never want intelligence
 against the truths and people of God,
@@ -3090,19 +3213,21 @@ his truths, and people, even to your utter and eternal destruction!
 Little do ye see, poor deceived hearts,
 what a narrow step there is between you and the pit.
 
-=== THE AUTHORITY AND GOVERNMENT WHICH CHRIST EXCLUDED OUT OF HIS CHURCH, etc.
+=== The Authority and Government Which Christ Excluded out of His Church, etc.
 
-Matt. 20:25-28.
+[quote.scripture, , Matt. 20:25-28]
+____
 
-"`But Jesus called them unto him, and said,
+But Jesus called them unto him, and said,
 Ye know that the princes of the Gentiles exercise dominion over them,
 and they that are great exercise authority upon them.
 But it shall not be so among you; but whosoever will be great among you,
 let him be your minister: and whosoever will be chief among you, let him be your servant.
 Even as the Son of man came not to be ministered unto, but to minister,
-and to give his life a ransom for many.`"
+and to give his life a ransom for many.
+____
 
-HERE Christ cuts off that power and authority
+Here Christ cuts off that power and authority
 which grows up in the corrupt nature of man,
 which was ever and anon springing up even in the disciples.
 Here he wholly excludes it out of the church,
@@ -3164,11 +3289,13 @@ into the vessel of life in another; and the words, though ever so true,
 cannot convey life to another, but as the living vessel opens in the one,
 and is opened in the other.
 
+[.discourse-part]
 Question.
 But how shall this spirit be kept out, or kept down,
 that it may not hurt the disciple in whom it ariseth; or if it do,
 that the hurt may remain to himself, and may not prejudice the church?
 
+[.discourse-part]
 Answer.
 When this spirit begins to arise up in any, so soon as ever he perceives it,
 in that which discovers it, he is to fight against it; laying himself so much the lower,
@@ -3268,6 +3395,7 @@ and think to make others bow thereto; but wait in their service,
 till the Lord make way into men`'s hearts, and plant his truth there;
 and upon him also must they wait for the watering and growth of it.
 
+[.discourse-part]
 Question.
 But is there to be no greatness, no authority among the disciples of Jesus,
 or in the church of Christ?
@@ -3277,6 +3405,7 @@ What a confused building will this be!
 Surely this will not long remain a Zion, but soon become a Babylon,
 even a heap of disorder and confusion.
 
+[.discourse-part]
 Answer.
 There is to be no such kind of greatness, no such kind of authority;
 yet there is both a greatness and authority suitable to the state of disciples;
@@ -3496,7 +3625,11 @@ the great care must be to keep it within its bounds,
 that nothing else govern but the Spirit,
 and that the government be extended only unto that which is to be governed.
 
-First, Care must be had that nothing govern in the church of Christ,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ Care must be had that nothing govern in the church of Christ,
 but the spirit of Christ: that nothing else teach; nothing else exhort;
 nothing else admonish and reprove; nothing else cut off and cast out.
 Every minister in the church is to watch over his own spirit,
@@ -3522,7 +3655,7 @@ yet if he keep not low therein,
 but lifteth up himself because thereof above his brethren, may easily err himself,
 and draw aside others into his error.
 
-Secondly, Care must be had that the conscience be kept tender, that nothing be received,
+_Secondly,_ Care must be had that the conscience be kept tender, that nothing be received,
 but according to the light in the conscience.
 The conscience is the seat of faith;
 and if it be not kept close to the light which God lighteth there,
@@ -3535,6 +3668,8 @@ by setting up his light there, and leading the soul by that light;
 so that light must still be eyed,
 and according to its growth and manifestation in the conscience,
 so must the soul stand still, or go on.
+
+====
 
 The great error of the ages of the apostasy hath been,
 to set up an outward order and uniformity, and to make men`'s consciences bend thereto,
@@ -3610,11 +3745,13 @@ that was the thing which nourished their souls up to God,
 though many of them knew not distinctly what it was that nourished them,
 nor how they came by it.
 
+[.discourse-part]
 Objection.
 But is not uniformity lovely;
 and doth not the apostle exhort Christians to be of one mind;
 and were it not a sweet thing if we were all of one heart and one way?
 
+[.discourse-part]
 Answer.
 Yea, uniformity is very lovely; and to be desired and waited for,
 as the Spirit of the Lord, which is one, leads and draws into one.
