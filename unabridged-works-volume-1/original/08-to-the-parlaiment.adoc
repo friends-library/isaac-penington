@@ -4,8 +4,8 @@
 [.section-date]
 1659
 
-THAT there hath been a backsliding and turning aside from
-the GOOD OLD CAUSE even by the army (who formerly were glorious
+That there hath been a backsliding and turning aside from
+the _Good Old Cause_ even by the army (who formerly were glorious
 Instruments in the hand of God) hath been lately confessed,
 and that they have cause, and desire to take shame to themselves.
 
@@ -23,6 +23,10 @@ and the corrupt course it hath run in these late years,
 which would be narrowly searched into, and considered of:
 Some few general ones I may mention.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The name of God hath been blasphemed in the sight of the whole earth,
 and that holy Spirit and Power (which many hearts can witness was the beginner and carrier
 on of this Work) made a scoff and derision to the enemies of truth in these nations,
@@ -45,6 +49,7 @@ earthly, corrupt interest set up, and men countenanced and advanced,
 not according to their fidelity to the Good Old Cause,
 but according to their compliance with this new selfish interest.
 
+[.numbered]
 2+++.+++ The great work of God, both in these nations, and in the world,
 hath hereby been turned backward.
 In these nations,
@@ -63,6 +68,7 @@ and how far this power should have gone on in his work, by the leadings of his S
 had they waited in his counsel, kept to their Leader,
 and not turned aside to another spirit, and to other ends and interests, who can tell?
 
+[.numbered]
 3+++.+++ Great and vast treasures have been expended,
 for the maintaining of you in greatness in your backslidings,
 and the poor have groaned to bear the burden: and while ye have grown thus high,
@@ -70,6 +76,7 @@ extravagant, and excessive,
 many (who remained faithful) have wanted even that which was their due,
 and have undergone great hardships thereby.
 
+[.numbered]
 4+++.+++ The account of all the blood which hath been shed lies somewhere.
 Was it for a thing of nought?
 Was it of no value?
@@ -91,6 +98,8 @@ and whom no power or greatness on earth shall be able to hinder from arising.
 Remember these things, O ye backsliding children, and be abased;
 that the Lord may forgive you,
 and may vouchsafe yet once more to make use of you in his service.
+
+====
 
 But I am jealous over you with a godly jealousy, lest ye should confess, and turn back,
 not with an upright heart, but feignedly: and if so,
@@ -204,10 +213,17 @@ and he will at length bring forth an instrument, which his soul can take pleasur
 and which he will make faithful to him in his work.
 O nation of England, wait on the Lord! wait on the Lord, O my soul!
 
+[.signed-section-context-close]
 From Chalfont in Bucks, the 18. of the 3. mon.
 1659.
+
+[.postscript]
+====
 
 This from one who is a friend to the Commonwealth, a lover of true Freedom,
 and desires the good of all men.
 
+====
+
+[.signed-section-signature]
 Isaac Penington the younger.
