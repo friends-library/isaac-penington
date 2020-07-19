@@ -97,7 +97,11 @@ by carnal reasonings and consultings,
 accommodating things to the present state of the nation,
 and not to the plain and clear measure of God`'s truth.
 
-First, See what the materials were whereof this church was built.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ See what the materials were whereof this church was built.
 Were they materials fit to make up a true church of?
 Was it built up of a people truly converted to God?
 Of persons changed in heart?
@@ -115,7 +119,8 @@ Consider seriously in the sight of God (who looketh both
 forward and backward upon things with a true eye),
 whether it hath been thus or no?
 
-Secondly, See what kind of ministry was then set up.
+[.numbered]
+_Secondly,_ See what kind of ministry was then set up.
 Was it a new ministry (as John Huss, that famous Bohemian martyr,
 prophesied should arise, and as Luther saw the necessity of,
 utterly disclaiming the deriving of orders from Popish bishops)?
@@ -150,7 +155,8 @@ Oh, how blind have men been, that they should go about, and take such pains,
 to derive a succession of the true ministry from
 the ministers of prophets of the false church!
 
-Thirdly, What kind of maintenance was set up for this ministry?
+[.numbered]
+_Thirdly,_ What kind of maintenance was set up for this ministry?
 Was it a gospel maintenance?
 Was it that they should live of the gospel,
 which cannot but open men`'s spirits to the true ministers thereof?
@@ -160,14 +166,16 @@ And was this maintenance like unto, or the same with,
 the maintenance which the Popish ministry had before in this nation,
 for their idolatrous service?
 
-Fourthly, What kind of worship was it, which was set up?
+[.numbered]
+_Fourthly,_ What kind of worship was it, which was set up?
 Was it the worship of the gospel, which is in spirit and truth?
 Or was it a form of worship invented by man,
 and so accommodated to the present temper of the nation, that they might,
 with the more ease and willingness, step out of Popery into it,
 because of its nearness and likeness thereto?
 
-Fifthly, What kind of church-government was set up?
+[.numbered]
+_Fifthly,_ What kind of church-government was set up?
 Was it a pure, spiritual government?
 Was it put into the hands of the Spirit?
 (For nothing is to govern, or can rightly govern over the spirits of Christ`'s people,
@@ -176,14 +184,16 @@ but the spirit of Christ.) Or did men frame up a church-government by their wisd
 and put it into the hands of such as might exercise it without, yea, and against,
 the Spirit?
 
-Sixthly, What kind of order was set up in this church?
+[.numbered]
+_Sixthly,_ What kind of order was set up in this church?
 Was it the true, gospel order?
 Was it the order of Christ`'s spirit, whereby the carnal wisdom of man might be quenched,
 and his spirit have scope?
 Or was it a carnal order, whereby the carnal wisdom, learning, knowledge,
 and arts of man might have scope, and the spirit in its motions be quenched?
 
-Seventhly, By what wisdom was the common prayer-book compiled and set up; and surplices,
+[.numbered]
+_Seventhly,_ By what wisdom was the common prayer-book compiled and set up; and surplices,
 crosses, and other ceremonies enjoined?
 Was it by the wisdom of God`'s spirit,
 for the building up of the spirits of his people in the faith?
@@ -192,12 +202,15 @@ And what sort of persons were they who did most contend for, and were most pleas
 these?
 Were they, for the generality, the stricter, or the looser sort?
 
-Eighthly, How came it about,
+[.numbered]
+_Eighthly,_ How came it about,
 that the supreme magistrate of this nation was made
 chief head and governor of this church under Christ?
 Was this from Christ`'s institution, or of man`'s wisdom and invention?
 If of man`'s inventing wisdom, then against Christ, then of antichrist`'s spirit,
 who exalteth that which is not of Christ, to sit and govern in his temple.
+
+====
 
 Oh! weigh these things, look about thee, O England!
 O rulers, teachers, and people look about you!
@@ -301,7 +314,8 @@ O England!
 England! can God always suffer these things?
 Will not his hand at length be stretched forth against thee?
 
-Given forth by ISAAC PENINGTON the Younger, in the fear and dread of the Most High,
+[.signed-section-context-close]
+Given forth by Isaac Penington the Younger, in the fear and dread of the Most High,
 the 14th of the 12th Month, 1659.
 
 === Remark
