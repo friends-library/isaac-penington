@@ -296,7 +296,7 @@ and fruit will wither and die daily, and truth come to grow safely.
 === The Axe Laid to the Root of the Old Corrupt Tree
 
 [.section-summary-preface]
-A DISTINCTION between the FAITH which is of MAN, and the FAITH which is of God:
+A _Distinction_ between the _Faith_ which is of _Man_, and the _Faith_ which is of God:
 One whereof is the Faith of Zion, the other the Faith of Babylon:
 The one laying hold on Christ, as he is revealed the King of Life in Zion;
 the other lays hold on a Historical Relation of Christ, the Fame whereof hath sounded in Babylon.
@@ -353,7 +353,7 @@ And then consider where it is shut out, what it cannot do, what change it cannot
 what it cannot conform to: that so the true distinction may be let into the mind,
 and not a foundation laid of so great a mistake in a matter of so great concernment.
 
-[.numbered-block]
+[.numbered-group]
 ====
 
 [.numbered]
@@ -551,7 +551,7 @@ Pharisee-like, can only receive a relation of the letter concerning the kingdom.
 === Some Assertions
 
 [.section-summary-preface]
-Concerning FAITH, its Nature, Rise, etc., with its Receiving of CHRIST,
+Concerning _Faith,_ its Nature, Rise, etc., with its Receiving of _Christ,_
 and what follows thereupon; namely, a Growing in his living Virtue;
 with a Knowledge of the true, living, unerring Rule, and Obedience to it in the Life.
 
@@ -937,8 +937,13 @@ Do not provoke the tender heart of the Lamb against you,
 who also hath the voice of a lion,
 and can roar terribly out of his holy mountain against the enemies of his life and Spirit.
 
-[.old-style]
-=== A Necessary Warning / And of very great Importance to all that call themselves CHRISTIANS, and hope for a Share in the Book of LIFE, and the escaping the Damnation of Hell; which is their Portion whose Names are written in the Book of Death, and blotted by God out of the Book of LIFE, though they hope to find them written there.
+=== A Necessary Warning
+
+[.section-summary-preface]
+And of very great Importance to all that call themselves _Christians,_
+and hope for a Share in the Book of _Life,_ and the escaping the Damnation of Hell;
+which is their Portion whose Names are written in the Book of Death,
+and blotted by God out of the Book of LIFE, though they hope to find them written there.
 
 ==== Hear and Consider
 
@@ -1327,7 +1332,7 @@ and how he himself hath been bewitched and cozened with the false, instead of th
 As for instance:
 
 [.discourse-part]
-_Prayer;_ that is generally taken for a means: "`Ask, and it shall be given you; seek,
+Prayer; that is generally taken for a means: "`Ask, and it shall be given you; seek,
 and ye shall find; knock, and it shall be opened to you.
 If parents, which are evil, know how to give good gifts to their children;
 how much more shall the heavenly Father give the Holy Spirit
@@ -1424,7 +1429,7 @@ and are built into the living city, which is made without hands,
 and without any of the tools of man`'s wisdom.
 
 [.blurb]
-=== A Brief HISTORY of the STATE of the CHURCH since the Days of the APOSTLES, with the living Seal to it; which he that hath eternal Life abiding in him can read and witness; but that Wisdom, Zeal, and Devotion, which is in the Death, cannot.
+=== A Brief _History_ of the _State_ of the _Church_ since the Days of the _Apostles,_ with the living Seal to it; which he that hath eternal Life abiding in him can read and witness; but that Wisdom, Zeal, and Devotion, which is in the Death, cannot.
 
 After the universal degeneration and corruption of the Jewish state,
 and the putting an end to the shadows thereof,
