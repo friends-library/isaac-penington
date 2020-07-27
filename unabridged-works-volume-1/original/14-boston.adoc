@@ -47,7 +47,7 @@ Matt. 11:25-26
 ____
 
 [.blurb]
-=== To the Ruler New England
+=== To the Rulers, Teachers, and People of New England
 
 Many a weary step hath my poor soul fetched,
 and many difficulties and hardships hath it met with in its pursuit after truth.
@@ -858,8 +858,6 @@ so encompassed with the walls and bulwarks of salvation,
 as that they feel no condemnation for sin, but a continual justification of the life;
 being taught, led, and enabled to walk, not after the flesh, but after the spirit. Rom. 8:1.
 
-//So it seems like this should be marked for the answer that follows, because without it, there are just two random answers in a row.
-
 [.discourse-part]
 From what they have said concerning this opinion of perfection (as they call
 it) they draw an argument against their other doctrines in these words.
@@ -901,7 +899,6 @@ but without hope of deliverance in this life;
 and refer the hope to that day wherein there is no more working out of redemption,
 but the eternal judgment of the tree as it falls.
 
-//Here is where I think what this 2nd answer in a row on line 914 is answering. 
 Now having, after this manner,
 proved that the doctrines of the Quakers are destructive
 to the fundamental truths of religion,
@@ -1006,8 +1003,6 @@ and now must maintain it;
 and it is exceeding hard for you (being thus deeply engaged in the sight of the
 nations) to come to a sober and serious consideration of the state of the case,
 as it stands before the Lord.
-
-//HEre is part 2 of the 6 truths
 
 [.numbered]
 2+++.+++ The second ground or consideration which they hold forth to clear their law
@@ -1428,8 +1423,6 @@ but the fleshly part missing of the honor which is pleasing to it,
 and being offended thereby, is ready to apprehend that to be spoken and done in contempt,
 which is spoken and done in the humility and fear of the Lord.
 
-//Part 3 of 6 truths
-
 [.numbered]
 3+++.+++ A third ground or consideration to justify their
 law of banishment and death of the QUAKERS,
@@ -1463,8 +1456,6 @@ It is not in this case as it is in ordinary banishment upon civil accounts,
 where it is in men`'s will and power to abstain from the place from which they are banished;
 but they must fulfill the will of their Lord,
 not at all regarding what befals them therein.
-
-//Part 4 of 6
 
 [.numbered]
 4+++.+++ The fourth ground or consideration to justify
@@ -1526,8 +1517,6 @@ Well! ye may judge by your law while your day lasts;
 but the Lord in his day will clear his servants and messengers,
 though they have not been constables,
 and lay it upon the heads of them who have unrighteously shed it.
-
-//Part 5 of 6
 
 [.numbered]
 5+++.+++ The fifth ground or consideration,
@@ -1642,8 +1631,6 @@ But in the midst, between these two seasons,
 there hath been bad work made with the magistrate`'s sword; the witnesses,
 upon every appearance and breaking forth of God`'s truth in them,
 having been liable to feel the smart of it.
-
-//Part 6 of 6
 
 [.numbered]
 6+++.+++ Their sixth and last ground and consideration,
@@ -2203,7 +2190,7 @@ but a sweet waiting on the Lord for every one`'s growth in their several ranks a
 ====
 
 [.blurb]
-=== Since my waiting on the LORD for the Presence and Guidance of his Spirit, in the examining the foregoing Grounds and Considerations, there came forth an appendix to JOHN NORTON`'s Book, wherein are laid down some further Grounds by way of justifying of their Proceedings; which, for their Sakes, and likewise on the Behalf of the Truth and People of GOD, I may also say somewhat to.
+=== Since my waiting on the LORD for the Presence and Guidance of his Spirit, in the examining the foregoing Grounds and Considerations, there came forth an appendix to _John Morton`'s_ Book, wherein are laid down some further Grounds by way of justifying of their Proceedings; which, for their Sakes, and likewise on the Behalf of the Truth and People of _God,_ I may also say somewhat to.
 
 [.numbered-group]
 ====
@@ -2307,8 +2294,6 @@ and to try what comes forth in his name, whether it be of him or no,
 that they may not lose the good as it breaks forth, nor be deceived with the evil,
 as it gets into and appears in the shape and likeness of the good.
 
-//This begins a section of 6 answers that are not set off by questions or objectons. I put them in where I thought they should be.
-
 [.discourse-part]
 Now the drift of the argument lies in this,
 that this liberty they cannot enjoy without a non-toleration of others.
@@ -2347,8 +2332,6 @@ from him to force men to that way of religion and worship,
 to which the spirit of the Lord alone can make them willing,
 nor to fall upon them because they were unwilling.
 This is from the dragon, wherever it is found.
-
-//the objection or questioin of for the next answer seems to start more at the end of this paragraph, and I wasn't sure what to do.
 
 [.discourse-part]
 This then is the great matter of controversy,
