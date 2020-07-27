@@ -124,7 +124,11 @@ that truth which they once had some knowledge of,
 and some unity with.
 Thus it was in the Jewish state: now come to the apostles`' days.
 
-First, They had all the wise men of that age against them; all the wise Greeks,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ They had all the wise men of that age against them; all the wise Greeks,
 all the wise Jews, the learned men, the able disputants of all sorts.
 The Greeks could not find wisdom in that knowledge of Christ which they held forth,
 nor could the Jews find power in it, 1 Cor. 1:22.
@@ -145,7 +149,8 @@ yet were strangers and enemies to the truth, because they joined to that wisdom,
 and to that learning and comprehension of the Scriptures,
 out of the sight whereof it came.
 
-Secondly, For such as did own Christ after the flesh,
+[.numbered]
+_Secondly,_ For such as did own Christ after the flesh,
 such as were convinced by his miracles (as Nicodemus
 and many of the honester sort of the Jews were),
 yet Christ did not commit himself to them. John 2:24.
@@ -162,7 +167,8 @@ there were many could get the form, and gain advantage thereby to the fleshly wi
 to withstand the power. 2 Tim. 3:5.
 2 Cor. 11:13.
 
-Thirdly, There were such as had tasted of the heavenly gift,
+[.numbered]
+_Thirdly,_ There were such as had tasted of the heavenly gift,
 and of the powers of the world to come, and yet fell away. Heb. 6:4-6.
 There were such as denied the Lord that bought them. 2 Pet. 2:1.
 Such as fell from the love of the truth to the love of their vomit,
@@ -173,6 +179,8 @@ but kept not their habitation,
 but were swept down from thence to the earth by the dragon`'s tail, Rev. 12:4.
 these are the noblest champions (in the earthly wisdom,
 and for a corrupted estate and false image) of all the rest.
+
+====
 
 Now as the prophets of God among the Jews had these enemies,
 and as the apostles also had these enemies,
@@ -278,6 +286,7 @@ until he arrive with him at the justification of the life, which the fleshly wis
 nor any of his knowledge of the things of God (as they are
 held in the fleshly part) must never arrive with him at.
 
+[.offset]
 Hath not God made foolish the wisdom of this world?
 
 The wisdom of this world is precious in the eye of the world;
@@ -288,7 +297,11 @@ and makes the wisdom of the world appear foolish to all the single and upright-h
 who thirst after and wait for the revelation of his truth.
 Now two ways especially the Lord makes the folly of this world`'s wisdom appear.
 
-First, In that by all their wisdom they cannot find out the true knowledge of God. 1 Cor. 1:21.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ In that by all their wisdom they cannot find out the true knowledge of God. 1 Cor. 1:21.
 "`The world by wisdom knew not God.`" Though
 there be an exceeding desire kindled in them to know God;
 though they take all the ways that heart can imagine to attain their desires;
@@ -303,7 +316,8 @@ but only feeds and pleases the earthly part, the earthly understanding, the eart
 the earthly desires and affections; even the man`'s part, the man`'s spirit,
 the man`'s nature; which, though elevated and raised ever so high, is still but earth.
 
-Secondly, In that all their wisdom cannot teach them to come down to, to submit to,
+[.numbered]
+_Secondly,_ In that all their wisdom cannot teach them to come down to, to submit to,
 to come into God`'s way of having their wisdom crucified,
 and that raised up in them which might receive the truth.
 This they can never learn in the fleshly wisdom.
@@ -329,6 +343,8 @@ At this all the zealous sacrificers, teachers, and professors, out of the life,
 rage and are mad,
 and would break the cords and bands wherewith this
 strives to bind them unto God`'s altar.
+
+====
 
 Now look over all ages: Could the wise heathens stoop to God`'s dispensation to the Jews?
 Was it not foolishness and abomination to them?
@@ -415,4 +431,5 @@ of the things of God in this world`'s spirit and wisdom,
 and waiteth in the humility and fear of the Lord, first to be made a fool,
 that afterwards he may be made wise unto everlasting life.
 
+[.signed-section-signature]
 I+++.+++ P.
