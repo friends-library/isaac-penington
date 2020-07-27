@@ -1,7 +1,7 @@
 [#additional-testimonies, short="Additional Testimonies for Isaac Penington"]
 == Appendix / Additional Testimonies for Isaac Penington
 
-=== The Testimony of WILLIAM PENN, concerning ISAAC PENINGTON
+=== The Testimony of _William Penn,_ concerning _Isaac Penington_
 
 As the memory of the just is blessed,
 so to me there seems a blessing upon those that have a right remembrance of them:
@@ -260,16 +260,21 @@ God`'s Lamb, and our heavenly Redeemer; to whom with the Father be all honor, gl
 might, majesty, and dominion, through all the ages of his church, and forever.
 Amen.
 
-WILLIAM PENN
+[.signed-section-signature]
+William Penn
 
+[.signed-section-context-close]
 Westminster, the 12th of the 12th month, 1680-81
 
-=== The Testimony of GEORGE WHITEHEAD, concerning ISAAC PENINGTON
+=== The Testimony of _George Whitehead,_ concerning _Isaac Penington_
+
+[quote.scripture, , Ps. 116:15]
+____
 
 Precious in the sight of the Lord is the death of his Saints.
-Ps. 116:15
+____
 
-THAT the Lord God, who is the Father of mercies,
+That the Lord God, who is the Father of mercies,
 is truly good unto all that wait for him, and diligently seek after him,
 hath been signally manifested and experienced in our days, as in former ages;
 and that he fails not to answer the desire and travail
@@ -381,11 +386,13 @@ pure religion, and Christianity in spirit and life among men.
 The Lord of the harvest send forth more fruitful laborers
 into his harvest and vineyard! for the harvest is great.
 
+[.signed-section-signature]
 G+++.+++ W.
 
+[.signed-section-context-close]
 London, the 28th of the 6th month, 1680
 
-=== The Testimony of SAMUEL JENNINGS, concerning that faithful Servant of the LORD, and our dear Friend, ISAAC PENINGTON, whom GOD hath lately removed from us, and fixed in his Eternal Rest
+=== The Testimony of _Samuel Jennings,_ concerning that faithful Servant of the _Lord,_ and our dear Friend, _Isaac Penington,_ whom _God_ hath lately removed from us, and fixed in his Eternal Rest
 
 Strong and powerful is that excellent arm of the Lord,
 which hath been revealed and made bare in this our day;
@@ -505,9 +512,10 @@ walk in his way; in which the Lord, who gathered us into it,
 preserve us to the time of our death, that,
 with the worthies of the Lord that are gone before us, we may receive the crown of life.
 
-SAMUEL JENNINGS
+[.signed-section-signature]
+Samuel Jennings
 
-=== The Testimony of THOMAS ZACHARY, for ISAAC PENINGTON
+=== The Testimony of _Thomas Zachary,_ for _Isaac Penington_
 
 Ah! my dear and ancient friend! what shall I say of thee?
 Thou hast been a long traveller, even from thy youth, through Egypt and Babylon,
@@ -541,11 +549,12 @@ who is not the God of the dead,
 but of the living! and from the living ascend heavenly
 praises and hallelujahs to him forever and ever.
 
-THOMAS ZACHARY
+[.signed-section-signature]
+Thomas Zachary
 
-=== The Testimony of AMBROSE RIGGE, of the Life and Death of ISAAC PENINGTON
+=== The Testimony of _Abrose Rigge,_ of the Life and Death of _Isaac Penington_
 
-THE Spirit of the Lord is upon me, and the fountain of love and life is open in my soul,
+The Spirit of the Lord is upon me, and the fountain of love and life is open in my soul,
 and freely floweth towards all my dear brethren and fellow-laborers
 in the great harvest of our Lord and Master,
 who are yet in the body;
@@ -604,13 +613,15 @@ whose remembrance shall live to generations to come.
 His testimony he kept to the end, and finished his course with joy; so, on his behalf,
 let the living praise the Lord, as doth my soul at this time; even so forever.
 
-AMBROSE RIGGE
+[.signed-section-signature]
+Ambrose Rigge
 
+[.signed-section-context-close]
 Gatton in Surry, the 22nd of the 10th month, 1679
 
-=== The Testimony of ROBERT JONES, concerning ISAAC PENINGTON
+=== The Testimony of _Robert Jones,_ concerning _Isaac Penington_
 
-IN the remembrance of my dear friend deceased, I had something lived with me,
+In the remembrance of my dear friend deceased, I had something lived with me,
 to give in as in a way of testimony, according to the knowledge and sense I had of him.
 He was a man very tender in spirit, and of a broken heart before the Lord,
 as I often had a living sense thereof;
@@ -681,11 +692,12 @@ and with the souls of all my tender brethren and sisters everywhere,
 is the cry of my heart to the Lord my God;
 and I hope it will be so till time shall be no more with me in this world.
 
-ROBERT JONES
+[.signed-section-signature]
+Robert Jones
 
-=== The Testimony of THOMAS EVERDEN, concerning ISAAC PENINGTON
+=== The Testimony of _Thomas Everden,_ concerning _Isaac Penington_
 
-CONCERNING our dear friend and brother Isaac Penington,
+Concerning our dear friend and brother Isaac Penington,
 I have a testimony riseth in my heart.
 
 I, with many thousands more in this our age, day, and generation, have cause to admire,
@@ -754,9 +766,10 @@ And this upon my heart the Lord hath sealed;
 
 For by his Spirit to me it is revealed.
 
-THOMAS EVERDEN
+[.signed-section-signature]
+Thomas Everden
 
-=== The Testimony of CHRISTOPHER TAYLOR, for ISAAC PENINGTON
+=== The Testimony of _Christopher Taylor,_ for _Isaac Penington_
 
 Blessed be the God of Abraham, Isaac, and Jacob, and of all his holy ones,
 from the beginning of the world until now;
@@ -849,11 +862,12 @@ that so both small and great, professors and profane, may, as in a glass,
 see their conditions; and those that as yet have not repented, may consider betimes,
 and repent, lest they perish.
 
-CHRISTOPHER TAYLOR
+[.signed-section-signature]
+Christopher Taylor
 
-=== The Testimony of MARY PENINGTON, concerning her dear Husband ISAAC PENINGTON
+=== The Testimony of _Mary Penington,_ concerning her dear Husband _Isacc Penington_
 
-WHILST I keep silent touching thee,
+Whilst I keep silent touching thee,
 O thou blessed of the Lord and his people! my heart burneth within me.
 I must make mention of thee, for thou was a most pleasant plant of renown,
 planted by the right hand of the Lord, and "`thou tookest deep rooting downwards,
@@ -954,12 +968,20 @@ to the answer of a good conscience.
 This testimony to dear Isaac Penington is from the
 greatest loser of all that had a share in his life.
 
-MARY PENINGTON This was written at my house, at Woodside, the 27th of the 2nd month,
+[.signed-section-signature]
+Mary Penington
+
+[.postscript]
+====
+
+This was written at my house, at Woodside, the 27th of the 2nd month,
 1680, between 12 and 1 at night, whilst I was watching with my sick child.
 
-=== The Testimony of ALEXANDER PARKER, concerning ISAAC PENINGTON
+====
 
-HAVING seen and read many lively and fresh testimonies of several of my dear brethren,
+=== The Testimony of _Alexander Parker,_ concerning _Isaac Penington_
+
+Having seen and read many lively and fresh testimonies of several of my dear brethren,
 concerning our dear friend and brother Isaac Penington, deceased,
 I did satisfy myself with what was written by them, being so full and large,
 and answering my own sense, that I did acquiesce in my own mind,
@@ -1050,11 +1072,13 @@ Oh that every one that professeth the holy truth "`may so run,
 that they may obtain the crown of eternal life!`"
 This is the travail and the earnest desire of him who seeketh the good of all mankind.
 
-ALEXANDER PARKER
+[.signed-section-signature]
+Alexander Parker
 
+[.signed-section-context-close]
 London, the 5th of the 2nd month, 1681
 
-=== The Testimony of JOHN PENINGTON, to his dear and deceased Father ISAAC PENINGTON
+=== The Testimony of _John Penington,_ to his dear and deceased Father _Isaac Penington_
 
 Give me leave also, in a few words,
 to express my sense of him (seeing I have been no small sharer in the loss),
@@ -1116,9 +1140,14 @@ is the incessant desire of (him that hopes with thankfulness to the Lord,
 to reverence his memory,
 as well as that he honors him in the relation of a dear and tender father).
 
+[.signed-section-signature]
 John Penington
 
+[.signed-section-context-close]
 The 9th of the 3d month, 1681
+
+[.postscript]
+====
 
 P.S. It pleased the Lord to remove him from us, and take him to himself,
 on the eighth day of the eighth month, 1679, between three and four in the morning,
@@ -1135,4 +1164,7 @@ and so to the burying-place of friends belonging to Chalfont-meeting (called Jor
 where he was honorably buried,
 being accompanied by some hundreds of friends and neighbors.
 
-FINIS
+====
+
+[.the-end]
+Finis
