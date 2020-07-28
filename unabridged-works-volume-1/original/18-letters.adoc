@@ -3,7 +3,8 @@
 [.letter-heading]
 To His Father
 
-AH! DEAR FATHER,
+[.salutation]
+Ah! Dear Father,
 
 Why dost thou so often give me occasion of mourning before the Lord,
 on account of hard and unrighteous charges from thee!
@@ -25,8 +26,13 @@ and to the disclaiming of the way of error.
 
 My father lays down three reasons why he cannot believe this way to be of God.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ God`'s way is a way of love, peace, and unity.
 
+[.discourse-part]
 Answer. If my father had that eye which can see the things of God,
 and did apply himself to look therewith, he might see that peace, that love, that unity,
 among this people, which other men do but talk of;
@@ -65,8 +71,10 @@ being kept faithful to Him that hath called us, we sometimes feel strength and w
 even such as the most zealous in the worldly ways of religion
 have not an ear to hear the relation of.
 
+[.numbered]
 2+++.+++ God`'s way is a way of humility.
 
+[.discourse-part]
 Answer.
 If they had not been broken and humbled by God,
 they could never have entered into this way; which is that which the lofty,
@@ -75,8 +83,10 @@ Nor is this a voluntary humility;
 but a humility which crosseth and breaketh the will all the day long.
 Thou judgest at a distance, and with that which is not to judge, but to be judged.
 
+[.numbered]
 3+++.+++ That God is a God of order, not of confusion.
 
+[.discourse-part]
 Answer.
 Blessed be the Lord, who hath recovered some of the true churches`' order for us;
 and delivered out of the confusion of antichrist.
@@ -95,9 +105,13 @@ all that the human part in us could gather from the Scriptures,
 and is nourishing that which is of himself,
 that which can receive no food but from his hand.
 
+====
+
+[.offset]
 My father doth not believe that Mr. Gurden (as the world calls him),
 or any other godly man, doth persecute them for their consciences.
 
+[.discourse-part]
 Answer.
 I know no godly man can persecute.
 The lamb never did worry the wolf.
@@ -142,6 +156,8 @@ Receive the true love, the true peace, the true unity, the true humility,
 (which lies not in the will of the creature, but destroys it),
 and we shall soon know one another, and have comfort in one another.
 
+[.signed-section-signature]
 I.P.
 
+[.signed-section-context-close]
 14th of 12th Month, 1658
