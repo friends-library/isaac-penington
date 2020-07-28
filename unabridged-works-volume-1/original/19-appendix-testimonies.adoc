@@ -1,6 +1,7 @@
 [#additional-testimonies, short="Additional Testimonies for Isaac Penington"]
 == Appendix / Additional Testimonies for Isaac Penington
 
+[.blurb]
 === The Testimony of _William Penn,_ concerning _Isaac Penington_
 
 As the memory of the just is blessed,
@@ -266,6 +267,7 @@ William Penn
 [.signed-section-context-close]
 Westminster, the 12th of the 12th month, 1680-81
 
+[.blurb]
 === The Testimony of _George Whitehead,_ concerning _Isaac Penington_
 
 [quote.scripture, , Ps. 116:15]
@@ -392,6 +394,7 @@ G+++.+++ W.
 [.signed-section-context-close]
 London, the 28th of the 6th month, 1680
 
+[.blurb]
 === The Testimony of _Samuel Jennings,_ concerning that faithful Servant of the _Lord,_ and our dear Friend, _Isaac Penington,_ whom _God_ hath lately removed from us, and fixed in his Eternal Rest
 
 Strong and powerful is that excellent arm of the Lord,
@@ -515,6 +518,7 @@ with the worthies of the Lord that are gone before us, we may receive the crown 
 [.signed-section-signature]
 Samuel Jennings
 
+[.blurb]
 === The Testimony of _Thomas Zachary,_ for _Isaac Penington_
 
 Ah! my dear and ancient friend! what shall I say of thee?
@@ -552,6 +556,7 @@ praises and hallelujahs to him forever and ever.
 [.signed-section-signature]
 Thomas Zachary
 
+[.blurb]
 === The Testimony of _Abrose Rigge,_ of the Life and Death of _Isaac Penington_
 
 The Spirit of the Lord is upon me, and the fountain of love and life is open in my soul,
@@ -619,6 +624,7 @@ Ambrose Rigge
 [.signed-section-context-close]
 Gatton in Surry, the 22nd of the 10th month, 1679
 
+[.blurb]
 === The Testimony of _Robert Jones,_ concerning _Isaac Penington_
 
 In the remembrance of my dear friend deceased, I had something lived with me,
@@ -695,6 +701,7 @@ and I hope it will be so till time shall be no more with me in this world.
 [.signed-section-signature]
 Robert Jones
 
+[.blurb]
 === The Testimony of _Thomas Everden,_ concerning _Isaac Penington_
 
 Concerning our dear friend and brother Isaac Penington,
@@ -769,6 +776,7 @@ For by his Spirit to me it is revealed.
 [.signed-section-signature]
 Thomas Everden
 
+[.blurb]
 === The Testimony of _Christopher Taylor,_ for _Isaac Penington_
 
 Blessed be the God of Abraham, Isaac, and Jacob, and of all his holy ones,
@@ -865,7 +873,8 @@ and repent, lest they perish.
 [.signed-section-signature]
 Christopher Taylor
 
-=== The Testimony of _Mary Penington,_ concerning her dear Husband _Isacc Penington_
+[.blurb]
+=== The Testimony of _Mary Penington,_ concerning her dear Husband _Isaac Penington_
 
 Whilst I keep silent touching thee,
 O thou blessed of the Lord and his people! my heart burneth within me.
@@ -979,6 +988,7 @@ This was written at my house, at Woodside, the 27th of the 2nd month,
 
 ====
 
+[.blurb]
 === The Testimony of _Alexander Parker,_ concerning _Isaac Penington_
 
 Having seen and read many lively and fresh testimonies of several of my dear brethren,
@@ -1078,6 +1088,7 @@ Alexander Parker
 [.signed-section-context-close]
 London, the 5th of the 2nd month, 1681
 
+[.blurb]
 === The Testimony of _John Penington,_ to his dear and deceased Father _Isaac Penington_
 
 Give me leave also, in a few words,
