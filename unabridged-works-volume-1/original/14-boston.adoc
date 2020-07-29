@@ -135,7 +135,7 @@ and so at last be awakened in the bowels of that wrath and fiery indignation,
 which that spirit which erreth from, and transgresseth, the life and light within,
 can neither bear nor escape.
 
-[.blurb]
+[.centered]
 === An Examination of the Grounds or Causes, etc.
 
 That in New England there hath been a law made of banishing the Quakers, so called,
@@ -169,7 +169,7 @@ and have not patience to consider things in equity and uprightness of heart,
 and also whose interest lies another way.
 
 Now meeting of late with a paper beginning thus:
-At a general court held at Boston the 8th of October, 1659.
+_At a general court held at Boston the 8th of October,_ 1659.
 (wherein, by way of preface,
 there is first an account given of what induced them
 to make this law of banishment and death,
@@ -212,13 +212,14 @@ especially those who are taken in so great a snare,
 and come to so great a loss of their tenderness towards God, his truths, and people,
 and run so great a hazard and danger of the loss of their own souls.
 
+[discrete]
 ==== The Grounds or Causes expressed of their making that Law of Banishment, are in Substance these three.
 
 [.numbered-group]
 ====
 
-[.numbered]
-1+++.+++ The coming of the QUAKERS from foreign parts, and from other colonies,
+[.numbered.emphasized]
+_1+++.+++_ The coming of the _Quakers_ from foreign parts, and from other colonies,
 at sundry times, and in several companies and numbers,
 into the jurisdiction of Massachusetts.
 
@@ -230,8 +231,8 @@ yet it is still more the Lord`'s than theirs;
 and he may send any one of his servants into it at his pleasure,
 upon what message or service it seemeth good unto him.
 So that the great question to be determined here is this:
-Whether these persons came from the Lord, in his will, and at his appointment;
-or whether they came of themselves, and in their own wills.
+_Whether these persons came from the Lord, in his will, and at his appointment;
+or whether they came of themselves, and in their own wills._
 For if they came by commission and appointment from the Lord of heaven and earth,
 their warrant was without doubt sufficient.
 But if they came in their own will, and upon their own designs,
@@ -245,8 +246,8 @@ and your hearts hardened against his truths and people,
 for beginning with them so harshly and unrighteously, and not in his fear.
 
 [.numbered]
-2+++.+++ Those lesser punishments of the house of correction, and imprisonment for a time,
-having been inflicted on some of them; but not sufficing to deter and keep them away.
+2+++.+++ _Those lesser punishments of the house of correction, and imprisonment for a time,
+having been inflicted on some of them; but not sufficing to deter and keep them away._
 Why do ye omit cutting off of ears?
 Are ye ashamed to mention that amongst the rest?
 Indeed the remembrance of it strikes upon the spirits of people here,
@@ -285,9 +286,9 @@ and will one day give in a clear and true testimony,
 although ye should be able to bribe them at present.
 
 [.numbered]
-3+++.+++ That their coming thither was upon no other grounds or occasion,
+3+++.+++ _That their coming thither was upon no other grounds or occasion,
 for aught that could appear, than to scatter their corrupt opinions,
-and to draw others to their way, and so to make disturbance.
+and to draw others to their way, and so to make disturbance._
 
 [.discourse-part]
 Answer.
@@ -376,8 +377,8 @@ which are in number six.
 ====
 
 [.numbered]
-1+++.+++ The doctrine of this sect of people (say they)
-is destructive to fundamental truths of religion.
+1+++.+++ _The doctrine of this sect of people (say they)
+is destructive to fundamental truths of religion._
 
 [.discourse-part]
 Answer.
@@ -427,7 +428,7 @@ If his people be disobedient,
 and broach doctrines ever so contrary and destructive to his kingdom,
 he hath a spiritual way of fighting with them now,
 and hath appointed his servants to have his mighty spiritual
-weapons in a readiness for the revenging every disobedience. 2 Cor. 10:6.
+weapons in a readiness _for the revenging every disobedience._ 2 Cor. 10:6.
 And he hath likewise a time of dealing with them hereafter;
 but he hath nowhere appointed that his subjects (if they could get the
 command of the sword in a nation or country) should kill such.
@@ -480,10 +481,10 @@ will prove to have been unjust.
 
 There are four instances given, or four particular fundamentals mentioned,
 to which their doctrines are said to be destructive.
-First, The Sacred Trinity.
-Secondly, The person of Christ.
-Thirdly, The Holy Scriptures, as a perfect rule of faith and life.
-Fourthly, The doctrine of perfection.
+First, _The Sacred Trinity._
+Secondly, _The person of Christ._
+Thirdly, _The Holy Scriptures, as a perfect rule of faith and life._
+Fourthly, _The doctrine of perfection._
 
 Now for the making the thing clear and manifest to every sober mind,
 it is requisite first to consider what the QUAKERS hold in these several particulars;
@@ -497,7 +498,7 @@ who might easily be found guilty of injuring both them and the Scriptures,
 both in these and many other things, were they not judges.
 
 [.numbered]
-1+++.+++ Concerning the Sacred Trinity.
+1+++.+++ Concerning the _Sacred Trinity._
 They generally, both in their speakings and in their writings,
 set their seal to the truth of that scripture, 1 John 5:7.
 that "`There are three that bear record in heaven, the Father, the Word,
@@ -512,7 +513,7 @@ thus they have read in the Scriptures,
 and this they testify they have had truly opened to them
 by that very Spirit which gave forth the Scriptures,
 insomuch that they certainly know it to be true,
-and own the thing from their very hearts: but as for this title of Sacred Trinity,
+and own the thing from their very hearts: but as for this title of _Sacred Trinity,_
 they find it not in Scripture;
 and they look upon scripture-words as fittest to express scripture things by.
 And surely if a man mean the same thing as the scripture means,
@@ -570,7 +571,7 @@ and most growing in the inward sensibleness (which causeth it to startle at that
 others can easily swallow) lies most open to suffering by this kind of trial.
 
 [.numbered]
-2+++.+++ Concerning the Person of Christ.
+2+++.+++ Concerning _the Person of Christ._
 They believe that Christ is the eternal light, life, wisdom and power of God,
 which was manifested in that body of flesh which he took of the virgin:
 that he is the king, priest, and prophet of his people, and saveth them from their sins,
@@ -621,7 +622,7 @@ though it seem ever so different from his who hath
 attained what he hath by the search of his wisdom.
 
 [.numbered]
-3+++.+++ Concerning the holy Scriptures being a perfect rule of faith and life.
+3+++.+++ Concerning _the holy Scriptures being a perfect rule of faith and life._
 The new covenant is the covenant of the gospel; which is a living covenant,
 a spiritual covenant, an inward covenant,
 and the law or rule of it cannot be written outwardly.
@@ -658,7 +659,7 @@ that is his rule of knowledge, of prophesying, of obedience.
 Heb. 12. Rom. 1:5. 12:6. If he keep there,
 if he walk according to the proportion of it, he errs not: but out of the faith,
 in the error, in all he knows, in all he believes, in all he does.
-The new creature, that which God hath new created in the heart, in which life breathes,
+_The new creature,_ that which God hath new created in the heart, in which life breathes,
 and nothing but life breathes, which is taught by God,
 and true to God from its very infancy; that is his rule whereby he is to walk,
 the apostle expressly calls it so. Gal. 6:15-16.
@@ -716,13 +717,13 @@ if any such could justly be charged upon them.
 I shall mention only two or three of them,
 viz. That God is a distinct subsistence from the Son and Spirit;
 and that the Son is a distinct subsistence from the Father and the Spirit;
-and because it is said, the "`Father shall give you another Comforter,`" this another,
+and because it is said, the "`Father shall give you another Comforter,`" this _another,_
 he saith, is intelligible of the Essence.
 (Are there then three distinct,
-infinite Essences or Beings?) That the Spirit of God without the letter is no spirit.
+infinite Essences or Beings?) _That the Spirit of God without the letter is no spirit._
 (He was before the letter, he was never limited to the letter,
 he will be after the letter, and he is what he is without the letter).
-That Christ`'s words John 17:21. give an uncertain sound.
+_That Christ`'s words_ John 17:21. _give an uncertain sound._
 (Where have any of the Quakers cast such a blemish upon any portion of scripture?)
 Surely this man had more need to seek to have his own vessel cleansed,
 than to accuse others of errors or blasphemy.
@@ -736,10 +737,10 @@ they will easily overcome all such kind of champions.
 [.numbered]
 4+++.+++ The fourth and last instance which they give of the destructiveness
 of their doctrine to the fundamental truths of religion,
-is, That opinion of theirs of being perfectly pure and without sin,
-which (say they) tends to overthrow the whole gospel,
+is, _That opinion of theirs of being perfectly pure and without sin,
+which_ (say they) _tends to overthrow the whole gospel,
 and the very vitals of Christianity: for they that have no sin, have no need of Christ,
-or of his satisfaction, or blood to cleanse them, nor of faith, repentance, etc.
+or of his satisfaction, or blood to cleanse them, nor of faith, repentance, etc._
 
 [.discourse-part]
 Answer.
@@ -767,9 +768,9 @@ in holiness and righteousness before him all the days of their lives.
 Now how is this doctrine, or how is this people,
 because of their believing and holding forth this doctrine,
 guilty of all this great and heavy charge that is laid upon them here;
-as that they have no need of Christ, his satisfaction, his blood, nor of faith,
+as that _they have no need of Christ, his satisfaction, his blood, nor of faith,
 repentance, growing in grace, God`'s word and ordinances, nor of watchfulness and prayer,
-etc.? Let us consider the thing a little further.
+etc.?_ Let us consider the thing a little further.
 
 [.numbered]
 _First,_ The doctrine of perfection, if it should be granted to deny all this,
@@ -786,7 +787,7 @@ Their life lies in Christ, their peace in his satisfaction for them,
 and in a sensible feeling of his blood sprinkled in their consciences,
 to cleanse them from sin; and by that faith, which is God`'s gift, they feel,
 and wait further to feel, the righteousness of Christ imputed to them for justification.
-And as for being perfectly just in themselves, it is a very unrighteous charge upon them;
+And as for being _perfectly just in themselves,_ it is a very unrighteous charge upon them;
 for their justice and righteousness is in Christ forever, and not in themselves;
 but in the denial and crucifying of self are they made partakers of it,
 which is bestowed by the free grace, mercy, and power, of him who hath mercy on them,
@@ -798,8 +799,8 @@ and follow the motions and lusts of the transgressing nature.
 And they do both watch and pray against sin,
 and feel what a bitter thing it is to have the watch so slackened,
 whereby the temptation prevails, which would lead to sin.
-And as for purifying themselves daily, and putting off the old man,
-and putting on the new;
+And as for _purifying themselves daily,_ and _putting off the old man,_
+and _putting on the new;_
 it is that which their hearts delight to be continually exercised about;
 and all this with a hope that it may be effected,
 that the vessel may be made holy to the Lord, a fit spiritual temple for him to dwell in,
@@ -819,7 +820,7 @@ _Secondly,_ The state of perfection itself, doth not exclude these things,
 in such a way as this charge seems to intimate.
 For in the state of perfection, the blood is not laid aside as useless,
 but remains to keep pure forever.
-It is the blood of the everlasting covenant, Heb. 13:20.
+It is _the blood of the everlasting covenant,_ Heb. 13:20.
 both the covenant and the blood last forever,
 and are useful even to them that are perfect.
 And there is need and use of the faith in the blood, to believe the preservation.
@@ -861,8 +862,8 @@ being taught, led, and enabled to walk, not after the flesh, but after the spiri
 [.discourse-part]
 From what they have said concerning this opinion of perfection (as they call
 it) they draw an argument against their other doctrines in these words.
-Such fundamentals of Christianity are overthrown by this one opinion of theirs,
-and how much more by all their other doctrines?
+_Such fundamentals of Christianity are overthrown by this one opinion of theirs,
+and how much more by all their other doctrines?_
 
 [.discourse-part]
 Answer.
@@ -1216,9 +1217,9 @@ and through whom it giveth forth its testimony against the world.
 
 [.discourse-part]
 Objection.
-But in the New Testament Luke styles Theophilus most excellent; and Paul,
+_But in the New Testament Luke styles Theophilus most excellent; and Paul,
 speaking to Festus, said, Most noble Festus;
-which are terms or expressions of honor and reverence.
+which are terms or expressions of honor and reverence._
 
 [.discourse-part]
 Answer.
@@ -1257,10 +1258,10 @@ And Elihu also found a restraint upon him in this respect. Job 32:21-22.
 
 [.discourse-part]
 Objection.
-It is noted as a brand and reproach of false teachers, that they despise dominion,
-and speak evil of dignities. 2 Pet. 2:10.
-and Jude ver. 8. Now it is well known that the
-practice of the QUAKERS is but too like those false teachers, etc.
+_It is noted as a brand and reproach of false teachers, that they despise dominion,
+and speak evil of dignities._ 2 Pet. 2:10.
+and Jude ver. 8. _Now it is well known that the
+practice of the _QUAKERS_ is but too like those false teachers, etc._
 
 [.discourse-part]
 Answer.
@@ -1300,9 +1301,9 @@ that the false prophets and teachers should still
 have the advantage of the outward authorities,
 and his people be a poor, afflicted, despised, persecuted remnant, whose glory is inward,
 and cannot be discerned by the outward eye, no, not of God`'s Israel.
-See the dignities particularly expressed, Rev. 13:6. The name of God,
-his holy power in his people; the tabernacle,
-which is sanctified and made honorable for him by his spirit; them that dwell in heaven,
+See the dignities particularly expressed, Rev. 13:6. _The name of God,_
+his holy power in his people; _the tabernacle,_
+which is sanctified and made honorable for him by his spirit; _them that dwell in heaven,_
 who are redeemed out of the earth, and have their conversation above;
 these are dignities which the earthly authorities, nay, the false teachers themselves,
 never knew the worth of, and so they are not afraid to blaspheme them.
@@ -1342,7 +1343,7 @@ which is the dominion, and his ministrations (in the spirits of his people),
 which are the dignities or glories of the New Testament,
 which excel all earthly dignities, and also the ministration of the first covenant. 2 Cor. 3:7-8.
 
-So likewise for railing speeches.
+So likewise for _railing speeches._
 The false prophets can speak smooth words; speaking in the fleshly wisdom,
 they can please the fleshly part in their very reproofs; but he that speaks from God,
 must speak his words, how harsh soever they seem to the fleshly part.
@@ -1384,7 +1385,7 @@ but looking on it with a carnal eye, it appears mean to them,
 and so they readily disdain it, and think they may safely speak evil of it,
 though in truth they know it not.
 
-And as for cursings; there are children of the curse, as well as of the blessing:
+And as for _cursings;_ there are children of the curse, as well as of the blessing:
 and the spirit of the Lord may pronounce his curse
 against any children of the curse by whom he pleases.
 Curse ye Meroz: curse ye bitterly the inhabitants thereof. Judges 5:23.
@@ -1417,7 +1418,7 @@ if he had not the Lord`'s clear warrant for what he did,
 surely the Lord will severely judge him,
 for speaking so peremptorily and presumptuously in his name, if not required by him.
 
-And so as touching contemptuous carriage.
+And so as touching _contemptuous carriage._
 When there is not contempt in the heart, it is not easy to show contemptuous carriage;
 but the fleshly part missing of the honor which is pleasing to it,
 and being offended thereby, is ready to apprehend that to be spoken and done in contempt,
@@ -1602,7 +1603,7 @@ Though the parallel is not proper; for God hath often sent his servants into cou
 cities, and places of resort, against the will of the rulers, priests,
 and false prophets, but never to break violently into any man`'s house.
 
-The magistrate keeping in his place, cannot but be a nursing father to the church;
+The magistrate keeping in his place, cannot but be a _nursing father to the church;_
 for let him draw out his sword against that wickedness
 which is proper for him to cut down,
 it will exceedingly help to nurse up the church;
@@ -1841,11 +1842,11 @@ as the way to please God, and as the only thing that he required of them:
 but to do justly, and to love mercy,
 and to walk humbly with thy God?`" Micah 6:8. All this is written in thy heart,
 O man! read there, obey that word, that is the thing that God requires.
-So David`'s law was the word written in his heart;
+So _David`'s_ law was the word written in his heart;
 he saw through sacrifices and burnt-offerings, to the inward writing,
 and this made him wiser than all his teachers, who were busied about the outward.
 The outward law was but a shadow of good things to come, it made nothing perfect;
-but David knew a perfect law, "`The law of the Lord is perfect,
+but _David_ knew a perfect law, "`The law of the Lord is perfect,
 converting the soul.`" Ps. 19:7.
 
 [.numbered]
@@ -1886,7 +1887,7 @@ that the righteousness of faith cometh by the hearing of this Word,
 making the same Word the rule to the children of the new covenant now,
 as Moses said was the commandment of God to them, quoting this place of Moses for it. Rom. 10:6.
 etc.
-So that Paul, indeed, taught nothing but Moses and the prophets;
+So that Paul, indeed, taught nothing but _Moses and the prophets;_
 pointing to the very same Word and commandment of eternal life, as Moses had done.
 "`This is the Word of faith which we preach;`" that Word which Moses taught,
 which he said was nigh in the heart and in the mouth (no man need ascend up to heaven,
@@ -1948,9 +1949,9 @@ which God`'s own spirit had built,
 part whereof was reserved for God, part given to the Gentiles, or uncircumcised in heart,
 who are now the Gentiles,
 since the breaking down of the former distinction betwixt Jew and Gentile.
-That which God reserved for himself was "`the altar, the temple,
-the worshippers therein;`" all these are inward.
-The outward court was given to the Gentiles,
+That which God reserved for himself was _"`the altar, the temple,
+the worshippers therein;`"_ all these are inward.
+_The outward court was given to the Gentiles,_
 to those who would be worshippers under the gospel,
 and yet had not the circumcision of the gospel;
 to them the court which is without the temple is given; and this they get and cry up,
@@ -2249,7 +2250,7 @@ and not follow the leadings of the Lamb, their life may be withered,
 and they may perish in the wilderness, while others are following the guide,
 which they left (when they set up their stand), towards Canaan.
 
-And as for walking peaceably; that they might be free from the fear of outward powers,
+And as for _walking peaceably;_ that they might be free from the fear of outward powers,
 having liberty to try whatever pretends to be of God; and if it appear error,
 be out of danger of having their consciences forced; this is a great mercy.
 But if they would live so peaceably as that no discovery
@@ -2296,7 +2297,7 @@ as it gets into and appears in the shape and likeness of the good.
 
 [.discourse-part]
 Now the drift of the argument lies in this,
-that this liberty they cannot enjoy without a non-toleration of others.
+_that this liberty they cannot enjoy without a non-toleration of others._
 Toleration of any but themselves, and their own way, disturbs their peace, their faith,
 their order.
 
@@ -2377,14 +2378,14 @@ It may indeed be ruin to that part in you which is wise and strong,
 without the presence of the life of God; but the elect, which is built upon the rock,
 cannot be ruined by any appearance of God; nay,
 nor by any appearance of the powers of darkness against God;
-for the gates of hell cannot prevail against the true church.
+_for the gates of hell cannot prevail against the true church._
 And there is great advantage of errors and heresies to the true church;
 for the life grows and gets ground by a fair trial and overcoming of them,
 and the approved are thereby made manifest. 1 Cor. 11:19.
 Now what kind of church is yours,
 which is in such danger of being ruined by that whereby the true church was advantaged?
-So that to plead that either you must suffer your religion, your souls,
-your liberties to be made a prey of, or take this course to defend them,
+So that to plead that either you must suffer _your religion, your souls,
+your liberties to be made a prey of,_ or take this course to defend them,
 is very inconsequent; and a strong argument against you that yours is not the truth,
 which needs such a defence as the truth hath not been used to have; but hath grown up,
 been preserved, and thriven not only without it,
@@ -2466,7 +2467,7 @@ it makes us able to set our seal to the truth of them in the sight of God;
 and to receive that for the rule which the Scriptures say is the rule, "`the living word,
 Christ the living way, the word in the mouth, and in the heart,`" Rom. 10.
 "`the law in the mind, the law of the spirit of life in Christ Jesus,`" which
-is the word ingrafted into their hearts,
+is _the word ingrafted_ into their hearts,
 who are created anew in Christ.
 And this is the honor which we give to the Scriptures, namely,
 to receive that which they testify of;
@@ -2529,7 +2530,7 @@ and not to extend his sword beyond his commission, and beyond what it is proper 
 And let me put this to all the magistrates of the earth,
 who have been drawing out their sword against tares (as they might think),
 "`are ye sure that ye never touched any green thing?`"
-Rev. 9:4 Did ye never pluck up any wheat?
+Rev. 9:4 _Did ye never pluck up any wheat?_
 Ye must give an account of this to Christ one day.
 Here in Old England, in the bishops`' days,
 they were liable to be excommunicated and weeded out of the church,
@@ -2606,7 +2607,7 @@ under an appearance of zeal for God, and of justice against offenders.
 
 [.numbered]
 3+++.+++ In the next place it is said, on the QUAKERS`' behalf,
-that they are the lambs of Christ.
+that _they are the lambs of Christ._
 
 Indeed this is a considerable thing; for if they be Christ`'s lambs,
 then they are innocent, and cannot be the causers of their own sufferings;
@@ -2620,8 +2621,8 @@ None of this is mentioned on their behalf, but only that they say they are lambs
 But let us see how fairly that is overthrown.
 
 Against this, that place, John 5:31. is alleged; "`If I bear witness of myself,
-my witness is not true:`" whereupon it is said thus, Had not Christ been God,
-the reason of the Jews had been good against him.
+my witness is not true:`" whereupon it is said thus, _Had not Christ been God,
+the reason of the Jews had been good against him._
 
 [.discourse-part]
 Answer.
@@ -2813,10 +2814,10 @@ sensibly to distinguish (in this tenderness towards God,
 and in the fear of his name) between the dictates of conscience,
 and the voice of his spirit there.
 Now it is not at all pleaded by us, that under a pretence of conscience,
-ye should suffer all manner or any manner of evil: but first, Punish not good for evil;
+ye should suffer all manner or any manner of evil: but first, _Punish not good for evil;_
 do not punish the good in others, to defend the evil in yourselves.
-Secondly, That which is manifestly evil,
-punish it by such hands and means as God hath appointed; the spiritual by spiritual,
+Secondly, _That which is manifestly evil,
+punish it by such hands and means as God hath appointed;_ the spiritual by spiritual,
 the temporal by temporal;
 and do not make punishing of evil a pretence of persecuting good in others,
 and of upholding the evil in yourselves.
@@ -2898,8 +2899,8 @@ and not such a bloody and fiery trial,
 as your proceedings and writings too much savor of.
 
 [.numbered]
-5+++.+++ That a regular defence of the truth by the godly orthodox magistrate,
-and others respectively, is not persecution.
+5+++.+++ _That a regular defence of the truth by the godly orthodox magistrate,
+and others respectively, is not persecution._
 
 [.discourse-part]
 Answer.
@@ -2955,7 +2956,7 @@ soon eats up the fat.
 And he who has lost his own tenderness and freshness,
 soon turns persecutor of such as remain tender, and seek to preserve their freshness.
 
-In the days of the apostles there was a king in Israel;
+In the days of the apostles there was _a king in Israel;_
 then the church was well governed,
 in the meekness and sweet authority and power of Christ`'s Spirit,
 which hurts not creatures, but strikes at Christ`'s enemy in creatures.
@@ -3041,7 +3042,7 @@ the laws of their country (perhaps some not made directly to entrap either,
 as yours were), and had not they as confident a pretence to the law of God as these?
 And did not they also proceed gradually?
 He that doubteth,
-let him read HOOKER`'s`" Ecclesiastical Polity,`" and other writings of the Conformists,
+let him read HOOKER`'s [.book-title]#Ecclesiastical Polity,# and other writings of the Conformists,
 and see whether their spirit was not more mild and Christian-like
 and their arguments more weighty by far,
 than those which these have used against the QUAKERS.
@@ -3082,6 +3083,7 @@ notwithstanding the pretence to justice,
 their whole course of proceedings will prove in truth
 (and according to righteous judgment) but persecution.
 
+[discrete]
 ==== Now the Grounds of their Proceedings they mention to be these:
 
 [.numbered-group]
@@ -3167,13 +3169,13 @@ upon you) your lot hath been to persecute;
 whose blood will stick the closer to you, and lie so much the heavier upon you,
 by how much the dearer they are to God.
 
-And though ye plead the safety of the people, as being the sovereign law;
+And though ye plead the _safety of the people,_ as being _the sovereign law;_
 yet the Lord God knows whether ye have aimed at the safety
 of the people among you in uprightness of heart,
 or whether ye bring this in also as a further cover.
 There is a double safety the people may justly challenge from you.
-First, The safety of their consciences in a tender searching after truth,
-and further removing out of Babylon.
+First, _The safety of their consciences in a tender searching after truth,
+and further removing out of Babylon._
 Secondly, The safety of their estates, persons, and liberties, in this search.
 They did not fly from England to be persecuted by the prevailing part among themselves,
 but to enjoy freedom of conscience in inquiring after the Lord, his truth,
@@ -3234,15 +3236,15 @@ no likeness of any such thing in the kingdom of Christ, no such kind of law,
 no such kind of government, no such kind of authority,
 no such kind of anger with persons that transgress, no such kind of dealing with any,
 no such kind of detriment or hurt to any.
-There is nothing to hurt in the mountain of God`'s holiness;
+_There is nothing to hurt in the mountain of God`'s holiness;_
 but there is a righteous sceptre, a sweet sceptre, a spiritual sceptre,
 which reacheth the spirit in the power of life, but toucheth not the outward man.
 
 Two things are here excluded by Christ,
 from whence all the mischief ariseth in the church
 (all the tyranny and oppression of men`'s consciences,
-and of their persons, estates, and liberties, for conscience`' sake): first, greatness;
-secondly, the exercising dominion and authority by those that would be great therein.
+and of their persons, estates, and liberties, for conscience`' sake): first, _greatness;_
+secondly, the _exercising dominion and authority by those that would be great therein._
 
 Such a kind of greatness as is in the world,
 is the destruction of the life of Christ;
@@ -3274,9 +3276,9 @@ and is opened in the other.
 
 [.discourse-part]
 Question.
-But how shall this spirit be kept out, or kept down,
+_But how shall this spirit be kept out, or kept down,
 that it may not hurt the disciple in whom it ariseth; or if it do,
-that the hurt may remain to himself, and may not prejudice the church?
+that the hurt may remain to himself, and may not prejudice the church?_
 
 [.discourse-part]
 Answer.
@@ -3380,13 +3382,13 @@ and upon him also must they wait for the watering and growth of it.
 
 [.discourse-part]
 Question.
-But is there to be no greatness, no authority among the disciples of Jesus,
+_But is there to be no greatness, no authority among the disciples of Jesus,
 or in the church of Christ?
 Is every one to do what he will, to be subject to his own fancies and imaginations,
 to the inventions of his own corrupt heart?
 What a confused building will this be!
 Surely this will not long remain a Zion, but soon become a Babylon,
-even a heap of disorder and confusion.
+even a heap of disorder and confusion._
 
 [.discourse-part]
 Answer.
@@ -3730,9 +3732,9 @@ nor how they came by it.
 
 [.discourse-part]
 Objection.
-But is not uniformity lovely;
+_But is not uniformity lovely;
 and doth not the apostle exhort Christians to be of one mind;
-and were it not a sweet thing if we were all of one heart and one way?
+and were it not a sweet thing if we were all of one heart and one way?_
 
 [.discourse-part]
 Answer.
