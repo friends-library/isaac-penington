@@ -195,8 +195,10 @@ is not and cannot be witnessed, but men are only dreaming of these things in Bab
 where all the satisfaction they have, is from the pleasure of their dream;
 but when they awake they will find leanness, and penury, and nakedness upon their souls.
 
-=== A Description of Babylon for the Sake of the Daughter of Zion, Which at Present Dwelleth in the Midst Thereof
+[.old-style]
+=== A Description of Babylon / for the Sake of the Daughter of Zion, Which at Present Dwelleth in the Midst Thereof
 
+[.section-summary-preface]
 Now, though the world be deaf and blind (even all sorts of worldly professors,
 from the highest to the lowest), yet open your ears, and hear the joyful sound;
 open your eyes, and see the city of desolations,
@@ -205,10 +207,11 @@ and feel in yourselves what it is which is to be led out, and what is to lead yo
 that your feet may be guided to, and set firm upon, Mount Zion;
 where the life rules over all her enemies.
 
-Babylon _is the spiritual fabric of iniquity;
+[.emphasized]
+_Babylon_ is the spiritual fabric of iniquity;
 the mystical great city of the great king of darkness; built in imitation of Zion,
 painted just like Zion, that it might be taken for Zion, and be worshipped there,
-instead of the true, eternal, ever-living God, and King of Zion._
+instead of the true, eternal, ever-living God, and King of Zion.
 
 This is the seat of the man of sin: where there is a building framed in any heart,
 or in any society of men, like Zion; there he lodges, there he lives,
@@ -2190,8 +2193,9 @@ but wait O backsliding Christian! and thou shalt "`see the way in the valley.`"
 And though thou hast often traversed thy ground to change thy path,
 gadding from one form to another, from one notion to another;
 yet all this hath been out of the life, out of the pure power, and still in the whoredom.
-Open the weak, sick eye in the weak heart (for how weak is thy heart,
-while thou hast done all this!__), and let the languishing simplicity be my witness:
+Open the weak, sick eye in the weak heart
+__(for how weak is thy heart, while thou hast done all this!),__
+and let the languishing simplicity be my witness:
 for (under all thy wisdom, thy zeal, thy knowledge, thy worship) that faints, that fails,
 that is not what it was in the beginning.
 Though thou art grown much higher, wiser, and greater otherwise,

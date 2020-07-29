@@ -135,7 +135,7 @@ and so at last be awakened in the bowels of that wrath and fiery indignation,
 which that spirit which erreth from, and transgresseth, the life and light within,
 can neither bear nor escape.
 
-[.blurb]
+[.centered]
 === An Examination of the Grounds or Causes, etc.
 
 That in New England there hath been a law made of banishing the Quakers, so called,
@@ -212,15 +212,16 @@ especially those who are taken in so great a snare,
 and come to so great a loss of their tenderness towards God, his truths, and people,
 and run so great a hazard and danger of the loss of their own souls.
 
+[discrete]
 ==== The Grounds or Causes expressed of their making that Law of Banishment, are in Substance these three.
 
 [.numbered-group]
 ====
 
-[.numbered]
-1+++.+++ The _coming of the_ QUAKERS _from foreign parts, and from other colonies,
+[.numbered.emphasized]
+_1+++.+++_ The coming of the _Quakers_ from foreign parts, and from other colonies,
 at sundry times, and in several companies and numbers,
-into the jurisdiction of Massachusetts._
+into the jurisdiction of Massachusetts.
 
 [.discourse-part]
 Answer.
@@ -736,7 +737,7 @@ they will easily overcome all such kind of champions.
 [.numbered]
 4+++.+++ The fourth and last instance which they give of the destructiveness
 of their doctrine to the fundamental truths of religion,
-is,_ That opinion of theirs of being perfectly pure and without sin,
+is, _That opinion of theirs of being perfectly pure and without sin,
 which_ (say they) _tends to overthrow the whole gospel,
 and the very vitals of Christianity: for they that have no sin, have no need of Christ,
 or of his satisfaction, or blood to cleanse them, nor of faith, repentance, etc._
@@ -3082,6 +3083,7 @@ notwithstanding the pretence to justice,
 their whole course of proceedings will prove in truth
 (and according to righteous judgment) but persecution.
 
+[discrete]
 ==== Now the Grounds of their Proceedings they mention to be these:
 
 [.numbered-group]
