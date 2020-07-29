@@ -851,6 +851,7 @@ and the reasonings of his mind, and not mistake evil for good, and good for evil
 and so persecute men for being and doing that,
 which (might it have its course and progress) would make the world happy.
 
+[.discourse-part]
 Objection.
 But will not this undermine magistracy, and interrupt its punishing of evil-doers,
 if they should be thus tender and considerate?
@@ -860,6 +861,7 @@ the laws would soon be silent, government at a stand, and every one do what they
 bringing in all manner of licentiousness and disobedience to authority,
 under a pretence of conscience.
 
+[.discourse-part]
 Answer.
 1+++.+++ Conscience is of God;
 and tenderness and conscientiousness towards him
@@ -918,6 +920,7 @@ nor the success therein so dangerous.
 
 === A BRIEF ACCOUNT OF THAT STIFFNESS, RESOLVEDNESS AND SUPPOSED STUBBORNNESS, WHICH BY MANY IS OBJECTED AGAINST THE PEOPLE CALLED QUAKERS
 
+[.discourse-part]
 Objection.
 THAT the people called Quakers are an innocent and industrious people,
 that they aim at good,
@@ -933,6 +936,7 @@ This is such a temper as no magistrate or governor can bear,
 and therefore there is a necessity either of banishing
 or suppressing them one way or other.
 
+[.discourse-part]
 Answer.
 I freely confess,
 that (looking upon them with man`'s eye) it may easily appear so to man,
