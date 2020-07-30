@@ -35,9 +35,9 @@ ____
 [.section-date]
 1660
 
-=== PREFACE
+=== Preface
 
-THE mystery of iniquity (which overspread the earth
+The mystery of iniquity (which overspread the earth
 under the shape and appearance of holy church,
 and holy worship) did begin to work in the apostles`' days. 2 Thess. 2:7.
 And this was the way whereby the god of this world did deceive;
@@ -113,19 +113,25 @@ doing the will as it is made manifest to him, shall know more and more of the do
 and have his feet infallibly guided into, and preserved in,
 the way of peace.
 
-=== The Root of Popery struck at
+=== The Root of Popery Struck At
 
-PROPOSITION I. That councils may err (if I should add, and have erred,
-it might not be impossible to prove it).
+[.old-style]
+=== Proposition I. / That councils may err (if I should add, and have erred, it might not be impossible to prove it).
 
-First, In that they are men not perfected in the knowledge, faith,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ In that they are men not perfected in the knowledge, faith,
 and obedience of the truth, it necessarily implies a capacity of error,
 both in relation to the knowledge, to the faith, and to the obedience.
 
-Secondly, Their doubtful disputation of things, and long canvassing,
+[.numbered]
+_Secondly,_ Their doubtful disputation of things, and long canvassing,
 imply an uncertainty, and possibility of erring.
 
-Thirdly,
+[.numbered]
+_Thirdly,_
 Their way of determining things at last (which is by a vote
 of the major part) is an uncertain way of determination;
 for it is not impossible but the major part may be over-swayed by by-ends,
@@ -146,8 +152,10 @@ or heresy; and falsehood can never become truth,
 though ever so many wise men should testify for it,
 putting the fairest habit and appearance of truth upon it that they can.
 
-PROP.
-II. That the pope himself may err.
+====
+
+[.old-style]
+=== Prop. II. / That the pope himself may err.
 
 The pope hath not greater freedom from fallibility
 in judgment or doctrine than Peter himself had.
@@ -163,10 +171,9 @@ did plainly imply that the pope might err;
 which might further be confirmed by what the council
 of Basil determined concerning pope Eugenius.
 
-PROP.
-III. That every man may err in his interpretation of scriptures,
-further than he hath a certain and infallible opening of them to his spirit,
-by that Spirit which gave them forth.
+[.old-style]
+=== Prop. III. / That every man may err in his interpretation of scriptures, further than he hath a certain and infallible opening of them to his spirit, by that Spirit which gave them forth.
+
 The Spirit knoweth his own mind in every word which he hath spoken;
 but no man knoweth his mind, nor the meaning of his words, but as he reveals them. 1 Cor. 2:11.
 So that God is true in all his sayings in the scriptures;
@@ -176,24 +183,29 @@ without the Spirit`'s infallible opening of his own words to him.
 So that the Spirit itself is the ground and foundation of
 all true light and knowledge of the things of God.
 
-PROP.
-IV. That if there be any light to be found any where shining from God,
+[.old-style]
+=== Prop. IV.
+
+That if there be any light to be found any where shining from God,
 that light cannot err: for God is pure;
 and that which comes immediately from him cannot but be pure.
 All the knowledge which man gathers, or can gather, into his vessel, he may pollute;
 but what issues from the spring is pure, and of a perfect nature. James 1:17.
 
-PROP.
-V+++.+++ That there must necessarily be such a light communicated to all men since the fall,
-that they may believe thereby, come to the knowledge of the truth, and be saved;
-which I prove thus:
+[.old-style]
+=== Prop. / V+++.+++ That there must necessarily be such a light communicated to all men since the fall, that they may believe thereby, come to the knowledge of the truth, and be saved; which I prove thus:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ From the will of God.
 The apostle saith expressly, that "`God would have all men to be saved,
 and to come unto the knowledge of the truth.`" 1 Tim. 2:4. Why then
 there must necessarily be somewhat dispensed from God to all men,
 sufficient to bring them to the "`knowledge of the truth,`" that they may be "`saved.`"
 
+[.numbered]
 2+++.+++ From what is found in man.
 There is found in man a light shining in his darkness, John 1:5.
 a light discovering the darkness, and drawing from it;
@@ -211,10 +223,11 @@ but God`'s light, God`'s witness there, can never be bribed, but will speak trul
 both against the evil of the man, and against the searedness, hardness,
 and unfaithfulness of his conscience towards God.
 
-PROP.
-VI. That this being let in, believed in, and obeyed,
-shineth more and more unto the perfect day;
-even until it hath wholly brought out of the error into the truth.
+====
+
+[.old-style]
+=== Prop. VI. / That this being let in, believed in, and obeyed, shineth more and more unto the perfect day; even until it hath wholly brought out of the error into the truth.
+
 Every way of it is infallible, and every step of the creature after it is infallible.
 Indeed the creature`'s reasonings and consultations about it may be fallible;
 but the light is infallible in itself; and so far as there is a pure, simple,
@@ -230,10 +243,9 @@ the power and saving arm would arise;
 which would effectually lead out of the death and captivity,
 into the fellowship and freedom of the life.
 
-PROP.
-VII. That nothing less can lead unto eternal life than an eternal light in man`'s spirit,
-where the darkness is; which is to be discovered there, subdued there,
-and to be led from.
+[.old-style]
+=== Prop. VII. That nothing less can lead unto eternal life than an eternal light in man`'s spirit, where the darkness is; which is to be discovered there, subdued there, and to be led from.
+
 This was the apostle`'s message (who received and came with the message of the gospel),
 "`that God is light,
 and in him is no darkness at all.`" 1 John 2:5. And this
@@ -306,17 +318,23 @@ of heart desire to know the mind of God in this respect,
 and the true state of the church since the days of the apostles,
 consider these things following:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ God, in those days, sent his true apostles and ministers with the everlasting gospel,
 which was the word of faith which they preached, to gather men of Jerusalem, Judea,
 and all nations, into the obedience of the faith, Rom. 1:5.
 that he might have a spiritual house, a spiritual people, to worship him,
 instead of those outward worshippers whom he then cast off. John 4:23.
 
+[.numbered]
 2+++.+++ That this gathered people in Judea, at Jerusalem, at Corinth, at Ephesus, at Coloss,
 at Philippi, at Rome, etc. were his several churches or congregations;
 and not the city of Jerusalem, not the city of Corinth, Ephesus, Rome, etc.
 None of these were churches; but only a select remnant gathered out of these.
 
+[.numbered]
 3+++.+++ That the devil, after he had stirred up the Jews everywhere,
 and the heathens as much as he could, to cry out against the truth,
 and such as God had converted to the faith, for heresy and a sect,
@@ -326,6 +344,7 @@ teaching them also to preach Christ, and the doctrine of the gospel;
 and so transforming themselves under this color, secretly to sow the seeds of division,
 error, and heresy in the church.
 
+[.numbered]
 4+++.+++ When this would not do,
 but these were discovered and judged (by the power and presence
 of the light of the Spirit in the church) for false Jews,
@@ -344,16 +363,24 @@ etc. can then become a church.
 To make this yet more manifest,
 observe and weigh these things following in the balance of the true sanctuary:
 
+====
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The false prophets, the false apostles, which had crept into the church,
 Jude 4. which strove to seduce the church, 1 John 2:26. these went out from the church,
 ver.19. and went into the world. 1 John 4:1.
 
+[.numbered]
 2+++.+++ When they went out into the world,
 their intent was to leaven the world with their doctrine,
 and to gather people after them.
 They preached to gather people to them, and their doctrine, and form of godliness,
 as the apostles preached to gather people to God, and his living truth.
 
+[.numbered]
 3+++.+++ The world heard them; they hearkened to their doctrine;
 were willing to be gathered by them, owning their false ministry, and their false church,
 or synagogue; even as those that were of God hearkened to the apostles,
@@ -371,6 +398,7 @@ heard the false apostles and false ministers, and so joined to the synagogue of 
 where Satan had his seat and dwelling, Rev. 2:13.
 even as Christ dwelleth and sitteth in his temple, the church.
 
+[.numbered]
 4+++.+++ These false apostles and ministers, with the help of the world,
 which they had gathered in unto them,
 joined together against the true church and her seed (as
@@ -382,6 +410,8 @@ there is Michael and his angels fighting on the side of the true church;
 there is the dragon and his angels fighting for the false church.
 Now mark who prevails: the true church, Michael and his angels, prevail one way;
 the false church, the synagogue of Satan, the dragon and his angels, prevail another way.
+
+====
 
 [.discourse-part]
 Question.
@@ -437,6 +467,7 @@ before it was measured and divided from the inward temple, and given to the Gent
 Question.
 Now how long was this false church to stand?
 
+[.discourse-part]
 Answ.
 Till the church`'s coming out of the wilderness in the same
 Spirit and power wherewith she fled into the wilderness.
@@ -451,6 +482,7 @@ and tongues.
 Objection.
 But did not Christ say the gates of hell should not prevail against his church?
 
+[.discourse-part]
 Answ.
 No more they did not: for she had wings of an eagle given her,
 to fly into the wilderness; into the place prepared of God for her;
@@ -482,20 +514,27 @@ thus to be banished and driven out of the building which his Spirit had reared f
 into a wilderness;
 and a mystery of deceit and falsehood to be set up in her name and stead?
 
+[.discourse-part]
 Answ.
-First, As a just judgment upon the world (who slighted the day of their visitation,
+
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ As a just judgment upon the world (who slighted the day of their visitation,
 and would not come into the vineyard to work), God brings the night upon them,
 wherein they could not enter into the vineyard, nor work if they would ever so fain. John 9:4.
 
-Secondly, As a just judgment upon such, who,
+[.numbered]
+_Secondly,_ As a just judgment upon such, who,
 though they could not but own and acknowledge the truth,
 yet did not love it in their hearts, but loved their unrighteousness,
 their darkness still;
-therefore God removes the power of his truth from their eyes into the wilderness;
 and lets out a power of darkness and deceit upon them, wherewith they were deluded,
 instead of the truth itself. 2 Thess. 2:10-11.
 
-Thirdly,
+[.numbered]
+_Thirdly,_
 That such as were approved might be made manifest in the Spirit to be pure gold indeed.
 They that held the living truth, and could not be drawn aside,
 with all the pleasures of this world on the one hand,
@@ -504,7 +543,8 @@ nor yet with all the deceivableness of unrighteousness;
 these did shine indeed in the light and power of the Spirit,
 and were a great honor and crown upon the head of their Master.
 
-Fourthly, That darkness might have its day, or hour,
+[.numbered]
+_Fourthly,_ That darkness might have its day, or hour,
 or season of manifestation to the full.
 There hath been no day of any dispensation hitherto,
 but it hath had a night coming after it.
@@ -518,7 +558,8 @@ Therefore at length, when the full time and season of his discovery came,
 God removed that into the wilderness which stood in the way; and then he and his spouse,
 the false church, made a fair show in the world. 2 Thess. 2:7.
 
-Fifthly, That the Lord might make the name of his Son,
+[.numbered]
+_Fifthly,_ That the Lord might make the name of his Son,
 with the glory of his truth and power, to shine,
 by overcoming the dragon and this false church, after so long a time of thick darkness,
 and after such a universal prevalency of the powers and deceits thereof.
@@ -530,12 +571,15 @@ And will it not be as great (if not a greater) glory to him to overcome
 the antichristian world (after it hath taken so long and so deep root,
 and is become so strongly founded) by as poor, contemptible instruments as they were?
 
+====
+
 [.discourse-part]
 Question.
 But how was it possible that so great a deceit should
 get up in the world so near the apostles`' days,
 or rather in the very days of the apostles, as this seemeth to be?
 
+[.discourse-part]
 Answ.
 The false apostles and ministers came "`with all deceivableness of unrighteousness,
 and with all power, and signs,
@@ -566,6 +610,7 @@ How many then of the inferior and common sort were then drawn aside!
 Question.
 Has there been no visible true church-state in the world since that time?
 
+[.discourse-part]
 Answ.
 It is impossible for any to build a true church for God, but his own Spirit.
 And if God removed the church which he built, into the wilderness,
@@ -583,6 +628,7 @@ What is the wilderness?
 Tell us; that the simple-hearted, who long after the truth, may know where to look for,
 and how to find the true church.
 
+[.discourse-part]
 Answ.
 It is not an outward place, into which the bodies of persons might flee;
 but a parable to express somewhat inward by.
@@ -599,6 +645,7 @@ but hath lain desolate in the wilderness ever since
 antichrist and the false church got up,
 what hath the estate of his people been ever since?
 
+[.discourse-part]
 Answ.
 A state of witnesses. Rev. 11:3.
 In every age God hath had two witnesses (which
@@ -623,6 +670,7 @@ those that made a profession of his truth, but were not true Jews, Rev. 3:9.
 not of the inward circumcision, Phil. 3:3),
 and had got the holy city under the feet of his worshippers?
 
+[.discourse-part]
 Answ.
 He pursued his victory against the woman, and the remnant of her seed.
 As for the woman, he cast a flood of infamy, of reproach after her,
@@ -638,6 +686,7 @@ he applies himself now to wage the war against them. Rev. 12:15,17.
 Question.
 How doth he wage the war against them?
 
+[.discourse-part]
 Answ.
 He raiseth up a beast out of this sea of confusion and wickedness
 (which ensued upon this great battle and victory on his side),
@@ -659,6 +708,7 @@ it is for his advantage also to corrupt and destroy the memorial of the true for
 Question.
 Doth he effect this, and prevail likewise against the witnesses?
 
+[.discourse-part]
 Answ.
 Yea; as he effected the other.
 He overcomes the witnesses after the manner that he had overcome the church (to wit,
@@ -673,6 +723,7 @@ Question.
 Why would God suffer him to do this, seeing he hath all power in his hands,
 and could have restrained him if he had pleased?
 
+[.discourse-part]
 Answ.
 This was greatly needful to the present estate of his people;
 for by this God raised up that which was good and pure in any, and kept life in it;
@@ -685,6 +736,7 @@ But did not this tend to destroy Satan`'s kingdom also?
 For this stroke going against the very name of Christianity, and profession of godliness,
 might light upon his carnal gospellers likewise.
 
+[.discourse-part]
 Answ.
 They could easily save themselves, turning about to avoid sufferings, and crying,
 "`Who is like unto the beast?
@@ -697,6 +749,7 @@ especially seeing their master`'s interest and service ran now another way.
 Question.
 What became of this beast?
 
+[.discourse-part]
 Answ.
 The Lord did rend and tear him outwardly by his plagues, famines, pestilences, wars,
 etc., insomuch as one of his heads was wounded as it were to death; and inwardly,
@@ -709,6 +762,7 @@ as he stood in this capacity.
 Question.
 What doth the dragon do then, to carry on his war against the witnesses?
 
+[.discourse-part]
 Answ.
 After this tempestuous sea was over, he raiseth up another beast out of the earth,
 with another kind of power,
@@ -792,7 +846,11 @@ There are three things in general (besides many particulars) which
 the Protestant nations and churches have learned of you,
 which will cost them dear, ere they be made willing to part with them.
 
-First, Their taking upon them authority over men`'s consciences,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ Their taking upon them authority over men`'s consciences,
 commanding them what they should believe; which the apostles never did,
 but said expressly, they had not dominion over the faith of others,
 but were helpers of their joy. 2 Cor. 1:24.
@@ -815,7 +873,8 @@ till God should please to work upon them, 2 Tim. 2:24-25.
 and likewise on those that were convinced,
 and had subjected themselves to the faith, for his increase of it. 1 Cor. 3:6-7.
 
-2dly.
+[.numbered]
+_2dly._
 Their abridging men`'s liberty in things wherein God hath left them free,
 and pressing them to a uniformity to things which they themselves confess to be indifferent.
 Now the apostle (who had the care of all the churches, 2 Cor. 11:28),
@@ -835,7 +894,8 @@ to whom every believer must give an account of what he receives,
 and of what he obeys and performs.
 ver. 10-12.
 
-3dly.
+[.numbered]
+_3dly._
 Their setting up a church-building, government, and discipline,
 by the magistrate`'s power.
 This the apostles no where taught nor practised.
@@ -849,6 +909,8 @@ that hath need of a carnal sword to defend it against the Spirit,
 and to cut down God`'s witnesses (whom he raiseth up to
 testify against it) for schismatics and heretics,
 or its nakedness will soon be made manifest and its ruin approach.
+
+====
 
 Now when the Lord hath judged all the daughters of Babylon for these things,
 then will he at length begin to plead with their mother, Babylon the Great,
@@ -896,9 +958,9 @@ habitation,`" and hath already begun this work,
 who will not fail to perfect it.
 Amen.
 
-=== SOMEWHAT CONCERNING THE GROUND OF ERROR, AND THE WAY TO TRUTH AND UNITY; FOR THE SAKE OF SUCH AS ARE MORE SPIRITUAL
+=== Somewhat Concerning the Ground of Error, and the Way to Truth and Unity; for the Sake of Such as Are More Spiritual
 
-THERE is no way to become an heir of the kingdom of God,
+There is no way to become an heir of the kingdom of God,
 but by being begotten and born of his Spirit; which blows upon the spirit of man,
 breathes life into him, and forms him in the eternal image. John 3:8.
 Gal. 4:19.
