@@ -30,17 +30,15 @@ By _Isaac Penington,_ the Younger
 [.section-date]
 1660
 
-[quote.section-epigraph]
+[quote.section-epigraph, , Heb. 4:3]
 ____
 We which have believed do enter into Rest.
-Heb. 4:3
 ____
 
-[quote.section-epigraph]
+[quote.section-epigraph, , Col. 2:16-17]
 ____
 Let no man therefore judge you in meat or drink, or in respect of an holy day,
 or of the new moon, or sabbaths; which are a shadow of things to come: but the body is Christ.
-Col. 2:16-17
 ____
 
 === Preface
@@ -218,7 +216,8 @@ but remain yet in captivity and bondage to the enemy.
 Some queries of W. Salter`'s,
 tending to enforce upon Christians the observation of the Jewish sabbath, answered.
 
-Query 1. WHETHER the fourth commandment, expressed Exod. 20.
+[.discourse-part]
+_Query 1._ Whether the fourth commandment, expressed Exod. 20.
 be not moral and perpetual, as well as the other nine be, yea or no?
 
 [.discourse-part]
@@ -291,15 +290,21 @@ Yea, the ten words are expressly called the covenant itself. Duet. 4:13.
 Observe therefore diligently these
 few things following in the fear of the Lord:
 
-First,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_
 The ten commandments given by Moses from Mount Horeb were the covenant which God made
 with the Jews when he took them by the hand to lead them out of the land of Egypt.
 
-Secondly, That covenant God found fault with,
+[.numbered]
+_Secondly,_ That covenant God found fault with,
 because it was not able (through the weakness of
 the flesh on their parts) to keep them to God.
 
-Thirdly, Against Christ`'s coming God provideth a new covenant,
+[.numbered]
+_Thirdly,_ Against Christ`'s coming God provideth a new covenant,
 a better covenant for him to be Mediator of; which covenant was not outward,
 like the former, but inward, put in the mind, writ in the heart.
 As the people was inward, the sanctuary inward, the ark inward,
@@ -308,7 +313,8 @@ were inward also.
 And this covenant, as it is only written in the Spirit, and in that which is spiritual,
 so it cannot be read in the letter.
 
-Fourthly, That wherever this new covenant cometh, the other waxeth old,
+[.numbered]
+_Fourthly,_ That wherever this new covenant cometh, the other waxeth old,
 whether to a person or people.
 Wherever the law of the Spirit of life is made manifest,
 the law of the letter is swallowed up in it,
@@ -321,6 +327,8 @@ but all the sacrifices and other types also, here they are owned and received,
 even in Christ the substance: but the ten commandments, so far as they were a shadow,
 pass away before the Sun of righteousness,
 as well as the other types and shadows of the law.
+
+====
 
 [.discourse-part]
 Objection.
@@ -465,9 +473,14 @@ and to receive the law as he received it.
 
 Paul (in that seventh of the Romans) speaks of three states which he had known.
 
-First, A state of life before the law: "`I was alive without the law once.`" ver. 9.
+[.numbered-group]
+====
 
-Secondly, A state of death after the commandment came: then sins revived, and he died.
+[.numbered]
+_First,_ A state of life before the law: "`I was alive without the law once.`" ver. 9.
+
+[.numbered]
+_Secondly,_ A state of death after the commandment came: then sins revived, and he died.
 When the word of life came with its living commandment to set upon sin indeed,
 then sin would dally no longer; it would no longer lie as dead,
 and let Paul live in his zeal and worship as he had done before; but it slew him,
@@ -479,7 +492,8 @@ and in miserable captivity,
 because of the body of death and the law of sin in his members.
 ver. 23,24.
 
-Thirdly, A state of life,
+[.numbered]
+_Thirdly,_ A state of life,
 after the commandment had done its work in thoroughly slaying of him;
 when that was removed which the law came against, then he was married to another husband,
 then he could bring forth fruit unto God; Rom. 7:4.
@@ -488,6 +502,8 @@ but after the Spirit, chap.
 8:4. and rejoice in the life and the peace, instead of roaring out because of the death,
 which came from the carnal mind.
 ver. 5.
+
+====
 
 Now when was the time when Paul "`was alive without
 the law`"? Was it not when he was righteous,
@@ -551,7 +567,8 @@ its chastisements towards the worldly part,
 diminish and pass away as the worldly part is wasted; and its sweet, comforting presence,
 pure peace, fresh joy and life, increase as the new man grows and flourishes.
 
-Query 2. Whether the scope and drift of that fourth precept be not to
+[.discourse-part]
+_Query 2._ Whether the scope and drift of that fourth precept be not to
 persuade us to lay by the works of our calling one day in seven,
 that we may on that day wholly give up ourselves to wait on the Lord,
 in the performance of duties of piety and mercy, for our attaining of, and growing in,
@@ -575,7 +592,8 @@ shall not the sign of the sanctification,
 the sign of the rest (which rest the Lord of the sabbath was to give,
 and lead the spirits of his people into), pass away? Ex. 31:13.
 
-Query 3. Whether the fourth precept do not as strictly bind
+[.discourse-part]
+_Query 3._ Whether the fourth precept do not as strictly bind
 us to keep holy the seventh day of or from the creation,
 as it bindeth us to the observation of a seventh day?
 
@@ -586,7 +604,8 @@ but of a seventh day in particular, of those of whom it required it:
 for what the law required, it required of those who were under the law,
 and not of others. Rom. 3:19.
 
-Query 4. If the seventh day`'s sabbath be not moral and perpetual,
+[.discourse-part]
+_Query 4._ If the seventh day`'s sabbath be not moral and perpetual,
 then how comes it to pass that it was instituted or appointed from the first creation,
 when men by guilt stood in no need of a Saviour, nor yet of such a ceremony; Gen. 2:3.
 
@@ -607,6 +626,7 @@ in whom God brings about the new creation, with the rest thereof (as he did the 
 it is better to wait to know and feel in the Spirit,
 than to be prying into with the curious, searching, fleshly understanding.
 
+[.discourse-part]
 Query 5. If the seventh day`'s sabbath be not moral,
 and belonging both to Jews and Gentiles,
 then how comes it to pass that it was given to all men in Adam,
@@ -624,7 +644,8 @@ for circumcision was instituted and observed long before the giving of the law, 
 and sacrificing long before that, Gen. 4. both which were signs of the inward,
 and not perpetual as to the outward observation of them.
 
-Query 6. If when our Lord Jesus saith, (Matt. 5:18) that "`till heaven and earth pass,
+[.discourse-part]
+_Query 6._ If when our Lord Jesus saith, (Matt. 5:18) that "`till heaven and earth pass,
 one jot or tittle should in no wise pass from the law;`"
 if he there meant not the law of the ten commandments,
 expressed in Exodus xx, then what law did he mean?
@@ -658,14 +679,19 @@ bidding them not think he came to destroy the law, or the prophets:
 for he was not come for that end, but to fulfill.
 Wherein he doth these two things:
 
-First, He establisheth that ministration of the law and prophets for its season,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ He establisheth that ministration of the law and prophets for its season,
 till it should be fulfilled by him the substance,
 who was to fulfill all the righteousness of it.
 It should last out its whole day,
 and should not fail in the least tittle of it (as he himself explaineth it,
 Luke 16:17); till the heaven and earth of the Jews passed away. Heb. 12:27-28.
 
-Secondly, He taketh in the substance of it into his own ministration,
+[.numbered]
+_Secondly,_ He taketh in the substance of it into his own ministration,
 and layeth it more inwardly, and closely,
 and largely upon the spirits of his disciples than
 Moses had done in the letter upon his disciples;
@@ -674,6 +700,8 @@ but only giveth a taste to his disciples how straitly he would
 minister it to them by his Spirit as they came under his yoke,
 Matt. 11:29, which yoke is the Spirit of the law thereof,
 as Moses`' yoke was the law of the letter.
+
+====
 
 Now mark yet further: Christ does not give out the letter for his law,
 as it was delivered by Moses;
@@ -727,7 +755,8 @@ though not by virtue of the administration of the letter;
 another higher and fuller administration of a better
 covenant challenging and taking its own place.
 
-Query 7. If the seventh day`'s sabbath be not moral, but an abrogated ceremony,
+[.discourse-part]
+_Query 7._ If the seventh day`'s sabbath be not moral, but an abrogated ceremony,
 now since the death of Christ;
 then wherefore should our Saviour instruct his beloved apostles,
 that they must instruct the Christian churches to pray, Matt. 24:20.
@@ -798,7 +827,8 @@ by what instruments soever it pleaseth him to make it manifest.
 Sent in writing, (upon occasion of an epistle directed to all such
 as observe the seventh day of the week for a sabbath) _answered._
 
-Query 1. If the whole law of Moses, the law of the ten commandments,
+[.discourse-part]
+_Query 1._ If the whole law of Moses, the law of the ten commandments,
 as well as the law of sacrifices,
 were both added upon one and the same account for transgressions;
 then why doth the Holy Spirit in the Scriptures lay forth such
@@ -829,7 +859,8 @@ which the sacrifices did,
 making the sinner upright and perfect as relating to that outward state and capacity,
 though they could not as pertaining to the conscience. Heb. 9:9.
 
-Query 2. If the whole law, the ten commandments, as well as the sacrifices,
+[.discourse-part]
+_Query 2._ If the whole law, the ten commandments, as well as the sacrifices,
 were representations, figures, or shadows of somewhat relating to Christ, the seed;
 then what did they in general, or either of them in particular, represent, figure,
 or shadow forth, before they were written in tables of stone,
@@ -860,7 +891,8 @@ so that which signifieth it passeth away) though that was a mixed state,
 wherein God gave a taste of both covenants,
 before his perfect dispensing or bringing forth of either.
 
-Query 3. If the whole dispensation of the law was given to the Jews,
+[.discourse-part]
+_Query 3._ If the whole dispensation of the law was given to the Jews,
 and not to the Gentiles, and so the Gentiles not bound to that law,
 but another way for them to know the mind of God; then whether that law cited, Rom. 2:15.
 which the Gentiles showed the work of in their hearts,
@@ -887,7 +919,8 @@ but by all their obedience thereto, they could not be justified, but only by hea
 believing, and obeying Christ, the word nigh in the heart,
 and by feeling in the spirit the blood of that one offering.
 
-Query 4. If the Gentiles were not bound under that law that the Jews were,
+[.discourse-part]
+_Query 4._ If the Gentiles were not bound under that law that the Jews were,
 which carried the curse with it;
 then which way have the Gentiles redemption by Jesus Christ?
 seeing all that are redeemed, are redeemed from the law, and the curse thereof.
@@ -914,7 +947,8 @@ of the spiritual administration of it into his spirit,
 then he felt the burden, and weight and misery of sin, and the curse indeed;
 and cried out, "`O wretched man, who shall deliver?`"
 
-Query 5. If the duration of the dispensation of Moses`' law in the letter was till Christ,
+[.discourse-part]
+_Query 5._ If the duration of the dispensation of Moses`' law in the letter was till Christ,
 the seed, should come and fulfill it,
 and the dispensation of Moses`' law (so stated without
 distinction) between that that was perpetual,
@@ -966,7 +1000,8 @@ after the season of that ministration of it in the letter was ended;
 and thus not one jot or tittle of it was to pass away, after the other ministration,
 with every jot and tittle of it, was ended.
 
-Query 6. If the coming of Christ in the flesh;
+[.discourse-part]
+_Query 6._ If the coming of Christ in the flesh;
 and his fulfilling all the righteousness of the law;
 and being foretold by Moses to be that prophet that was
 to be heard in all things (which is not denied by us);
@@ -1005,7 +1040,8 @@ all the while he was under the ministration of Moses`' law blameless;
 but this law found out sufficient blame in him.
 ver. 14. etc.
 
-Query 7. If Jesus Christ, as he is the Son,
+[.discourse-part]
+_Query 7._ If Jesus Christ, as he is the Son,
 gave forth another law to his house or family;
 and that law contrary to that that the Father gave forth;
 then whether there are not two lawgivers, when the Scriptures say there is but one. James 4:12.
@@ -1028,7 +1064,8 @@ but the one law of God hath been variously dispensed;
 in and according to the letter by Moses to the Jews;
 in and according to the Spirit by Christ to his disciples.
 
-Query 8. If the tables of stone,
+[.discourse-part]
+_Query 8._ If the tables of stone,
 the writing of the law of the ten commandments in the tables,
 and the law of the ten commandments itself which was written,
 were figures or representations;
@@ -1038,7 +1075,8 @@ in one way whilst Moses`' dispensation was on foot. Ps. 37:31.
 For the Psalmist speaks in the present tense (which was under that dispensation):
 now is it another way in this latter dispensation expressed? 2 Cor. 3:3.
 
-Query 9. If two ways, then how doth the finger of God`'s Spirit write them these ways?
+[.discourse-part]
+_Query 9._ If two ways, then how doth the finger of God`'s Spirit write them these ways?
 
 [.discourse-part]
 Answer.
@@ -1063,7 +1101,8 @@ disannul the promise which was before it:
 but it stood good and firm to the children, even to all the spiritual seed,
 the whole time of that outward dispensation of the law.
 
-Query 10. If not,
+[.discourse-part]
+_Query 10._ If not,
 then how doth the writing of the law in tables of stone
 represent the writing of the law in the tables of the heart;
 seeing the tables of the heart were wrote upon by the finger of God`'s Spirit,
@@ -1085,7 +1124,8 @@ So that this was the law which God wrote in the heart even then,
 and was always the inward substance,
 while as Moses`' dispensation was but an outward sign thereof.
 
-Query 11. If the law of the ten commandments itself, which enjoined love and duty to God,
+[.discourse-part]
+_Query 11._ If the law of the ten commandments itself, which enjoined love and duty to God,
 and love and duty to man, as Matt. 22:37-40, was or is a figure of another;
 then what law that is that is the anti-type of this law, which in succeeding of it,
 enjoins not love and duty to God, and not love and duty to man?
@@ -1100,7 +1140,8 @@ of a literal or outward people; the other spiritually, of a spiritual or inward 
 one requires love according to the tenor of the letter,
 the other according to the Spirit.
 
-Query 12. If the owning of the ten commandments,
+[.discourse-part]
+_Query 12._ If the owning of the ten commandments,
 as they are plainly laid down in the letter, be a breaking of them in the Spirit,
 and especially those contained in the first table;
 then how doth the truth of God written, which is life and truth, Acts 7:38.
@@ -1124,7 +1165,8 @@ and it is the living truth into which he guides in the new covenant;
 though it was he also who gave forth, required, and was able to lead into,
 the letter of the old covenant.
 
-Query 13. Whether,
+[.discourse-part]
+_Query 13._ Whether,
 when Jehovah gave forth the ten commandments plainly as a law in the letter,
 he did intend, by the observation according to the letter,
 the breach of them by the Spirit?
@@ -1144,7 +1186,8 @@ Now this is most righteous;
 that as the Son`'s rest should be entered into under the gospel,
 so the day of rest should be kept by his disciples and family.
 
-Query 14. Whether to say,
+[.discourse-part]
+_Query 14._ Whether to say,
 the keeping the law of God according to the letter is a breaking of it in the Spirit,
 be not a charging of God, that gave it forth to be kept,
 and the Holy Spirit that incites us so to do now in this administration, James 2:8.
@@ -1181,7 +1224,8 @@ though being from the light of this covenant, it cannot discern that it doth so,
 no more than Paul by the letter of the law,
 could discern that he was a breaker thereof in his violent persecutions.
 
-Query 15. Whether the prophets, Jesus Christ, or the apostles,
+[.discourse-part]
+_Query 15._ Whether the prophets, Jesus Christ, or the apostles,
 by their keeping the law according to the letter (that they did so is evident),
 did break the law in the Spirit?
 
@@ -1205,7 +1249,8 @@ the old covenant, the law in the letter.
 chap.
 4:15,16.
 
-Query 16. If there be but one day of rest holy to the Lord,
+[.discourse-part]
+_Query 16._ If there be but one day of rest holy to the Lord,
 and all the sabbaths of the law were but signs of it,
 that is said to be the day of redemption which the Lord hath made:
 then whether that day be a day natural, one of the seven days of the week,
@@ -1218,7 +1263,8 @@ As the gospel is not natural, but spiritual; so its day of rest is not natural,
 but spiritual likewise.
 Yea, I may add this also, the six days`' work in the new creation is not natural either.
 
-Query 17. If not so,
+[.discourse-part]
+_Query 17._ If not so,
 but that it should be intended applicable to the day or time of the gospel-administration
 from the time that Christ suffered in the flesh unto the end of the world:
 then whether this day, that is intended as a sabbath,
@@ -1242,7 +1288,8 @@ which God hath instituted for his spiritual people,
 after he hath led them out of spiritual Egypt,
 and teacheth them to worship him in Spirit and in truth.
 
-Query 18. If they intend one and the same sabbath-day,
+[.discourse-part]
+_Query 18._ If they intend one and the same sabbath-day,
 then how impossible was it for the disciples of Christ to escape fleeing on that sabbath-day,
 though ever so fervent in prayer, in regard that this sabbath spoken of,
 began when Christ had suffered, and put an end to the dispensation of Moses`'s law:
@@ -1264,7 +1311,8 @@ things which were to pass away after his death;
 so that Christ might very well call Jerusalem the holy place,
 and the seventh day the sabbath, speaking to them in that state.
 
-Query 19. If they intend not one and the same sabbath-day,
+[.discourse-part]
+_Query 19._ If they intend not one and the same sabbath-day,
 then which are the disciples of Christ to have respect unto;
 whether that that Jesus Christ enjoined his disciples to have respect unto,
 or that that Isaac Penington would enjoin the disciples to have respect unto.
@@ -1281,7 +1329,8 @@ But they that are born after the letter have been always
 subject to revile and reproach the truths of the Spirit,
 and those that testify thereto.
 
-Query 20. If the Lord`'s holy sabbath be that day which we may suppose is intended,
+[.discourse-part]
+_Query 20._ If the Lord`'s holy sabbath be that day which we may suppose is intended,
 by this paper sent unto us,
 to be the day that contains the time of gospel administration;
 then whether that sabbath doth prohibit outward labor, as well as abstaining from sin?
@@ -1303,7 +1352,8 @@ and to wait in the Spirit on the power for its working in him),
 hath a taste of the gospel-sabbath,
 and beginning to see that day which the type pointed to, and ends in.
 
-Query 21. If that that was ministered to Paul, Rom. 7.
+[.discourse-part]
+_Query 21._ If that that was ministered to Paul, Rom. 7.
 thou shalt keep the sabbath, or believe in the light, follow the light,
 and the observing of either of these in the Spirit, be a keeping the whole law;
 then how are the Scriptures observed,
@@ -1358,7 +1408,7 @@ in that state, be free from the condemnation and curse thereof,
 whatsoever they may imagine concerning themselves, and their own state,
 from a misunderstanding and misapplication of the Scriptures.
 
-==== THE FIRST LETTER ANSWERED.
+==== The First Letter Answered.
 
 There is a double ministration of the law: a ministration in the letter,
 and a ministration in the Spirit.
@@ -1373,7 +1423,11 @@ and fitted to a literal and outward people.
 This was more fully set down in my epistle in several particulars.
 Now in opposition to this, it is said,
 
-First, That all, written in that epistle, makes no more at all against a gospel,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That all, written in that epistle, makes no more at all against a gospel,
 spiritual observing in love the seventh day sabbath to the Lord,
 than they make against a gospel, spiritual observing of the other nine commandments.
 
@@ -1400,7 +1454,8 @@ Now consider seriously, whither should a believer go for these laws?
 To which covenant?
 To Moses`' covenant, or to Christ`'s covenant?
 
-Secondly, That all these commands, being holy and good, are to be loved,
+[.discourse-part]
+_Secondly,_ That all these commands, being holy and good, are to be loved,
 and in love to be observed, etc.
 
 [.discourse-part]
@@ -1436,7 +1491,8 @@ and get it into the heart from thence,
 that is according to the old ministration or covenant,
 which was given in the letter to the Jews, as may appear in that place last cited. Duet. 6:5-6.
 
-Thirdly, That in the same Spirit and love that we have the Lord for our God, etc.,
+[.numbered]
+_Thirdly,_ That in the same Spirit and love that we have the Lord for our God, etc.,
 in the same we are to remember the sabbath-day to keep it holy.
 
 [.discourse-part]
@@ -1464,6 +1520,7 @@ which it is the intent of the letter to direct him to,
 and not for him to fix in the letter,
 as men have done since the apostasy from the Spirit.
 
+[.discourse-part]
 This argument is further enforced thus, because he that said the other,
 said this in the same law and spirit.
 
@@ -1486,6 +1543,7 @@ from whence it issues forth to the family of believers?`" The Jews
 were to be taught by precepts and judgments from Moses;
 but "`all thy children shall be taught of the Lord.`"
 
+[.discourse-part]
 It is said yet further, "`so that if thou keepest the other, and not this,
 thou art a transgressor of the ROYAL LAW of LIBERTY.`"
 
@@ -1521,7 +1579,10 @@ which every believer is to wait for in the prophecies of the Spirit,
 and in obedience to those commands,
 which come livingly into his heart from the Spirit of prophecy.
 
-Fourthly, That the fourth command is to be in love kept by all believers.
+[.numbered]
+_Fourthly,_ That the fourth command is to be in love kept by all believers.
+
+====
 
 [.discourse-part]
 Answer.
@@ -1567,11 +1628,10 @@ no days having ever had any real holiness in them one above another;
 but only a figurative, or representative, which the substance, Christ and his Gospel,
 swallows up: for as his day dawns, those things which were the shadows of it fly away.
 
-==== THE SECOND LETTER ANSWERED.
+==== The Second Letter Answered.
 
 [.discourse-part]
-Objection.
-1+++.+++ IT is said to be "`dangerous so to hold forth the spiritual sabbatism,
+_Objection 1+++.+++_ It is said to be "`dangerous so to hold forth the spiritual sabbatism,
 as to deny the weekly sabbath, wherein our Lord Jesus Christ rested, etc.,
 and which he blessed and sanctified to Adam and his posterity,`" etc.
 
@@ -1592,8 +1652,7 @@ The day is dawned, blessed be the Lord God Almighty; the everlasting day is dawn
 and the shadows of the law are flown away.
 
 [.discourse-part]
-Objection.
-2+++.+++ It is said, that "`Heb. 4. speaks of three rests, the seventh day,
+_Objection 2+++.+++_ It is said, that "`Heb. 4. speaks of three rests, the seventh day,
 or sabbath rest, Israel`'s rest in Canaan,
 and a remaining rest, whereof David speaks.`" Psa. 95.
 
@@ -1624,8 +1683,7 @@ This rest remains, says the apostle; the others were types of it under the law s
 which was to pass away.
 
 [.discourse-part]
-Objection.
-3+++.+++ It is said, "`ceremonial signs are done away,
+_Objection 3+++.+++_ It is said, "`ceremonial signs are done away,
 but the ten commandments under the mercy-seat are of another nature:
 and that there are signs which are not yet abolished (as the rain-bow, sun, moon,
 and stars), but still remain for us to make good use of.`"
@@ -1661,8 +1719,7 @@ as any other sabbaths of the law) I find expressly.
 Ex. 31:13 to 18.
 
 [.discourse-part]
-Objection.
-4+++.+++ It is said, "`That though Christ`'s law be a new law; yet it is also old,
+_Objection 4+++.+++_ It is said, "`That though Christ`'s law be a new law; yet it is also old,
 given of old to the Jews.`"
 
 [.discourse-part]
@@ -1706,8 +1763,7 @@ Heb. 8:6 "`And in that he saith, a new, he hath made the first old.
 Now that which decayeth and waxeth old is ready to vanish away.`" ver. 13.
 
 [.discourse-part]
-Objection.
-5+++.+++ It is said, "`That love being the sum and substance of the law of the Spirit,
+_Objection 5+++.+++_ It is said, "`That love being the sum and substance of the law of the Spirit,
 makes no more against the fourth commandment than against the rest.`"
 
 [.discourse-part]
@@ -1741,15 +1797,14 @@ For such to behold, the eye of whose Spirit is opened by the pure Anointing;
 and who are not so drowned in their Conceivings and Reasonings about the Sense of the letter,
 as most of the Professors of this Age are.
 
-[quote.section-epigraph]
+[quote.section-epigraph, , Matt. 11:28-30]
 ____
 Come unto me, all ye that labor, and are heavy laden, and I will give you rest.
 Take my yoke upon you, and learn of me, for I am meek and lowly in heart,
 and ye shall find rest unto your souls; for my yoke is easy, and my burden is light.
-Matt. 11:28-30
 ____
 
-HE that hears the joyful sound of the ever-living power,
+He that hears the joyful sound of the ever-living power,
 calling him by the voice of his eternal light out of the darkness, out of the death,
 out of the misery, out of the dominions, territories,
 and deep slavery of Satan unto himself,
@@ -1912,7 +1967,11 @@ and enter into an Everlasting Covenant with him that may not be broken;
 that so they may abide in his Love and Covenant of _Life,_
 and remain his People forever.
 
-Consideration 1. What great love, mercy, and kindness God showed to that people,
+[.numbered-group]
+====
+
+[.numbered]
+_Consideration 1._ What great love, mercy, and kindness God showed to that people,
 above all nations and peoples under heaven!
 Of his own free love he set his heart upon them, choosing them to be a people to himself.
 He brought them out of Egypt, by a mighty hand and an outstretched arm;
@@ -1965,7 +2024,8 @@ and casting these out of his sight, making them become no people,
 who had so long been his chosen, peculiar people, in covenant with him,
 and nigh unto him, above all the families of the earth.
 
-Consideration 2. What constant rebellion and stiffness of
+[.numbered]
+_Consideration 2._ What constant rebellion and stiffness of
 spirit that people all along expressed towards the Lord!
 What wild, sour grapes they still brought forth to him; sour love, sour obedience,
 sour worship and sacrifices,
@@ -1999,7 +2059,8 @@ how often he gave them up to captivity out of their land,
 even till at length that great captivity of Babylon befell them,
 and since that a greater captivity and desolation than that of Babylon.
 
-Consideration 3. Whether God, having tried this people even to the utmost,
+[.numbered]
+_Consideration 3._ Whether God, having tried this people even to the utmost,
 by that covenant which he made with them by Moses in Mount Sinai,
 may ever please to try them so any more:
 or if there yet remain any mercy or love from God towards them,
@@ -2027,6 +2088,8 @@ ver. 62. That they may withdraw their eyes and hopes from the one,
 from whence their redemption, recovery, and mercy cannot come,
 towards the other from whence it is to come?
 To which query, for their sakes, it is in my heart to return this answer.
+
+====
 
 [.discourse-part]
 Answer.
@@ -2114,7 +2177,11 @@ who are drawn to him in and by this covenant, as they are kept, preserved,
 and continue in the faith, love, and obedience of it.
 Now I would yet put these few things more to them.
 
-First, Whether that people of the Jews,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ Whether that people of the Jews,
 as they stood related to God in that covenant (given by Moses at Mount Horeb),
 with the covenant itself, and all things appertaining thereto,
 were not a shadow of some inward and spiritual thing afterwards
@@ -2144,7 +2211,8 @@ and God`'s raising up a seed among the Gentiles,
 where he would have a more acceptable people and worship, even a pure, spiritual people,
 and a pure, spiritual offering.
 
-Secondly, If they were types, representations, or shadows of somewhat spiritual to come,
+[.numbered]
+_Secondly,_ If they were types, representations, or shadows of somewhat spiritual to come,
 then were they not to give place to that which is spiritual when it came,
 and so to be swallowed up in it?
 Is not the spiritual glory the glory?
@@ -2168,7 +2236,8 @@ that ye might partake thereof;
 and then your eye would not be so much on that which is outward; which, if ye had,
 even to the utmost of your desire, is not comparable to the inward!
 
-Lastly, Search the prophets, see if the Messiah is not first to come in a despisable way,
+[.numbered]
+_Lastly,_ Search the prophets, see if the Messiah is not first to come in a despisable way,
 as a man of sorrows, Isa. 53:2-3.
 whose visage in that appearance was to be more marred than any
 man`'s. Isa. 52:14. And consider whether he was not to be cut off,
@@ -2180,6 +2249,8 @@ and his hands and feet are yet to be pierced by you,
 and then afterwards ye may look upon him whom ye have pierced, Zech. 12:10.
 and all the families of Israel mourn bitterly apart for it.
 ver. 12.
+
+====
 
 When Moses gave the law, the veil was over his face;
 your fathers were not able to bear the light wherein the law was given,
@@ -2211,4 +2282,5 @@ which can never be made new by any ministry of the letter without the Spirit,
 but alone by the ministry of the Spirit, whether with or without the letter,
 as he pleaseth.
 
+[.signed-section-signature]
 I+++.+++ P.
