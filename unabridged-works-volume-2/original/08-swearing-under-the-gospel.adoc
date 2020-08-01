@@ -12,7 +12,7 @@ By _Isaac Penington,_ the Younger
 [.section-date]
 1661
 
-WHETHER it be lawful for Christians (who know Christ,
+Whether it be lawful for Christians (who know Christ,
 the substance of all the shadows under the law,
 and are in the new covenant) to swear upon weighty occasions,
 as it was lawful for the Jews to do under the old covenant.
@@ -43,7 +43,11 @@ This last is the main, and will of itself determine the thing;
 but yet a brief consideration of the former may not be unprofitable,
 to make way for a clearer leading and insight into it.
 
-First, As touching an oath, what it is, or the nature of it.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ As touching an oath, what it is, or the nature of it.
 A true and lawful oath under the law was an engagement or bond upon the soul,
 Num. 30:2 by the name of the Lord, Duet. 10:20.
 to the speaking of truth in things affirmed,
@@ -55,30 +59,48 @@ to be such an engagement upon the soul, as, if there be any fear of God there,
 it cannot but dread to break, knowing, that "`the Lord will not hold him guiltless,
 that taketh his name in vain.`"
 
-Secondly, The ground or occasion of an oath, is the fall of man from truth,
+[.numbered]
+_Secondly,_ The ground or occasion of an oath, is the fall of man from truth,
 from innocency, from the uprightness which engaged him to truth before his fall.
 This made the Jews stand in need of this bond under the law,
 in their purposes and promises towards God;
 and the same thing likewise made them stand in need of it one from another,
 to ratify and confirm truth between them.
 
-Thirdly, The cases wherein an oath was to be used, which were chiefly these four.
+[.numbered]
+_Thirdly,_ The cases wherein an oath was to be used, which were chiefly these four.
 
+====
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ In case of a promise or vow to God.
+
+[.numbered]
 2+++.+++ In case of promise to man.
 That the truth, integrity, and plain intention of the heart might stand,
 and there might be no departing therefrom, in the thing promised, either to God or man;
 an oath in that state was found useful to bind the soul thereto.
 
+[.numbered]
 3+++.+++ In case of pronouncing or declaring the truth of a thing which was weighty,
 that there might be a clear and satisfactory ground of belief.
 
+[.numbered]
 4+++.+++ In case of controversy between parties, where the controversy could not be determined,
 but by taking the confession of the one party for truth;
 there that party was to seal his confession with an oath,
 and so the other to rest satisfied therewith, and the controversy thereupon end.
 
-Fourthly, The end of an oath, which is for final confirmation,
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_Fourthly,_ The end of an oath, which is for final confirmation,
 and avoiding all further strife and contention about the thing sworn to.
 By binding the thing (promised or affirmed) with an oath, the thing is confirmed;
 and now there is no more strife in the heart concerning the thing, if relating to God,
@@ -89,7 +111,8 @@ and the contest ended.
 Thus of right it ought to be, and is,
 where the oath is forcible and in its proper service.
 
-Fifthly, The suitableness of its nature to the end aimed at by it.
+[.numbered]
+_Fifthly,_ The suitableness of its nature to the end aimed at by it.
 Man out of the Christian life,
 can go no further than to engage himself by the fear and dread of that God,
 whom he professeth to worship and serve,
@@ -105,10 +128,13 @@ insomuch as no other engagement from him can be of weight,
 he hereby manifesting the want of that in his mind and spirit,
 whereupon all ties are to fasten.
 
-Sixthly, The persons to whom the use of an oath was proper and lawful,
+[.numbered]
+_Sixthly,_ The persons to whom the use of an oath was proper and lawful,
 and for whom it was instituted;
 and whether there be any persons to whom it is not proper and lawful,
 and for whose use it was not instituted.
+
+====
 
 To find out this distinctly and truly,
 we must consider the several conditions of man since the creation;
@@ -117,12 +143,17 @@ and to which it is not useful in itself, nor allowed by God.
 
 There have been four estates or conditions of mankind since the creation:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ An estate of innocency; an estate of integrity, of purity, of righteousness,
 wherein man could not lie or deceive; but his promises to God, and his words to men,
 must needs be Yea, and Amen: for it was impossible to man,
 who was made in God`'s image (which is truth) to lie or deceive,
 until the deceit entered him, and drew him out of the truth.
 
+[.numbered]
 2+++.+++ There was (and still is) an estate of deep captivity,
 wherein this truth and innocency was wholly lost;
 and man wholly corrupted in his spirit and nature, and wholly degenerated from God.
@@ -134,6 +165,7 @@ which they that hearkened unto did not remain in the fall with the rest,
 but felt the power of that, which reproved and checked them, circumcising their hearts;
 and, in their obedience thereto, justifying them in their consciences before God.
 
+[.numbered]
 3+++.+++ There was an estate of shadowy redemption,
 which was not the true estate of redemption itself,
 or they the true people which were to be redeemed; but a shadow of the redemption,
@@ -144,6 +176,7 @@ But all these figures, in and under the law,
 were not the true heavenly and invisible things themselves,
 but outward and visible signs and representations of them.
 
+[.numbered]
 4+++.+++ There was, and blessed be the Lord, now at length (after the great, long,
 and dark night of apostasy) again is brought forth, an estate of true redemption;
 wherein the soul is brought back from the death, from the captivity, from the fall,
@@ -176,6 +209,8 @@ out of the earthly ordinances and observations of the Jews; yea,
 even out of everything in both, which was not of the Father, but of the world;
 and this made them a gazing-stock to both, and the scorn and hatred of both,
 wherever they came.
+
+====
 
 These are the four estates or conditions of mankind since the creation; in one of which,
 all men that ever were, have been to be found;
@@ -258,6 +293,11 @@ which binds from swearing as a Christian can be?
 
 [.discourse-part]
 Answer.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ God (being not bound himself by the laws wherewith
 he binds the creature) may either himself,
 or by an instrument (in his immediate life and power),
@@ -280,6 +320,8 @@ and the faith received is the seal of truth under the gospel, both towards God a
 
 [.discourse-part]
 Answer.
+
+[.numbered]
 2+++.+++ A Christian may not swear in relation to the satisfaction of others,
 because he is to hold forth his light, his life, his principle, in the eye of the world;
 he is to testify to the worth and excellency of it,
@@ -300,6 +342,8 @@ but he that abides in him must perform the yea and amen, which is firm in him.
 
 [.discourse-part]
 Answer.
+
+[.numbered]
 3+++.+++ A Christian or disciple may not swear under the gospel,
 because Christ hath brought in confession of the truth, from the principle of his life,
 instead of oaths;
@@ -325,15 +369,23 @@ which is willing to take up the will and truth of God in everything,
 with all the crosses that attend it,
 let these few things following be uprightly considered of.
 
-First, That slight, trivial, and frequent oaths were not allowed under the law,
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That slight, trivial, and frequent oaths were not allowed under the law,
 but forbidden by the law, as the taking God`'s holy and dreadful name in vain.
 
-Secondly, That though vain oaths were then forbidden, yet solemn oaths, weighty oaths,
+[.numbered]
+_Secondly,_ That though vain oaths were then forbidden, yet solemn oaths, weighty oaths,
 such as were needful and useful to the thing intended, were allowed under the law.
 So in all those cases before expressed, oaths were allowed and justifiable,
 so that they were but careful to perform them, and did not forswear themselves.
 
-Thirdly,
+[.numbered]
+_Thirdly,_
 Christ brings in an exception against the use of this lawful swearing under the law,
 as the word but doth plainly signify, and forbiddeth swearing wholly, altogether,
 or at all.
@@ -343,10 +395,13 @@ it allows swearing but forbids forswearing, but I say unto you,
 ye shall not only avoid forswearing, but swearing also, and that wholly, or altogether:
 "`but I say unto you, swear not at all.`"
 
-Fourthly, Christ brings in another thing instead of swearing,
+[.numbered]
+_Fourthly,_ Christ brings in another thing instead of swearing,
 a thing far more suitable to the truth, plainness, and simplicity of the gospel,
 which is confessing the thing, or speaking the thing in truth, just as it is,
 either by way of affirmation or denial; "`but let your yea be yea, and nay nay.`"
+
+====
 
 And there is liberty enough left to a disciple to satisfy
 any man concerning the truth of a thing by confession,
