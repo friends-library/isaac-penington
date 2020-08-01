@@ -1,6 +1,7 @@
 == An Epistle / To all such as observe the Seventh Day of the Week for the Sabbath of the Lord.
 
-FRIENDS,
+[.salutation]
+Friends,
 
 In true love to your souls, and in the fear of the Lord,
 I have a few things to lay before you, that the simplicity in you may not be deceived,
@@ -13,10 +14,15 @@ Be persuaded, therefore, seriously to consider (out of the wisdom from which God
 in the babish simplicity of his begetting,
 where the true life springs) these few things following.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That the whole law of Moses
 (the ten words, as well as the institutions about sacrifices and worship)
 was added because of transgression. Gal. 3:19.
 
+[.numbered]
 2+++.+++ That the whole law (the ten words, as well as the sacrifices) was representations,
 figures, or shadows, of somewhat relating to Christ, the seed;
 subservient to the promise, not making perfect, but pointing to, and making way for,
@@ -26,6 +32,7 @@ did no more make perfect, than the other shadows or sacrifices did,
 but with them made way for the better hope,
 towards which they were to lead their scholar, or disciple, as school-master.
 
+[.numbered]
 3+++.+++ That the whole dispensation of the law was given to the Jews,
 and not to the Gentiles. Rom. 9:4.
 And so not any thing there written bindeth the Gentiles (as there written,
@@ -35,6 +42,7 @@ Rom. 1:19:15. According to which he would judge them.
 ver. 12. And not by the law written, which was given to the Jews,
 which spake not to the Gentiles, but to the Jews, who were under it. Rom. 3:19.
 
+[.numbered]
 4+++.+++ That the duration of this dispensation of Moses`' law in the letter, was till Christ,
 the seed, should come and fulfill it. Gal. 3:19.
 and 24,25. Moses`' family, with all the laws thereof,
@@ -46,6 +54,8 @@ and so to put an end to that dispensation of it.
 Psa. 40. Rom. 10:4. And so he taketh away the first administration of the law,
 which was in the letter, that he might establish the second, which is in the Spirit. Heb. 10:9.
 2 Cor. 3:7-11.
+
+====
 
 This then is the truth, as it is in Jesus, concerning this thing;
 That Christ coming in the flesh,
@@ -144,6 +154,8 @@ Oh, wait on the Lord in his fear! that it may be opened to you,
 and that slain in you which cannot bear the straitness thereof,
 and with which there is no erring.
 
+[.signed-section-closing]
 From a friend to your eternal peace,
 
-ISAAC PENINGTON the Younger.
+[.signed-section-signature]
+Isaac Penington the Younger.
