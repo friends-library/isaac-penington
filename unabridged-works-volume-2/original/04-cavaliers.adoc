@@ -4,9 +4,9 @@
 [.section-date]
 1660
 
-=== QUERY I
+=== Query I
 
-WHETHER all those sufferings, which have befallen that party for these many years,
+Whether all those sufferings, which have befallen that party for these many years,
 were just as relating to God or no?
 that is, whether they so sinned against him, forgetting his name and fear,
 dealing hardly with such as truly desired to fear him,
@@ -27,9 +27,9 @@ yet this is more proper and safe for them now,
 to consider what hand the Lord had in all these things,
 and whether he was just therein or no.
 
-=== QUERY II
+=== Query II
 
-WHETHER in these their sufferings they have humbled themselves before the Lord,
+Whether in these their sufferings they have humbled themselves before the Lord,
 submitting to his hand, mourning over their sins and transgressions against him,
 and have more desired his gracious mercy and power,
 to pardon and deliver them from their sins, than to be freed of their sufferings;
@@ -41,9 +41,9 @@ and the people of this Nation) might walk righteously, meekly,
 and faithfully in the exercising of authority for the good and peace of all,
 and not for the hurt of any?
 
-=== QUERY III
+=== Query III
 
-WHETHER the cause (which they now may easily trample upon
+Whether the cause (which they now may easily trample upon
 and despise) in those people who were engaged against them,
 was not just on their behalf also in its first rise,
 and at the beginning of the controversy;
@@ -61,9 +61,9 @@ This the Lord began to effect by them,
 wherein their service was very precious and acceptable to him,
 which if they had gone on faithfully in, they had never seen this day.
 
-=== QUERY IV
+=== Query IV
 
-WHETHER they consider the hand of the Lord in turning things thus about,
+Whether they consider the hand of the Lord in turning things thus about,
 or whether their eye be on instruments: on such as were against them on the one hand,
 and on such as were for them on the other hand?
 for is it not very wonderful to consider,
@@ -81,9 +81,9 @@ and not provoke him against them by abusing it,
 and so on a sudden forfeit and hazard the loss again,
 of what they have been so long desiring and aiming at!
 
-=== QUERY V
+=== Query V
 
-WHETHER they consider how easy it is for the Lord to turn things about again,
+Whether they consider how easy it is for the Lord to turn things about again,
 in as unexpected a way to them, as this was to those who are now overturned.
 Indeed they are settled as to the eye of man: what can withstand them?
 what can rise up against them?
@@ -116,9 +116,9 @@ lest it prove that the Lord hath raised you up to make his power known upon you,
 and to get himself a name by your overthrow.
 This is a warning of love to you, even from that which saw this your day before it came.
 
-=== QUERY VI
+=== Query VI
 
-WHETHER an evil spirit, a loose spirit,
+Whether an evil spirit, a loose spirit,
 a spirit which is out of the fear of God (and against
 them that fear God) hath not risen up in the Nation,
 and been too much encouraged since your coming into power?
@@ -150,9 +150,9 @@ but let your joy be in his fear, and then we also shall rejoice with you,
 and hope that the wrath of the Lord may be diverted from this nation,
 which these things help to kindle and increase.
 
-=== QUERY VII
+=== Query VII
 
-HAVE ye considered, or do ye yet seriously apply yourselves duly to consider,
+Have ye considered, or do ye yet seriously apply yourselves duly to consider,
 what the Lord`'s controversy with this nation and
 the powers thereof all this while hath been,
 and how it may be ended, that there may be no more striving against him,
@@ -172,7 +172,11 @@ how much fallen soever it seemeth to men,
 and how impossible soever it seem to be recovered.
 Let me in the uprightness of my heart propose some few things to you.
 
-First, is not this a likely thing,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ is not this a likely thing,
 that the Lord would have the reformation from popery perfected?
 If the Protestants did well to leave popery,
 then surely the more they leave it and come out of it, cannot but be acceptable to God:
@@ -206,6 +210,7 @@ and set strait for the encouragement of the good,
 and for the curbing of the unrighteous loose and profane spirit,
 that it may no longer thus swim on top, and abound in the nation, but be brought under.
 
+[.numbered]
 2+++.+++ Is not this also likely and a fitting thing,
 that the Lord God should have the leading and guidance
 of those whom he beget by his Spirit,
@@ -231,6 +236,7 @@ which draweth them out of all the unrighteousness of the world,
 yea and out of its righteousness too, that they may be found in the righteousness, faith,
 and obedience of God`'s Spirit in everything.
 
+[.numbered]
 3+++.+++ Is it not fitting that the Lord should have and enjoy the worship of such,
 as he teaches and seeks to worship him in spirit and in truth?
 The worship in spirit and in truth is the Father`'s worship,
@@ -250,6 +256,7 @@ Consider how provoking this must needs be to God,
 of what dangerous consequence this hath been to the foregoing powers,
 and how dangerous it may prove to you.
 
+[.numbered]
 4+++.+++ Consider whether it be in your hearts to bring us back to Egypt,
 and whether ye be able indeed so to do.
 It was an heavy yoke which we lay under by the government of Episcopacy,
@@ -271,6 +278,7 @@ whose eyes run to and fro through the earth to behold the carriage of things,
 that he may be ready to stretch forth his arm for the saving or his people,
 when there is none left to help them.
 
+[.numbered]
 5+++.+++ Consider seriously and pray earnestly,
 that ye may know what God hath put this opportunity into your hands for;
 and do not seek the regaining of the earthly glory
@@ -290,6 +298,8 @@ and seek to right yourselves on the instruments which
 God pleased to make use of to afflict you,
 yet it will be safer and better for you, if ye can forgive.
 
+====
+
 These things belong to your peace,
 and by this means the Lord`'s favour may turn towards you,
 who cannot but dislike your beginnings:
@@ -307,4 +317,5 @@ praying to and waiting on the Lord for the good and prosperity of the nation in 
 and for the bringing forth of that righteousness, fear of the Lord and true peace,
 which alone can make it happy.
 
+[.signed-section-signature]
 Isaac Penington, the Younger
