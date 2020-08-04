@@ -267,7 +267,7 @@ in relation to any thing that they do from this principle, is persecution with t
 or lifting up of the power, either of a particular person, or of a magistrate,
 against such.
 
-==== 4. The Grounds of Persecution, or What Are the Things That Cause the One Spirit and Priciple to Persecute, and the Other to Be Persecuted
+==== 4. The Grounds of Persecution, or What Are the Things That Cause the One Spirit and Principle to Persecute, and the Other to Be Persecuted
 
 The grounds and causes which expose the one to persecution,
 and kindle the heat of persecuting in the other, are chiefly these three ensuing.
@@ -414,7 +414,7 @@ and stands a witness against, its wickedness.
 
 ====
 
-==== 6. The End of Persection, or What the Persecuting Spirit Aims At in Its Persecuting, and Would Fain Attain Thereby
+==== 6. The Ends of Persection, or What the Persecuting Spirit Aims At in Its Persecuting, and Would Fain Attain Thereby
 
 [.numbered-group]
 ====
@@ -935,14 +935,11 @@ the laws would soon be silent, government at a stand, and every one do what they
 bringing in all manner of licentiousness and disobedience to authority,
 under a pretence of conscience.
 
-[.discourse-part]
-Answer.
-
 [.numbered-group]
 ====
 
 [.numbered]
-1+++.+++ Conscience is of God;
+_Answer. 1+++.+++_ Conscience is of God;
 and tenderness and conscientiousness towards him
 is necessary to the receiving of his pure fear,
 and towards the springing up and growth of all good in the heart.
@@ -1003,7 +1000,8 @@ nor the success therein so dangerous.
 
 ====
 
-=== A Brief Account of That Stiffness, Resolvedness and Supoorted Stubbornness, Which by Many Is Objected Against the People Called Quakers
+[.old-style]
+=== A Brief Account of That Stiffness, Resolvedness and Supposed Stubbornness / Which by Many Is Objected Against the People Called Quakers
 
 [.discourse-part]
 Objection.
