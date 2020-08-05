@@ -17,19 +17,19 @@ its Inoffensiveness to all just laws and governments of the kingdoms of men.
 [.section-author]
 By _Isaac Penington,_ the Younger
 
-[quote.section-epigraph]
+[quote.section-epigraph, , Rev. 16:15]
 ____
 Behold, I come as a thief.
 Blessed is he that watcheth, and keepeth his garments, lest he walk naked,
-and they see his shame. Rev. 16:15.
+and they see his shame.
 ____
 
 [.section-date]
 1660
 
-=== PREFACE
+=== Preface
 
-CHRIST, the eternal Son of God, the substance of all the types and shadows of the law,
+Christ, the eternal Son of God, the substance of all the types and shadows of the law,
 was made a priest to God, not after the law of a carnal commandment,
 but after the power of an endless life.
 He came in the power of the Father; he received the power, he ministered the power,
@@ -133,9 +133,9 @@ and in this is the discovery of him, and the redemption from him.
 And happy is he, who is not "`defiled with women,`" but abideth in the true virginity,
 expecting and preparing for the appearance of the bridegroom.
 
-=== THE CONSIDERATION OF A POSITION etc.
+=== The Consideration of a Position etc.
 
-THERE is a position laid down in some printed letters,
+There is a position laid down in some printed letters,
 concerning the use of the Common-Prayer-book, tendered by one Edm.
 Ellis (who professeth himself to be a minister of Jesus Christ) to Mr. Hughes,
 and Mr. Ford (as he styleth them); against which position he entreateth me,
@@ -388,7 +388,7 @@ The first particular of those, which he lays down for truths is,
 "`that the good things of this life, honors, riches, etc.,
 unless we make use of them in the service of God, are but vanity and vexation of spirit;
 and in no wise any more capable to satisfy or content an immortal soul,
-than lime, and ashes, and cobwebs, and such-like trash,
+than time, and ashes, and cobwebs, and such-like trash,
 are to satisfy and keep in health the bodies of those persons, who,
 through the depravedness of their appetite, desire to feed on them.
 
@@ -764,9 +764,9 @@ Let it have its honor,
 wherever it appears! and the Lord bring down that in people`'s hearts,
 which hindereth the owning and receiving of its virtue.
 
-=== A WARNING OF TENDER BOWELS, TO THE RULERS, TEACHERS, AND PEOPLE OF THIS NATION, CONCERNING THEIR CHURCH AND MINISTRY
+=== A Warning of Tender Bowels, to the Rulers, Teachers, and People of This Nation, Concerning Their Church and Ministry
 
-THAT there was a fight between the dragon and his angels,
+That there was a fight between the dragon and his angels,
 and Michael and his angels, concerning the New-Testament church and ministry,
 is manifest even from the letter of the Scriptures.
 Rev. 12.
@@ -929,9 +929,9 @@ in the depth of bowels we pity the rulers, the teachers, and people therein.
 Oh! that they might be humbled, and in fear of the great God, surrender to him his due,
 before he appear in his strength to force it from them.
 
-=== OF THE KINGDOM, LAWS, AND GOVERNMENT OF CHRIST IN THE HEART AND CONSCIENCE, ITS INOFFENSIVENESS TO ALL JUST LAWS AND GOVERNMENTS OF THE KINGDOMS OF MEN
+=== Of the Kingdom, Laws, and Government of Christ in the Heart and Conscience, Its Inoffensiveness to All Just Laws and Governments of the Kingdoms of Men
 
-CHRIST`'s kingdom, God`'s kingdom,
+Christ`'s kingdom, God`'s kingdom,
 the kingdom of heaven (for they are all one and the same),
 is that seed of eternal life which God hath hid in the hearts of the sons of men,
 whereby he gathereth them back unto himself,
