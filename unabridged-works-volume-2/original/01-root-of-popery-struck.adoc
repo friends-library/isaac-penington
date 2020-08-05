@@ -119,26 +119,16 @@ the way of peace.
 ====
 
 [.numbered]
-_Proposition I._
-
-====
-
-That councils may err
+_Proposition I._ That councils may err
 (if I should add, and have erred, it might not be impossible to prove it).
 
-[.numbered-group]
-====
-
-[.numbered]
 _First,_ In that they are men not perfected in the knowledge, faith,
 and obedience of the truth, it necessarily implies a capacity of error,
 both in relation to the knowledge, to the faith, and to the obedience.
 
-[.numbered]
 _Secondly,_ Their doubtful disputation of things, and long canvassing,
 imply an uncertainty, and possibility of erring.
 
-[.numbered]
 _Thirdly,_
 Their way of determining things at last (which is by a vote
 of the major part) is an uncertain way of determination;
@@ -160,17 +150,8 @@ or heresy; and falsehood can never become truth,
 though ever so many wise men should testify for it,
 putting the fairest habit and appearance of truth upon it that they can.
 
-====
-
-[.numbered-group]
-====
-
 [.numbered]
-_Proposition II._
-
-====
-
-That the pope himself may err.
+_Proposition II._ That the pope himself may err.
 
 The pope hath not greater freedom from fallibility
 in judgment or doctrine than Peter himself had.
@@ -186,15 +167,8 @@ did plainly imply that the pope might err;
 which might further be confirmed by what the council
 of Basil determined concerning pope Eugenius.
 
-[.numbered-group]
-====
-
 [.numbered]
-_Proposition III._
-
-====
-
-That every man may err in his interpretation of scriptures,
+_Proposition III._ That every man may err in his interpretation of scriptures,
 further than he hath a certain and infallible opening of them to his spirit,
 by that Spirit which gave them forth.
 
@@ -207,43 +181,25 @@ without the Spirit`'s infallible opening of his own words to him.
 So that the Spirit itself is the ground and foundation of
 all true light and knowledge of the things of God.
 
-[.numbered-group]
-====
-
 [.numbered]
-_Proposition IV._
-
-====
-
-That if there be any light to be found any where shining from God,
+_Proposition IV._ That if there be any light to be found any where shining from God,
 that light cannot err: for God is pure;
 and that which comes immediately from him cannot but be pure.
 All the knowledge which man gathers, or can gather, into his vessel, he may pollute;
 but what issues from the spring is pure, and of a perfect nature. James 1:17.
 
-[.numbered-group]
-====
-
 [.numbered]
-_Proposition V+++.+++_
-
-====
-
+_Proposition V._
 That there must necessarily be such a light communicated to all men since the fall,
 that they may believe thereby, come to the knowledge of the truth, and be saved;
 which I prove thus:
 
-[.numbered-group]
-====
-
-[.numbered]
 1+++.+++ From the will of God.
 The apostle saith expressly, that "`God would have all men to be saved,
 and to come unto the knowledge of the truth.`" 1 Tim. 2:4. Why then
 there must necessarily be somewhat dispensed from God to all men,
 sufficient to bring them to the "`knowledge of the truth,`" that they may be "`saved.`"
 
-[.numbered]
 2+++.+++ From what is found in man.
 There is found in man a light shining in his darkness, John 1:5.
 a light discovering the darkness, and drawing from it;
@@ -261,16 +217,8 @@ but God`'s light, God`'s witness there, can never be bribed, but will speak trul
 both against the evil of the man, and against the searedness, hardness,
 and unfaithfulness of his conscience towards God.
 
-====
-
-[.numbered-group]
-====
-
 [.numbered]
 _Proposition VI._
-
-====
-
 That this being let in, believed in, and obeyed, shineth more and more unto the perfect day;
 even until it hath wholly brought out of the error into the truth.
 
@@ -289,14 +237,8 @@ the power and saving arm would arise;
 which would effectually lead out of the death and captivity,
 into the fellowship and freedom of the life.
 
-[.numbered-group]
-====
-
 [.numbered]
 _Proposition VII._
-
-====
-
 That nothing less can lead unto eternal life than an eternal light in man`'s spirit,
 where the darkness is; which is to be discovered there, subdued there, and to be led from.
 
@@ -329,6 +271,8 @@ but he that hates its reproof, is condemned by it, John 3:20-21.
 and not only shut out of life, but out of the very ways to it;
 for the reproofs of the instruction of this wisdom
 are the sole way or path of life to the sinner. Prov. 6:23.
+
+====
 
 Now behold the true certainty of the everlasting foundation,
 and behold your own uncertainty.
