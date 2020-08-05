@@ -45,9 +45,9 @@ By _Isaac Penington,_ the Younger
 [.section-date]
 1661
 
-=== PREFACE
+=== Preface
 
-THERE hath been an enmity in the seed of the serpent against the seed of the woman,
+There hath been an enmity in the seed of the serpent against the seed of the woman,
 from the time of the promise even until now.
 God, in mercy to mankind, hath given unto him since the fall,
 a seed or principle of life;
@@ -130,9 +130,9 @@ happy is he who is delivered from them before the day of
 their ruin! which is nearer than man is aware of,
 or can believe.
 
-=== CONCERNING PERSECUTION
+=== Concerning Persecution
 
-BECAUSE men generally, in persecuting,
+Because men generally, in persecuting,
 know not what they do (neither whom it is they persecute,
 nor how they sin against God therein, nor what danger they are exposing themselves to,
 and what misery they are drawing upon themselves thereby,
@@ -144,33 +144,48 @@ in love to those who are at unawares running into this great error,
 that they may find the good hand of God stopping them therein for their own good,
 are these things following concerning persecution written, wherein are manifested,
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ What it is that is persecuted.
 
+[.numbered]
 2+++.+++ Who it is that persecutes, or is the persecutor.
 
+[.numbered]
 3+++.+++ The nature of persecution.
 
+[.numbered]
 4+++.+++ The grounds or causes of persecution.
 
+[.numbered]
 5+++.+++ The ways and means of persecution.
 
+[.numbered]
 6+++.+++ The ends of persecuting; what men aim at therein, or rather what the spirit in men,
 which puts them upon persecuting of others, aims at thereby.
 
+[.numbered]
 7+++.+++ The color, or false pretence, of the persecuting spirit.
 
+[.numbered]
 8+++.+++ The blessedness of the persecuted.
 
+[.numbered]
 9+++.+++ The misery of the persecutors.
 
+[.numbered]
 10+++.+++ The way and means whereby men may come to avoid this great evil of persecuting others.
+
+====
 
 Whereunto, in the last place, are added, Some sad effects of persecution;
 to kindle in men a desire of avoiding so great an evil in itself,
 and so pernicious an enemy to all that is good in general,
 and particularly to the peace and welfare of mankind, as the persecuting spirit is.
 
-==== 1. WHAT OR WHO IT IS THAT IS PERSECUTED
+==== 1. What or Who It Is That Is Persecuted
 
 The persecuted in all ages is that "`which is born after God`'s
 Spirit.`" Gal. 4:29. He that is new-created in Christ Jesus,
@@ -196,7 +211,7 @@ then there is no longer avoiding of persecution.
 That which comes into the life of Christ comes presently into a
 proportion of suffering from that which is contrary to his life.
 
-==== 2. WHAT OR WHO IT IS THAT PERSECUTETH, OR IS THE PERSECUTOR
+==== 2. What or Who It Is That Persecuteth, Or Is the Persecutor
 
 The persecutor, in all ages, is that which is after the flesh.
 That spirit and principle in man which is from beneath, puts the men in whom it is,
@@ -222,7 +237,7 @@ is of a contrary spirit and nature to them all.
 They are all against this more or less;
 though not all against it in the same degree of heat and vehemency.
 
-==== 3. THE NATURE OF PERSECUTION, OR WHAT IT IS TO PERSECUTE
+==== 3. The Nature of Persecution, or What It Is to Persecute
 
 Persecution is the opposition of the flesh against the Spirit.
 The fretting or dashing of the earthly spirit, or spirit of man corrupted,
@@ -252,11 +267,15 @@ in relation to any thing that they do from this principle, is persecution with t
 or lifting up of the power, either of a particular person, or of a magistrate,
 against such.
 
-==== 4. THE GROUNDS OF PERSECUTION, OR WHAT ARE THE THINGS THAT CAUSE THE ONE SPIRIT AND PRINCIPLE TO PERSECUTE, AND THE OTHER TO BE PERSECUTED
+==== 4. The Grounds of Persecution, or What Are the Things That Cause the One Spirit and Principle to Persecute, and the Other to Be Persecuted
 
 The grounds and causes which expose the one to persecution,
 and kindle the heat of persecuting in the other, are chiefly these three ensuing.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The enmity of the birth of the flesh against the birth of the spirit.
 There is enmity in the serpent against the woman,
 and in the seed of the serpent against the seed of the woman.
@@ -266,6 +285,7 @@ That which walks and worships in the will,
 and according to the inventions of man`'s wisdom, and in shadows and fleshly forms,
 pleasing to the flesh, cannot endure that which worships in Spirit and truth.
 
+[.numbered]
 2+++.+++ The contrariety of that which is born of God, and drawn out of the world,
 to that which is of the flesh, or of corrupt man, and left in the world,
 this is that which increaseth and draweth forth the enmity in the corrupt principle.
@@ -304,6 +324,7 @@ and makes war with them in righteousness?
 Can darkness choose but fight to save its own dominions?
 It must put out the light, or it cannot save its own, but will be losing of ground daily.
 
+[.numbered]
 3+++.+++ Because of the children of light leaving and coming out of the world.
 They were once of the world, as well as others, of the same nature, of the same spirit,
 of the same corrupt will, of the same corrupt wisdom, walking in their way,
@@ -322,13 +343,19 @@ and testifying against that spirit which formerly led them, and still leads the 
 and against those ways and practices wherein they formerly walked,
 and wherein the world still walks, this fills the worldly spirit with rage against them.
 
-==== 5. THE WAYS AND MEANS OF PERSECUTION
+====
+
+==== 5. The Ways and Means of Persecution
 
 The ways and means of persecution are very many.
 Who can want instruments to afflict the innocent and helpless,
 who can neither resist the evil which is offered them, nor harm that which offers it?
 I shall only mention here three general heads, to which many particulars may be referred.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ One great way of persecution is by making use of laws already made,
 either according to their proper tendency to that end and purpose,
 or by bending them aside from their proper intent,
@@ -336,6 +363,7 @@ to reach those whom they have a mind to afflict and persecute.
 Thus the Jews, when they had a mind to have Christ put to death, told Pilate,
 "`We have a law, and by our law he ought to die.`" John 19:7.
 
+[.numbered]
 2+++.+++ Another way is, by making new laws fit for their purpose, whereby they may catch,
 ensnare, and suppress that which is contrary to their spirit and principle,
 and which will not bow thereto.
@@ -377,14 +405,21 @@ but cherish and nurse it up as much as in them lies,
 in that tenderness which Christ begetteth in it,
 and in that spiritual liberty which Christ allows it.
 
+[.numbered]
 3+++.+++ A third way of persecution is by the hand of violence, without either law,
 or so much as pretence to law.
 Thus the persecuting spirit, when it hath power in its hand, and is out of fear,
 smiteth (with the open fist of wickedness) that which is an enemy to,
 and stands a witness against, its wickedness.
 
-==== 6. THE ENDS OF PERSECUTION, OR WHAT THE PERSECUTING SPIRIT AIMS AT IN ITS PERSECUTING, AND WOULD FAIN ATTAIN THEREBY
+====
 
+==== 6. The Ends of Persection, or What the Persecuting Spirit Aims At in Its Persecuting, and Would Fain Attain Thereby
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The main end of persecution is to bring the children of light (who have left the evil,
 darkness, and corruption of the world) back to the world again.
 That which they persecute them for is for leaving the world,
@@ -420,6 +455,7 @@ And if they could but bring us back from our God into the world again,
 they would be at peace with us, as well as with other men, and love and cherish us,
 as they do the rest of the world.
 
+[.numbered]
 2+++.+++ A second end of persecution in the spirit that persecuteth is,
 to keep the children of light from gaining further ground.
 The kingdom of God and his truth is of a growing, spreading nature.
@@ -438,6 +474,7 @@ strong ones in the worldly nature and spirit;
 yet they are still represented as most dangerous, most subtle, and pernicious,
 as shrewd deceivers, witches, Jesuits, etc., yea, any thing that is hateful and hated.
 
+[.numbered]
 3+++.+++ A third end of persecution is to afflict, grieve, vex, disturb,
 and torment those whose principles and practices are displeasing to them.
 There is enmity in the nature and spirit of the world, against the holy,
@@ -452,7 +489,9 @@ so the spirit of enmity delights in hatred and doing evil;
 even in vexing and oppressing those which seek their good, because they are not,
 and cannot be, one with them in their dark principles and evil practices.
 
-==== 7. THE COLOR OR PRETENCE WHICH MEN PUT UPON THEIR PERSECUTIONS OF THAT WHICH IS GOOD
+====
+
+==== 7. The Color or Pretence Which Men Put upon Their Persecutions of That Which Is Good
 
 Persecution is so hateful (and hath such a blackness of spirit
 in it) that it cannot endure to appear in its own color.
@@ -491,7 +530,7 @@ thus represented by their chief priests and teachers,
 who knew and could expound the law, and were best able to judge,
 as they might well think, both what was the truth, and who were deceivers?
 
-==== 8. THE BLESSEDNESS OF THE PERSECUTED
+==== 8. The Blessedness of the Persecuted
 
 The disciple of Christ, who is persecuted for conscience`' sake,
 who suffers from men and their laws for the uprightness of his heart towards,
@@ -502,6 +541,10 @@ the more men disesteem and hate him upon this account the greater is his blessed
 and shall say all manner of evil against you falsely for my sake.
 Rejoice, and be exceeding glad.`" Matt. 5:11-12. He is blessed in several respects.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That man is in that spirit, and in that way, which God hath chosen,
 and so he is in a happy state and condition at present.
 He is in the path of life, in the way of peace, under the leadings of God`'s Spirit.
@@ -523,6 +566,7 @@ and his subjection thereto, is in that which the Father loveth,
 and feeleth the love of the Father opened in him, and revealed to him;
 and this is truly a happy state.
 
+[.numbered]
 2+++.+++ The recompense which God will give to them in the world to come,
 who cleave to him and his truth,
 for all the persecutions which they endure in this world for his truth`'s sake,
@@ -531,6 +575,7 @@ is exceeding great.
 which is but for a moment,`" but at most for the time of this world,
 "`worketh for us a far more exceeding eternal weight of glory.`" 2 Cor. 4:17.
 
+[.numbered]
 3+++.+++ The reward is great in this world also.
 There is a hundred-fold recompense to be reaped in this life.
 The peace of God in the conscience, the presence of God, the life of God,
@@ -542,7 +587,9 @@ the hardships and tribulations which are undergone for his name`'s sake.
 "`If ye be reproached for the name of Christ, happy are ye;
 for the Spirit of glory and of God resteth upon you.`" 1 Pet. 4:14.
 
-==== 9. THE GRIEVOUS MISERY OF THE PERSECUTORS
+====
+
+==== 9. The Grievous Misery of the Persecutors
 
 It is a miserable thing to be deceived about that which is good; to put good for evil,
 light for darkness, sweet for bitter, and so, under a mistake at least,
@@ -558,6 +605,10 @@ Yes, and they are most dear to God in that for which the world most persecutes t
 and therefore their danger and misery must needs be great;
 which may further appear in these three respects:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ In respect of the weight of wrath which their persecutions of
 others here will bring upon themselves in the world to come:
 then every hard word, with everything they have done against any lamb of Christ`'s,
@@ -581,6 +632,7 @@ Oh that men would awaken, and consider in time,
 and not sell away their everlasting inheritance for a mess of vanity,
 and transitory lusts and pleasures.
 
+[.numbered]
 2+++.+++ The hand of God doth often overtake them in this world,
 and the Lord doth many times curse their very blessings to them,
 insomuch as they cannot enjoy the world with that sweetness and content they might,
@@ -609,6 +661,7 @@ and whatever holds Israel in bondage, either within or without,
 must either be subject to the Lord,
 or be broken by that arm of power which the Lord putteth forth to redeem Israel with.
 
+[.numbered]
 3+++.+++ By all their persecutions and afflictions they shall but increase
 and cause to grow that which they strive to suppress.
 This is misery indeed for a man to hazard his soul eternally,
@@ -651,6 +704,8 @@ from out of the hands of antichrist;
 and who shall be able to force it back again, to make it return into his bosom,
 without effecting what he stretched it forth for?
 
+====
+
 Therefore,
 O magistrates of this nation! do not make use of the sword to suppress the plants of God;
 but to cut down that which manifestly is not of God.
@@ -689,7 +744,7 @@ Now if ever Christ appointed or intended such a church-government,
 which naturally produceth this effect, let all that fear God, and are of sober spirits,
 judge.
 
-==== 10. THE WAY AND MEANS TO AVOID PERSECUTION
+==== 10. The Way and Means to Avoid Persecution
 
 Where is the man (in whom there is any good,
 who hath any love to goodness and righteousness,
@@ -706,6 +761,10 @@ and be very industrious in the use of them,
 whereby this persecuting spirit and temper might be wasted and dried up in him?
 Now the way and means whereby the persecuting spirit may be subdued, are divers; As,
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ By a true awe and fear of God in the heart.
 The fear of God teacheth to depart from iniquity,
 and to seek the crucifying and bringing under of the worldly spirit in a man`'s self,
@@ -724,6 +783,7 @@ but knoweth not that fear which God puts in the heart
 either of these may be drawn to persecute; yea, indeed,
 it will be hard for either of them to abstain therefrom.
 
+[.numbered]
 2+++.+++ By a meekness of spirit.
 The gospel makes meek, tender, gentle, peaceable;
 fills with love and sweetness of spirit; teaches to love, to forgive,
@@ -734,6 +794,7 @@ Indeed a wolf in sheep`'s clothing may raven and devour, but a true sheep cannot
 As the power of the gospel is known, the devouring and persecuting nature is destroyed;
 and that being taken away, persecution soon comes to an end.
 
+[.numbered]
 3+++.+++ By a sober and patient consideration of their cause whom they persecute,
 and what it is in themselves which moves them to persecute them.
 The strength of persecution lies in the darkness, in the dark thoughts, misjudging,
@@ -756,6 +817,7 @@ and which is so ready to believe ill aforehand; he shall soon see that,
 which is always hid from the eye of the persecutor,
 and find water to cast on this devouring fire of spirit in him.
 
+[.numbered]
 4+++.+++ By a righteous frame of spirit, which is willing to do by another,
 as he would be done to in the like case.
 Persecution ariseth from unrighteousness and selfishness;
@@ -771,6 +833,7 @@ yet if he can get ease and power into his hand, is presently laying a load upon 
 Here is a wrong frame of spirit within,
 and how can it choose but bring forth injury and persecution outwardly?
 
+[.numbered]
 5+++.+++ By taking heed and watching against the corrupt and carnal principle,
 with the reasonings, self-ends, and interests thereof,
 and hearkening to the principle of God, which teacheth and speaketh right reason.
@@ -795,16 +858,22 @@ must know what of himself is ready to betray him, that he may watch against it,
 and turn from it; and what in himself is given him of God to enlighten, guide, instruct,
 and preserve him, that he may hearken thereto, and be made happy thereby.
 
-==== 11. THE FRUITS AND EFFECTS OF PERSECUTION
+====
 
-And lastly, To set it yet more home upon all that are ingenuous,
+==== 11. The Fruits and Effects of Persecution
+
+And lastly, to set it yet more home upon all that are ingenuous,
 and would be worthy and noble, and do that which is worthy and noble, abhorring cruelty,
 afflicting and oppressing of others;
 let them consider the fruits and effects of persecution, which are very many,
 and of the worst kind, even suitable to the nature of the root.
 At present I shall only mention these four.
 
-1+++.+++ In a great degree, It hindereth the growth of the present good,
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ In a great degree, it hindereth the growth of the present good,
 in every age and generation,
 so far as the earthly power or sword of the magistrate can well hinder.
 Persecution of that which is good by the earthly powers, in its proper tendency,
@@ -812,6 +881,7 @@ is an hindrance to the growth thereof in their age and day;
 though the Lord can overbear the malignity of it,
 and further the growth of his seed thereby.
 
+[.numbered]
 2+++.+++ It wholly tends towards hindering the shooting up of any further seeds of good,
 which God hath to sow in the earth.
 For all the seeds of good which God hath to sow in the earth,
@@ -820,6 +890,7 @@ and opening of men`'s eyes through the much suffering of those vessels,
 in whom God causeth the most excellent seeds of his virtue and goodness first to appear,
 their innocence and beauty begin at length to shine in men`'s eyes, and be discerned.
 
+[.numbered]
 3+++.+++ It occasioneth the growth of evil.
 For good with-standeth, opposeth, and chaseth away evil, even as light doth darkness;
 and therefore the preventing of the springing up of the good,
@@ -831,6 +902,7 @@ For the same eye, tongue, and heart, that seeth, calleth,
 and acknowledgeth that which is indeed good to be evil,
 cannot choose but also mistake the evil and think it good.
 
+[.numbered]
 4+++.+++ It draweth down the wrath of God upon people, powers, and governments,
 where such persecution is; where evil is cherished under a pretence of its being good,
 and the good endeavored to be suppressed under a pretence of its being evil.
@@ -842,6 +914,8 @@ and the plants which the envious one hath planted; and he cannot bless that plac
 that people, those powers, that government, where his plants are crushed,
 under a pretence of their not being his,
 and where the evil nature and plants are cherished as if they were the good.
+
+====
 
 Therefore he that would not be an enemy to God, an enemy to goodness,
 an enemy to himself, an enemy to mankind, and a friend and promoter of evil,
@@ -861,9 +935,11 @@ the laws would soon be silent, government at a stand, and every one do what they
 bringing in all manner of licentiousness and disobedience to authority,
 under a pretence of conscience.
 
-[.discourse-part]
-Answer.
-1+++.+++ Conscience is of God;
+[.numbered-group]
+====
+
+[.numbered]
+_Answer 1._ Conscience is of God;
 and tenderness and conscientiousness towards him
 is necessary to the receiving of his pure fear,
 and towards the springing up and growth of all good in the heart.
@@ -874,10 +950,12 @@ And it cannot reasonably be supposed to be the intent of God in appointing gover
 that ever their laws and authority should hurt that tenderness of conscience,
 wherein his seeds of good are sown.
 
+[.numbered]
 2+++.+++ It is true; the corrupt nature of man, which is selfish, and seeketh covers for evil,
 may also seek this cover to hide iniquity under, and may pretend conscience,
 when there is no matter of conscience at all, but self-will and self-ends at bottom.
 
+[.numbered]
 3+++.+++ Notwithstanding this,
 God would not have the true conscientiousness and tenderness in any of his crushed;
 nor can it be done by any person, authority, or law,
@@ -885,6 +963,7 @@ without provoking God on the one hand, or without injury to such who are so deal
 viz: who are punished by man for the exercise of that conscientiousness which is of God,
 and which he requireth, and is pleasing to him.
 
+[.numbered]
 4+++.+++ It were far better in itself, safer for governors,
 more agreeable to equity and righteous government, and more pleasing to God and good men,
 rather to suffer some, by their craft and false covers, to escape due punishment,
@@ -903,6 +982,7 @@ and that which errs thus through mistake (it being a grievous
 mistake to cut down the good instead of the evil),
 the Lord, who loveth the good and hateth the evil, may easily be provoked against.
 
+[.numbered]
 5+++.+++ As government came from God; so the righteous execution of it depends upon God.
 Every man needs God`'s help daily, else he may easily err in his course;
 and governments and governors need God`'s help much more,
@@ -918,11 +998,14 @@ but a naked, upright waiting on him for instruction,
 who can only guide the spirit of man aright, governments would not prove so difficult,
 nor the success therein so dangerous.
 
-=== A BRIEF ACCOUNT OF THAT STIFFNESS, RESOLVEDNESS AND SUPPOSED STUBBORNNESS, WHICH BY MANY IS OBJECTED AGAINST THE PEOPLE CALLED QUAKERS
+====
+
+[.old-style]
+=== A Brief Account of That Stiffness, Resolvedness and Supposed Stubbornness, / Which by Many Is Objected Against the People Called Quakers
 
 [.discourse-part]
 Objection.
-THAT the people called Quakers are an innocent and industrious people,
+That the people called Quakers are an innocent and industrious people,
 that they aim at good,
 and might be serviceable and profitable to the nation in many respects;
 this many believe concerning them,
@@ -954,6 +1037,10 @@ a true tenderness and conscientiousness towards God;
 which to make the more manifest to such as are willing fairly to consider the thing,
 and know the truth thereof, I shall thus demonstrate.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Stubbornness, or such a kind of stiffness and resolvedness,
 ariseth from the strength and corruption of the natural will and earthly wisdom.
 The wisdom which is from above is gentle, easy to be entreated;
@@ -974,6 +1061,7 @@ his self-will and self-wisdom,
 with all the conceitedness and stiffness which arise therefrom,
 must needs be much broken in him.
 
+[.numbered]
 2+++.+++ In the tenderness and pliableness to good, which God begets, there is,
 and cannot but be, an unbendedness to evil.
 Consider this, O ye that are wise!
@@ -995,6 +1083,7 @@ departure out of the world`'s spirit,
 ways, worships, and practices; but would soon be ensnared and drawn back again,
 by the enticements and subtleties of the worldly nature, either in themselves or others.
 
+[.numbered]
 3+++.+++ A stiffness then I grant, an unbendedness I grant; but not of the earthly,
 not of the self-will, nor according to the earthly;
 but such as ariseth from truth in the heart, and from tenderness of spirit towards God;
@@ -1014,6 +1103,7 @@ surely they would not call it stubbornness and self-willedness,
 but a pure subjection and denial of the self-will in God`'s fear,
 joined with a holy and humble boldness in his power.
 
+[.numbered]
 4+++.+++ Let it be equally considered, and it will soon be acknowledged,
 That the least thing which God requires (the command being from so great a King,
 upon whom the soul hath so great dependence, from whom it hath so great hopes,
@@ -1030,6 +1120,7 @@ and this (which men call stubbornness) flows in upon them from him,
 when they are in the sweetest and meekest frame of spirit, most ready to deny themselves,
 and to yield up their own wills to whatsoever is good and righteous, and so of God.
 
+[.numbered]
 5+++.+++ The same thing which is offended at this unbendedness and resolvedness,
 which is wrought and preserved in them by the fear of God (calling it,
 by way of reproach, stiffness and stubbornness); I say,
@@ -1054,6 +1145,8 @@ When man`'s spirit and wisdom is wearied out of all its paths,
 and he broken with the misery which will certainly overtake him therein;
 at last the path of God will be welcome to him, and that principle which,
 through the operation of God, is able to rectify him and make him happy.
+
+====
 
 There hath long been a peace and prosperity throughout the world in unrighteousness;
 but the season is at length come for the breaking thereof,
