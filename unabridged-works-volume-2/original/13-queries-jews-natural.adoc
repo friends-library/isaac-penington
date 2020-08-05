@@ -17,9 +17,9 @@ By _Isaac Penington,_ the Younger
 [.section-date]
 1661
 
-=== PREFACE
+=== Preface
 
-SEVERAL things hath the life, begotten by the eternal virtue,
+Several things hath the life, begotten by the eternal virtue,
 breathed in me towards my Father for, in relation both to myself and others,
 from my childhood.
 As touching myself; first, that I might be a vessel for him;
@@ -86,7 +86,7 @@ I+++.+++ P.
 
 [.discourse-part]
 Question.
-WHAT was the rise of that people the Jews?
+What was the rise of that people the Jews?
 
 [.discourse-part]
 Answer.
@@ -642,7 +642,7 @@ walking with God, and worshipping him in Spirit and Truth
 
 [.discourse-part]
 Question.
-WHAT is the gospel?
+What is the gospel?
 
 [.discourse-part]
 Answer.
@@ -1011,13 +1011,18 @@ him who counterfeiteth the Shepherd and his voice?
 Answer.
 By these two means:
 
-First, the soul lying low,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ the soul lying low,
 out of the wisdom in which the enemy appears and forms his likenesses;
 in the simplicity which the Lord hath begotten, the life opens to it,
 and the true light appears, which manifests the false light,
 and false appearances of the deceiver.
 
-Secondly,
+[.numbered]
+_Secondly,_
 In that which is begotten of God there is not a hastiness or suddenness to determine;
 but a silent waiting on the Lord in subjection, till the life speak,
 and make things manifest.
@@ -1026,6 +1031,8 @@ and received from his hand, and according to his pleasure.
 Thus what he will he hides, and what he will he makes manifest, and the child,
 which is born of his will, is content with his will; and lying down there,
 it keeps out of the enemy`'s territories, and of the reach of his temptations.
+
+====
 
 [.discourse-part]
 Question.
@@ -1399,7 +1406,11 @@ Answer.
 Into very many precious ones.
 As for instance,
 
-First, They make the spirit poor.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ They make the spirit poor.
 The daily inroads of sin and corruption dashing against
 the holy and righteous law of life,
 the overbearing the strong desires after purity, and forcing into the defilement,
@@ -1413,7 +1424,8 @@ how poor and weak doth it then feel itself, trembling at the next openings of th
 and springings up of the virtue thereof in it, not knowing what weakness, captivity,
 entanglements, and misery from the snares of death remain to follow!
 
-Secondly, They bring into a mourning estate.
+[.numbered]
+_Secondly,_ They bring into a mourning estate.
 They fill the eyes with tears, and the heart with sorrow; yea,
 they cause an entrance into the house of mourning.
 To be accustomed to wounds, bruises, snares, grieving of the Spirit,
@@ -1421,7 +1433,8 @@ provoking of the deliverer, furthering and giving advantages to the enemy, etc.,
 the sense of this overwhelms the heart with grief,
 and causeth continual sorrow and lamentation to that which is upright towards God.
 
-Thirdly, They bring into a meek, merciful, tender-hearted frame towards others.
+[.numbered]
+_Thirdly,_ They bring into a meek, merciful, tender-hearted frame towards others.
 He that is tempted, he that often falls, and is so often wounded and made miserable,
 he pities those that err; he mourns over the miserable.
 His heart is broken with the sins and afflictions of others,
@@ -1435,7 +1448,8 @@ Now a broken estate in religion, or a state of waiting for the life,
 is much more precious than that which is rich and full by what it had formerly received,
 and still holdeth out of the immediate feeling and fresh virtue of the life.
 
-Fourthly, They bring into a hungry and thirsty state after holiness and righteousness.
+[.numbered]
+_Fourthly,_ They bring into a hungry and thirsty state after holiness and righteousness.
 Oh, how the soul that is sensible of its filth longeth to be washed!
 How it panteth after the pastures of life, the food of life, the living waters?
 to appear before and enjoy God, in the land of the living!
@@ -1451,7 +1465,8 @@ and thy righteousness to the upright in heart!`" Oh,
 what unutterable breathings daily issue out from the broken spirit,
 towards the spring of its life!
 
-Fifthly, They bring into a pure frame, into a cleanness of inside.
+[.numbered]
+_Fifthly,_ They bring into a pure frame, into a cleanness of inside.
 "`Cleanse first the inside of the cup and platter,`" said Christ to the Pharisees;
 and he doth so in his disciples.
 "`With the mind I serve the law of God,`" said Paul, when he cried out,
@@ -1468,7 +1483,8 @@ as is very manifest afterwards, when righteousness springs up,
 with the quiet fruit thereof; but this cannot be discerned,
 while the flames are discovering and taking hold of the unrighteousness.
 
-Sixthly, They bring into a patient frame;
+[.numbered]
+_Sixthly,_ They bring into a patient frame;
 fit to bear reproaches and persecutions from the world, who,
 in the midst of all this weakness, misery, and distress, lay loads upon the poor soul,
 persecuting him whom God hath smitten,
@@ -1484,6 +1500,8 @@ the fitter it is to stand in God`'s counsel, to wait for his strength and preser
 which is able to bear up its head above all the rage and swelling
 of the waters of the worldly spirit in the men of this world.
 
+====
+
 Much more might be said, but this may suffice.
 What is behind will be felt inwardly,
 as the soul waits on God in the leadings of his Spirit, through the teachings,
@@ -1498,14 +1516,19 @@ to bring their hearts into these and such other like precious frames?
 Answer.
 With several sorts and kinds of things, both outward and inward; as,
 
-First, With oppositions, reproaches, and interruptions from the earthly part,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ With oppositions, reproaches, and interruptions from the earthly part,
 both in the men of this world, and in themselves.
 There is abundance within, and abundance without, to resist, disdain,
 and interrupt the work of God in the heart,
 to oppose and withstand that which he hath begotten there; his leadings of it,
 and its obedience to him.
 
-Secondly, With temptations from the enemy, even of many kinds, natures, and degrees,
+[.numbered]
+_Secondly,_ With temptations from the enemy, even of many kinds, natures, and degrees,
 according to the present temper and condition of the soul; as either to doubt,
 and so despair; or be confident in the flesh from knowledge received,
 out of the pure fear and fresh feeling of the life; so again,
@@ -1515,19 +1538,22 @@ or to act in that will and wisdom which is against God.
 Now these, with such like, are very numerous, frequent,
 and sometimes very violent and impetuous.
 
-Thirdly, By withdrawings of the life and sweet presence of God from the soul.
+[.numbered]
+_Thirdly,_ By withdrawings of the life and sweet presence of God from the soul.
 These are very frequent from the Lord towards his people,
 insomuch as he is called by this title;
 "`The God that hideth his face from the house of Jacob.`" Isa. 8:17. chap.
 45:15.
 
-Fourthly, By buffetings and prevailings of the enemy.
+[.numbered]
+_Fourthly,_ By buffetings and prevailings of the enemy.
 When the Spirit is grieved, the life wounded, and withdraws inward,
 the enemy often gets ground, giving wounds and causing bruises to the soul;
 not only tempting, but finding entrance,
 and taking in the snare the bird which once escaped, and was delivered.
 
-Fifthly, By doubts, fears,
+[.numbered]
+_Fifthly,_ By doubts, fears,
 and confused reasonings concerning the voice of God and the voice of the enemy.
 In the hour of darkness (when the Lord seeth good to let forth the power thereof,
 and to withdraw the beams of his light), how can that be clearly distinguished,
@@ -1537,6 +1563,8 @@ be discerned from the false images and transformings of the enemy?
 Oh, the misery and anguish of the poor soul in this condition! how is the poor,
 upright heart pained between faith and unbelief, obedience and disobedience, etc.,
 not knowing when it is drawn forward or backward, or by whom.
+
+====
 
 [.discourse-part]
 Question.
@@ -1578,9 +1606,11 @@ until he hath perfected them, and stopped up the entrance of death everywhere.
 Question.
 How do these exercises purify and enlarge them?
 
-[.discourse-part]
-Answer.
-First, They try the strength and virtue of the life in them,
+[.numbered-group]
+====
+
+[.numbered]
+_Answer. First,_ They try the strength and virtue of the life in them,
 and discover to them their further want thereof.
 In the time of the soul`'s prosperity there seems to be enough;
 but the day of distress maketh manifest the estate and condition as it is.
@@ -1588,13 +1618,15 @@ Then the faith, the love, the patience, the meekness, the constancy,
 and chasteness to the spouse (loving him, and cleaving to him, above all,
 and in all) many times are found to be less than they were judged to be.
 
-Secondly, It brings to a waiting on God for support, and for receiving of more from him.
+[.numbered]
+_Secondly,_ It brings to a waiting on God for support, and for receiving of more from him.
 Then the life breathes vigorously, and the soul hankers after, cleaves to,
 and sees its need both of the presence and increase of the virtue of the life.
 Then he that was rich becomes poor, and he that was full becomes empty and nothing; yea,
 he that had enough to live on and to spare, is now pressed with hunger, want, and penury.
 
-Thirdly, It prepares for a clearer entrance into, and safer enjoyment of, the fulness;
+[.numbered]
+_Thirdly,_ It prepares for a clearer entrance into, and safer enjoyment of, the fulness;
 As the soul is more emptied of the strength and riches it received from God;
 so it is more prepared to enter into, and live in, the Pure Being itself.
 For nothing can live there which veils.
@@ -1603,6 +1635,8 @@ That, therefore, which enters there, and lives and abides there, must be poor, e
 naked, nothing, and remain nothing forever.
 As it gathers any thing from the fulness, and becomes any thing in itself,
 thereby it is shut out.
+
+====
 
 [.discourse-part]
 Question.
@@ -1693,12 +1727,17 @@ Now he that would travel safely in spirit unto the land of life,
 let him wait to have these things following written by the finger of God in his heart,
 and the sense and impression thereof preserved fresh in him.
 
-First, It is the free grace of God which begins the work of redemption,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ It is the free grace of God which begins the work of redemption,
 which causeth the light to shine,
 which worketh the repentance or turning from the dead state, and also the belief in,
 and turning towards, the living God.
 
-Secondly,
+[.numbered]
+_Secondly,_
 It is the same grace alone that can preserve and cause the plant of grace to grow.
 If there be a withdrawing of the light, a withholding of the free influence,
 that which depends thereupon cannot retain its freshness;
@@ -1706,7 +1745,8 @@ which the Lord may do as often as he pleaseth,
 for the chastisement of the rebellious part,
 or for the trial of his pure life and virtue in his plants.
 
-Thirdly, The grace of God visiting the soul in the death, in the darkness,
+[.numbered]
+_Thirdly,_ The grace of God visiting the soul in the death, in the darkness,
 in the fallen estate, begetteth life anew in it,
 maketh it in some measure light in the Lord,
 openeth an eye in it to see the things of God,
@@ -1714,7 +1754,8 @@ an ear to hear and distinguish between the sound of life and of death,
 a heart to turn from and refuse the vanity,
 and to turn towards and abide in the living substance.
 
-Fourthly, The Spirit of God carries on the work of redemption, by drawing, leading,
+[.numbered]
+_Fourthly,_ The Spirit of God carries on the work of redemption, by drawing, leading,
 and acting the quickened soul: by exercising that which he hath begotten in the life,
 under the law of the life.
 Thus the life draws the soul daily nearer and nearer towards the everlasting spring,
@@ -1730,7 +1771,8 @@ and also from the weak measures and degrees of the
 grace and life towards the fulness itself,
 even until it perfectly centre in, and be fully filled therewith.
 
-Fifthly, Where there is a stopping of the virtue received from the grace,
+[.numbered]
+_Fifthly,_ Where there is a stopping of the virtue received from the grace,
 and not an answer in the heart, there the work of redemption is stopped.
 If the soul follow not in the drawing, the drawing is lost, as to it.
 If the ear open not to hear the voice of the Word,
@@ -1745,7 +1787,8 @@ for if the virtue of the life and grace be refused,
 there is an advantage given to death to reenter,
 and gain ground by its contrary virtue and power.
 
-Sixthly,
+[.numbered]
+_Sixthly,_
 Mark therefore diligently how the Lord doth carry
 on the dispensation of his love and free grace,
 even as if there were much done by the strength and diligence of the creature.
@@ -1755,7 +1798,8 @@ and for the influences of the grace, and to keep the hope up, and the distrust o
 What strict watching and waiting,
 even as if the creature did work out its whole salvation!
 
-Seventhly,
+[.numbered]
+_Seventhly,_
 Though the creature seemeth to do much itself (having received life from the grace,
 and acting abundantly towards God in the grace),
 yet it is the grace and virtue which comes from the Creator
@@ -1767,6 +1811,8 @@ the obedience, the meekness, the patience, the watching, the waiting, the hoping
 Yea, the very receiving the grace is not of the creature, but of the grace:
 for the creature is dead until it be visited by the grace:
 and by the visitation of the grace alone is made alive, and able to receive it.
+
+====
 
 Behold then the mystery of redemption.
 God is all in redemption;
@@ -1815,18 +1861,27 @@ but rather in a way of care, industry, art, and skill,
 than of such immediate force and power,
 though by the exercise and putting forth of the same virtue and power.
 
+[.offset]
 There are three things in redemption:
 
-First, There is the issuing out of the free grace, love, virtue,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ There is the issuing out of the free grace, love, virtue,
 and divine power towards the creature.
 
-Secondly, There is the opening of the estate of the creature thereby,
+[.numbered]
+_Secondly,_ There is the opening of the estate of the creature thereby,
 convincing and drawing it out of the alienation from the life,
 towards unity with the life.
 
-Thirdly, There is the following of the creature after the life,
+[.numbered]
+_Thirdly,_ There is the following of the creature after the life,
 in the quickening virtue of the drawings, through all the snares, temptations,
 diversions and oppositions of the enemy.
+
+====
 
 Now there is no hindering of the issuing forth of the free grace towards the creature,
 or of those convictions and inclinations of the creature to follow,
@@ -1861,19 +1916,27 @@ I shall add a few words concerning the unity of God`'s grace (or free light of h
 notwithstanding the various estates and conditions of man whom it visits,
 and the variety of its operations.
 
-==== THERE IS A THREE-FOLD STATE OF MAN, WHEREIN THE GRACE OF GOD VISITS HIM.
+==== There Is a Three-fold State of Man, Wherein the Grace of God Visits Him.
 
-First, The gentile state, or state of nature.
+[.numbered-group]
+====
 
-Secondly, The Jew state, or administration of the law,
+[.numbered]
+_First,_ The gentile state, or state of nature.
+
+[.numbered]
+_Secondly,_ The Jew state, or administration of the law,
 wherein God takes him under his own tuition, making known his will to him,
 and requiring obedience of him: and not only so,
 but also directs him to the inward teacher, and to the principle of the pure fear,
 which is the place of wisdom`'s teaching and instructions.
 
-Thirdly, The gospel-state, or state of faith, where the principle is raised,
+[.numbered]
+_Thirdly,_ The gospel-state, or state of faith, where the principle is raised,
 the seed lives, and that is felt springing up, known, and enjoyed, which does the will,
 and receives the promise.
+
+====
 
 Now in all these, the law, the light, the life, the wisdom, the power,
 are one and the same; but the administrations are different.
@@ -1916,9 +1979,9 @@ O my soul! hope thou in the Lord forevermore, and leave not breathing towards hi
 till thou and his whole creation be filled and satisfied with him,
 and then fetch the full breath of life in him forever.
 
-==== POSTSCRIPT
+==== Postscript
 
-I HAVE been treating of the inward work, as it is wrought in the heart by the power,
+I have been treating of the inward work, as it is wrought in the heart by the power,
 and brought to the sensible, experimental knowledge of the creature;
 yet would not be so understood as if I made void
 what was done without by Christ in his own person,
@@ -1947,7 +2010,11 @@ Now to help them a little, if the Lord please;
 in the rolling of my bowels towards them I find my heart opened,
 to lay a few things before them.
 
-First, With my heart, in the sight of the Lord,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ With my heart, in the sight of the Lord,
 do I own that principle which formerly wrought in some of them,
 which I myself was wrought upon by,
 and knew not only the outward knowledge which they were acquainted with,
@@ -1955,7 +2022,8 @@ but also the inward work: and I also knew what I called the light of nature,
 and what I called the light of the Spirit, the one whereof was not the other,
 but differed as far as Spirit and flesh.
 
-Secondly,
+[.numbered]
+_Secondly,_
 I also own all the openings and refreshments which they received from
 the Lord in reading of the Scriptures in their public or private exercises,
 and the experiences which they had from God in their own hearts:
@@ -1963,7 +2031,8 @@ and I know that these things in themselves were true in their proportion;
 however the present sense, and holding of them out of that wherein they received them,
 may justly be judged by the Spirit of the Lord in his servants.
 
-Thirdly, Though those things were true in their day, and in their proportion and measure;
+[.numbered]
+_Thirdly,_ Though those things were true in their day, and in their proportion and measure;
 yet in them they might lose their virtue, and die,
 and so they not retain the thing in its life, in its own principle,
 in the newness of the Spirit, in that birth to which God gave it;
@@ -1989,10 +2058,17 @@ we are sure this is of God, say the professors;
 but as for this little seed of the kingdom, or light of God in the heart,
 we cannot believe that all we want is to spring up in it.
 
-Now, Fourthly, there is a necessity both of the knowledge of persons to pass away,
+[.numbered]
+Now, _Fourthly,_ there is a necessity both of the knowledge of persons to pass away,
 and also of their experiences to be given up, and let fall, in these two cases following:
 
-First, When the virtue is withdrawn from them, when death hath caught them,
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ When the virtue is withdrawn from them, when death hath caught them,
 when they become death`'s goods:
 for that which is received from the life is only
 profitable to the soul in the virtue of the life.
@@ -2001,7 +2077,8 @@ they then become the strong-holds of the enemy, and the engines of death to the 
 so that then life and true relief are not to be had in them,
 but where the eternal virtue pleases next to appear.
 
-Secondly, When God hath somewhat to bring forth further in the world,
+[.numbered]
+_Secondly,_ When God hath somewhat to bring forth further in the world,
 or in any particular heart,
 to make way for it he brings death upon that which was before living.
 Thus when God is pleased to bring forth a greater measure of faith,
@@ -2014,6 +2091,8 @@ of his eternal virtue to appear,
 and the beauty of them to shine; which they would not have done so abundantly,
 had it not been for the foregoing distress of the heart.
 
+====
+
 There are yet some things further weighty upon my heart to lay before them,
 needful for them to consider of,
 which may be serviceable and helpful to them in their present condition,
@@ -2021,14 +2100,19 @@ if the Lord please to open their hearts, and impress them thereon.
 They are four propositions, relating to the right knowledge of the things of God,
 which are these following:
 
-First, That the knowledge of the things of God comes from the Spirit.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That the knowledge of the things of God comes from the Spirit.
 As the Scriptures themselves came from the Spirit,
 so the true knowledge of them is alone given, to any man which receiveth it,
 by the same Spirit.
 And no man living can know the mind of the words which the Spirit spake,
 but as the same Spirit which spake them, gives the meaning of them.
 
-Secondly, That the knowledge of God (the living knowledge,
+[.numbered]
+_Secondly,_ That the knowledge of God (the living knowledge,
 the serviceable knowledge) is alone held in the Spirit,
 and in the birth which is of the Spirit.
 Man`'s natural part is not the true treasury,
@@ -2038,7 +2122,8 @@ the living experiences, is that which is born of the seed of the kingdom;
 and man`'s reason is forever to be shut out of the things of God, further than it bows,
 is limited, and subjected.
 
-Thirdly, That the knowledge received from the Spirit, is still to be tried by the Spirit.
+[.numbered]
+_Thirdly,_ That the knowledge received from the Spirit, is still to be tried by the Spirit.
 The Spirit alone can keep it living,
 and the Spirit alone can tell whether the life and virtue be still in it,
 or whether death hath caught it; whether it be the manna fit for the soul`'s food,
@@ -2069,7 +2154,8 @@ And thus hath the Lord been teaching me to live upon himself,
 and not upon any thing received from him, but upon the life itself, the mercy,
 the good pleasure, which proportions out the living bread daily to the living birth.
 
-Fourthly, It is easy receiving of knowledge in the earthly part, in the earthly wisdom,
+[.numbered]
+_Fourthly,_ It is easy receiving of knowledge in the earthly part, in the earthly wisdom,
 out of the Spirit and living virtue.
 When one readeth a scripture,
 it is easy conceiving and apprehending a meaning one`'s self,
@@ -2080,6 +2166,8 @@ Also it is easy retaining of knowledge,
 and making use of it in the will and wisdom of the earthly mind,
 for both these are natural: but it is hard denying the reason,
 the thoughts and imaginations, and watching to the Spirit.
+
+====
 
 O professors! wait for the living appearance of God,
 even for the freshness of his Spirit in your spirits;
