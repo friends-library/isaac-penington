@@ -115,8 +115,16 @@ the way of peace.
 
 === The Root of Popery Struck At
 
-[.old-style]
-=== Proposition I. / That councils may err (if I should add, and have erred, it might not be impossible to prove it).
+[.numbered-group]
+====
+
+[.numbered]
+_Proposition I._
+
+====
+
+That councils may err
+(if I should add, and have erred, it might not be impossible to prove it).
 
 [.numbered-group]
 ====
@@ -154,8 +162,15 @@ putting the fairest habit and appearance of truth upon it that they can.
 
 ====
 
-[.old-style]
-=== Prop. II. / That the pope himself may err.
+[.numbered-group]
+====
+
+[.numbered]
+_Proposition II._
+
+====
+
+That the pope himself may err.
 
 The pope hath not greater freedom from fallibility
 in judgment or doctrine than Peter himself had.
@@ -171,8 +186,17 @@ did plainly imply that the pope might err;
 which might further be confirmed by what the council
 of Basil determined concerning pope Eugenius.
 
-[.old-style]
-=== Prop. III. / That every man may err in his interpretation of scriptures, further than he hath a certain and infallible opening of them to his spirit, by that Spirit which gave them forth.
+[.numbered-group]
+====
+
+[.numbered]
+_Proposition III._
+
+====
+
+That every man may err in his interpretation of scriptures,
+further than he hath a certain and infallible opening of them to his spirit,
+by that Spirit which gave them forth.
 
 The Spirit knoweth his own mind in every word which he hath spoken;
 but no man knoweth his mind, nor the meaning of his words, but as he reveals them. 1 Cor. 2:11.
@@ -183,8 +207,13 @@ without the Spirit`'s infallible opening of his own words to him.
 So that the Spirit itself is the ground and foundation of
 all true light and knowledge of the things of God.
 
-[.old-style]
-=== Prop. IV.
+[.numbered-group]
+====
+
+[.numbered]
+_Proposition IV._
+
+====
 
 That if there be any light to be found any where shining from God,
 that light cannot err: for God is pure;
@@ -192,8 +221,17 @@ and that which comes immediately from him cannot but be pure.
 All the knowledge which man gathers, or can gather, into his vessel, he may pollute;
 but what issues from the spring is pure, and of a perfect nature. James 1:17.
 
-[.old-style]
-=== Prop. / V+++.+++ That there must necessarily be such a light communicated to all men since the fall, that they may believe thereby, come to the knowledge of the truth, and be saved; which I prove thus:
+[.numbered-group]
+====
+
+[.numbered]
+_Proposition V+++.+++_
+
+====
+
+That there must necessarily be such a light communicated to all men since the fall,
+that they may believe thereby, come to the knowledge of the truth, and be saved;
+which I prove thus:
 
 [.numbered-group]
 ====
@@ -225,8 +263,16 @@ and unfaithfulness of his conscience towards God.
 
 ====
 
-[.old-style]
-=== Prop. VI. / That this being let in, believed in, and obeyed, shineth more and more unto the perfect day; even until it hath wholly brought out of the error into the truth.
+[.numbered-group]
+====
+
+[.numbered]
+_Proposition VI._
+
+====
+
+That this being let in, believed in, and obeyed, shineth more and more unto the perfect day;
+even until it hath wholly brought out of the error into the truth.
 
 Every way of it is infallible, and every step of the creature after it is infallible.
 Indeed the creature`'s reasonings and consultations about it may be fallible;
@@ -243,8 +289,16 @@ the power and saving arm would arise;
 which would effectually lead out of the death and captivity,
 into the fellowship and freedom of the life.
 
-[.old-style]
-=== Prop. VII. That nothing less can lead unto eternal life than an eternal light in man`'s spirit, where the darkness is; which is to be discovered there, subdued there, and to be led from.
+[.numbered-group]
+====
+
+[.numbered]
+_Proposition VII._
+
+====
+
+That nothing less can lead unto eternal life than an eternal light in man`'s spirit,
+where the darkness is; which is to be discovered there, subdued there, and to be led from.
 
 This was the apostle`'s message (who received and came with the message of the gospel),
 "`that God is light,
@@ -514,14 +568,11 @@ thus to be banished and driven out of the building which his Spirit had reared f
 into a wilderness;
 and a mystery of deceit and falsehood to be set up in her name and stead?
 
-[.discourse-part]
-Answ.
-
 [.numbered-group]
 ====
 
 [.numbered]
-_First,_ As a just judgment upon the world (who slighted the day of their visitation,
+_Answer. First,_ As a just judgment upon the world (who slighted the day of their visitation,
 and would not come into the vineyard to work), God brings the night upon them,
 wherein they could not enter into the vineyard, nor work if they would ever so fain. John 9:4.
 
