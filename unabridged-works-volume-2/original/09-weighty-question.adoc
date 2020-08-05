@@ -29,7 +29,7 @@ ____
 [.section-date]
 1661
 
-=== QUESTION.
+=== Question.
 
 Whether the magistrate, in righteousness and equity, is engaged to defend such, who,
 by the peaceableness and love which God hath wrought in their spirits,
@@ -37,9 +37,9 @@ and by that law of life, mercy, good-will, and forgiveness, which God, by his ow
 hath written in their hearts, are taken off from fighting, and cannot use a weapon,
 destructive to any creature, to defend him.
 
-=== ANSWER.
+=== Answer.
 
-MAGISTRACY was intended by God for the defence of the people;
+Magistracy was intended by God for the defence of the people;
 not only of those who have ability, and can fight for them, but of such also who cannot,
 or are forbidden by the love and law of God written in their hearts so to do.
 Thus women, children, sick persons, aged persons,
@@ -106,15 +106,18 @@ Objection.
 But this is an Utopian state, or a world in the moon.
 Is it possible that ever there should be such a state here on earth?
 
-[.discourse-part]
-Answer.
-1+++.+++ When the principle of God, which lies hid in the hearts of men,
+[.numbered-group]
+====
+
+[.numbered]
+_Answer 1._ When the principle of God, which lies hid in the hearts of men,
 over which the corrupt nature hath grown,
 and upon which the spirit of darkness in men tramples,
 shall be raised and come into dominion; righteousness, peace,
 and good-will shall spring up as naturally among men, as wars, strifes, divisions,
 emulations, heart-burnings, etc. now do.
 
+[.numbered]
 2+++.+++ There is a promise of such a state, "`when the lion shall eat straw like the ox,
 and lie down with the lamb;
 when the earth shall be filled with the knowledge of the Lord,
@@ -132,6 +135,7 @@ Who would strive to keep the old heavens and the old earth standing,
 which must be dissolved before the new heavens and the new earth
 (wherein dwells righteousness) can be formed and brought forth?
 
+[.numbered]
 3+++.+++ This state was in a fair forwardness once,
 before the universal apostasy from that truth and power which God had sown in the earth,
 upon the breathing of and sending forth his Spirit among his disciples,
@@ -157,6 +161,7 @@ and into the sea which she raiseth shall she sink like a stone,
 and her fall shall be great and speedy:
 for even in one day shall her misery overtake and devour her.
 
+[.numbered]
 4+++.+++ After this long night of apostasy the Lord hath begun
 to make some preparations towards this state again.
 He hath opened his treasuries; he hath let forth the power of his truth;
@@ -191,9 +196,13 @@ Objection.
 But if all men were of this mind, and none would fight,
 suppose a nation should be invaded, would not the land of necessity be ruined?
 
-[.discourse-part]
-Answer.
-1+++.+++ Whenever such a thing shall be brought forth in the world,
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_Answer 1._ Whenever such a thing shall be brought forth in the world,
 it must have a beginning before it can grow and be perfected.
 And where should it begin but in some particulars in a nation, and so spread by degrees,
 until it hath overspread the nation, and then from nation to nation,
@@ -213,6 +222,7 @@ and of that people, who are now despised by the world,
 and cannot but be so by the spirit and wisdom of the world, which lies in wickedness,
 they being drawn out of, and testifying against, it.
 
+[.numbered]
 2+++.+++ It is not for a nation, coming into the gospel life and principle,
 to take care before-hand how they shall be preserved;
 but the gospel will teach a nation (if they hearken to it) as well as a particular person,
@@ -238,6 +248,7 @@ Yea, it is far better to know the Lord to be the defender, and to wait on him da
 and see the need of his strength, wisdom, and preservation,
 than to be ever so strong and skilful in weapons of war.
 
+[.numbered]
 3+++.+++ If the Lord shall undertake the defence of a nation by his Spirit and power,
 what can hurt that nation?
 What power of man can reach it, to disturb the peace of it?
@@ -255,6 +266,8 @@ in the way and dispensation wherein he led them?
 Will he not preserve and defend that nation whom he first teacheth to leave off war,
 that they shall not be made a prey of,
 while he is teaching other nations the same lesson?
+
+====
 
 God promised Israel of old,
 that when they went up thrice in the year to appear before the Lord,
@@ -345,13 +358,18 @@ to prevent that dreadful Storm of Wrath which hath long hung over this Nation;
 that at length it break not forth like a Fire which none can quench,
 or like a Flood which none can stop.
 
-1+++.+++ DID not God, by the power of his Spirit in the apostles`' days,
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ Did not God, by the power of his Spirit in the apostles`' days,
 gather a people out of the world unto himself, and by his wisdom,
 and according to his heavenly will, build them up into a church, or holy temple,
 for his Spirit to inhabit and dwell in,
 and for himself to be honored and worshipped in Spirit and truth,
 according as he should teach them, and require of them?
 
+[.numbered]
 2+++.+++ Did not the same spirit which built this church
 not only signify that the love should wax cold,
 and there be a falling away from the truth,
@@ -365,6 +383,7 @@ and persecuted up and down the nations all the time of the apostasy afterwards?
 See Rev.
 12.
 
+[.numbered]
 3+++.+++ Was not this desolate estate of the church to
 remain and last all the allotted time thereof,
 which is expressed to be forty-two months, twelve hundred and sixty days, or a time,
@@ -377,6 +396,7 @@ torn and rent by the woman which appears instead of the true church,
 but is not?
 Rev. 11:2 and 12:6.14. and 13:4. and 17:6.
 
+[.numbered]
 4+++.+++ Doth not this woman continue deceiving the nations and kings
 of the earth (whom she causeth to drink of her cup of knowledge,
 worship, doctrine, and discipline, whereby she blindeth their eyes,
@@ -389,6 +409,7 @@ and until she hath brought the dreadful vials of the wrath of God both upon hers
 and upon all that continue joining with her? Rev. 17:2.
 etc.
 
+[.numbered]
 5+++.+++ Is there not to be an end of this night of apostasy, and of the false church,
 with all her various habits, and dresses, and new paints, and arts of deceit,
 (though both have continued long) wherein Christ, the Lamb,
@@ -398,6 +419,7 @@ and to smite the earth which remains infected with her fornications,
 and from his pure, living, spiritual worship, into a false, invented, dead,
 formal worship) that so he may restore and set up his pure spiritual worship again? Rev. 19:11.
 
+[.numbered]
 6+++.+++ Are not the kings, powers,
 and inhabitants of the earth in great danger of fighting against the Lamb,
 in defence of this false church against his true church,
@@ -409,6 +431,7 @@ his invisible strength, and armies being much stronger than the visible armies,
 and all the outward strength in nations; though, to the outward eye,
 such may appear very great and invincible. Rev. 17:14.
 
+[.numbered]
 7+++.+++ Shall not the "`kings of the earth,`" and the remaining powers
 at last (after the overthrow of many for joining to her,
 and striving to uphold her) "`hate the whore`" (which
@@ -418,6 +441,7 @@ brought misery and desolation on nations, etc.), "`make her desolate,
 and burn her flesh with fire?`" And were it not far better for them to do it before,
 rather than to hazard the ruining of themselves by seeking to uphold her? Rev. 17:16.
 
+[.numbered]
 8+++.+++ Is it possible for any nation (or any power in any nation)
 to hinder the shining forth of God`'s light therein,
 after the long night of apostasy?
@@ -441,6 +465,8 @@ that the present governors might be blessed, and the nation blessed in them,
 and not the spirit of the nation, by a secret kindling, which none knows whence it comes,
 brought over them as a flood, as it was over them that went before them.
 
+====
+
 In that fear which God works in the heart,
 and out of the compass of that carnal wisdom and strength, on which man relies,
 is the wisdom, counsel, and preservation of the Most High; both of particular persons,
@@ -458,12 +484,16 @@ but may be prepared by the correcting hand, and fitted for the day of thy mercy.
 [.old-style]
 === A Brief Account / Of What the People Called Quakers Desire in Reference to the Civil Government
 
-THERE are three things which we cannot but earnestly desire in our hearts,
+There are three things which we cannot but earnestly desire in our hearts,
 and pray to the Lord for,
 as the proper means of settling aright the spirit of this nation:
 as also necessary for the growth of God`'s pure, living truth,
 and as just and equal in themselves.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Universal liberty for all sorts to worship God,
 according as Christ shall open men`'s eyes to see the truth,
 and according as he shall persuade their hearts by his Spirit;
@@ -489,6 +519,7 @@ But the Lord God is wresting these out of her hands,
 and then his light will break forth without interruption,
 and her shame and nakedness soon appear.
 
+[.numbered]
 2+++.+++ That no laws formerly made,
 contrary to the principle of equity and righteousness in man, may remain in force;
 nor no new ones be made, but what are manifestly agreeable thereunto.
@@ -505,6 +536,7 @@ to have that principle of God raised up in him, which is for righteousness,
 and not selfish; and watch to be guided by that in all he does,
 either in making laws for government, or in governing by laws already made.
 
+[.numbered]
 3+++.+++ Seeing this nation is in such a shattered condition,
 and there have been so many breaches, parties, and factions in it,
 that no party might be bolstered up in enmity and opposition against another,
@@ -514,6 +546,8 @@ without danger and detriment to any other party.
 And if I might be hearkened to, I would persuade those now in power,
 not to deal with their enemies as they formerly dealt with them,
 but as they would have been dealt with by them when they were in power.
+
+====
 
 I would also dehort and dissuade all people from plotting or contriving
 against this present government (for they must have their day,
@@ -566,7 +600,7 @@ And have faithfully followed the Leader of the flock of Israel;
 who hath of late led his sheep in such paths as
 have not been known all the night of the apostasy.
 
-O YE children of the Most High! who have felt the breath
+O ye children of the Most High! who have felt the breath
 of the eternal Spirit begetting you in the pure life,
 and drawing you out of this world; out of the vanities, out of the corruptions,
 out of the course and fashions, out of the invented ways and forms of worship, yea,
@@ -598,7 +632,7 @@ and for the turning of the captivity of the whole creation.
 [.old-style]
 === A Few Words / About the Present Work of God in the World
 
-WOULD any know what God is now doing on the earth, and what changes he is making therein?
+Would any know what God is now doing on the earth, and what changes he is making therein?
 Let him sink out of the earthly part, even from that which blinds the pure eye;
 and waiting to have the understanding and eye of his spirit opened in the Lord,
 let him read these things following.
@@ -680,6 +714,8 @@ let not his strength or subtlety prevail against thee or thine any more:
 but let the fresh power of thy life, and the virtue of thy incomprehensible love redeem,
 fill, possess, and make glad the heart of thy creation forever; Amen, Amen.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Printed 1661
