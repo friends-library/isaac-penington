@@ -16,9 +16,9 @@ By _Isaac Penington,_ the Younger
 [.section-date]
 1662
 
-=== PREFACE
+=== Preface
 
-THE goodness of God endureth forever.
+The goodness of God endureth forever.
 And though his creature man (who should have been subject
 and obedient to him) hath sinned against him,
 and by motions and inclinations of his own will and
@@ -125,7 +125,7 @@ and whose soul is not wholly dead God-wards consider this.
 
 [.discourse-part]
 Question.
-WHAT is the proper work of man here in this world?
+What is the proper work of man here in this world?
 
 [.discourse-part]
 Answer.
@@ -618,7 +618,7 @@ and bring forth thine own glory and wisdom in its pure brightness.
 
 [.discourse-part]
 Question.
-WHO are the seed of Israel?
+Who are the seed of Israel?
 
 [.discourse-part]
 Answer.
@@ -1005,7 +1005,7 @@ Amen, hallelujah!
 
 [.discourse-part]
 Question.
-OUT of what womb doth the seed of Israel spring?
+Out of what womb doth the seed of Israel spring?
 
 [.discourse-part]
 Answer.
@@ -1134,19 +1134,26 @@ will bring forth the perfect redemption and happiness of the creature.
 
 Now then that soul that would travel towards life eternal;
 
-First, Wait to feel a principle of life awakened, raised up,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ Wait to feel a principle of life awakened, raised up,
 sown in thy earth by the living God.
 
-Secondly, Wait to receive all the light of life in every kind,
+[.numbered]
+_Secondly,_ Wait to receive all the light of life in every kind,
 that the Father of lights shall please to cause to shine in thy heart,
 from this principle.
 
-Thirdly, Be content to be tried and distressed, and have thy strength broken day by day,
+[.numbered]
+_Thirdly,_ Be content to be tried and distressed, and have thy strength broken day by day,
 and thy wisdom confounded, that thou mayest sink into, and pass away in,
 the weakness and foolishness which the Lord will bring upon thee,
 before the wisdom and strength of his life appear in thee.
 
-Fourthly, Keep thine eye and heart on the grace that first visited thee,
+[.numbered]
+_Fourthly,_ Keep thine eye and heart on the grace that first visited thee,
 that there thy footing may be, and thy hopes fastened.
 Oh! receive the light still from the hand of grace,
 and look up thither for strength to obey the light;
