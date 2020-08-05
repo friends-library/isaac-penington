@@ -19,11 +19,10 @@ ____
 [.section-date]
 1662
 
-=== OBSERVATION 1
+[.old-style]
+=== Observation 1 / God hath a work in some men`'s hearts.
 
-God hath a work in some men`'s hearts.
-
-THE mighty God, who made heaven and earth, and whose eyes run to and fro through both,
+The mighty God, who made heaven and earth, and whose eyes run to and fro through both,
 he, by the finger of his pure power, toucheth some of the hearts of the children of men,
 and in the pure demonstration of his living Spirit is found working there.
 Religion, true religion, is not a matter of opinion (as men,
@@ -34,9 +33,8 @@ and by it working man out of the darkness and death of sin
 (which is the destruction and misery of the soul),
 into his life and blessedness.
 
-=== OBSERVATION II
-
-That this work of God in man is liable to be destroyed.
+[.old-style]
+=== Observation II / That this work of God in man is liable to be destroyed.
 
 God could so have made man as that he could not have fallen.
 He could so have comprehended man`'s spirit in the pure power of his life,
@@ -54,9 +52,8 @@ As man is tempted, hearkeneth unto, and is drawn back by any of these,
 from the leadings of God`'s Spirit, so the work goeth backward,
 and degrees of destruction overtake and come upon the work of God in that heart.
 
-=== OBSERVATION III
-
-A little thing will destroy the work of God in the heart.
+[.old-style]
+=== Observation III / A little thing will destroy the work of God in the heart.
 
 A matter of meat, eating but a little meat doubtingly,
 out of the faith (wherein is the preservation from the destruction),
@@ -79,10 +76,8 @@ unless he feel the humiliation of his soul,
 and the remission from the spirit of the Lord, the grace of God pitying him,
 and the blood of his Son washing him.
 
-=== OBSERVATION IV
-
-No man should do that which tendeth to destroy the work of God in himself,
-or the work of God in another.
+[.old-style]
+=== Observation IV / No man should do that which tendeth to destroy the work of God in himself, or the work of God in another.
 
 There is no such thing allowable by God for any man to do (whether in public government,
 or in any kind of commerce or conversation amongst men,
@@ -148,11 +143,8 @@ as those whose hearts are weighty and serious (and who are
 not drunk up in the earthliness of the sensual nature,
 or misbiased by pre-assumed principles from the wrong ground) may easily perceive.
 
-FIRST
-
-To such as never knew what belonged to tenderness of conscience towards God,
-but have spent all their days either in licentiousness of spirit,
-or in a dead formality; to such my soul saith:
+[.old-style]
+=== First / To such as never knew what belonged to tenderness of conscience towards God, but have spent all their days either in licentiousness of spirit, or in a dead formality; to such my soul saith:
 
 Oh Friends! wait to feel the power of God upon your hearts (which
 is present with that which sometimes lets you see the evils thereof);
@@ -171,11 +163,8 @@ by the appearance of the grace in you,
 and learn of the living God to fly thereto for succor,
 that ye might be sheltered in the evil hour, which hasteneth apace upon all flesh!
 
-SECONDLY
-
-To such as formerly have been tender and sensible,
-but are now grown hard and deaf to the voice of God`'s Spirit in their hearts and consciences;
-this is the language of my soul in the love and life of my God:
+[.old-style]
+=== Secondly / To such as formerly have been tender and sensible, but are now grown hard and deaf to the voice of God`'s Spirit in their hearts and consciences; this is the language of my soul in the love and life of my God:
 
 Oh that ye could wait to feel the hammer and stroke of God upon that which is hard,
 that it might be broken by him; and that that which is high,
@@ -195,10 +184,8 @@ that ye may travel (in the exercises of his Spirit)
 out of the wisdom and spirit of this world,
 unto the land of the soul`'s peace and rest!
 
-THIRDLY
-
-To such as are still tender, and dare not but exercise a conscience towards God,
-even in these searching and trying times:
+[.old-style]
+=== Thirdly / To such as are still tender, and dare not but exercise a conscience towards God, even in these searching and trying times:
 
 Friends, keep your standing in the life of God.
 What God hath begotten in you, let it depend upon him.
@@ -223,9 +210,8 @@ may shine over all the darkness which opposeth it; and his life,
 which hath quickened and preserved you,
 may be famous over all the territories and dominions of death.
 
-FOURTHLY
-
-To such as are hard-hearted, and of a persecuting spirit towards the tender-conscienced:
+[.old-style]
+=== Fourthly / To such as are hard-hearted, and of a persecuting spirit towards the tender-conscienced:
 
 Oh that ye knew what ye did!
 Ye are enemies to the most precious thing to be found among the sons of men.
@@ -245,9 +231,9 @@ that adversity might not come upon him!
 Wait to read these things in the life from which they sprang;
 and then tell me whether there is not a cause for what I write.
 
-=== POSTSCRIPT
+=== Postscript
 
-THERE hath been a great apostasy, since the days of the apostles, from the living power,
+There hath been a great apostasy, since the days of the apostles, from the living power,
 into dead forms of worship and devotion, where likenesses of truth have been set up,
 instead of the truth itself.
 Now the Lord is gathering his true seed (even Israel,
