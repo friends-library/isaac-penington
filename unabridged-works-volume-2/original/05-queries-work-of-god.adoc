@@ -12,20 +12,23 @@ With an advertisement related to the present State of Things.
 [.section-date]
 1660
 
-Query 1. WHETHER the kingdoms of the earth shall
+[.discourse-part]
+_Query 1._ Whether the kingdoms of the earth shall
 not one day become the kingdoms of the Lord,
 and of his Christ, wherein the Lord God Omnipotent shall reign,
 and man`'s glory and greatness fall, that God alone may be exalted in that day? Rev. 11:15,17.
 Isa. 2:11-12. 17:22.
 
-Query 2. When shall this be?
+[.discourse-part]
+_Query 2._ When shall this be?
 Whether this is not to be expected upon the recovery out of the antichristian apostasy?
 Whether the man-child is not then to be expected to be so born and brought forth,
 as to rule all nations with a rod of iron? Rev. 19:6.
 and chap.
 12:5.
 
-Query 3. When the Son of man comes to take the government to himself,
+[.discourse-part]
+_Query 3._ When the Son of man comes to take the government to himself,
 to give forth the law out of Zion, and the word of the Lord from Jerusalem, Isa. 2:3.
 whether he shall find faith on the earth?
 Whether he shall find the kings and powers of the earth ready to receive him,
@@ -34,7 +37,8 @@ Or whether they shall generally combine against him, and he be fain to overcome 
 before he can reign over them? Luke 18:8.
 Rev. 17:12-14. Ps. 2:2-3.
 
-Query 4. Why these things may not be expected in this our day,
+[.discourse-part]
+_Query 4._ Why these things may not be expected in this our day,
 and be already begun in this our nation,
 seeing so many strange things have happened among us, as have not in many foregoing ages:
 God having so strangely raised up a generation to do service for him,
@@ -43,7 +47,8 @@ when they had so long and so often showed themselves unworthy of, and unfit for,
 so great a service, by still seeking themselves,
 and forgetting the Lord that raised them!
 
-Query 5. How the kingdoms of the earth are to become
+[.discourse-part]
+_Query 5._ How the kingdoms of the earth are to become
 the kingdoms of the Lord and of his Christ?
 Whether it be not by taking his yoke upon them, by submitting to his laws, his cords,
 and bands?
@@ -51,7 +56,8 @@ By giving up whatsoever is unjust, unrighteous, harsh, and oppressive;
 and coming under the bands of righteousness, meekness, and equity? Ps. 2:10-11.
 Matt. 11:29.
 
-Query 6. Whether the Lord be arisen to shake terribly
+[.discourse-part]
+_Query 6._ Whether the Lord be arisen to shake terribly
 or no (as was long ago prophesied he should.
 Isa. 2:19)? For the Lord will once more shake both heaven and earth. Heb. 12:26.
 There hath been a sore shaking in this nation:
@@ -64,7 +70,8 @@ or only some such ordinary shakings as used to happen
 according to the course of kingdoms and states,
 which are subject to changes, alterations, and dissettlement?
 
-Query 7. When God beginneth to shake the heaven and
+[.discourse-part]
+_Query 7._ When God beginneth to shake the heaven and
 earth in nations (according to that great shaking,
 which is to be after the antichristian apostasy, Rev. 4. and chap. 16.)
 whether there ever can be any firm settlement again upon the old foundations?
@@ -75,7 +82,8 @@ for when God once ariseth to shake, he will not give over till he hath made that
 which he began to shake. Rev. 11:13.
 O England, take heed!
 
-Query 8. How the kings, powers,
+[.discourse-part]
+_Query 8._ How the kings, powers,
 and nations of the earth may secure their standing in that day?
 Whether there be any way for them so to do, and what is that way?
 Whether there be any other way but kissing the Son, submitting to his bands,
@@ -141,11 +149,16 @@ Now a little to help the nation and powers thereof the better to digest the work
 that they may not run on headily against him to their own ruin and destruction,
 let these two things following be considered.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Whether the people of God, in the days of the apostles, were not a separated people;
 a people gathered out of nations, kindreds, tongues, and languages,
 (gathered out of the Jewish worship,
 gathered out of the Heathenish worship) and separated to God?
 
+[.numbered]
 2+++.+++ Whether, after the antichristian apostasy,
 there are not a people to be gathered again, and separated again,
 from all antichristian ways of worship,
@@ -153,6 +166,8 @@ even after the manner as they were before the apostasy
 from the Heathenish and Jewish worship?
 And so the same gospel which gathered at first, is, after the apostasy,
 to be preached to gather men again. Rev. 14:6-7.
+
+====
 
 Consider well of these things, that ye may not set yourselves against the Lord,
 to cross him in this work in this nation.
@@ -176,9 +191,9 @@ which the Lord is with to prosper.
 Consider these things in meekness, righteousness, and in the fear of the Lord;
 even in that Spirit which is fit to act for God, and not against him.
 
-=== AN ADVERTISEMENT TO THE POWERS AND PEOPLE OF THIS NATION
+=== An Advertisement to the Powers and People of This Nation
 
-BECAUSE of my dear love to my native country,
+Because of my dear love to my native country,
 and because of the dregs of that cup which the Lord hath already caused it to drink of,
 which cannot be spared unless the Lord`'s will be effected without it;
 which dregs are so bitter, terrible, and dreadful,
@@ -324,15 +339,22 @@ and to part with it, that it may escape the plagues of Babylon, Rev. 18:4.
 which are very bitter,
 as ver. 7,8,etc. these are the two main things whereof Babylon is guilty:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ An invented form of worship, a likeness of the true worship;
 but not the true worship itself.
 
+[.numbered]
 2+++.+++ A persecuting and endeavoring to suppress the power of the truth,
 even of the purity of the godly religion and worship, by means of this form;
 because for conscience`' sake, men, who are taught otherwise by the spirit of God,
 cannot submit and subject thereto.
 
-This God is coming down to plead with in that great city, Babylon;
+====
+
+This God is coming down to plead within that great city, Babylon;
 and this God will first plead with in thee, O England!
 Consider what of this is yet remaining in thee (or what of this thy heart hankers after),
 and part with it as thou lovest thy peace.
@@ -342,4 +364,5 @@ If thou bow before the mighty God, and lie abased in spirit at his feet,
 he can open that eye in thee which can let thee see thy danger,
 and also the way how to escape it.
 
+[.signed-section-signature]
 I+++.+++ P.
