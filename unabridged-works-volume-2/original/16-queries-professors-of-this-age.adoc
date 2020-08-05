@@ -7,14 +7,19 @@ to provoke them to jealousy,
 lest the heathen and open sinners outstrip them and enter into the
 kingdom of the pure everlasting light before them.
 
-Query I. WHETHER God, since the fall of man from the purity and glory of his state,
+[.numbered-group]
+====
+
+[.numbered]
+_Query I._ Whether God, since the fall of man from the purity and glory of his state,
 doth truly and really desire the salvation of all mankind;
 and so would have them come to the knowledge of the truth, that they might believe it,
 receive it, walk in it, and so obtain salvation thereby?
 Or whether he would have only some few of them to receive it, and be saved,
 and the rest to perish?
 
-Query II. If God would have all men to be saved, and come to the knowledge of the truth,
+[.numbered]
+_Query II._ If God would have all men to be saved, and come to the knowledge of the truth,
 which is the means of salvation,
 then whether there is sufficient done by God to convey
 the knowledge of his truth to all men,
@@ -23,20 +28,23 @@ Or whether there is such a defect on God`'s part,
 that some men never had sufficient means to come so far to the knowledge of his truth,
 as that they might come into that way of salvation thereby?
 
-Query III.
+[.numbered]
+_Query III._
 Though God doth please to add superabundant means, in the riches of his grace,
 towards some, more than others; as to the Jews under the law,
 and to the disciples of Christ under the gospel;
 yet whether there is not so much light of the Spirit communicated to all, as,
 if followed, might lead them out of the darkness, and from under the power of it?
 
-Query IV. Whether God be not so near to every man,
+[.numbered]
+_Query IV._ Whether God be not so near to every man,
 as that possibly he may seek after him, and find him?
 And if he do find him, and his heart cleave to him,
 whether it can possibly be but virtue should issue forth from God,
 to draw him out of the alienation from him, and out of the power of sin, death, and hell?
 
-Query V. Whether, if a man feel God, and cleave to God,
+[.numbered]
+_Query V._ Whether, if a man feel God, and cleave to God,
 and begin to discern the streamings of light from him, and follow the Lord therein,
 whether God will not accept this man therein?
 And whether his divine light let into him (being believed
@@ -58,7 +66,8 @@ and subjection to the light thereof in the heart,
 whether this is not also sufficient to convey the righteousness of Christ?
 And whether God will fail to impute it to that man?
 
-Query VI. Whether true religion, spiritual worship, and the salvation of the soul,
+[.numbered]
+_Query VI._ Whether true religion, spiritual worship, and the salvation of the soul,
 do not depend upon the Spirit of the Lord,
 who is near to every heart with his eternal light,
 which he can easily convey to any heart,
@@ -67,6 +76,8 @@ So that it is easy to the Lord to save any of the sons of men,
 even in the darkest and remotest corners of the earth;
 and he can cast off those who seem highest in zeal,
 and most flourishing under any outward means of salvation.
+
+====
 
 Oh, wonderfully infinite is the Lord!
 Who shall bound his Spirit?
@@ -164,4 +175,5 @@ befall those who can only see the glory afar off,
 but cannot inherit it, being found in that nature and spirit which is separated from it,
 and eternally shut out of it.
 
-ISAAC PENINGTON
+[.signed-section-signature]
+Isaac Penington
