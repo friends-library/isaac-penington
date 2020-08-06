@@ -8,9 +8,8 @@ that they may seek after, and be established in, that which gives life.
 [.section-date]
 1663
 
-QUESTION
-
-Whether laws made by man, in equity ought to extend any further than there is power in man to obey
+[.old-style]
+=== Question / Whether laws made by man, in equity ought to extend any further than there is power in man to obey
 
 Is it not cruel to require obedience in such cases,
 wherein the party hath not a capacity in him of obeying?
@@ -42,16 +41,22 @@ and to the good of mankind.
 This is from one, who was a mourner over you in your affliction,
 and is now also a mourner over those whom ye afflict.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== SOME QUERIES ABOUT RELIGION.
+=== Some Queries about Religion.
 
-Query 1. What is true religion?
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ What is true religion?
 Is it a gift from God, bestowed on those whom he begets by the power of his life?
 Or is it a profession of worship of the nature of this world,
 which a man by natural parts and industry may attain to, as well as other things?
 
-Query 2. What is the sum and substance of the true religion?
+[.numbered]
+_Query 2._ What is the sum and substance of the true religion?
 Is it not love from a principle of life?
 Is it not a travel out of the enmity of the creature into the love of God?
 Doth not the light of life spring in the love, and gather into the love?
@@ -60,7 +65,8 @@ teach love to enemies, to bear with them in love, to seek them in love,
 to forgive them in love, to pray for them in love, to wish good to them,
 and wrestle with God for mercy towards them, even while they are hating and persecuting?
 
-Query 3. Are the Papists, or Protestants, or any other sort of religious persons,
+[.numbered]
+_Query 3._ Are the Papists, or Protestants, or any other sort of religious persons,
 found in this love?
 Do they manifest it by their discipleship to Christ, and the power of Christ in them?
 Or rather, do they not set up their several forms,
@@ -71,7 +77,8 @@ And doth not this give a strong evidence against their religion, that it hath bu
 and not the true power in it, and that in heart they are not the disciples of Christ?
 For if they were such, they would of him learn the love.
 
-Query 4. Whether any form of religion (if not held in the power,
+[.numbered]
+_Query 4._ Whether any form of religion (if not held in the power,
 and subjected to the power) doth not fight against the power,
 keeping up an outside show without the substance, and thereby crushing the substance?
 What form of religion at this day in the world can suffer the love to grow,
@@ -89,7 +96,8 @@ and by ever so true and clear a leading of the Spirit of God;
 yet so soon as it begins to invent and turn aside to a form of its own choosing,
 and is upheld by the reasonings and understandings of men, it presently corrupts.
 
-Query 5. Whether the power of religion (and the true
+[.numbered]
+_Query 5._ Whether the power of religion (and the true
 love) if it were raised up and restored again,
 would make the world happy, and set everything in its proper place,
 both inwardly and outwardly?
@@ -103,7 +111,8 @@ that follows the dictates of his own corrupt reason,
 without knowing and becoming subject to that, which should enlighten it,
 and give him the right use thereof!
 
-Query 6. Whether God will restore religion again in the power?
+[.numbered]
+_Query 6._ Whether God will restore religion again in the power?
 Whether he hath such a work to do in the world?
 And whether the time be near that God is about such a work?
 And whether he hath already begun it, and made any progress in it?
@@ -116,7 +125,8 @@ Oh that men knew the times and seasons,
 and then perhaps they would see that this is not a day for setting up of forms,
 but of longing and crying out after life and power!
 
-Query 7. When God restoreth religion, and raiseth it up in power,
+[.numbered]
+_Query 7._ When God restoreth religion, and raiseth it up in power,
 whether then forms and ways of worship, without the power,
 must not needs wither and decay?
 When the power first appeared in the dispensation of the gospel,
@@ -134,6 +144,8 @@ to be formed again in the power of life, and born of the Spirit of life,
 that he may enter into God`'s kingdom?
 Do not all the old things pass away, and new things spring up from the seed of life,
 which God sows and preserves in the hearts of his by his power?
+
+====
 
 Now who is wise to understand these things?
 Who hath the key to open the mysteries of life?
@@ -229,9 +241,9 @@ he looketh upon as done unto himself;
 because he is one with them in the sufferings of their flesh,
 whom he hath made one with himself in Spirit.
 
-=== CONCERNING THE PERSUASIONS OF REASON AND FAITH IN MATTERS OF RELIGION
+=== Concerning the Persuasions of Reasons and Faith in Matters of Religion
 
-THERE is the natural man, and the spiritual man;
+There is the natural man, and the spiritual man;
 and there are the persuasions of each in and about matters of religion.
 There is the persuasion of reason, and the persuasion of faith.
 
@@ -321,4 +333,5 @@ and dark night of apostasy from the life and spirit of the apostles,
 which hath so long eclipsed and covered the brightness
 of thy beauty from the sight of the earth.
 
-ISAAC PENINGTON.
+[.signed-section-signature]
+Isaac Penington.
