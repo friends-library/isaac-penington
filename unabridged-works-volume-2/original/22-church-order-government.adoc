@@ -1,17 +1,23 @@
 [#order-gov-church, short="The Order and Government of the Church of Christ"]
 == Some Queries Concerning the Order and Government of the Church of Christ
 
-Query 1. WHETHER Christ, who is the head, Lord, King,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Whether Christ, who is the head, Lord, King,
 etc. hath not appointed a spiritual order and government to be in his church and congregation.
 
-Query 2. Whether a spiritual order and government is not useful, profitable,
+[.numbered]
+_Query 2._ Whether a spiritual order and government is not useful, profitable,
 and necessary,
 for the well-being and right-managing of this spiritual body and
 holy society in the faith and life of our Lord Jesus Christ.
 In natural societies, natural government and order is profitable and necessary;
 and is not spiritual government as profitable and necessary in spiritual societies?
 
-Query 3. Did not Christ give power of government to his apostles and ministers,
+[.numbered]
+_Query 3._ Did not Christ give power of government to his apostles and ministers,
 at the first publication of his everlasting gospel?
 All power was given him in heaven and in earth; and did not he,
 who had all power given him, give power to his apostles and ministers,
@@ -20,14 +26,16 @@ and to watch over them, oversee them, reprove, exhort, admonish,
 build up in the holy faith, and cut off and cast out that which was unholy,
 and would dispute against, but not submit unto, the Spirit, life, and power of truth?
 
-Query 4. Did not Christ give them gifts also answerable; spirits of discerning,
+[.numbered]
+_Query 4._ Did not Christ give them gifts also answerable; spirits of discerning,
 that they might be eyes to the body; and quick ears that they might hear for the body?
 For though the Lord hath given every one an eye and an ear, as to themselves;
 yet every one is not made by the Lord an eye or ear unto the body;
 but this is appointed for, and given to, those to whom the Lord pleases,
 who hath ordered all things wisely, carefully, and tenderly for the good of all.
 
-Query 5. Were there not titles given them suitable
+[.numbered]
+_Query 5._ Were there not titles given them suitable
 to their offices and services in this kind,
 as pastors or shepherds after God`'s heart, according to the promise of the new covenant,
 overseers or bishops, such as watch for the soul;
@@ -40,7 +48,8 @@ and in the power and authority of the Lord to strike at, all that was contrary,
 and would endeavor to interrupt, overturn, and destroy their work, which was of, in,
 and from, the Lord?
 
-Query 6. Whether the body and common members of the churches
+[.numbered]
+_Query 6._ Whether the body and common members of the churches
 were not to hearken to these ("`He that knoweth God,
 heareth us.`" 1 John 4:6); to obey them in the Lord, to submit to this ministry,
 and their work in it, in the Lord;
@@ -50,7 +59,8 @@ And were not they that did hearken and obey commended?
 And were not the other that were not subjected, but slighted them,
 and their ministry and authority, testified against as disorderly and unruly?
 
-Query 7. Were there not some relics of this order and government all along the apostasy,
+[.numbered]
+_Query 7._ Were there not some relics of this order and government all along the apostasy,
 in the true church and ministry thereof?
 For there hath been a church and a ministry all along the apostasy,
 blessed be the name of the Lord; though not so visible and outwardly glorious,
@@ -74,7 +84,8 @@ ye who are now gathered into his pure light and living power,
 from whom the night is past, and on whom the day, the everlasting dayspring from on high,
 is risen!
 
-Query 8. After the apostasy, doth not God renew his commission,
+[.numbered]
+_Query 8._ After the apostasy, doth not God renew his commission,
 and send forth his angel (for they are all but one) to preach his everlasting gospel?
 And doth not he give them power to preach to the world, and to gather those,
 that hear the everlasting voice through them, into holy assemblies, separated in spirit,
@@ -110,8 +121,10 @@ and preserveth those, who abide single in it, to the Lord.
 Now against this holy order and government appointed by God, there may arise,
 in some hearts, some such objections as these following.
 
+====
+
 [.discourse-part]
-Objection 1. But is not this a turning away from the measure of life in a man`'s own vessel,
+_Objection 1._ But is not this a turning away from the measure of life in a man`'s own vessel,
 to another man`'s measure?
 
 [.discourse-part]
@@ -141,7 +154,7 @@ He that hath an ear, let him hear; for it is easy being taken in this snare,
 and the danger thereof is very great.
 
 [.discourse-part]
-Objection 2. Is not the least measure of life in any vessel (if subjected to, waited on,
+_Objection 2._ Is not the least measure of life in any vessel (if subjected to, waited on,
 and believed in) sufficient to instruct and build up into a perfect man in God?
 
 [.discourse-part]
@@ -202,7 +215,7 @@ as preachers of righteousness,
 to make a prey of the innocent life in the upright-hearted, if possible?
 
 [.discourse-part]
-Objection 3. But those who have ministered from the Lord, and whose ministry I have felt and owned,
+_Objection 3._ But those who have ministered from the Lord, and whose ministry I have felt and owned,
 and in the distress and affliction of my soul have had recourse to,
 hoping that they might have a sense of my condition, and give me proper advice; yet they,
 instead thereof, have turned me to his witness that wounded me,
@@ -276,7 +289,7 @@ which the Lord God bless and prosper, for their recovery unto that from which,
 through mistake, they have erred.
 
 [.discourse-part]
-Objection 4. If any man hath received a gift of ministry, he hath received it of the Lord;
+_Objection 4._ If any man hath received a gift of ministry, he hath received it of the Lord;
 and its end being to gather to the Lord, they that by it are gathered,
 are to be delivered up to the Lord, that he (as king, priest, and prophet) may govern, etc.
 
@@ -301,7 +314,7 @@ Now this is right order from God, wherein the safety of the flock consists;
 but out of this is danger and confusion, which the measure of life teacheth to avoid.
 
 [.discourse-part]
-Objection 5. But in a case of doubt or difference, which shall be the judge;
+_Objection 5._ But in a case of doubt or difference, which shall be the judge;
 the measure of life within, or the testimony of others without?
 Shall I judge as I feel the thing in the measure of my own life?
 Or shall I submit to others against my own sense and judgment,
@@ -380,20 +393,27 @@ Now for a close: there are some considerations springing up in my heart concerni
 which I find drawings here to annex, in true love and tenderness,
 for the use and service of others; which are as follows:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Unity in the spiritual body,
 which is gathered into and knit together in the pure life,
 is a most natural and comely thing.
 Yea, it is exceeding lovely to find all that are of the Lord of one heart, of one mind,
 of one judgment, in one way of practice and order in all things.
 
+[.numbered]
 2+++.+++ The Lord is to be waited upon for the bringing forth of this in the body;
 that as there is a foundation of it laid in all (the life and spring being over all),
 so all may be brought by him into the true and full oneness.
 
+[.numbered]
 3+++.+++ The Lord is to be acknowledged and praised in the bringing
 of it forth (so far as it is brought forth),
 and to be waited upon for the further perfecting of it.
 
+[.numbered]
 4+++.+++ A watch is to be kept (throughout the whole body,
 and in every heart) for the preserving of it, so far as it is brought forth,
 that the enemy, by no device or subtlety, cause disunion or difference in any respect,
@@ -409,12 +429,18 @@ he in that respect hearkens to another spirit, even the dividing spirit,
 and by its instigation rents from the life itself, and so doth not keep his habitation,
 nor his unity, with that which abides in its habituation.
 
+====
+
 Now it is also in my heart, for the perfecting of this close,
 to mention a few things (in the same love and tenderness) which I have
 found helpful to me towards the preserving of me in unity with the body.
 Perhaps it may please the Lord to refresh some others by the mention of them,
 and to make them useful and helpful to them also.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The first is, the pure fear of the Lord.
 This poiseth and guardeth the mind,
 keeping down fleshly confidence and conceitedness (which is very apt to spring up),
@@ -428,6 +454,7 @@ the more manifest its nature and ways appear:
 but the enemy`'s appearance and likenesses are not so; but their deceit,
 by a thorough trial, comes to be made manifest.
 
+[.numbered]
 2+++.+++ The second is, humility of heart.
 This is very precious, and of a preserving nature.
 Yea, in this state the Lord helpeth and teacheth;
@@ -439,6 +466,7 @@ And so not being taught by him, it must needs be liable to err; yea,
 to hearken to that spirit,
 whose voice is more pleasing and suitable to the erring mind than the Lord`'s voice is.
 
+[.numbered]
 3+++.+++ A third great help, which in the tender mercy of the Lord I have had experience of,
 is sobriety of judgment.
 Not to value or set up mine own judgment,
@@ -455,6 +483,7 @@ and wait upon him for a clear discerning and sense of his truth,
 in the unity and demonstration of his Spirit with others, who are of him, and see him.
 And this will prevent the rents which the want of this sobriety may occasion.
 
+[.numbered]
 4+++.+++ The last thing which I have now to mention is, ten-derness, meekness, coolness,
 and stillness of spirit.
 I wrap up these together, because they are much of a nature, and go much together.
@@ -504,4 +533,7 @@ carrying on and perfecting the work of his goodness, love, and mercy in them,
 to his own glorious, eternal, everlasting praise.
 Amen.
 
-Written by ISAAC PENINGTON, in Aylesbury prison
+====
+
+[.signed-section-context-close]
+Written by Isaac Penington, in Aylesbury prison
