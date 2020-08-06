@@ -143,8 +143,13 @@ as those whose hearts are weighty and serious (and who are
 not drunk up in the earthliness of the sensual nature,
 or misbiased by pre-assumed principles from the wrong ground) may easily perceive.
 
-[.old-style]
-=== First / To such as never knew what belonged to tenderness of conscience towards God, but have spent all their days either in licentiousness of spirit, or in a dead formality; to such my soul saith:
+[.centered]
+=== First
+
+[.section-summary-preface]
+To such as never knew what belonged to tenderness of conscience towards God,
+but have spent all their days either in licentiousness of spirit,
+or in a dead formality; to such my soul saith:
 
 Oh Friends! wait to feel the power of God upon your hearts (which
 is present with that which sometimes lets you see the evils thereof);
@@ -163,8 +168,13 @@ by the appearance of the grace in you,
 and learn of the living God to fly thereto for succor,
 that ye might be sheltered in the evil hour, which hasteneth apace upon all flesh!
 
-[.old-style]
-=== Secondly / To such as formerly have been tender and sensible, but are now grown hard and deaf to the voice of God`'s Spirit in their hearts and consciences; this is the language of my soul in the love and life of my God:
+[.centered]
+=== Secondly
+
+[.section-summary-preface]
+To such as formerly have been tender and sensible,
+but are now grown hard and deaf to the voice of God`'s Spirit in their hearts and consciences;
+this is the language of my soul in the love and life of my God:
 
 Oh that ye could wait to feel the hammer and stroke of God upon that which is hard,
 that it might be broken by him; and that that which is high,
@@ -184,8 +194,12 @@ that ye may travel (in the exercises of his Spirit)
 out of the wisdom and spirit of this world,
 unto the land of the soul`'s peace and rest!
 
-[.old-style]
-=== Thirdly / To such as are still tender, and dare not but exercise a conscience towards God, even in these searching and trying times:
+[.centered]
+=== Thirdly
+
+[.section-summary-preface]
+To such as are still tender, and dare not but exercise a conscience towards God,
+even in these searching and trying times:
 
 Friends, keep your standing in the life of God.
 What God hath begotten in you, let it depend upon him.
@@ -210,8 +224,11 @@ may shine over all the darkness which opposeth it; and his life,
 which hath quickened and preserved you,
 may be famous over all the territories and dominions of death.
 
-[.old-style]
-=== Fourthly / To such as are hard-hearted, and of a persecuting spirit towards the tender-conscienced:
+[.centered]
+=== Fourthly
+
+[.section-summary-preface]
+To such as are hard-hearted, and of a persecuting spirit towards the tender-conscienced:
 
 Oh that ye knew what ye did!
 Ye are enemies to the most precious thing to be found among the sons of men.
