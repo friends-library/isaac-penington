@@ -8,9 +8,10 @@ where the Lord God shall order this to come, in the tender spirit of life and lo
 [.section-date]
 1666
 
-O FRIENDS!
+[.salutation]
+O Friends!
 
-IN the pure love of God, and fresh breath of his living Spirit,
+In the pure love of God, and fresh breath of his living Spirit,
 is it now on my heart to write unto you, in fear, in tenderness, in meltings,
 and true sense of spirit; and the Lord so guide my heart and words,
 as that they may reach the witness in the hearts of all that shall read,
@@ -123,7 +124,11 @@ And indeed I have somewhat in my heart to say singly
 and nakedly concerning each of these,
 which the Lord guide and bless to the conditions of those who stand in need thereof.
 
-First,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_
 Concerning those prejudices which the enemy is apt to lay before the minds of Friends
 concerning those whom the Lord hath chosen to minister to them in the power of his truth,
 I shall say this: Look over the former dispensations of God;
@@ -149,7 +154,8 @@ in the true eternal light of the Spirit of life, see thee fallen?
 Nay, if thou couldst but retire to the pure measure that at first quickened thee,
 mightest not thou feel thy own fall?
 
-To the second, of drawing out the mind to look after another or further dispensation,
+[.numbered]
+_To the second,_ of drawing out the mind to look after another or further dispensation,
 I have this to say: Consider what this dispensation is; is it not of the seed itself?
 Is it not of the light, life, and power of the Father, manifested in the seed,
 and in the soul through the seed?
@@ -178,7 +184,8 @@ let it be the abomination of our souls, that we hearken not,
 nor give the least entertainment to it,
 lest by it we are betrayed of our portion in the blessed treasure and inheritance.
 
-To the third I say: It is a standing truth, the standard we were invited to,
+[.numbered]
+_To the third_ I say: It is a standing truth, the standard we were invited to,
 and to which we are to keep forever, even the measure of life in our own vessels.
 This will justify us in our subjection to whatever it reveals;
 and its justification will stand, whatsoever any man else shall say to the contrary.
@@ -216,6 +223,8 @@ and also from him who is the quickener and preserver of the body.
 Therefore, my friends, as the enemy watcheth to deceive and destroy,
 so the Lord keep our souls in the true watch and looking up to him,
 who (to those that fear him) discovereth the deceit, and preserveth from, the snare.
+
+====
 
 And this is witnessed concerning the measure of life in the heart,
 and the way of its acting and operation, that it always acts in its place,
@@ -319,18 +328,20 @@ which is the earnest desire of my soul to the Lord, who am
 
 Your brother and companion in the tribulation and mercies which attend the living,
 
-ISAAC PENINGTON.
+[.signed-section-signature]
+Isaac Penington.
 
+[.signed-section-context-close]
 From Aylesbury prison, the 14th of the Fifth month, 1666.
 
 === Postscript
 
-DEAR friends, brethren, lambs, and plants of the Most High,
+Dear friends, brethren, lambs, and plants of the Most High,
 it is in my heart to add one thing, which I have been deeply exercised about,
 and have received help from the Lord in, wherein I am truly willing,
 in faithfulness and tenderness, to be helpful to any of you that stand in need thereof,
 as the Lord shall give me ability and opportunity.
-It is this:--
+It is this:
 
 Among other things,
 wherewith the enemy endeavoreth to reproach those whom the Lord hath sent forth among us,
@@ -377,4 +388,5 @@ nor any thing that is good (as the judgment and severity which is of him is) evi
 but may rightly distinguish between the nature of things,
 knowing everything that is of God, and owning it in its place.
 
+[.signed-section-context-close]
 Aylesbury prison, the 29th of the Sixth month, 1666
