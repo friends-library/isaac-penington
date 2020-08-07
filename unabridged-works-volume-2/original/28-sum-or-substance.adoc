@@ -1,7 +1,7 @@
 [#sum-substance, short="The Sum or Substance of Our Religion"]
 == Concerning the Sum or Substance Of our Religion / Who Are Called Quakers / And the Exercises and Travails of our Spirits Therein
 
-THIS is the sum or substance of our religion; to wit, to feel and discern the two seeds:
+This is the sum or substance of our religion; to wit, to feel and discern the two seeds:
 the seed of enmity, the seed of love; the seed of the flesh, the seed of the Spirit;
 the seed of Hagar, the seed of Sarah; the seed of the Egyptian womb,
 the holy seed of Israel;
@@ -220,7 +220,7 @@ and concerning reading the Scriptures aright.
 "`I am the way, the truth, and the life: no man cometh unto the Father but by me,`"
 saith Christ. John 14:6.
 
-MAN, in the corrupt, degenerate estate, is fallen from God,
+Man, in the corrupt, degenerate estate, is fallen from God,
 and hath lost his image (the holy, heavenly image of the Father of Spirits);
 is driven out from his presence, dwells in the land of darkness and confusion,
 under the government of the prince of the power of the air, who rules in,
@@ -381,7 +381,7 @@ as she calls them) made manifest.
 [.centered]
 === Concerning the Gospel Ministration
 
-IF the gospel be not a ministration of words or letter, but of Spirit, life,
+If the gospel be not a ministration of words or letter, but of Spirit, life,
 and power;
 and if it was the intent of God that men should not
 stick in words or testimonies concerning the thing,
@@ -508,7 +508,7 @@ and who establisheth peace and truth within his borders.
 === A Few Words Concerning the Principle of Truth; / What it is, How it May Be Discerned, / and How it May be Purchased and Possessed
 
 [.discourse-part]
-Question 1. WHAT is the principle of truth?
+_Question 1._ What is the principle of truth?
 
 [.discourse-part]
 Answer.
@@ -520,7 +520,7 @@ and arising from the dead, but by the light which makes sin manifest.
 And oh, how precious is that light!
 
 [.discourse-part]
-Question 2. How may the principle of truth be discerned?
+_Question 2._ How may the principle of truth be discerned?
 
 [.discourse-part]
 Answer.
@@ -555,7 +555,7 @@ that so they may receive, retain,
 and not again lose the capacity of understanding the things of God`'s kingdom.
 
 [.discourse-part]
-Question 3. How may this principle, seed, or pearl, be purchased and possessed?
+_Question 3._ How may this principle, seed, or pearl, be purchased and possessed?
 
 [.discourse-part]
 Answer.
@@ -626,4 +626,5 @@ the days of mourning after salvation are over with many,
 and the days of reaping and enjoying salvation are come,
 which shall endure with the Israel of God forevermore, amen.
 
-ISAAC PENINGTON
+[.signed-section-signature]
+Isaac Penington
