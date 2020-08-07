@@ -32,7 +32,7 @@ as it is expressed by Christ, Matt. 25:31. to the end of the chapter.
 
 === Preface
 
-BECAUSE the corruption of the Christian doctrine and worship hath been great (yea,
+Because the corruption of the Christian doctrine and worship hath been great (yea,
 indeed very great) since the days of the apostles;
 and the judgments also are to be very great, because of this corruption;
 even dreadful woes, plagues, cups of wrath, and thunders unutterable,
@@ -101,7 +101,7 @@ and rejoice in all the springings of its light, either within or without.
 [.centered]
 === Of the Church State Under the Gospel
 
-THE Jews`' church state under the law was precious; who,
+The Jews`' church state under the law was precious; who,
 walking with God according to the covenant of the law, were an holy people,
 nigh and dear unto God above all other people.
 But they provoked him so continually and grievously, that instead of blessings,
@@ -414,7 +414,7 @@ Fourthly, How a church may lose its state and being?
 Fifthly, When a church hath lost its state and being?
 
 [.discourse-part]
-Question 1. What is a true church?
+_Question 1._ What is a true church?
 
 [.discourse-part]
 Answer.
@@ -430,7 +430,7 @@ and union with, the truth itself;
 and their abiding in the life and power of that which they profess. Eph. 4:16.
 
 [.discourse-part]
-Question 2. How may a true church be known?
+_Question 2._ How may a true church be known?
 
 [.discourse-part]
 Answer.
@@ -464,7 +464,7 @@ there am I in the midst of them.`" Matt.
 18;20.
 
 [.discourse-part]
-Question 3. How may a true church continue so?
+_Question 3._ How may a true church continue so?
 
 [.discourse-part]
 Answer.
@@ -483,7 +483,7 @@ the candlestick removed, etc.
 Rev. second and third chapters.
 
 [.discourse-part]
-Question 4. How may a church lose its state and being?
+_Question 4._ How may a church lose its state and being?
 
 [.discourse-part]
 Answer.
@@ -501,12 +501,17 @@ even of God`'s coming forth with his sword and fighting against her.
 Rev. 2;16. And if God, who is the defender of his church, himself fight against her,
 how shall she stand?
 
+[.numbered-group]
+====
+
+[.numbered]
 2+++.+++ By negligence and sluggishness in the truth;
 by this means also life may languish and extinguish by degrees,
 even till death come wholly over and swallow it up. Rev. 3:1-3.
 If the first love do but abate and wax cold, iniquity will be abounding, Matt. 24:12.
 and the church will be in danger of losing its candlestick. Rev. 2:4-5.
 
+[.numbered]
 3+++.+++ By God`'s withdrawing his presence and power, for these or such causes abovesaid,
 which nourisheth and preserveth.
 For the life of the church, as well as of a disciple,
@@ -519,6 +524,7 @@ after God`'s rejecting and cutting them off also, and be as dead to God therein,
 as the Jews in theirs. Rev. 11:1-2.
 and Rom. 11:21-22.
 
+[.numbered]
 4+++.+++ By their listening and yielding to the power of the enemy,
 who quickly deceiveth (with his lies, instead of the truth), destroyeth,
 and layeth waste such buildings,
@@ -557,8 +563,10 @@ so that those that expect to reap salvation from him,
 must walk and abide with him therein; for besides him there is no Saviour;
 and besides his way, there is no way of salvation, either for any man or church.
 
+====
+
 [.discourse-part]
-Question 5. When hath a church lost its state and being?
+_Question 5._ When hath a church lost its state and being?
 
 [.discourse-part]
 Answer.
@@ -588,31 +596,38 @@ glory in the highest to his name forevermore!
 [.old-style]
 === Some Queries to the Professors of Christianity / To Provoke Them to Jealousy for their Good
 
-Query 1. HAVE ye eat of the bread and
+[.discourse-part]
+_Query 1._ Have ye eat of the bread and
 drank of the wine in the Father`'s kingdom,
 which they that have received the kingdom, and are in the kingdom, eat and drink of?
 
-Query 2. Have ye known the heavenly Jerusalem, and are ye come to it,
+[.discourse-part]
+_Query 2._ Have ye known the heavenly Jerusalem, and are ye come to it,
 as the Christians were in the apostles`' days?
 Heb. 12;22.
 
-Query 3. Are ye in him that is true, and your churches and gatherings in God,
+[.discourse-part]
+_Query 3._ Are ye in him that is true, and your churches and gatherings in God,
 and in the name of his Son?
 Is your being and dwelling in the eternal life?
 
-Query 4. Have ye received the promise of the Father, even the excellent Spirit of the Son?
+[.discourse-part]
+_Query 4._ Have ye received the promise of the Father, even the excellent Spirit of the Son?
 
-Query 5. Have ye the true faith?
+[.discourse-part]
+_Query 5._ Have ye the true faith?
 Do the living waters spring out of your bowels, according as the Scriptures have said?
 "`He that believeth on me,
 out of his belly shall flow rivers of living water.`" John 7:38. and chap.
 4:14.
 
-Query 6. Doth God tabernacle in you?
+[.discourse-part]
+_Query 6._ Doth God tabernacle in you?
 is his dwelling among you?
 doth he walk up and down in your spirits, and sup with you, and you with him?
 
-Query 7. Are ye in the new covenant?
+[.discourse-part]
+_Query 7._ Are ye in the new covenant?
 taught of God, so as you need no man to teach you?
 and your sins so blotted out, according to the covenant,
 as to hinder no good things from you?
@@ -626,8 +641,12 @@ and so far as ye fall short of them, ye shall fall short of the state of Christi
 [.old-style]
 === Some Observations upon the Eternal Judgment / As it is Expressed by Christ, Matt. 25:31. to the End of the Chapter.
 
-Observation.
-1+++.+++ THE condition of Christ here in this world,
+[.numbered-group]
+====
+
+[.numbered]
+_Observation.
+1+++.+++_ THE condition of Christ here in this world,
 in many of his members in their several ages and generations.
 He is hungry, thirsty, a stranger, naked, sick, and in prison; yea, indeed,
 what is there of misery, shame, and reproach, which he is not exposed to;
@@ -635,29 +654,33 @@ or which they are not exposed to, who entertain him as their Lord and King,
 and are faithful in their obedience and subjection to him?
 ver. 35, 36, 43.
 
-Observation.
-2+++.+++ The notice Christ takes of what is done in this kind, or not done in this kind,
+[.numbered]
+_Observation.
+2+++.+++_ The notice Christ takes of what is done in this kind, or not done in this kind,
 to any of his suffering members; which extends to all, even the very least.
 "`Insomuch as ye have done it unto one of the least of these,
 ye have done it unto me.`" ver. 40. "`Insomuch as ye
 did it not to one of the least of these,
 ye did it not to me.`" ver. 45.
 
-Observation.
-3+++.+++ The honorable esteem Christ hath of his poor suffering members,
+[.numbered]
+_Observation.
+3+++.+++_ The honorable esteem Christ hath of his poor suffering members,
 with what eye of contempt soever the world looks upon them,
 yet he looks upon them as his brethren.
 ver. 40.
 
-Observation.
-4+++.+++ The different carriages of persons towards Christ,
+[.numbered]
+_Observation.
+4+++.+++_ The different carriages of persons towards Christ,
 in this his low condition in his members.
 Some gave him meat, some gave him drink; some took him in, some clothed him,
 some visited and came unto him; ver. 35, 36. others did none of these things unto him.
 ver. 43.
 
-Observation.
-5+++.+++ The different judgment Christ passeth upon these,
+[.numbered]
+_Observation.
+5+++.+++_ The different judgment Christ passeth upon these,
 according to their different carriages.
 The one he pronounceth blessed of his Father,
 judging them to the inheritance of a kingdom of eternal life.
@@ -665,8 +688,9 @@ ver. 34. 46. The other he pronounceth cursed,
 and adjudgeth to everlasting punishment in the fire of his wrath.
 ver. 41.--46.
 
-Observation.
-6+++.+++ The ground or reason why those, who did not minister to him, neglected him,
+[.numbered]
+_Observation.
+6+++.+++_ The ground or reason why those, who did not minister to him, neglected him,
 which was their ignorance of him.
 They saw indeed, and knew several persons to be in such kind of conditions,
 but they did not know that it was Christ which suffered in them;
@@ -674,8 +698,9 @@ this is implied in their answer to him.
 ver. 44. "`When saw we thee ahungered, or athirst, or a stranger, or naked, or sick,
 or in prison, and did not minister unto thee?`" ver. 45.
 
-Observation.
-7+++.+++ That it will not excuse men from the judgment,
+[.numbered]
+_Observation.
+7+++.+++_ That it will not excuse men from the judgment,
 their not knowing of Christ in his members;
 but if they neglect and have not done this thing,
 though they may plead ever so strongly that they did not know any such,
@@ -686,6 +711,8 @@ and Christ`'s appearance in a body of flesh, with his death, resurrection, ascen
 etc., and also the apostles, both their words and practices; and yet persecute him,
 and the same practices, in his present servants and members.
 How will these possibly escape this judgment?
+
+====
 
 [.discourse-part]
 Objection.
@@ -733,17 +760,23 @@ Now I have three questions more to propose,
 which I desire that all men that read may judge of in that
 which giveth the true sense and judgment of their weight.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ If this be the cause and ground of the eternal judgment,
 whether it may not also be the ground of temporal judgments on persons and nations;
 to wit, if there be such a thing to be found in them,
 as neglecting to minister to Christ in his suffering members?
 
+[.numbered]
 2+++.+++ If there be not only this to be found,
 but also a causing of him in his members thus to suffer (a causing of their hunger,
 thirst, nakedness, sickness, imprisonment, etc.),
 whether this is not of very great force to draw down plagues, judgments,
 and miseries upon a nation?
 
+[.numbered]
 3+++.+++ If there have been such sins committed, God`'s anger provoked,
 and his judgments drawn down, whether it be possible to stop them,
 or there can be any reasonable hope of the diverting of them,
@@ -783,6 +816,10 @@ to the glory of God`'s truth, which is able to work this (were it but let in, re
 and subjected to in the minds of men),
 and to the delight and joy of the hearts of all in the nation.
 
-ISAAC PENINGTON.
+====
 
+[.signed-section-signature]
+Isaac Penington.
+
+[.signed-section-context-close]
 Written in Aylesbury prison, the 29th of the Eighth month, 1666.
