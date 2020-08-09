@@ -1,8 +1,10 @@
 == Letters of Isaac Penington
 
-TO THOMAS ELLWOOD
+[.letter-heading]
+To Thomas Ellwood
 
-DEAR THOMAS,
+[.salutation]
+Dear Thomas,
 
 Great hath been the Lord`'s goodness to thee, in calling thee out of that path of vanity,
 and death, wherein thou wast running toward destruction; to give thee a living name,
@@ -25,13 +27,17 @@ My love is to thee, with dear Thomas Goodyare, and the rest of the imprisoned Fr
 
 I remain thine in the Truth, to which the Lord my God preserve me single and faithful.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 From Aylesbury Jail, 14th of 12th month, 1660
 
-TO KING CHARLES II
+[.letter-heading]
+To King Charles II
 
-O KING,
+[.salutation]
+O King,
 
 The Lord God of heaven and earth is mighty,
 who hath often and greatly shaken this nation already: and this I have observed,
@@ -91,17 +97,18 @@ thine eyes may be opened to see the way of righteous government in the true ligh
 From one who mourns over the misery of mankind,
 longing for the redemption of those that go astray, and a true lover of thy soul.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-Aylesbury prison, where I am visiting some of my dear
-
-Friends in God`'s eternal truth, 17th 7th mo.
+[.signed-section-context-close]
+Aylesbury prison, where I am visiting some of my dear Friends in God`'s eternal truth,
+17th 7th mo.
 1661
 
 [.postscript]
 ====
 
-Postscript.--Let thy government be like unto God`'s: even a yoke to the unjust,
+Postscript. Let thy government be like unto God`'s: even a yoke to the unjust,
 but liberty to the just.
 O, when shall the cry of the innocent cease, throughout all thy borders?
 Restore unto the Lord his dominion over men`'s consciences,
@@ -132,9 +139,11 @@ It is a greater honour to be a subject to Him, than to reign over men.
 
 ====
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 It pleased the Lord to refresh me by thy letter.
 O how precious and pleasant is it to feel life stirring in God`'s tender lambs,
@@ -182,13 +191,17 @@ and by whose blessing alone it grows up and prospers.
 
 I am thy friend in dearness and truth of affection,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 From Aylesbury Jail, 4th of 1st month, 1665
 
-TO A PARENT
+[.letter-heading]
+To a Parent
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I have not much freedom to write at present, being retired in spirit,
 and mourning to my God, for the powerful bringing forth of his pure life,
@@ -249,13 +262,17 @@ Thus, in the plainness of my heart, have I answered thee,
 according to the drawings and freedom which I found there, which I dare not exceed;
 who am thy unfeigned Friend, though outwardly unknown,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 20th of Third Month, 1665
 
-TO BRIDGET ATLEY
+[.letter-heading]
+To Bridget Atley
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I know thy soul desires to live; and my soul desireth that thou mightst live.
 Oh! why art thou so backward to hearken to the voice which is nigh thee, wherein is life?
@@ -328,13 +345,17 @@ and I can hardly put up a more proper request for thee,
 than that the Lord would draw out his sword against it,
 and deeply perplex and confound it in thee.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 1665
 
-TO ONE WHO SENT A PAPER OF RICHARD BAXTER`'s
+[.letter-heading]
+To One Who Sent a Paper of Richard Baxter`'s
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Whom I often remember with love and meltings of heart; desiring of God,
 that thou mayst enjoy, in this world,
@@ -379,14 +400,18 @@ This is the account of my love unto thee,
 drawn forth at this time by the outward expression of thine in sending that paper,
 who remain, and, from my first acquaintance, have ever been, a Friend and lover of thee.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Peter`'s Chalfonte, 19th of Sixth Month, 1665
 
-TO A FRIEND IN LONDON; SUPPOSED TO BE WRITTEN ON OCCASION OF THE PLAGUE
+[.letter-heading]
+To a Friend In London; Supposed to Be Written On Occasion of the Plague
 
-AH!
-FRIEND,
+[.salutation]
+Ah!
+Friend,
 
 Dreadful is the Lord: it is now known and felt, beyond what can be spoken.
 Doth thy heart fear before him?
@@ -419,15 +444,20 @@ in drawing thee more into a sense and acquaintance of the infinite One,
 and in drawing thee from thy earthly thoughts and knowledge,
 which will not now stand thee in stead.
 
+[.signed-section-closing]
 Thy Friend,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 8th of Seventh Month, 1665
 
-TO ELIZABETH WALMSLEY
+[.letter-heading]
+To Elizabeth Walmsley
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 My heart was exceedingly melted within me at the
 reading of thy precious and tender lines;
@@ -451,16 +481,24 @@ Amen!
 Thus prayeth for thee thy unfeigned Friend,
 and dear lover of the pure seed of life in thee,
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.postscript]
+====
 
 Mind my dear love to thy sister, whose inward welfare and prosperity I desire,
 even that she may be one with thee in the seed and life of God.
 
+====
+
+[.signed-section-context-close]
 Aylesbury Jail, 19th of Eighth Month, 1665
 
-TO MY FRIENDS AT HORTON AND THEREABOUTS
+[.letter-heading]
+To My Friends at Horton and Thereabouts
 
-THERE hath been a cloudy and dark day,
+There hath been a cloudy and dark day,
 wherein God`'s church and building hath been laid waste,
 and his holy city (according to his decree and purpose) trodden under foot by the Gentiles;
 all which time, his church hath been as a desolate widow, mourning in the wilderness.
@@ -569,11 +607,14 @@ I remain your imprisoned Friend, according to the wisdom of God,
 and in his pure content and fear;
 though the wisdom of man might easily have avoided these bonds.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury Jail, 22d of Eighth Month, 1665
 
-TO A FRIEND (an extract)
+[.letter-heading]
+To a Friend (an extract)
 
 The Lord is tender of me, and merciful to me.
 Though, indeed, I have felt much weakness both inwardly and outwardly,
@@ -586,11 +627,14 @@ ye shall not prevail against the least lamb of my Father`'s preserving,
 glory be to his mercy, to his love, to his power, to his wisdom, to his goodness,
 forevermore!
 
+[.signed-section-context-close]
 +++[+++From Aylesbury Jail, according to Bevan, who dates it about 3rd month, 1666]
 
-TO FRIENDS OF TRUTH IN AND ABOUT THE TWO CHALFONTS
+[.letter-heading]
+To Friends of Truth in and about the Two Chalfonts
 
-DEAR FRIENDS:
+[.salutation]
+Dear Friends:
 
 I am separated, as to bodily presence, from you; but I cannot forget you,
 because ye are written on my heart, and I cannot but desire your peace and welfare,
@@ -648,55 +692,30 @@ and all the faithful travails which have been for you.
 
 Your Friend and brother in the Truth.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 From my place of confinement in Aylesbury
 
+[.signed-section-context-close]
 20th of Fourth Month, 1666
+
+[.postscript]
+====
 
 Even when ye were sitting together, waiting on the Lord (some of you, I doubt not),
 did these things spring up in my heart towards you;
 and if ye taste any sweetness or refreshment in them, bow to the Fountain,
 and be sensible of his praise springing in the midst of you.
 
-TO ELIZABETH WALMSLEY, OF GILES CHALFONT
+====
 
-DEAR FRIEND,
+[.letter-heading]
+To Elizabeth Walmsley, of Giles Chalfont
 
-The thoughts of thee are pleasant to me; indeed,
-I am melted with the sense of the Lord`'s love to thee, as to my own soul.
-
-What were we, that the Lord should stretch forth his arm to us, and gather us?
-And what are we, that the Lord should daily remember us,
-in the issuings-forth of his lovingkindness and mercies?
-Oh his pity, his compassion! (must I forever say) that my soul yet lives,
-and hath hope before him!
-And canst not thou also say the same?
-Oh, my friend! we feel mercy and salvation from the Lord.
-Oh, that he might have pure praise and service from his own in us! and yet,
-that will be little thanks to us, but rather a new mercy received from him.
-But all is his own, and of his own do we give him; and that, only when he quickens,
-helps, and enables us to give.
-Dear friend, my desire for thee is,
-that the power and blessings of life may descend upon thee,
-and that thou mayst feel thy God near, and thy heart still ready to let him in,
-and shut against all that is of a contrary nature to his;
-that thou mayst know that death passing upon thee, and perfected in thee,
-which prepares for, and lets into, the fulness of his pure, unspotted life.
-
-Thou mayst commend my dear love to thy sister, and to all Friends,
-as thou hast opportunity, who breathe after the Lord,
-and desire in uprightness of heart to walk with him.
-
-I am thy Friend, in the affection which is of the Truth.
-
-I+++.+++ P.
-
-Aylesbury, 20th of Fourth Month, 1666
-
-TO ELIZABETH WALMSLEY, OF GILES CHALFONT
-
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 The thoughts of thee are pleasant to me; indeed,
 I am melted with the sense of the Lord`'s love to thee, as to my own soul.
@@ -725,13 +744,56 @@ and desire in uprightness of heart to walk with him.
 
 I am thy Friend, in the affection which is of the Truth.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury, 20th of Fourth Month, 1666
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To Elizabeth Walmsley, of Giles Chalfont
 
-FRIEND,
+[.salutation]
+Dear Friend,
+
+The thoughts of thee are pleasant to me; indeed,
+I am melted with the sense of the Lord`'s love to thee, as to my own soul.
+
+What were we, that the Lord should stretch forth his arm to us, and gather us?
+And what are we, that the Lord should daily remember us,
+in the issuings-forth of his lovingkindness and mercies?
+Oh his pity, his compassion! (must I forever say) that my soul yet lives,
+and hath hope before him!
+And canst not thou also say the same?
+Oh, my friend! we feel mercy and salvation from the Lord.
+Oh, that he might have pure praise and service from his own in us! and yet,
+that will be little thanks to us, but rather a new mercy received from him.
+But all is his own, and of his own do we give him; and that, only when he quickens,
+helps, and enables us to give.
+Dear friend, my desire for thee is,
+that the power and blessings of life may descend upon thee,
+and that thou mayst feel thy God near, and thy heart still ready to let him in,
+and shut against all that is of a contrary nature to his;
+that thou mayst know that death passing upon thee, and perfected in thee,
+which prepares for, and lets into, the fulness of his pure, unspotted life.
+
+Thou mayst commend my dear love to thy sister, and to all Friends,
+as thou hast opportunity, who breathe after the Lord,
+and desire in uprightness of heart to walk with him.
+
+I am thy Friend, in the affection which is of the Truth.
+
+[.signed-section-signature]
+I+++.+++ P.
+
+[.signed-section-context-close]
+Aylesbury, 20th of Fourth Month, 1666
+
+[.letter-heading]
+To +++_______+++ +++_______+++
+
+[.salutation]
+Friend,
 
 Thy advantage in thy travels is great over what it hath been;
 the Lord having given thee a better sight both of thy enemies,
@@ -760,8 +822,10 @@ more and more.
 And wait to feel strength of life, that thy growth may be pure,
 and the holy seed may have dominion and be all in thee.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 8th of the Eighth Month, 1666
 
 [.postscript]
@@ -796,13 +860,17 @@ and thereby give thee thy desired and expected end.
 
 ====
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 9th of the Eighth Month, 1666
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-FRIEND,
+[.salutation]
+Friend,
 
 The vessel, or created nature, poisoned by sin and death, nothing can redeem,
 but the life and power of God revealed in the vessel.
@@ -844,11 +912,14 @@ till the time of redemption be over.
 Thy truly loving Friend, desiring the right guidance and happiness of thy soul,
 by the Lord Jesus Christ, the alone skilful Shepherd and Guide, even as of my own soul.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury Prison, 20th of Tenth Month, 1666
 
-TO THE FRIENDS IN TRUTH IN and ABOUT THE TWO CHALFONTS
+[.letter-heading]
+To the Friends in Truth in and about the Two Chalfonts
 
 As a father watcheth over his children, so do I wait,
 and desire to feel the Lord watching over my soul continually.
@@ -907,8 +978,10 @@ travailed for you in the Spirit of the Lord.
 
 From your brother and companion in the faith, patience, and afflictions of the seed,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury Prison, 25th of Eleventh Month, 1666
 
 [.postscript]
@@ -957,13 +1030,17 @@ and no otherwise.
 
 ====
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 26th of the Eleventh Month, 1666
 
-TO M. E.
+[.letter-heading]
+To M. E.
 
-DEAR M. E.,
+[.salutation]
+Dear M. E.,
 
 I found true unity with thy letter,
 and a tender desire springing in my heart to the Lord for thee,
@@ -978,15 +1055,20 @@ O fear the Lord, and watch over one another in love, faithfulness,
 and meekness of spirit; and be not of a distrustful spirit,
 but trust your father in every trial, temptation, condition, or strait.
 
+[.signed-section-closing]
 Thy friend in the truth, and for the truth`'s sake,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 27th of 11th Month, 1666
 
-TO THE SINGLE, UPRIGHT-HEARTED, AND FAITHFUL FRIENDS OF TRUTH, IN AND ABOUT THE TWO CHALFONTS
+[.letter-heading]
+To the Single, Upright-hearted, and Faithful Friends of Truth, in and about the Two CHalfonts
 
-DEAR FRIENDS,
+[.salutation]
+Dear Friends,
 
 Have ye in any measure drunk in the sense of what the Lord hath done for you?
 and have ye felt meltings of spirit, and bowings before him,
@@ -1153,13 +1235,17 @@ and preservation and joy of your hearts before him forever, amen!
 Written in the tender bowels and motion of the pure life,
 from the place of my confinement in Aylesbury.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 1st of Third Month, 1667
 
-TO FRIENDS IN AMERSHAM
+[.letter-heading]
+To Friends in Amersham
 
-FRIENDS,
+[.salutation]
+Friends,
 
 Our life is love, and peace, and tenderness; and bearing one with another,
 and forgiving one another, and not laying accusations one against another;
@@ -1184,13 +1270,17 @@ in the eyes of all with whom ye converse.
 
 Your Friend in the Truth, and a desirer of your welfare and prosperity therein.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury, 4th of Third Month, 1667
 
-FOR MY DEAR CHILDREN J.J. AND M.P.
+[.salutation]
+For My Dear Children J.J. and M.P.
 
-MY DEAR CHILDREN,
+[.salutation]
+My Dear Children,
 
 Two things I especially desire in reference to your learning;--one is,
 that ye may learn to know and hearken to the voice of God`'s witness in you.
@@ -1258,8 +1348,10 @@ than my imprisonment, or any thing else I suffer, or can suffer from man.
 Your father, who desires your good, and that it may go well with you,
 both here and hereafter.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 10th of Third month, 1667
 
 And remember this one thing, which as a father I admonish you of,
@@ -1353,9 +1445,11 @@ So the Lord bless your watchfulness, care, and endeavors therein;
 that I may hear good of them,
 and be comforted in the mercy and kindness of the Lord towards them.
 
-FOR MY DEAR FRIENDS, BRETHREN, AND SISTERS IN THE TRUTH, IN AND ABOUT THE TWO CHALFONTS
+[.letter-heading]
+For My Dear Friends, Brethren, and Sisters in the Truth, in and about the Two Chalfonts
 
-FRIENDS,
+[.salutation]
+Friends,
 
 The Lord will wonderfully teach his people,
 and wonderfully help them! he will pour of his life and virtue into them,
@@ -1391,13 +1485,17 @@ either from within or without; but may feel and enjoy the rest and peace of your
 in that which is over all, and orders all to the good of those who fear him,
 and in uprightness of heart wait upon him!
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury Jail, 23rd of Fourth Month, 1667
 
-TO THE FRIENDS AT CHALFONT, IN BUCKINGHAMSHIRE
+[.letter-heading]
+To the Friends at Chalfont, in Buckinghamshire
 
-O FRIENDS!
+[.salutation]
+O Friends!
 
 Feed on the tree of life; feed on the measure of life, and the pure power thereof,
 which God hath revealed, and manifesteth in you.
@@ -1437,13 +1535,17 @@ and of your joy and peace in Him.
 This sprang unto you in the good will of your Father,
 from the life and love of your brother in the Truth,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury Jail, 8th of Fifth Month, 1667
 
-TO GEORGE FOX
+[.letter-heading]
+To George Fox
 
-DEAR G. F.,
+[.salutation]
+Dear G. F.,
 
 I feel the tender mercy of the Lord, and some portion of that brokenness, fear,
 and humility which I have long waited for, and breathed after.
@@ -1462,18 +1564,26 @@ Dear George Fox, thou mayest feel my desires and wants more fully than my own he
 Be helpful to me in tender love, that I may feel settlement and stability in the truth;
 and perfect separation from, and dominion in the Lord over, all that is contrary thereto.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury Jail, 15th of Fifth Month, 1667
+
+[.postscript]
+====
 
 I entreat thy prayers for my family, that the name of the Lord may be exalted,
 and his truth flourish therein.
 Dear G. F., indeed my soul longs for the pure, full,
 and undisturbed reign of the Life in me.
 
-TO FRIENDS OF BOTH THE CHALFONTS
+====
 
-OH! the treasures of wisdom and knowledge, the riches of love, mercy, life, power,
+[.letter-heading]
+To Friends of Both the Chalfonts
+
+Oh! the treasures of wisdom and knowledge, the riches of love, mercy, life, power,
 and grace of our God, which are treasured up for the soul in the Lord Jesus;
 and are freely dispensed and given out by him, to them that come unto him, wait upon him,
 abide in him, and give up faithfully to the law of his life;
@@ -1563,13 +1673,16 @@ that every soul may inherit and possess, notwithstanding all its enemies,
 what it hath travelled into, and may also daily, further and further,
 travel into what is yet before.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury Jail, 2nd and 3rd of Sixth Month, 1667
 
 [.postscript]
 ====
 
+[.salutation]
 Postscript.--Friends,
 
 Be not discouraged because of your souls`' enemies.
@@ -1674,9 +1787,11 @@ Amen.
 
 ====
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Thou hast had the path of salvation faithfully testified of to thee,
 and hast come to a sense of the thing; even to the feeling of that,
@@ -1746,13 +1861,17 @@ but also come to possess and inherit, and rejoice before the Lord in thy portion
 
 Thy Friend in the truth, which changeth not, but is pure, and preserveth pure forever.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 From Aylesbury Jail, 28th of Seventh Month, 1667
 
-TO M. S.
+[.letter-heading]
+To M. S.
 
-DEAR M. S.,
+[.salutation]
+Dear M. S.,
 
 It is in my heart at this time to write to thee, not in the will, wisdom,
 and affections of a man, but in the tender love and melting bowels which are of God;
@@ -1776,11 +1895,14 @@ wise, and hard in thy error,
 even till at length the Lord be provoked to cut thee
 off by his spirit and power from among his people.
 
+[.signed-section-context-close]
 3d of the 8th Month, 1667
 
-TO HIS BROTHER
+[.letter-heading]
+To His Brother
 
-DEAR BROTHER,
+[.salutation]
+Dear Brother,
 
 This morning, as I was going out to walk,
 somewhat sprang up in my heart freshly and livingly to thee; whereupon, I consulted not,
@@ -1881,7 +2003,7 @@ and preserving thee pure and living to him forever.
 [.postscript]
 ====
 
-Postscript.--DEAR BROTHER,
+Postscript.--Dear Brother,
 
 The desire of my heart to the Lord for thee is,
 that he would open and keep open in thee the eye which sees, and the ear which hears,
@@ -1934,13 +2056,17 @@ and unity with thee, in the pure life.
 
 ====
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Aylesbury Jail, 7th of Eighth Month, 1667
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I have heard that thou hast somewhat against W.R. whereupon
 thou forbearest coming to meetings to his house;
@@ -1985,13 +2111,17 @@ and in which he hath pleased to appear unto them.
 This is in the love and tender goodness of the Lord to thee,
 from thy friend in the truth, and for the truth`'s sake,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 13th of 10th Month, 1667
 
-TO BRIDGET ATLEY
+[.letter-heading]
+To Bridget Atley
 
-MY DEAR FRIEND,
+[.salutation]
+My Dear Friend,
 
 If thy heart come to feel the seed of God,
 and to wait upon him in the measure of his life,
