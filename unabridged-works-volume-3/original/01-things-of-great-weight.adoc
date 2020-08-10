@@ -30,9 +30,9 @@ By Isaac Penington
 [.section-date]
 1667
 
-=== I. SOME ASSERTIONS CONCERNING THE PRINCIPLE AND WAY OF LIFE
+=== I. Some Assertions Concerning the Principle and Way of LIfe
 
-THAT it is a great and hard matter to come into a
+That it is a great and hard matter to come into a
 capacity of knowing and receiving the truth.
 It is no hard matter to take up any religion that a man finds in the world.
 To read scriptures, to believe what a man finds related there,
@@ -44,6 +44,10 @@ and seeks religion of any kind but in the weight of a man`'s spirit, may go thus
 But all this administers not the true capacity, but he that meets with it,
 must go further than thus.
 
+[.numbered-group]
+====
+
+[.numbered]
 2+++.+++ That which gives the true capacity is a principle of life from God,
 and there alone and nowhere else, can man meet with it and receive it.
 This principle is the seed of the kingdom, or heavenly leaven,
@@ -51,6 +55,7 @@ with which the mind must be in some measure leavened,
 ere it can come into a true capacity of understanding and receiving the truth.
 And in this leaven must it abide and grow up, if it abide and grow in the true knowledge, etc.
 
+[.numbered]
 3+++.+++ That from this principle, and in this principle,
 not only the true light and knowledge of the Lord Jesus
 Christ and all spiritual things is given and received;
@@ -59,6 +64,7 @@ the true peace, the true joy, etc.
 And what of these is not received and held here, is not of the truth,
 but a garment of men`'s own forming, and not the covering of the Spirit.
 
+[.numbered]
 4+++.+++ That the Spirit himself sows this principle, and is received in this principle.
 And he that receives this principle, and is born of this principle,
 receives and is born of the Spirit; and he that receives it not, nor is born of it,
@@ -66,6 +72,7 @@ neither hath received nor is born of the Spirit;
 but is but in the imagination and self-conceit about the things of God,
 but is not in the truth as it is in Jesus.
 
+[.numbered]
 5+++.+++ That in this principle the new covenant is made with the soul and entered into;
 and he that receives this principle from the hand of God, receives life,
 and enters into the covenant of life, and feels the pure fear,
@@ -81,6 +88,7 @@ which worketh therein; he can say as Christ did, when the Lord calls him to any 
 Lo, I come; it is my meat and drink, yea, my great delight, to do thy will, O God! yea,
 thy law is written in the midst of my bowels!
 
+[.numbered]
 6+++.+++ Among those who are gathered into this principle, and abide in the sense, light,
 and life of this principle, there is great love and unity.
 They are of one mind, of one heart, of one soul, of one spirit, of one life,
@@ -90,6 +98,7 @@ All this is out, in the world, in the earthly wisdom,
 in the earthly professions and walkings; but it is excluded the principle of truth,
 and them that are gathered into and abide therein.
 
+[.numbered]
 7+++.+++ That all that are not gathered into, nor walk nor live in this principle,
 they are yet in the darkness and error from the pure power of God,
 and stand and walk in slippery places; and though their way may seem very right,
@@ -108,6 +117,7 @@ and are not clothed with the pure wedding-garment
 (the spotless life and righteousness of the Son),
 but only with that which they have accounted so?
 
+[.numbered]
 8+++.+++ That to those that see in the light of this principle,
 the mountain of the Lord`'s house is discovered;
 and those that abide and grow up therein,
@@ -126,6 +136,7 @@ and give unto the soul favor and ability to feed with them;
 in which food there is the life, strength, righteousness,
 and joy of the kingdom given forth and received.
 
+[.numbered]
 9+++.+++ That in the heart which discovers iniquity, reproveth it, witnesseth against it,
 and striveth with the mind to turn it from it,
 and to wait for life and power from on high, that is this very principle.
@@ -149,6 +160,7 @@ or that living principle in the heart which resisteth the corrupt principle;
 and he that is gathered hither, and continueth faithfully fighting here,
 shall receive mercy, help, and strength from on high, in every time of need.
 
+[.numbered]
 10+++.+++ That the true and certain way of knowledge of the things of God,
 is in the faith and obedience of this principle.
 It is not by reasoning and considering things in the mind (after
@@ -176,6 +188,7 @@ thou enterest into the will and wisdom of the flesh; and there are the disputes,
 discontents, murmurings, and ill tempers and dispositions of the mind,
 which there will increase and grow upon thee to thy hurt.
 
+[.numbered]
 11+++.+++ That the mind that is gathered here will find great opposition,
 both within and without;
 insomuch as he shall not easily pass from out of the kingdom of darkness,
@@ -221,6 +234,7 @@ And yet this is that which the spirit of the world (which is not of God, but wis
 and seemingly just and righteous in another wisdom, nature,
 and principle) always hath done, still doth, and will do to the end.
 
+[.numbered]
 12+++.+++ That there is a glorious crown prepared for all those,
 who are gathered to the Lamb in this principle,
 and abide with him faithful therein to the end, hearing his voice,
@@ -259,6 +273,8 @@ and own the children of men; who, as they are gathered thither, are his children
 as they that are gathered from thence, into a contrary principle,
 are the children of the wicked one.
 
+====
+
 And now what is of man in all this?
 Where is the man that can boast before the Lord, who is thus saved?
 He hath all from a principle; yea, he is gathered into, preserved in,
@@ -282,10 +298,12 @@ but that is, as he is new-made in Christ, and as Christ ariseth, lives, and acts
 which he that is in the true sense and feeling will still acknowledge,
 not only in his words to men, but in his heart and spirit before the Lord.
 
-=== II. SOME FURTHER DIRECTIONS TO CHRIST, THE PRINCIPLE AND FOUNTAIN OF LIFE, BY WAY OF QUESTION AND ANSWER
+=== II. Some Further Directions to Christ, the Principle and Fountain of Life, by Way of Question and Answer
 
-Quest 1. WHAT is Christ?
+[.discourse-part]
+_Question 1._ What is Christ?
 
+[.discourse-part]
 Answer.
 He is the word of eternal life, who is appointed of the Father to give life,
 and who giveth life to them that receive him, and obey his gospel.
@@ -297,8 +315,10 @@ The way, the truth, the door, the vine, the olive-tree,
 into which the living are gathered and ingrafted.
 And he is also a hammer, an axe, a sword, a fire to the corrupt tree and fruit.
 
-Question 2. How is Christ known, received, and obeyed?
+[.discourse-part]
+_Question 2._ How is Christ known, received, and obeyed?
 
+[.discourse-part]
 Answer.
 As a seed; as the seed of life, as the seed of the kingdom, as a leaven, as salt;
 as a little small thing, rising up in the heart against all that is great and mighty.
@@ -307,14 +327,18 @@ which all the wisdom of man and flesh cannot but despise;
 and therefore that must first be brought down in some measure in the heart,
 before Christ can be owned in the heart, and subjected to.
 
-Question 3. How is the seed received?
+[.discourse-part]
+_Question 3._ How is the seed received?
 
+[.discourse-part]
 Answer.
 By feeling its virtues, manifestations, and operations in the heart,
 and subjecting thereto.
 
-Question 4. What are its virtues, manifestations, and operations?
+[.discourse-part]
+_Question 4._ What are its virtues, manifestations, and operations?
 
+[.discourse-part]
 Answer.
 They are all living, and have all living and powerful effects upon the heart,
 as they are let in.
@@ -323,9 +347,11 @@ to turn the mind from it, to lead out of the captivity, power, and reach of it;
 and they are also all for God, tending to prepare the heart for him,
 and to bring it into union and covenant with him.
 
-Question 5. What is the first operation of the seed to the soul, wherein it is to be waited for,
+[.discourse-part]
+_Question 5._ What is the first operation of the seed to the soul, wherein it is to be waited for,
 and closed with, that the soul may come into the further sense and feeling of it?
 
+[.discourse-part]
 Answer.
 It is according to the state of the soul; which being in darkness, sin, and death,
 it appears as a light to discover the darkness, sin, and death,
@@ -335,9 +361,11 @@ and wait upon it in the fear and humility which it gives and begets, it appears 
 quickening the soul, and as power, enabling it in some measure to live to God,
 and to walk with him in the way to the kingdom.
 
-Question 6. How comes this way to be hid from some that desire after the Lord,
+[.discourse-part]
+_Question 6._ How comes this way to be hid from some that desire after the Lord,
 and to know his truth as it is in Jesus?
 
+[.discourse-part]
 Answer.
 From the subtlety of the enemy, who blinds the eye which alone can see,
 and stops the ear which alone can hear, and hardens the heart which alone can understand;
@@ -349,8 +377,10 @@ but his heart is deceived about it, and filled with prejudices against it.
 that they might hearken to the Lord, come out of the enemy`'s snares and subtle devices,
 and live) as Isa. 55:1-3.
 
-Question 7. But may not these be saved notwithstanding?
+[.discourse-part]
+_Question 7._ But may not these be saved notwithstanding?
 
+[.discourse-part]
 Answer.
 There is no salvation but in and by Christ Jesus;
 and the salvation is not to them that received a bare notion of him under the law,
@@ -427,9 +457,9 @@ and drink of the water which makes fresh and living to God,
 and be clothed with the raiment which the master of the family gives to his spouse,
 children, and servants.
 
-=== III. THE END OF CHRIST`'s MANIFESTATION, HIS SALVATION, AND WHOM HE SAVES
+=== III. The End of Christ`'s Manifestation, His Salvation, and Whom He Saves
 
-CHRIST came (and is manifest in the hearts of those
+Christ came (and is manifest in the hearts of those
 that receive him) to destroy the works of the devil,
 and to set the soul free from sin; and whom he maketh free, are free indeed.
 Is the liberty which the Son giveth inferior in this life, in its kind,
@@ -493,10 +523,12 @@ are only in a dream concerning these things,
 but know not the truth and real nature of them, as they are felt in Jesus,
 by those who are truly ingrafted in him, and livingly grow up in him.
 
-=== IV. THREE QUESTIONS ANSWERED CONCERNING JUSTIFICATION
+=== IV. Three Questions Answered Concerning Justification
 
-Question 1. WHAT is justifying, or justification with God?
+[.discourse-part]
+_Question 1._ What is justifying, or justification with God?
 
+[.discourse-part]
 Answer.
 It is God`'s owning the state, works, or actions of a creature,
 either inwardly in his own mind, or manifestly to them.
@@ -508,8 +540,10 @@ was his justifying of him and his works.
 God`'s disowning and disallowing his hearkening to his wife and the serpent,
 and his eating the forbidden fruit upon their temptation, was his condemnation thereof.
 
-Question 2. What is it God justifies, and what is it he condemns?
+[.discourse-part]
+_Question 2._ What is it God justifies, and what is it he condemns?
 
+[.discourse-part]
 Answer.
 That which God justifieth is the Spirit of his Son, the life of his Son,
 the nature of his Son, brought forth in any creature, the faith which is in him;
@@ -518,9 +552,11 @@ and the works that are wrought in him.
 But the fallen estate of man from him, and all that is done by man out of him,
 God condemns.
 
-Question 3. How is justification received, kept, and grown up in?
+[.discourse-part]
+_Question 3._ How is justification received, kept, and grown up in?
 and what is the preservation out of condemnation?
 
+[.discourse-part]
 Answer.
 Justification is only received by receiving him,
 who is the righteousness and justification, and only kept by abiding in him,
@@ -599,9 +635,9 @@ bear witness to that true testimony which Christ spake in the days of his flesh:
 "`My sheep hear my voice, and follow me; but a stranger they will not follow;
 for they know not the voice of strangers.`"
 
-=== V. OF THE PURE, CONSTANT, ETERNAL, UNCHANGEABLE NATURE OF GOD`'s TRUTH
+=== V. Of the Pure, Constant, Eternal, Unchangeable Nature of God`'s Truth
 
-TRUTH is of God, and was with God, and in God, before any thing else had a being.
+Truth is of God, and was with God, and in God, before any thing else had a being.
 Truth was before error or deceit: for it was from the truth that the error was,
 and it was about truth that the deceit was.
 There was somewhat which erred from truth, and brought in deceit into the world;
@@ -650,7 +686,7 @@ and will testify it to their faces, when the light of God is opened in them,
 and its tongue speaks therein to them.
 Oh, happy they that wait for, know, hear, and subject to the heavenly voice,
 while the day of their visitation and reclaiming lasteth,
-wherein they may travel from sin to holiness, from death to life,
+wherein they may travel from sin to holiness, from death to life
 by its help and guidance!
 Oh! why should man perish?
 Why should man hearken to that which hates him, and seeks his destruction,
