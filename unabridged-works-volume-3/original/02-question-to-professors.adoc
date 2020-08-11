@@ -38,9 +38,9 @@ than to enjoy the pleasures of sin for a season.
 [.section-date]
 1667
 
-=== PREFACE
+=== Preface
 
-"`THIS is life eternal, that they might know thee, the only true God,
+"`This is life eternal, that they might know thee, the only true God,
 and Jesus Christ whom thou hast sent.`" Whom did the Father send?
 Did he not send the Son of his love?
 From whence did he send him?
@@ -123,9 +123,9 @@ and may be drawn to touch that which hath the virtue in it,
 and which effectually redeemeth those that wait upon it,
 from all that boweth down and oppresseth.
 
-=== A QUESTION TO THE PROFESSORS OF CHRISTIANITY
+=== A Question to the Professors of Christianity
 
-THE question is not, whether they know what is said of Christ in the Scriptures;
+The question is not, whether they know what is said of Christ in the Scriptures;
 but whether they know it savingly, truly, livingly, powerfully.
 Yea, they may know what is said of him,
 and yet not know him of whom those things are said.
@@ -319,12 +319,17 @@ To remove this out of the minds of the honest-hearted
 (who in the guidance of God might light on this paper),
 I shall open my heart nakedly herein.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ We do own that the Word of God (the only begotten of the Father)
 did take up a body of the flesh of the virgin Mary,
 who was of the seed of David, according to the Scriptures,
 and did the will of the Father therein, in holy obedience unto him,
 both in life and death.
 
+[.numbered]
 2+++.+++ That he did offer up the flesh and blood of that body (though not only so;
 for he poured out his soul,
 he poured out his life) a sacrifice or offering for sin (do not,
@@ -336,6 +341,7 @@ of this sacrifice for sin) that the sins of believers are pardoned,
 that God might be just, and the justifier of him which believeth in Jesus,
 or who is of the faith of Jesus.
 
+[.numbered]
 3+++.+++ What is attributed to that body,
 we acknowledge and give to that body in its place,
 according as the Scripture attributeth it,
@@ -360,6 +366,8 @@ and that of ours which he took up and made his);
 which flesh and blood we feed of in the Spirit;
 which they cannot feed on which serve at the outward tabernacle;
 nor they neither which know only the outward body; but they only that feed in the Spirit.
+
+====
 
 Now of this thing we might speak yet more clearly and plainly, could men hear our words.
 But if we have spoken to you earthly things (in parables and figures),
@@ -521,9 +529,9 @@ whereby ye expose and bring yourselves under the righteous judgment of the truth
 even of the Son, and the light of his day,
 which hath power from the Father to judge all false appearances, deceits, and deceivers.
 
-=== POSTSCRIPT
+=== Postscript
 
-IT hath pleased the Lord, as he manifested his Christ gloriously before the apostasy,
+It hath pleased the Lord, as he manifested his Christ gloriously before the apostasy,
 so to manifest him so again.
 For he was not only born (in the flesh) of the virgin Mary;
 but he was also born in the Spirit of the woman clothed with the Sun,
@@ -701,32 +709,41 @@ Amen.
 [.old-style]
 === Some Queries / Concerning Christ, and his appearances; his taking upon him our flesh: as also concerning his flesh and blood, and our being formed thereof, and feeding thereon.
 
-Query 1. WHETHER there was not a necessity of Christ`'s taking upon him our flesh,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Whether there was not a necessity of Christ`'s taking upon him our flesh,
 for the redemption of those that had sinned,
 and the satisfaction of the justice offended?
 
-Query 2. Whether the Father did not accordingly prepare a body for him,
+[.numbered]
+_Query 2._ Whether the Father did not accordingly prepare a body for him,
 to do his will in all things in;
 and particularly to offer up to him the acceptable
 sacrifice for the sins of the whole world?
 
-Query 3. Whether it was not necessary, in this respect also,
+[.numbered]
+_Query 3._ Whether it was not necessary, in this respect also,
 that Christ should take upon him our flesh,
 that he might have experience of our temptations and infirmities,
 and become a merciful and faithful high-priest and intercessor for us.
 
-Query 4. Wherein lay the value and worth of his sacrifice, and of all he did?
+[.numbered]
+_Query 4._ Wherein lay the value and worth of his sacrifice, and of all he did?
 Did it lie chiefly in the thing done, or in the life wherein he did it,
 in that he did it in the pure faith and obedience to the Father?
 He became obedient unto death, even the death of the cross; and he,
 through the eternal Spirit, offered himself without spot to God.
 
-Query 5. What was he, for whom the Father prepared a body,
+[.numbered]
+_Query 5._ What was he, for whom the Father prepared a body,
 and who took it up to do the will, and did the will in it?
 Was he not the arm of God, the power of God, the Saviour and salvation of God,
 the Jesus and Christ of God?
 
-Query 6. To whom do the names and titles Jesus and
+[.numbered]
+_Query 6._ To whom do the names and titles Jesus and
 Christ chiefly and in the first place belong?
 Do they belong to the body which was taken by him, or to him who took the body?
 The body hath its nature and properties, and the eternal Word, or Son of God (the pure,
@@ -736,7 +753,8 @@ Which was the anointed of the Father, chiefly, and in the first place?
 Whether the body prepared, or he for whom the body was prepared, to do the will,
 and offer up the acceptable sacrifice in?
 
-Query 7. Which is Christ`'s flesh and blood which we are to partake of,
+[.numbered]
+_Query 7._ Which is Christ`'s flesh and blood which we are to partake of,
 whereof we are to be formed, which we are to eat and drink,
 and which is meat and drink indeed, nourishing to life everlasting?
 Is it the flesh and blood of the body, which was prepared for, and taken by him,
@@ -748,7 +766,8 @@ and his flesh and blood and bones are of his nature.
 Now as the life and nature which is begotten in his is spiritual, so that which feeds,
 and is the nourishment of it, must needs be of a spiritual and eternal nature.
 
-Query 8. What is the bread which came down from heaven?
+[.numbered]
+_Query 8._ What is the bread which came down from heaven?
 Is not the bread and the flesh all one?
 Outwardly-visible flesh and blood was not in heaven, nor came down from heaven;
 but the bread of life did come down from heaven,
@@ -758,7 +777,8 @@ and took upon him a body of flesh here on earth, in which he manifested himself 
 Priest, and Prophet, and did the work appointed him by the Father.
 John 17:1, etc.
 
-Query 9. What was that which saved people outwardly
+[.numbered]
+_Query 9._ What was that which saved people outwardly
 from their outward infirmities and diseases,
 while Christ was on earth in that body?
 Was it the body, or the life, power, and Spirit of the Father within the body,
@@ -769,7 +789,8 @@ that which hath the virtue and power of salvation
 in it,--that the eye of faith is to fix upon,
 and not to stick or stop in that through which the life works it.
 
-Query 10. Who was he that humbled himself, that made himself of no reputation,
+[.numbered]
+_Query 10._ Who was he that humbled himself, that made himself of no reputation,
 that took upon him the form of a servant, and was made in the likeness of men,
 and found in fashion, or habit, as a man?
 Was it the body of flesh,
@@ -779,7 +800,8 @@ At whose name is every knee to bow?
 Is not the reward to him who laid down his glory to take upon him the body of flesh,
 and appear in it, that he might honor, glorify, and fulfill the will of his Father?
 
-Query 11. Are not the children and he of one?
+[.numbered]
+_Query 11._ Are not the children and he of one?
 Are not he and they of the same stock?
 ("`Both he that sanctifieth, and they who are sanctified,
 are all of one.`" Heb. 2:11). Is it not from thence
@@ -795,14 +817,16 @@ which ran into and filled the vessel.
 It is true, the body, in and by the union, partakes with him of his name;
 but the name belongs chiefly and most properly to the treasure in the vessel.
 
-Query 12. What is it to put on Christ, or what is the putting on of Christ?
+[.numbered]
+_Query 12._ What is it to put on Christ, or what is the putting on of Christ?
 Is it the putting on of that body of flesh?
 Or the putting on a belief concerning him, according to what is said of him in scripture?
 Or is it not rather a putting on of his nature, his seed, his Spirit, his life,
 wherewith the souls of those that are born from above are clothed,
 as the body is with a garment?
 
-Query 13. Who was it that said, I am the resurrection and the life?
+[.numbered]
+_Query 13._ Who was it that said, I am the resurrection and the life?
 Was it not Christ?
 And what did he say it concerning?
 Did he say it concerning the body,
@@ -814,7 +838,8 @@ yea, and could raise up not only other bodies, but that also after it had laid i
 For after it was laid in the grave, he could raise it up, and take it on again,
 as well as he did at first, when it was first prepared. John 10:17-18.
 
-Query 14. If I, or any one else, have felt the saving arm of the Lord revealed in us;
+[.numbered]
+_Query 14._ If I, or any one else, have felt the saving arm of the Lord revealed in us;
 if we have felt a measure of the same life, power,
 and anointing revealed in our vessels as was revealed in his,
 is it not of the same nature?
@@ -897,7 +922,8 @@ Yea, he that will know and worship Christ in his fulness (in the majesty of the 
 dominion, and power), must learn to bow at the lowest appearance of his light and Spirit,
 even at the very feet of Jesus; for that is the lowest part of the body.
 
-Query 15. Did not the bridegroom go away, as to his appearance in flesh,
+[.numbered]
+_Query 15._ Did not the bridegroom go away, as to his appearance in flesh,
 that he might come again in Spirit?
 Did not the apostles, who knew his appearance in flesh, and his tabernacling among them,
 know also afterwards his appearance in Spirit, and his tabernacling in them?
@@ -922,7 +948,8 @@ Oh that ye did receive that measure of life from Christ,
 which the Father hath allotted you, that ye might read therein! but the letter,
 read out of the Spirit, darkeneth and killeth.
 
-Query 16. What is the laver of regeneration, or the water wherewith the soul is washed,
+[.numbered]
+_Query 16._ What is the laver of regeneration, or the water wherewith the soul is washed,
 and whereof a man is born again?
 Is it outward or inward?
 Is it the water which ran out of the side of the natural body,
@@ -940,7 +967,8 @@ And if the water which cleanseth and nourisheth the soul be spiritual;
 can the flesh and blood (which falleth not short of the water in its virtues, properties,
 and operations) be inferior to it in nature and kind?
 
-Query 17. Can outward blood cleanse the conscience?
+[.numbered]
+_Query 17._ Can outward blood cleanse the conscience?
 Ye that are spiritual consider.
 Can outward water wash the soul clean?
 Ye that have ever felt the blood of sprinkling from the Lord upon your consciences,
@@ -949,7 +977,8 @@ It is one thing what a man apprehends (in the way of notion)
 from the letter concerning the things of God,
 and another thing what a man feels in Spirit.
 
-Query 18. Seeing the apostle speaks of purifying the heavenly things themselves, Heb. 9:23.
+[.numbered]
+_Query 18._ Seeing the apostle speaks of purifying the heavenly things themselves, Heb. 9:23.
 it would seriously be inquired into, and the Lord waited on,
 to know what nature these sacrifices must be of, which cleanse the heavenly things?
 Whether they must not of necessity be heavenly?
@@ -960,7 +989,8 @@ or the flesh and blood of the inward, spiritual nature?
 Whether was it the flesh and blood which Christ took of the first Adam`'s nature,
 or the flesh and blood of the second Adam`'s nature?
 
-Query 19. What is that, wherein they that are in the Spirit, behold as in a glass,
+[.numbered]
+_Query 19._ What is that, wherein they that are in the Spirit, behold as in a glass,
 with open face, the glory of the Lord?
 Is it not Christ?
 And how is Christ so?
@@ -981,7 +1011,8 @@ both in his death and resurrection,
 and know indeed the resurrection both of the life and of the body: which to know,
 and be able to acknowledge in Jesus, is very precious.
 
-Query 20. Hath not Christ made us kings and priests to God, even his Father?
+[.numbered]
+_Query 20._ Hath not Christ made us kings and priests to God, even his Father?
 What is it that is the king and priest in us?
 And if we be priests, must we not have somewhat to offer?
 What have we to offer?
@@ -1009,7 +1040,8 @@ So by truth manifested in the heart,
 there is nothing denied of what is said concerning Christ in scripture,
 but everything owned, believed, and received in its proper place.
 
-Query 21. Who is the Captain of our salvation?
+[.numbered]
+_Query 21._ Who is the Captain of our salvation?
 Who is it that girdeth himself with might,
 riding on conquering and to conquer all the enemies of the soul?
 Is it not the Lamb?
@@ -1018,19 +1050,22 @@ Is it not he whose name is called the Word of God?
 And yet how can it be he?
 Is not he to sit at God`'s right hand, until his enemies be made his footstool?
 
-Query 22. What is the water and Spirit, whereof a man must be born again,
+[.numbered]
+_Query 22._ What is the water and Spirit, whereof a man must be born again,
 or he cannot see the kingdom of God?
 Is it Christ`'s flesh and blood, or no?
 His flesh saw no corruption; and incorruptible flesh and blood may enter the kingdom,
 though corruptible cannot.
 
-Query 23. What did all the types, veils, and shadows under the law signify?
+[.numbered]
+_Query 23._ What did all the types, veils, and shadows under the law signify?
 Did they signify another veil?
 Did they signify or shadow out that which was outward?
 Or did they shadow out and signify that inward life, virtue, and saving power,
 which was the substance of all?
 
-Query 24. Is not the substance, the life, the anointing, called Christ,
+[.numbered]
+_Query 24._ Is not the substance, the life, the anointing, called Christ,
 wherever it is found?
 Doth not the name belong to the whole body (and every
 member in the body) as well as to the head?
@@ -1048,11 +1083,13 @@ to that which is of him in the vessel,
 to that which the Lord from heaven begets in his own image and likeness,
 of his own substance, of his own seed, of his own Spirit and pure life.
 
-Query 25. What was that live coal from the altar,
+[.numbered]
+_Query 25._ What was that live coal from the altar,
 whereby the prophet Isaiah`'s iniquity was taken away, and his sin purged? Isa. 6:6-7.
 Can any thing purge away sin, but the blood of Christ?
 
-Query 26. What are the leaves of the tree of life,
+[.numbered]
+_Query 26._ What are the leaves of the tree of life,
 which are for the healing of the nations?
 Is not Christ the tree of life?
 Is there any other tree of life besides him?
@@ -1062,28 +1099,33 @@ Do they not heal them of their sins,
 and of the sicknesses and distempers of their souls because of their sins?
 And have these leaves any of the blood of Christ in them, or no?
 
-Query 27. Is not Christ the true vine, the true olive-tree; the living vine,
+[.numbered]
+_Query 27._ Is not Christ the true vine, the true olive-tree; the living vine,
 the living olive-tree; the spiritual vine, the spiritual olive-tree;
 into which all the spiritually-living are ingrafted?
 As the Father is the husbandman; so is not the Son the vine?
 And hath not this spiritual, this eternal vine in it juice and sap of an eternal nature?
 And is not this sap its blood?
 
-Query 28. Is there not a choice vine,
+[.numbered]
+_Query 28._ Is there not a choice vine,
 to which the foal and ass`'s colt of the seed of Judah is tied?
 And are not the garments and clothes of the true Jews washed in the wine,
 and in the blood of the grapes of this vine? Gen. 49:11.
 
-Query 29. What is that which the earthly nature slays?
+[.numbered]
+_Query 29._ What is that which the earthly nature slays?
 And what is the blood which the earthly nature shall disclose,
 and the slain which it shall no more cover?
 
-Query 30. What are the robes which are washed and made white in the blood of the Lamb?
+[.numbered]
+_Query 30._ What are the robes which are washed and made white in the blood of the Lamb?
 And how are they washed and made white therein?
 And what is the blood (of what nature,
 earthly or spiritual?) wherein they are washed and made white?
 
-Query 31. What is it to have, or how come we to have,
+[.numbered]
+_Query 31._ What is it to have, or how come we to have,
 fellowship with Christ in his death, and to suffer and be crucified with him?
 Is it by having our natural bodies crucified on the same cross
 of wood (or some such like one) as his body was crucified on,
@@ -1097,7 +1139,8 @@ is it outward or bodily?
 And what is Christ`'s flesh we are to put on?
 is that any more outward or bodily than that which we are to put off?
 
-Query 32. Is not the flesh and blood, which they that have eternal life feed on,
+[.numbered]
+_Query 32._ Is not the flesh and blood, which they that have eternal life feed on,
 and which nourisheth them up to life eternal (they continuing to feed thereon,
 and not feeding afterwards on strange flesh, and strange blood),--I say,
 is not this flesh and blood Spirit and life?
@@ -1112,7 +1155,8 @@ but now at length receive the pure and precious doctrine
 thereof (and so come to witness the fulfilling of that promise,
 Isa. 29:18-24) and praise him who giveth understanding.
 
-Query 33. Is not the true church flesh of Christ`'s flesh, and bone of his bone?
+[.numbered]
+_Query 33._ Is not the true church flesh of Christ`'s flesh, and bone of his bone?
 Is not the false, or antichristian church, flesh of antichrist`'s flesh,
 and bone of antichrist`'s bone?
 What is the flesh of the spiritual whore,
@@ -1121,24 +1165,28 @@ Shall ever the church which is of Christ`'s flesh be stripped naked and burnt wi
 Nay, doth not his flesh make able to abide the devouring fire,
 and to dwell with the everlasting burnings?
 
-Query 34. What is the pure milk of the word,
+[.numbered]
+_Query 34._ What is the pure milk of the word,
 which is milked out to the babes from the pure breast?
 And what is the breast from which it is milked out?
 Is it of the flesh of Christ, or no?
 
-Query 35. Are not the wicked of the seed and flesh of the serpent?
+[.numbered]
+_Query 35._ Are not the wicked of the seed and flesh of the serpent?
 Is not that the body of flesh, of sin, of death, which is to be put off?
 And are not they who are renewed in spirit, of the seed and flesh of Christ?
 Is not that the body or garment of holiness, of righteousness, of life,
 which is to be put on?
 
-Query 36. Is it not as necessary that the eternal word be made flesh inwardly,
+[.numbered]
+_Query 36._ Is it not as necessary that the eternal word be made flesh inwardly,
 that so the children may feed on him,
 as it was for him to take on him an outward body of flesh, to suffer and die for them,
 and to fulfill all righteousness, both of the law of the letter,
 and of the law of the Spirit in?
 
-Query 37. Is there not that which spiritually is called Sodom and Egypt?
+[.numbered]
+_Query 37._ Is there not that which spiritually is called Sodom and Egypt?
 And do not they which dwell there, instead of eating Christ`'s flesh,
 and drinking his blood, put his flesh to pain, crucifying it in and to themselves,
 trampling under foot the Son of God,
@@ -1149,7 +1197,8 @@ Did not just Lot suffer in Sodom?
 Doth not the spiritual seed suffer in and by spiritual Egypt?
 Doth not the flesh of the holy and just One suffer in and by spiritual Sodom?
 
-Query 38. What is that which the Gentile-Christians, who are not Jews inward,
+[.numbered]
+_Query 38._ What is that which the Gentile-Christians, who are not Jews inward,
 circumcised in heart and spirit,
 who know not the inward temple (the place of the true Jews`' worship,
 where they worship the Father in Spirit and truth),
@@ -1157,6 +1206,8 @@ but only worship in the outward court, which God hath cast off,
 and left out of his measure, Rev. 11:2--I say,
 what is that holy city which these Gentiles tread under foot forty-two months?
 Is it the church which is of the flesh and bones of Christ, or no?
+
+====
 
 He that knoweth the substance, the seed of the kingdom, the birth of the Spirit,
 knoweth the flesh and blood which is of the seed.
@@ -1183,7 +1234,7 @@ and because of their ignorance of the thing spoken of in the Scriptures.
 [.old-style]
 === An Incitation to Professors / Seriously to consider, whether they or we fail in the true acknowledgment and owning of the Christ which died at Jerusalem.
 
-WE who are commonly called QUAKERS,
+We who are commonly called QUAKERS,
 being a people whom the Lord hath gathered (out of the wanderings,
 out of the many professions, out of the several scattered estates and conditions,
 wherein his eye pitied us, and his love found us out) into a measure of the eternal rest;
@@ -1214,14 +1265,21 @@ in the sight of the Lord God (who hath given us the
 knowledge of his Son in life and power),
 these two things.
 
-First, That we do really in our hearts own that Christ, who came in the fulness of time,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That we do really in our hearts own that Christ, who came in the fulness of time,
 in that prepared body, to do the Father`'s will (his coming into the world, doctrine,
 miracles, sufferings, death, resurrection, etc.) in plainness and simplicity of heart,
 according as it is expressed in the letter of the Scriptures.
 
-Secondly, That we own no other Christ than that,
+[.numbered]
+_Secondly,_ That we own no other Christ than that,
 nor hold forth no other thing for Christ, but him who then appeared,
 and was made manifest in flesh.
+
+====
 
 Now it would be nakedly inquired into by professors,
 what is the reason that their jealousies still remain concerning us,
@@ -1331,10 +1389,15 @@ virtue from God`'s Spirit in the spirit which it alone can feed upon.
 These four things following I am certain of; which he that cometh into the true light,
 shall infallibly experience them there.
 
-First, That nothing can save but the knowledge of Christ, even of that very Christ,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That nothing can save but the knowledge of Christ, even of that very Christ,
 and no other, who took upon him the prepared body, and offered it up at Jerusalem.
 
-Secondly, That no knowledge of Christ can save but the living knowledge.
+[.numbered]
+_Secondly,_ That no knowledge of Christ can save but the living knowledge.
 Not a knowledge of him after the letter (which the carnal part may get much of,
 and value itself much by), but a knowledge of him in the Spirit;
 which is only given to that which is begotten and born of the Spirit,
@@ -1342,7 +1405,8 @@ and only retained by that which abides and remains in the Spirit,
 and runs not out into the fleshly reasonings, imaginings, and conceivings,
 about the things mentioned in the Scriptures.
 
-Thirdly, That that man who knoweth not Christ in Spirit,
+[.numbered]
+_Thirdly,_ That that man who knoweth not Christ in Spirit,
 nor keepeth close to him in spirit;
 but (through darkness and misguidance of the spirit of deceit)
 calleth the shinings of his light (his reproofs,
@@ -1350,11 +1414,14 @@ his checks for that which is evil, and his secret motions to that which is good)
 this man, though he seem to own Christ ever so much according to the letter,
 yet in truth denies him.
 
-Fourthly, He that denies Christ,
+[.numbered]
+_Fourthly,_ He that denies Christ,
 in his knockings and visitations of him in his own heart,
 and before men in the truths which he holds forth
 by his servants and ministers of his Spirit,
 him will he deny before his Father in heaven.
+
+====
 
 Oh!
 I beseech you do not trifle about these things (for they are exceeding weighty),
@@ -1379,7 +1446,7 @@ sing praise unto thee, and exalt thy great and wonderful name forever and ever!
 [.old-style]
 === Some Propositions and Considerations / Concerning the Nature of Church Worships and Ordinances since the days of the Apostles, for the sake of the simplicity which hath been long held captive therein.
 
-HE that would know the true state of the church, and ordinances thereof,
+He that would know the true state of the church, and ordinances thereof,
 must wait upon God in fear and humility of heart,
 who alone is able to give the true knowledge and understanding of these things.
 And he that cometh to the Spirit, waiteth in the Spirit,
@@ -1405,15 +1472,21 @@ the Propositions and Considerations following are given forth,
 which he that sincerely waiteth on the Lord,
 from him may receive the true understanding and right acknowledgment of.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That upon the coming of Christ, and the change of that outward covenant,
 the distinction between the outward Jew and Gentile fell, they becoming all one,
 as in relation to Christ; and then another distinction arose in relation to the faith,
 believers becoming Jews now, and unbelievers Gentiles.
 
+[.numbered]
 2+++.+++ That these true and inward Jews had not only the inward faith, the life, the power,
 the Spirit; but also a ministry, ordinances,
 and gifts of the Spirit relating to their present state.
 
+[.numbered]
 3+++.+++ That there was a time, after a long and sharp fight between the true ministers,
 who appeared in the true light and power of the true Spirit, and the false ministers,
 who also appeared as ministers of righteousness, and as in the power of the Spirit,
@@ -1425,17 +1498,20 @@ being tried, was found not to be the Spirit of the apostles:--I say, there was a
 when there was a division (or separation) made,
 between the inward temple and the outward court.
 
+[.numbered]
 4+++.+++ That when this division was made, the outward court was given to the Gentiles;
 not any longer reserved by God for the true worshippers, who worship in Spirit and truth;
 but given to the unbelievers, the worshippers out of the true faith,
 the worshippers out of the Spirit, and out of the life.
 
+[.numbered]
 5+++.+++ That henceforward, since this separation, the believers, or true Jews,
 are not to be expected in the outward court, in the worship thereof,
 wherein they were found before this separation, but the unbelievers, the Gentiles,
 who have not the true nature, but at best the appearance of the Jew,
 are to be expected there, and the true Jew is to be looked for and found more inward.
 
+[.numbered]
 6+++.+++ That, therefore, which allureth to look for God there,
 and to wait for him in the ways and worships of this time of the separation,
 is not the true Spirit (which rightly guideth the
@@ -1444,12 +1520,14 @@ and where he is to be waited for), but the wrong spirit, who,
 when he cannot stifle the simplicity, and hinder it from breathing and seeking after God,
 waits to draw aside and mislead it.
 
+[.numbered]
 7+++.+++ That the great way of that spirit`'s misguiding and misleading the honest heart,
 in its breathing and longing state,
 is not by a direct taking it off from seeking after God;
 but rather by pointing it to a way to seek him in,
 wherein he once appeared and was enjoyed, but is now withdrawn from.
 
+[.numbered]
 8+++.+++ He that will keep close to God, and not be withdrawn from him,
 must watch to his Spirit, and know the leadings of it,
 else he will not follow the Lamb whithersoever he goes;
@@ -1458,6 +1536,7 @@ and so miss of his leader, and meet, instead thereof, with another leader,
 even the spirit of antichrist, who enters into the outward court, and outward practices,
 so soon as ever the Spirit of God hath left them.
 
+[.numbered]
 9+++.+++ That God`'s people, since his withdrawing inward,
 and giving the outward court to the Gentiles,
 have been much deceived by the antichristian spirit, and led captive into Babylon;
@@ -1469,6 +1548,7 @@ when he tempts to those very paths and ways of worship wherein the saints had wa
 and met with God, before the Spirit of the Lord departed out of them,
 and gave them up to the Gentiles?
 
+[.numbered]
 10+++.+++ That there is danger to the people of God of not understanding his call out of Babylon,
 but abiding there, through the subtle entanglements of the false spirit,
 who bewitcheth with the cup of fornication, to make Babylon appear as Zion,
@@ -1482,6 +1562,7 @@ and if the heart be not kept very close to the Lord in the judgment,
 it cannot come out of Babylon,
 but will still be entangled and held in some part or other of the mystery of its deceit.
 
+[.numbered]
 11+++.+++ Such of the people of God as do not wait to understand and receive the full call,
 and so do not follow the Lord perfectly out of that city of abominations;
 but by her subtleties, and inward and outward witchcrafts, are held captive therein,
@@ -1489,6 +1570,8 @@ and found in any part thereof, when the Lord cometh to judge her;
 such must partake of the plagues from the hand of the Lord, who will not spare her,
 nor the spirits of his dearest people who are found there,
 in the day of his visitation and righteous judgments.
+
+====
 
 Therefore come out of her, come out of her, O ye that love your souls,
 and the pure presence and fresh light of God`'s countenance!
@@ -1548,9 +1631,9 @@ when all those buildings, which are raised and preserved in the pure life and po
 shall shine in the beauty and glory of God`'s Spirit,
 and the greatest glory of flesh and fleshly buildings fade and wither.
 
-=== THE SOUNDING OF BOWELS TOWARDS THEE, O ENGLAND!
+=== The Sounding of Bowels Towards Thee, O England!
 
-EARLY in the morning, on the 26th day of the Sixth month, 1666, this,
+Early in the morning, on the 26th day of the Sixth month, 1666, this,
 in the freshness and quick sense of life, sprang up in my heart again and again:
 O England, England, England! how good had it been for thee,
 that thou hadst known and walked in the way of peace!
@@ -1559,18 +1642,22 @@ There is a way of peace for persons and nations to know and walk in;
 but every person and nation doth not know and walk in this way,
 but rather in the way of trouble.
 
+[.discourse-part]
 Question.
 What is the way of peace?
 
+[.discourse-part]
 Answer.
 It is the way of the pure wisdom, the way of the light and guidance of God`'s Spirit,
 from whom the creature came, and by whom alone it can be rightly ordered.
 He that waiteth on him for counsel, he that subjecteth to, and walketh in, his counsel,
 he walketh in the way of peace.
 
+[.discourse-part]
 Question.
 What is the way of trouble?
 
+[.discourse-part]
 Answer.
 The way of man`'s own wisdom and counsel.
 For a man or nation to do that which is right in their own eyes.
@@ -1628,12 +1715,13 @@ that they may turn from, and travel out of, the darkness (where is death, destru
 and misery, even in all the counsels and ways of it),
 and come into unity with that which is pure, and live.
 
+[.signed-section-context-close]
 Written in Aylesbury prison, 27th of 6th month, 1666
 
 [.old-style]
 === A Faithful Guidance to the principle and path of Truth, / wherein eternal life is witnessed, by those who are born thereof, and walk therein.
 
-THERE must be somewhat let down from God into a man`'s heart,
+There must be somewhat let down from God into a man`'s heart,
 to change his heart, and redeem it to God, or he cannot be saved.
 He must receive a seed, be born of a new and incorruptible seed,
 or he cannot be renewed from his corrupt nature and state.
@@ -1644,9 +1732,11 @@ to experience and be subject to that power which redeems to God;
 which breaks the power of the wicked one in the heart, first casting him out,
 and then taking possession of the vessel, and filling it with the holy treasure.
 
+[.discourse-part]
 Question.
 But how may a man meet with such a thing as this?
 
+[.discourse-part]
 Answer.
 The scripture, which gives a faithful testimony concerning the truth, saith, Christ,
 the Word of faith, which the apostles preached, is nigh.
@@ -1660,9 +1750,11 @@ which he that maketh peace with shall be remitted all his trespasses past,
 and find power and strength against sin for the time to come, as he is gathered into,
 and brought forth in, his pure life and nature.
 
+[.discourse-part]
 Question.
 But how shall I know and receive this?
 
+[.discourse-part]
 Answer.
 That in the heart which is contrary to sin, which discovereth sin,
 which witnesseth against sin, and is drawing the mind from it,
@@ -1712,9 +1804,11 @@ and faithfully follows him therein to the end.
 
 There is another question springs up in my heart, which is this:
 
+[.discourse-part]
 Question.
 How may a man come to have his sins washed away by the blood of Christ?
 
+[.discourse-part]
 Answer.
 By coming into the light, and walking in the light, which discovers the blood,
 and wherein alone it is sprinkled by God, and felt by the soul,
@@ -1736,9 +1830,11 @@ and with his Son Jesus Christ, and have fellowship with them,
 ver. 3. and shall be washed (both with the water and with the blood)
 and kept clean and pure thereby in the sight of God.
 
+[.discourse-part]
 Question.
 But how shall I come into the light, and how may I walk therein?
 
+[.discourse-part]
 Answer.
 Christ is the light.
 He is the light of the world, the light of men, the light of life.
@@ -1762,10 +1858,12 @@ but the word nigh in the mouth and heart.
 chap.
 30:14.
 
+[.discourse-part]
 Objection.
 But that place speaks of doing (which is the voice of the old covenant,
 do this and live); but the new covenant stands in believing.
 
+[.discourse-part]
 Answer.
 The end of faith is obedience.
 Why do I believe Christ, but that I may receive the law of his Spirit,
@@ -1881,26 +1979,32 @@ but gain ground and conquer (yea,
 at length become more than conquerors) through the mercy, love, might,
 and power of the Lord.
 
-=== SOME SENSIBLE EXPERIMENTAL QUESTIONS AND ANSWERS FROM THE TENTH CHAPTER OF JOHN
+=== Some Sensible Experimental Questions and Answers from the Tenth Chapter of John
 
-Question 1. Who is the good Shepherd of the sheep?
+[.discourse-part]
+_Question 1._ Who is the good Shepherd of the sheep?
 
+[.discourse-part]
 Answer.
 The wisdom, life, and power of the Father (which dwelleth in,
 and is manifest through the Son) is the Shepherd.
 He that is the truth, the way, and the life,
 he also is the Shepherd and Bishop of the soul.
 
-Question 2. Who are the sheep?
+[.discourse-part]
+_Question 2._ Who are the sheep?
 
+[.discourse-part]
 Answer.
 They that are born of this wisdom, gathered by this life, turned to this power,
 they are the sheep.
 They who are changed by him into his nature, they are of him; sheep of him, the Shepherd;
 lambs of him, the Lamb; doves of him, the Dove.
 
-Question 3. What is the fold of the sheep?
+[.discourse-part]
+_Question 3._ What is the fold of the sheep?
 
+[.discourse-part]
 Answer.
 The wisdom, life, and power of the Father, even the same that is the Shepherd.
 The Father`'s hand wherewith he covers them, wherein he encloseth them, that is the fold.
@@ -1908,9 +2012,11 @@ For it is the power, wisdom, and life of the Father, which gathereth the sheep;
 and he gathereth them into his wisdom, into his life;
 and that is a wall or fold about them.
 
+[.discourse-part]
 Objection.
 Is not the church the fold?
 
+[.discourse-part]
 Answer.
 This in the church, or the church in this, is the fold; but not out of this.
 For there is no safety or preservation among any sort or gathering of people,
@@ -1918,25 +2024,31 @@ but as they stand and abide in this.
 And standing and abiding in this,
 they have authority and power from the chief Bishop of the soul; but none out of this.
 
-Question 4. Who is the door?
+[.discourse-part]
+_Question 4._ Who is the door?
 
+[.discourse-part]
 Answer.
 The Shepherd is the door also, who lets into the fold, and shuts out, at his pleasure;
 and none can rightly enter but by him.
 
-Question 5. What are they that run before the power,
+[.discourse-part]
+_Question 5._ What are they that run before the power,
 or further than the power leads and guides them?
 
+[.discourse-part]
 Answer.
 They are thieves and robbers,
 and they may destroy the life and freshness in those that are not watchful;
 but they cannot help to save or build up, because they themselves are out of that,
 come out of that, and act out of that, which alone can do it.
 
-Question 6. How may the sheep be discerned from the goats,
+[.discourse-part]
+_Question 6._ How may the sheep be discerned from the goats,
 and from such also as put on the sheep`'s clothing,
 but are not sheep in nature and spirit?
 
+[.discourse-part]
 Answer.
 By their lamb-like nature, by the meekness and innocency in them which is of the Lamb,
 which none can have but they that are of him; for it is not to be found in man`'s nature,
@@ -1946,9 +2058,11 @@ and follow the law of his Spirit, received from his mouth,
 which none else but his sheep do, or can do; for this is given by him,
 and it is given by him only to his sheep.
 
-Question 7. What doth Christ, the Shepherd (the eternal Word, the wisdom, life,
+[.discourse-part]
+_Question 7._ What doth Christ, the Shepherd (the eternal Word, the wisdom, life,
 and power of the Father), do for his sheep?
 
+[.discourse-part]
 Answer.
 He doth great things for them, which who can utter?
 But happy is he that feels and knows them.
@@ -1976,9 +2090,9 @@ inflame people with desires after the pure life, and holy nature,
 which is of and from Christ the seed, his Son,
 and satisfy those desires which are singly and uprightly after him.
 
-=== THE CONCLUSION
+=== The Conclusion
 
-GLORIOUS was the estate of the church before the apostasy, for purity of doctrine,
+Glorious was the estate of the church before the apostasy, for purity of doctrine,
 for holy order and discipline, for love to God, one to another,
 and to all men (even of enemies), for faith in God,
 for the presence and power of his Spirit among them
