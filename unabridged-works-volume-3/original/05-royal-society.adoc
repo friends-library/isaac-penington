@@ -31,6 +31,7 @@ Isaac Penington
 [.section-date]
 1668
 
+[.centered]
 === To the Royal Society So Termed
 
 [.salutation]
@@ -216,6 +217,7 @@ and as really lives to him in his Spirit,
 as ever he was really dead in trespasses and sins in the
 time of his alienation and estrangement from God.
 
+[.centered]
 === Of Tenderness of Spirit, and Persecution
 
 He which is born of God, he who is of the love, and in the love,
@@ -235,6 +237,7 @@ So that God`'s free and powerful Spirit is to be waited upon,
 for the working of all in his people, and not any forced to act beyond, or contrary to,
 the principle of his life and light in them.
 
+[.centered]
 === A Query Concerning Separation
 
 [.discourse-part]
@@ -295,7 +298,8 @@ who is the faithful guider, leader,
 and conductor of all that follow the footsteps of the flock, in the way which is pure,
 true, living, and everlasting!
 
-=== Concerning the Washing Away of Sin from the Conscience, and the Garment of Salvation, and What It is That is Covered Therewith.
+[.old-style]
+=== Concerning the Washing Away of Sin from the Conscience / And the Garment of Salvation, and What It is That is Covered Therewith.
 
 There is somewhat appointed by God to wash away sin,
 which is the water of regeneration, the water of life, the Spirit`'s water,
@@ -407,10 +411,15 @@ which daily worketh against and crucifieth in the heart, mind, life,
 and conversation whatever is contrary to God, as it is singly waited for, taken up,
 and subjected to.
 
-[.old-style]
-=== Some Questions and Answers Concerning / The Church of the New Covenant, the Rock or Foundation whereon It Is Built, and Its Preservation by and upon the Rock.
+[.centered]
+=== Some Questions and Answers
 
-With some QUERIES concerning the scattered Estate of the true Church,
+[.heading-continuation-blurb]
+Concerning the Church of the New Covenant, the Rock or Foundation whereon It Is Built,
+and Its Preservation by and upon the Rock.
+
+[.heading-continuation-blurb]
+With some _Queries_ concerning the scattered Estate of the true Church,
 and concerning that Church which got up in its Stead,
 and made a great Show with her golden Cup,
 for the Time while the true Church was scattered.
