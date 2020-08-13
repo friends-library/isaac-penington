@@ -31,9 +31,9 @@ ____
 [.section-date]
 1674
 
-=== PREFACE
+=== Preface
 
-TRUE knowledge and true experience, especially concerning things of necessity,
+True knowledge and true experience, especially concerning things of necessity,
 and great concern to the soul, is very precious.
 As; to know the true foundation, the cornerstone, which God lays in his spiritual Zion;
 and the heavenly Jerusalem, which is the mother of all that are born of God;
@@ -76,7 +76,11 @@ but his own Spirit and power working inwardly in the heart.
 Therefore, thou that wouldst live with God forever,
 and not perish from the presence and glory of his power, mind these three things:
 
-First, God`'s inward visiting thee, and making a real change in thee.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ God`'s inward visiting thee, and making a real change in thee.
 I do not mean a change in thy mind from one notion to another;
 but a change in thy heart from one nature and spirit to another.
 This is the great work, which nothing but the mighty power of God,
@@ -119,7 +123,8 @@ O holy covenant!
 O blessed covenant! and blessed are all those souls with whom God makes this covenant,
 and who are kept by him in the sense and enjoyment of it!
 
-Now, lastly, after God hath made this covenant with thee, and spoken peace to thee,
+[.numbered]
+Now, _lastly,_ after God hath made this covenant with thee, and spoken peace to thee,
 and given thee of the power, righteousness, and joy of the kingdom,
 and set the holy hedge of his power and wall of salvation about thee,
 thou must take heed of going forth after any lust, after any desire of the flesh,
@@ -127,6 +132,9 @@ after any temptation of the enemy; thou must keep within the holy limits,
 and not touch any dead or unclean thing, lest thou be defiled,
 and so in degree separated from him who is pure.
 
+====
+
+[.offset]
 The occasion of what follows was briefly thus:
 
 There was a controversy between me and another about many of these things,
@@ -160,15 +168,17 @@ in the hearts of those that submit themselves willingly to him,
 and walk in the light and leadings of his Holy Spirit.
 Amen.
 
-=== NAKED TRUTH
+=== Naked Truth
 
 ==== I. Concerning understanding the Holy Scriptures truly and aright
 
+[.discourse-part]
 Question.
-WHETHER the Scriptures can be understood aright,
+Whether the Scriptures can be understood aright,
 without the light of God`'s Holy Spirit shining inwardly in the heart,
 and giving the true understanding of them?
 
+[.discourse-part]
 Answer.
 No; not possibly.
 For as the outward eye cannot possibly see without the shining of some outward light,
@@ -190,6 +200,7 @@ nor understand any of the things of God`'s kingdom.
 
 ==== II. Concerning the illuminating Spirit, and sanctifying Spirit
 
+[.discourse-part]
 Question.
 Whether the illuminating and sanctifying Spirit be one and the same Spirit or no?
 because it is affirmed by some (and written by one to me as a sound distinction of divines,
@@ -198,6 +209,7 @@ learn) that there is a Spirit of sanctification,
 and that is peculiar to the godly; and there is a Spirit illuminating,
 and that is oft vouchsafed to the wicked, as it was to Balaam.
 
+[.discourse-part]
 Answer.
 The Spirit which illuminateth, and the Spirit which sanctifieth,
 is one and the same Spirit;
@@ -214,10 +226,12 @@ and there is not another.
 
 ==== III. Concerning the Holy Spirit of God, and the Holy Scriptures
 
+[.discourse-part]
 Question.
 Whether they be always joined; or some may have the Spirit, who have not the Scriptures;
 and some may have the Scriptures, who have not the Spirit?
 
+[.discourse-part]
 Answer.
 The Holy Spirit of God, and the holy Scriptures, are not always joined together;
 for some in the dark corners of the earth may be visited by the Spirit,
@@ -229,11 +243,13 @@ who had them read in their synagogues every sabbath day, and yet Christ told the
 
 ==== IV. Concerning the Law of the Lord, which is perfect, and which converts the soul
 
+[.discourse-part]
 Question.
 What is the law of the Lord, which is perfect, and converts the soul?
 Is it the outward law or writing in the letter,
 or the inward law and writing in the Spirit?
 
+[.discourse-part]
 Answer.
 No man is, or ever was, or ever can be,
 converted to God from the inward law of sin and death,
@@ -258,10 +274,12 @@ do follow the Lamb whithersoever he goes, and walk in the light of the Lord.
 
 ==== V. Concerning David`'s longings, expressed in Ps. 42:43. 119. and other places
 
+[.discourse-part]
 Question.
 Were David`'s longings more after the law outward,
 or after the law and light of God`'s Spirit inward?
 
+[.discourse-part]
 Answer.
 David was a man after God`'s own heart;
 a man that knew an inward and clean heart of God`'s creating,
@@ -280,12 +298,14 @@ upon a fresh and tender remembrance thereof, cannot but be longed after again!
 
 ==== VI. Concerning the Sun, or Fountain of spiritual Light
 
+[.discourse-part]
 Question.
 Whether the holy Scriptures, or written testimonies, be the sun or fountain,
 // lint-disable scan-errors "ray"
 and the light within but a ray or stream from them?
 (as is affirmed by my antagonist.)
 
+[.discourse-part]
 Answer.
 It is just quite contrary:
 for the holy men spake the holy words from the inward light
@@ -305,11 +325,13 @@ as the fountain and foundation of life and salvation to all mankind?
 
 ==== VII. Concerning the Word`'s being a fire and a hammer to burn up the chaff, and break the rocks in pieces
 
+[.discourse-part]
 Question.
 Is the Word, which is a fire and hammer,
 the testimonies and declarations of the holy Scriptures without,
 or the Word nigh in the mouth and heart?
 
+[.discourse-part]
 Answer.
 That which I have felt hammering inwardly,
 that which I have felt burning inwardly (unquenchably, as the mind has been kept to it),
@@ -328,9 +350,11 @@ and so he come to be judged according to the flesh, and to live to God in the Sp
 
 ==== VIII. Concerning God`'s writing his law in the heart
 
+[.discourse-part]
 Question.
 How doth God write his law in the heart?
 
+[.discourse-part]
 Answer.
 By his Spirit and power working there, whereby he both creates a new heart,
 and writes the new law, even the law of the Spirit of life in Christ Jesus,
@@ -352,10 +376,12 @@ and taught of God to eye and walk after the quickening Spirit.
 
 ==== IX. Concerning the inward light of God`'s Spirit
 
+[.discourse-part]
 Question.
 What is it which the mind is to be turned to, to enlighten it,
 and to work the darkness and corruption out of it?
 
+[.discourse-part]
 Answer.
 It is no less than the light of God`'s Spirit; nothing else can do it.
 The day-spring must arise from on high in the heart,
@@ -378,9 +404,11 @@ to break his kingdom and dominion inwardly in the heart.
 
 ==== X. Concerning the ministers and ministry of the gospel
 
+[.discourse-part]
 Question.
 Who are the ministers, and what is the ministry of the gospel?
 
+[.discourse-part]
 Answer.
 They are the ministers of the gospel who have received the
 Spirit and power wherein the ministry of the gospel stands.
@@ -415,9 +443,11 @@ whose Spirit and power was and is the resurrection in the life forevermore.
 
 ==== XI. Concerning trying of spirits, and searching the heart
 
+[.discourse-part]
 Question.
 What is it which searcheth the heart, and infallibly tries spirits?
 
+[.discourse-part]
 Answer.
 God`'s Spirit, God`'s word nigh in the heart and mouth,
 separateth and giveth true discerning and judgment there,
@@ -434,9 +464,11 @@ and cannot yield living nourishment.
 
 ==== XII. Concerning things necessary to Salvation
 
+[.discourse-part]
 Question.
 Whether all things necessary to salvation be contained in the Scriptures?
 
+[.discourse-part]
 Answer.
 The Scriptures give testimony concerning the one thing necessary to salvation;
 but the thing itself, Christ himself, the seed itself,
@@ -457,9 +489,11 @@ and takes care of every sheep which the Father committeth to him.
 
 ==== XIII. Concerning the true Gospel Church, or Society
 
+[.discourse-part]
 Question.
 What is the true gospel church, or society?
 
+[.discourse-part]
 Answer.
 A company of true believers in the Spirit and power of the Lord Jesus Christ.
 A company of true Jews, inward Jews, Jews in Spirit, of the true circumcision,
@@ -477,9 +511,11 @@ shall certainly be saved.
 
 ==== XIV. Concerning the Way to Salvation
 
+[.discourse-part]
 Question.
 Which is the certain and infallible way to salvation?
 
+[.discourse-part]
 Answer.
 It is a new and living way; it is such a way as none but the living can walk in.
 It is a holy way, which none but the cleansed, the ransomed, the redeemed of the Lord,
@@ -498,9 +534,11 @@ let him walk in what form he will, yet he walks not in him, the way.
 
 ==== XV. Concerning Christ`'s saving the Soul.
 
+[.discourse-part]
 Question.
 How doth Christ save the soul?
 
+[.discourse-part]
 Answer.
 By visiting inwardly, knocking inwardly, appearing inwardly,
 causing the light of life to shine inwardly, and so enlightening and quickening inwardly,
@@ -520,9 +558,11 @@ he preserves and saves him daily more and more.
 
 ==== XVI. Concerning Regeneration, or the New Birth
 
+[.discourse-part]
 Question.
 What is regeneration, or the new birth?
 
+[.discourse-part]
 Answer.
 It is an inward change, by the Spirit and power of the living God, into his own nature.
 It is a being begotten of his Spirit, born of his Spirit;
@@ -536,9 +576,11 @@ and are subject to his inward life, light, and power.
 
 ==== XVII. Concerning true Holiness
 
+[.discourse-part]
 Question.
 What is true holiness?
 
+[.discourse-part]
 Answer.
 That holy nature, and those holy actions, which arise from the holy root;
 all else are but imitations of holiness, not the true holiness.
@@ -551,6 +593,7 @@ whose strength of virtue and holiness lies in the sap, which they daily receive 
 
 ==== XVIII. Concerning Christ`'s Works outwardly in the days of his flesh, and inwardly in the day and inward shining of the light of his Spirit in the heart
 
+[.discourse-part]
 Question.
 Which are greater,
 the works which Christ did outwardly on the bodies of men in the days of his flesh,
@@ -559,6 +602,7 @@ by the powerful appearance and operation of his Spirit?
 Because Christ said, the works that he did, those that believed on him should do,
 and greater also, because he went to the Father. John 14:12.
 
+[.discourse-part]
 Answer.
 Doubtless to reach to the soul, and quicken the soul,
 and raise the soul out of the grave of death, and cure the blindness, deafness, hardness,
@@ -566,9 +610,11 @@ and diseases of the soul, is greater than the outward, and was signified by the 
 
 ==== XIX. Concerning the yoke, or cross of Christ
 
+[.discourse-part]
 Question.
 What is the yoke or cross of Christ?
 
+[.discourse-part]
 Answer.
 It is inward, as that which is to be crucified is chiefly inward.
 It is that gift of God, that light of his Spirit which is contrary to the darkness,
@@ -584,9 +630,11 @@ and from all unholiness and unrighteousness of every kind.
 
 ==== XX. Concerning making our calling and election sure
 
+[.discourse-part]
 Question.
 How may a man make his calling and election sure?
 
+[.discourse-part]
 Answer.
 By making the gift of God sure to him;
 by making that sure to him wherein his calling and election is.
@@ -616,9 +664,11 @@ and which he delights to own, and will never reject.
 
 ==== XXI. Concerning Prayer
 
+[.discourse-part]
 Question.
 What is the true prayer?
 
+[.discourse-part]
 Answer.
 The breathings which arise from the true birth,
 from the living sense which God gives to the true birth; these are the true prayer.
@@ -634,9 +684,11 @@ but other sighs and groans are not so.
 
 ==== XXII. Concerning Repentance
 
+[.discourse-part]
 Question.
 Which is the true repentance?
 
+[.discourse-part]
 Answer.
 That which Christ gives, whom God hath exalted to be the prince and Saviour,
 to give repentance and forgiveness of sins. Acts 5:31.
@@ -656,9 +708,11 @@ and is a godly sorrow for sin not to be repented of.
 
 ==== XXIII. Concerning Faith
 
+[.discourse-part]
 Question.
 What is the true faith?
 
+[.discourse-part]
 Answer.
 It is a belief in the power which saves,
 from a true sense and experience of it in the heart.
@@ -683,9 +737,11 @@ Blessed be the Lord for bestowing and increasing it in the hearts of his childre
 
 ==== XXIV. Concerning Obedience
 
+[.discourse-part]
 Question.
 What is obedience?
 
+[.discourse-part]
 Answer.
 The obedience which flows from the true understanding of God`'s will,
 and from the holy nature which he begets in the heart.
@@ -716,9 +772,11 @@ Blessed be the name of the Lord.
 
 ==== XXV. Concerning Justification
 
+[.discourse-part]
 Question.
 What is justification, or how is a man justified in the sight of God?
 
+[.discourse-part]
 Answer.
 By a true sense of, and faith in, that which justifies; which is the Spirit, the life,
 the water, the blood, the virtue, the power of the Lord Jesus.
@@ -747,9 +805,11 @@ and with the testimony of his Holy Spirit.
 
 ==== XXVI. Concerning good Works
 
+[.discourse-part]
 Question.
 What are good works?
 
+[.discourse-part]
 Answer.
 The works that flow from God`'s good Spirit, the works that are wrought in God,
 they are good works.
@@ -782,9 +842,11 @@ in the judgment of his searching, unerring light and Spirit.
 
 ==== XXVII. Concerning Love
 
+[.discourse-part]
 Question.
 Which is the true love?
 
+[.discourse-part]
 Answer.
 The love which ariseth from the nature which God begets,
 and from this circumcising the heart from the other nature.
@@ -807,9 +869,11 @@ or according to a natural consideration.
 
 ==== XXVIII. Concerning Meekness and Patience
 
+[.discourse-part]
 Question.
 What is the true meekness and patience?
 
+[.discourse-part]
 Answer.
 The meekness and patience which ariseth from the Lamb`'s nature.
 Deceit will put on an appearance of love,
@@ -826,9 +890,11 @@ and possesseth his soul in him.
 
 ==== XXIX. Concerning the knowledge of the new covenant
 
+[.discourse-part]
 Question.
 What is the knowledge of the new covenant?
 
+[.discourse-part]
 Answer.
 The knowledge which is given by God to the new birth: for to it the new covenant belongs,
 and the knowledge thereof.
@@ -856,9 +922,11 @@ such as the first birth may catch at, lay hold on, and comprehend.
 
 ==== XXX. Concerning the fear of the new covenant
 
+[.discourse-part]
 Question.
 What is the fear of the new covenant?
 
+[.discourse-part]
 Answer.
 It is the fear which God puts in the hearts of his children;
 which fear cleanseth their hearts, and keepeth them from departing from their God.
@@ -875,9 +943,11 @@ and teach him to depart from evil, which is the cause of destruction. Job 28:28.
 
 ==== XXXI. Concerning Hope
 
+[.discourse-part]
 Question.
 What is the true hope?
 
+[.discourse-part]
 Answer.
 The stay of the mind upon the Lord, the stay of the heavenly birth upon its Father:
 for we must distinguish between hope and hope.
@@ -908,9 +978,11 @@ in all which the Lord is near them, and there is still ground for them to hope i
 
 ==== XXXII. Concerning Peace
 
+[.discourse-part]
 Question.
 Which is the true peace?
 
+[.discourse-part]
 Answer.
 The peace which God speaks to the soul; the peace which Christ gives to his own disciples.
 The way of truth, the way of life leads to peace;
@@ -932,9 +1004,11 @@ hazard the breaking off this precious peace and rest of his soul in his God.
 
 ==== XXXIII. Concerning Joy
 
+[.discourse-part]
 Question.
 Which is the true joy?
 
+[.discourse-part]
 Answer.
 The joy which flows from God`'s presence, and the work of his power in the heart,
 and the assured expectation which he gives of the
@@ -982,9 +1056,11 @@ See 1 John 1:3-4.
 
 ==== XXXIV. Concerning poverty of spirit and humility
 
+[.discourse-part]
 Question.
 Which is the right poverty of spirit, and the true humility?
 
+[.discourse-part]
 Answer.
 That poverty and humility of spirit which springeth
 from the same root from which the faith,
@@ -1020,9 +1096,9 @@ by his power, by his wisdom, by his righteousness, by his holiness,
 which he of his own good pleasure communicateth and causeth to spring in me,
 and filleth and clotheth me with, as seemeth good in his sight.
 
-=== THE CONCLUSION
+=== The Conclusion
 
-THERE is mention made in the book of the Revelations,
+There is mention made in the book of the Revelations,
 in the epistles from Christ to the seven churches of Asia, of a tree of life,
 which is in the midst of the paradise of God (the fruit whereof is good for food,
 and the leaves thereof for the healing of the nations); and of hidden manna,
@@ -1068,7 +1144,7 @@ by him that is born of God in whom the seed remaineth, which overcometh the wick
 bruiseth him and keepeth him under:
 and the just live by the faith which giveth victory over him.
 
-=== A PREFACE TO THE EXPERIENCES
+=== A Preface to the Experiences
 
 It hath pleased the Lord, to unseal and open the Fountain of life,
 in the midst of his heritage; so that in his light do they see light,
@@ -1152,11 +1228,11 @@ to the builder up of the wasted and desolate ones!
 Glory to his tender mercy, glory to his grace, glory to his love, glory to his wisdom,
 glory to his power, forever and ever, amen
 
-=== SOME EXPERIENCES ADDED
+=== Some Experiences Added
 
 ==== I. Concerning the seed of the kingdom
 
-CONCERNING the seed of the kingdom, this I have experienced;
+Concerning the seed of the kingdom, this I have experienced;
 that it consists not in words or notions of the mind, but is an inward thing, an inward,
 spiritual substance in the heart, as real inwardly in its kind,
 as other seeds are outwardly in their kind: and that being received by faith,
@@ -1282,11 +1358,16 @@ For the prayers of the righteous avail much, as it is written.
 
 ==== VI. Concerning Justification and Sanctification, some things which it hath pleased the Lord, in his tender mercy, to give me to experience
 
-First, That it is the same Christ, the same Spirit, the same life, the same wisdom,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That it is the same Christ, the same Spirit, the same life, the same wisdom,
 the same power, the same goodness, love, and mercy, the same water, the same blood,
 which both justifies and sanctifies.
 
-Secondly, That justification and sanctification go hand in hand together.
+[.numbered]
+_Secondly,_ That justification and sanctification go hand in hand together.
 There is none justified, but he that is in measure sanctified:
 and there is none sanctified, but he that is in some measure justified.
 For God justifieth by a rule (by the new covenant, and according to the law thereof);
@@ -1297,7 +1378,8 @@ of the old covenant according to the law thereof;
 and the children of the new covenant are justified, and partake of justification,
 according to the law thereof.
 
-Thirdly, That justification and sanctification are both of and through the grace.
+[.numbered]
+_Thirdly,_ That justification and sanctification are both of and through the grace.
 It is so in the beginning, and it is so all along.
 "`By grace ye are saved,`" saith the apostle.
 The whole work of salvation is begun and carried on through grace.
@@ -1309,14 +1391,16 @@ So that as the work goes on, grace, grace, is to be cried to him that does the w
 from his very laying the foundation, and fastening the soul thereupon,
 to his very laying on of the top stone.
 
-Fourthly, Though justification and sanctification be of God`'s grace and mercy in Christ;
+[.numbered]
+_Fourthly,_ Though justification and sanctification be of God`'s grace and mercy in Christ;
 yet this doth not exclude faith: but they are also through faith, and not without it.
 God doth not justify man in the unbelieving state, in the dead state,
 in his abiding there; but in the coming out of it,
 in the repenting and turning from the dead works to the living God,
 and in believing in him: and so he also sanctifies him.
 
-Fifthly, Faith and obedience are of the same nature, and always go together.
+[.numbered]
+_Fifthly,_ Faith and obedience are of the same nature, and always go together.
 So that wherever there is faith, there is obedience likewise;
 and wherever there is obedience, there is faith.
 Obedience flows from faith, and cannot be without it;
@@ -1328,7 +1412,8 @@ and this believing is obedience unto him that commands it.
 And this faith, and this obedience, is holy and just in God`'s sight;
 and through it (but not without it) the soul is both justified and sanctified.
 
-Sixthly, That the works of faith, the works of the new life,
+[.numbered]
+_Sixthly,_ That the works of faith, the works of the new life,
 are not the works of the law, the works of the old covenant;
 nor are excluded justification, as the works of the old covenant are.
 For I have found the Lord, who hath condemned and excluded all my doings,
@@ -1339,7 +1424,8 @@ nor are they so accounted of in the eye of the Lord.
 For the Lord distinguisheth between root and root: and what springeth from the holy root,
 he justifieth as holy; and what ariseth from the unholy root, he condemneth as unholy.
 
-Seventhly, That by the law of faith all boasting is excluded,
+[.numbered]
+_Seventhly,_ That by the law of faith all boasting is excluded,
 in the whole work both of justification and sanctification.
 What is the law of faith?
 Is not this its law, to fetch all from the Son, to do all in the Son?
@@ -1370,27 +1456,35 @@ Doth he cease from obedience to any thing that God requires?
 Nay: then surely he rather beginneth to work and labor in the vineyard;
 and his labor is not in vain in the Lord.
 
+====
+
 ==== VII. Concerning Faith
 
 Several things I have experienced, both concerning the nature, virtue,
 and operations of it;
 some whereof (as I feel them spring up livingly in my heart) I may mention at this time.
 
-First, This I have often experienced;
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ This I have often experienced;
 that it is a hard thing truly and rightly to believe.
 It is an easy matter to believe notions concerning God, and concerning Christ:
 but to believe in God, to believe in Christ, to believe in him that raised up Jesus,
 to believe in the light, life, and power, which flows from Jesus; this indeed is hard,
 by reason of the great darkness and ignorance which man is fallen into through transgression.
 
-Secondly, I have experienced this also; that faith is God`'s gift,
+[.numbered]
+_Secondly,_ I have experienced this also; that faith is God`'s gift,
 and that it flows from the power of his life.
 There is first a quickening, first a touching of the heart, by the holy,
 pure power of the Lord; and when a man is touched and quickened,
 then in and by and through that virtue which flows into him,
 he can believe in that which toucheth and quickeneth him.
 
-Thirdly, That faith never stands in a man`'s own power,
+[.numbered]
+_Thirdly,_ That faith never stands in a man`'s own power,
 but always in the virtue and power of the life of the Son.
 So that he that will believe aright,
 must wait to feel the life of the Son revealed in him, and faith flowing therefrom.
@@ -1398,7 +1492,8 @@ For the true belief springs from the life of the holy root;
 and from the flowing up and springing up of that life,
 faith receives its nourishment and daily virtue.
 
-Fourthly, I have observed this in my travels; that the earthly wisdom,
+[.numbered]
+_Fourthly,_ I have observed this in my travels; that the earthly wisdom,
 and notions therefrom got into the mind, and held in the mind out of the sense of life,
 are a great let to faith.
 For these strengthen and nourish that in man, which is to be weakened and die; that life,
@@ -1422,7 +1517,8 @@ and he that would rightly walk on in his way,
 must walk in that Spirit wherein he received life,
 and wherein he that abideth lives before the Lord.
 
-Fifthly, This I have also observed; that all notional faith,
+[.numbered]
+_Fifthly,_ This I have also observed; that all notional faith,
 wherein is not the living virtue (as concerning Christ, his sufferings, death,
 resurrection, ascension, intercession; and concerning justification by him,
 etc.) the enemy will let the soul alone with, and let him enjoy peace in;
@@ -1435,14 +1531,16 @@ And how sore is it with the soul, when faith is weak,
 and the enemy comes on against it with the strength of his assaults and temptations.
 "`Lord increase our faith,`" said the sensible disciples.
 
-Sixthly, It is a precious thing to feel faith quickened by God, and helped by God,
+[.numbered]
+_Sixthly,_ It is a precious thing to feel faith quickened by God, and helped by God,
 against the enemy.
 For then the enemy cannot prevail against the soul; but the soul,
 through the virtue and power of life, prevails over the enemy in the faith.
 And this is the great work of a Christian, not only to wrestle and fight,
 but to learn so to wrestle, and so to fight, as to overcome.
 
-Seventhly, That in the pure fear (not that which is taught by the precepts of men,
+[.numbered]
+_Seventhly,_ That in the pure fear (not that which is taught by the precepts of men,
 but which God puts into the heart) faith hath its strength, and exercises its strength.
 Oh! who knows the preciousness of this fear!
 The power of faith, the power of life, the power of salvation,
@@ -1461,6 +1559,8 @@ and trust in the Lord!
 Oh, how weak are the reasonings and imaginations then,
 and how strong is the power which scatters them, and lifts up the head over them!
 
+====
+
 Now it concerns every one deeply to consider, of what nature his faith is,
 and what virtue is in it,
 and what it can do in and through the power of the Lord for him;
@@ -1473,7 +1573,11 @@ shall be sure to be hindered by them from attaining to his journey`'s end.
 
 ==== VIII. Concerning Obedience, some experiences also
 
-First, True obedience, gospel obedience, flows from life, flows from the living faith.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ True obedience, gospel obedience, flows from life, flows from the living faith.
 If I could obey in all things that God requires of me, yet that would not satisfy me,
 unless I felt my obedience flow from the birth of his life in me.
 "`My Father doth all in me,`" saith Christ.
@@ -1481,14 +1585,16 @@ This was Christ`'s comfort.
 And to feel Christ do all in the soul,
 is the comfort of every one that truly believes in him.
 
-Secondly, True obedience, gospel obedience, is natural to the birth which is born of God.
+[.numbered]
+_Secondly,_ True obedience, gospel obedience, is natural to the birth which is born of God.
 It is unnatural to the flesh, to man`'s wisdom, to deny himself, and take up the cross;
 but it is natural to the birth which is born of God`'s Spirit.
 "`That which is born of the Spirit,
 is Spirit;`" and it is natural to it to be conversant in, and exercised about,
 that which is spiritual.
 
-Thirdly, That honoring and pleasing, and answering the will of the Lord,
+[.numbered]
+_Thirdly,_ That honoring and pleasing, and answering the will of the Lord,
 is the proper aim of the truly obedient.
 Oh, how do they delight to do the will of God! "`I have meat,`" saith Christ,
 "`that ye know not of.`" To do the will was his meat and drink:
@@ -1500,7 +1606,8 @@ But yet there is a crown also,
 and a reaping after this life of everything that is sown to the Spirit:
 and the crown is weighty and everlastingly glorious.
 
-Fourthly, Gospel obedience is exceeding necessary in and to the gospel state.
+[.numbered]
+_Fourthly,_ Gospel obedience is exceeding necessary in and to the gospel state.
 Mark: The lamb is the leader: and can any be saved by him, but they that follow him?
 When Christ calls out of the world, must not the soul come to him, who is the Shepherd?
 And must not the sheep daily learn to know his voice, and follow him;
@@ -1522,6 +1629,8 @@ And his apostles taught the same, even the working out of the salvation,
 and the purifying of the heart, through the obedience of the truth.
 For mark: there is a covenant of life, a way of life; and how can life be reaped,
 how can the work of life go on, but in subjection and obedience thereto?
+
+====
 
 Oh! blessed is he, who meets with the power of life, which enables to obey;
 and who is obedient and subject to that power.
@@ -1751,12 +1860,14 @@ and so thou wilt miss of the true and righteous judgment of God`'s Spirit.
 
 ==== XII. A question answered about knowing God`'s Spirit
 
+[.discourse-part]
 Question.
 How shall I know God`'s Spirit?
 How shall I know the motions thereof?
 How may I know whether the faith and hope in my heart be from him?
 whether my prayers and desires arise thence, etc.?
 
+[.discourse-part]
 Answer.
 No man of himself, or by any way he of himself can take, can know God`'s Spirit.
 There must first be a capacity given before any man can know the Spirit of the Lord;
@@ -1775,23 +1886,27 @@ it is easy to be deceived at any time; but the true seed, the holy seed, the liv
 the elect seed, the immortal seed, is never deceived.
 Oh! blessed are they who have their eyes opened and kept open in it,
 to discern the mystery of godliness and the mystery of iniquity,
-that they may be preserved safe in the one, out of the reach of the other!XIII.
-Some queries concerning the seed of the kingdom,
-in which the kingdom itself is contained (as the nature
-and substance of things are contained in the seed thereof),
-and out of which it springeth up and ariseth in the heart
+that they may be preserved safe in the one, out of the reach of the other!
 
-Query 1. What is that seed which is spoken of, 1 John 3:9.
+==== XIII. Some queries concerning the seed of the kingdom, in which the kingdom itself is contained (as the nature and substance of things are contained in the seed thereof), and out of which it springeth up and ariseth in the heart
+
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ What is that seed which is spoken of, 1 John 3:9.
 which remaineth in those that are born of God,
 and preserveth out of sin those that are led by it and comprehended in it?
 Is it not the seed of the kingdom?
 
-Query 2. Do not the natural herbs and flowers, the natural plants and trees,
+[.numbered]
+_Query 2._ Do not the natural herbs and flowers, the natural plants and trees,
 grow from a natural seed?
 Do not the spiritual plants, the spiritual trees, the trees of righteousness,
 grow from the seed of righteousness?
 
-Query 3. Was it not the great doctrine of Christ to preach the kingdom?
+[.numbered]
+_Query 3._ Was it not the great doctrine of Christ to preach the kingdom?
 And how did he preach it?
 Did he not preach it as a seed, as a grain of mustard-seed?
 and did he not liken this spiritual seed to leaven, to a precious pearl,
@@ -1802,14 +1917,17 @@ that men should mind this, look after this, purchase this, possess this,
 feel this planted and grow up in them,
 and themselves ingrafted into and growing up in it.
 
-Query 4. Can any man be born of God, and not born of this seed?
+[.numbered]
+_Query 4._ Can any man be born of God, and not born of this seed?
 Can any man be born of this seed, and not born of God?
 
-Query 5. How doth grace and truth come by Jesus Christ?
+[.numbered]
+_Query 5._ How doth grace and truth come by Jesus Christ?
 Doth it not grow up from this seed?
 Can it grow up any other way in any heart?
 
-Query 6. Is not salvation felt and witnessed in every heart (of those that are
+[.numbered]
+_Query 6._ Is not salvation felt and witnessed in every heart (of those that are
 in any measure redeemed) as this seed grows up and overshadows them?
 Was not this the salvation ready to be revealed in the last time, 1 Pet. 1:10.
 whereof the apostle Peter himself was made a partaker?
@@ -1817,13 +1935,16 @@ chap.
 5:10. In the law were the shadows of good things to come;
 but in the gospel the substance, the seed itself, is revealed.
 
-Query 7. Is it not the right beginning in religion to begin in the Spirit?
+[.numbered]
+_Query 7._ Is it not the right beginning in religion to begin in the Spirit?
 and can any begin in the Spirit, but he that begins in and with the seed of the kingdom?
 
-Query 8. Is it not the main and chief thing in religion to know this seed,
+[.numbered]
+_Query 8._ Is it not the main and chief thing in religion to know this seed,
 and to feel this seed, to be joined to this seed, and abide in this seed?
 
-Query 9. Is not all that flows from this seed true and certain?
+[.numbered]
+_Query 9._ Is not all that flows from this seed true and certain?
 Is not the knowledge certain here?
 the faith here?
 the love here?
@@ -1836,8 +1957,12 @@ Is there any certainty elsewhere?
 Oh! when the Lord appears,
 will he not disown all the religion and worship which is not of this growth?
 
-Query 10. But some may say, How may I know this seed, and how may I be joined to it?
+[.numbered]
+_Query 10._ But some may say, How may I know this seed, and how may I be joined to it?
 
+====
+
+[.discourse-part]
 Answer.
 In the quickening life mayest thou know it, and no where else.
 Didst thou ever feel that which quickened thy heart towards the Lord?
@@ -1920,9 +2045,9 @@ Oh that all that truly breathe after the Lord might be gathered hither, found he
 and dwell here!
 Amen.
 
-=== POSTSCRIPT TO THE EXPERIENCES
+=== Postscript to the Experiences
 
-PERSONS that have had some true touches of life, and true breathings after the Lord,
+Persons that have had some true touches of life, and true breathings after the Lord,
 yet not having their eye fixed rightly upon him, nor discerning from whence those come,
 may easily lose the true sense of life,
 and another birth of another nature spring up in them instead thereof.
@@ -2333,26 +2458,33 @@ and open the door, I will come in to him, and will sup with him,
 and he with me.`" Here are several things, which, in their order and seasons,
 the living come to a certain and sensible experience of.
 
-As, First, Christ standing at the door and knocking.
+[.numbered-group]
+====
+
+[.numbered]
+As, _First,_ Christ standing at the door and knocking.
 What is the door at which he stands?
 and how doth he knock?
 How doth the contrary spirit knock?
 how doth his Spirit knock?
 
-Secondly, What is his voice?
+[.numbered]
+_Secondly,_ What is his voice?
 and how is his voice heard?
 To hear Wisdom`'s cry within, in the inward streets; his call at the door,
 at which he would enter; must not the true ear in some measure be opened first?
 Can any one hear without an ear?
 
-Thirdly, What it is to open the door?
+[.numbered]
+_Thirdly,_ What it is to open the door?
 There is a door-keeper`'s state to be witnessed,
 and the right door-keeper knows how to open and how to shut the door,
 and is exercised in opening and shutting the door.
 The king of glory is to be opened to, and let in; but no wolf, no stranger,
 no strange spirit, is to be hearkened or opened to.
 
-Fourthly, What Christ`'s coming in is at the door opened to him?
+[.numbered]
+_Fourthly,_ What Christ`'s coming in is at the door opened to him?
 When he knocks, would he not come in?
 Would he stand always at the door knocking?
 Nay, nay; when the door is opened at which he knocks,
@@ -2364,7 +2496,8 @@ Doth he not consume and devour them?
 Doth he not empty the house of them, and garnish the house with that which is truly pure,
 glorious, and beautiful?
 
-Lastly, What is it to have him sup with the soul?
+[.numbered]
+_Lastly,_ What is it to have him sup with the soul?
 And what is it for the soul to sup with him?
 Is not here eating and drinking in his Father`'s kingdom?
 Doth he not first destroy the devil`'s kingdom, and then set up his own kingdom?
@@ -2390,6 +2523,8 @@ day resisted by the wisdom and will of the flesh,
 in those that are born thereof, and hearken thereto, and so live after the flesh,
 and not after that which reproves the flesh!
 
+====
+
 Many more scriptures might be mentioned, and also sensibly and livingly witnessed to;
 but these are enough to give a taste.
 The Lord open men`'s understandings into the thing itself,
@@ -2397,7 +2532,7 @@ and give them the key which opens into the truth, even into the mystery thereof,
 wherein is the hidden life and virtue.
 Amen.
 
-=== A FEW WORDS CONCERNING THE TRUE CHRIST; HOW IT MAY BE CERTAINLY AND INFALLIBLY KNOWN WHICH IS HE
+=== A Few Words Concerning the True Christ; How It May Be Certainly and Infallibly Known Which Is He
 
 This question relates not to his outward appearance,
 in the days of his flesh; but to his inward and spiritual appearance,
@@ -2422,14 +2557,19 @@ and how they came to know in that day that he was the Son of the living God,
 the Holy One, the anointed Saviour; and that the same way, and by the same means,
 people that will truly know him, must come to the knowledge of him now:
 
-First, They came to know him by the manifestation of the life that was in him,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ They came to know him by the manifestation of the life that was in him,
 by the fulness of the grace and truth which dwelt in him, and put itself forth,
 so as to be discerned by the inward and spiritual eye in them.
 "`For the life was manifested.`" 1 John 1:2. The life which was
 in him was manifested to the spiritual eye which was in them:
 and thus they came to know him.
 
-Secondly, By his voice and knocks.
+[.numbered]
+_Secondly,_ By his voice and knocks.
 Thus said he concerning his sheep in those days, that they knew his voice. John 10:4.
 Oh, he hath such a voice, as none hath but he!
 He speaks in his Father`'s authority (not as the scribes, not as earthly-wise,
@@ -2443,7 +2583,8 @@ his secret quickenings and enlightenings!
 How did they, and how do they,
 eternally make him manifest in the hearts and consciences of his?
 
-Thirdly, By his baptism, or by his baptizing into his own Spirit and power.
+[.numbered]
+_Thirdly,_ By his baptism, or by his baptizing into his own Spirit and power.
 While people were in expectation, and mused in their hearts of John,
 whether he were the Christ or not, John answers the case,
 and tells them how they might discern and know the true Christ.
@@ -2460,7 +2601,8 @@ and is a discerner of the thoughts and intents of the heart;
 doth not he know "`the word which was in the beginning, which was with God,`" yea,
 "`which was God`"? For he is the only searcher of the heart, and trier of the reins.
 
-Fourthly, By his mighty works.
+[.numbered]
+_Fourthly,_ By his mighty works.
 "`The works which the Father hath given me to finish, the same works that I do,
 bear witness of me,
 that the Father hath sent me.`" John 5:36. And when John
@@ -2489,7 +2631,7 @@ He is with me, he lives in me; and I live not of myself,
 but by feeling him to live in me, finding life spring up from him into me,
 and through me; and therein lies all my ability and strength forevermore.
 
-=== A FEW WORDS IN THE BOWELS OF TENDER LOVE AND GOOD WILL TO MY NATIVE COUNTRY
+=== A Few Words in the Bowels of Tender Love and Good Will To My Native Country
 
 It is written, "`When thy judgments are in the earth,
 the inhabitants of the world shall learn righteousness.`"
@@ -2516,8 +2658,10 @@ that thou mightest reap the benefit of God`'s judgments, and learn righteousness
 and his indignation might be removed from thee,
 and his tender bowels of compassion move towards thee!
 
+[.discourse-part]
 But perhaps some may say, "`What is the righteousness we should learn?`"
 
+[.discourse-part]
 Answer.
 Oh! learn to know God; that is a righteous thing.
 Learn to fear God; learn to worship him aright.
@@ -2542,9 +2686,11 @@ How many judgments and distresses shall come upon you,
 before ye bow in spirit under the mighty hand of God,
 and yield yourselves in submission to him, to learn these things of him?
 
+[.discourse-part]
 Question.
 But how shall we learn righteousness?
 
+[.discourse-part]
 Answer.
 Retire inwardly to that, and hearken inwardly to that,
 which gives the sense of judgments, and learn of that;
