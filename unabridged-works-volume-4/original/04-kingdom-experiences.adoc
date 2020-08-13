@@ -1,18 +1,15 @@
-== A FEW EXPERIENCES CONCERNING SOME OF THE WEIGHTY THINGS RELATING TO GOD`'S EVERLASTING KINGDOM
+== A Few Experiences / Concerning Some of the Weighty Things Relating to God`'s Everlasting Kingdom
 
-GIVEN FORTH
+[.heading-continuation-blurb]
+Given forth in true and tender love for the help of any such
+of the race of the true travellers as may stand in need thereof.
 
-IN TRUE AND TENDER LOVE
+[.section-author]
+By Isaac Penington
 
-FOR THE HELP OF ANY SUCH OF THE RACE OF THE TRUE TRAVELLERS AS MAY STAND IN NEED THEREOF
+[.section-date]
+1671, published posthumously
 
-BY
-
-ISAAC PENINGTON
-
-+++[+++1671, published posthumously]
-
-// probably also the rest of these in this chapter
 [.inline]
 === I. A Faithful Testimony concerning the true and pure Way of Life; with Breathings for such as have desires after it, and yet are Strangers to it
 
@@ -86,6 +83,7 @@ Glory to his name over all forever, who hath exalted, exalteth,
 and will exalt that which the several sorts of high professors, in their wisdom,
 trample upon and despise.
 
+[.inline]
 === II. Concerning the perfecting of God`'s Work in the Heart
 
 IS it not the will of God that his people
@@ -151,6 +149,7 @@ and the defence which is thereby, where the wing of the Almighty overshadows,
 and his salvation (revealed therein) is experienced
 for a sufficient wall and bulwark against the enemy.
 
+[.inline]
 === III. Concerning the true Christ, how it may be certainly and infallibly known which is he
 
 WHILE people were in expectation and mused in their hearts concerning John,
@@ -196,6 +195,7 @@ another thing to have the infallible Spirit itself; to be infallibly born of the
 and brought up in the light and life of the Spirit,
 that he may certainly know the Shepherd`'s voice from the voice of every strange spirit.
 
+[.inline]
 === IV. Some Queries to such as affirm the Scriptures to be the only Rule, and deny the Spirit, the seed of the kingdom, the new covenant, the holy leaven of Life, the Law written in the heart, to be the Rule of the Children of the new Covenant
 
 Query 1. How are the Scriptures the rule:
@@ -291,6 +291,7 @@ Men may search the Scriptures, and yet not come to Christ for life;
 and men may get descriptions and a knowledge of things out of the Scriptures,
 and yet not receive from him the rule of the new life.
 
+[.inline]
 === V. Concerning the Light, wherewith Christ the Life enlighteneth every Man
 
 [quote.section-epigraph, , John 1:4-5]
@@ -331,6 +332,7 @@ A man may get a notion from this into his mind,
 which he may retain the dead knowledge of, yea, his notion may quickly be dead in them;
 but he that dwells in the thing itself, knows that, and dwells in that, which never dies.
 
+[.inline]
 === VI. A few Words further concerning Perfection
 
 WHAT was the intent of God in commending
@@ -404,6 +406,7 @@ When sin is entered into afterwards, and committed again, doth it not defile?
 Oh! read in the true sense, in the true experience, with the true understanding,
 which God gives.
 
+[.inline]
 === VII. Concerning Imputation of Righteousness
 
 THE scripture saith, that Abraham believed God,
@@ -447,6 +450,7 @@ and the true light again shineth.
 Glory in the highest to the God of life and glory forever and ever!
 Amen.
 
+[.inline]
 === VIII. Some Queries concerning the Time and Work of Reformation
 
 Query 1. WHAT did the time of Reformation and Substance (spoken
@@ -598,6 +602,7 @@ but is able to shake all nations and kingdoms which kiss not the Son, but oppose
 Blessed are they who are turned to the light of his Spirit,
 and who therein kiss and obey him.
 
+[.inline]
 === IX. Some Queries concerning the Spirit of Christ, or the Spirit of the Father (it being one and the same Spirit), for those who take themselves to be Christians (and under the Gospel Dispensation) to consider and examine themselves by, that they may not be deceived, either concerning their present Estate here, or the eternal Estate of their Souls hereafter; seeing the Apostle so expressly saith, "`If any Man hath not the Spirit of Christ, he is none of his.`" Rom. 8.
 
 Query 1. DOST thou know the Holy Spirit of the Father?
@@ -704,6 +709,7 @@ Who would miss of God`'s Spirit, and of the law and covenant of life in Christ J
 and be only in a dream concerning these things, without the true,
 demonstrative knowledge, possession, and enjoyment of them!
 
+[.inline]
 === X. Of the true Way (the Way of Holiness, the Way of Life), and of the true Teaching and Knowledge
 
 CHRIST is the way, the only way to the Father; there is not another.
@@ -859,4 +865,3 @@ BY ISAAC PENINGTON
 Prisoner for the testimony of truth at Reading Jail
 
 1671+++.+++ About the 12th month.
-

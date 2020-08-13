@@ -1,20 +1,24 @@
 == Reply to Queries and Animadversions
 
-// TODO
-TODO-footnote was on chapter title^
-footnote:[The following appears to have been written in answer
-to the Queries and Animadversions of an Author not named therein.
-It is supposed our Friend Isaac Penington might have mentioned him in the Title,
-or pointed him out by some short introductory Address, which, through accident,
-was omitted by the Printer.
-- 1761 editor.]^
+[.section-date]
+1667, published posthumously
 
+[.asterism]
+'''
 
-+++[+++1667, published posthumously]
+[.offset.emphasized]
++++[+++The following appears to have been written in answer
+to the queries and animadversions of an author not named therein.
+It is supposed our Friend Isaac Penington might have mentioned him in the title,
+or pointed him out by some short introductory address, which, through accident,
+was omitted by the printer.--1761 editor.]
+
+[.asterism]
+'''
 
 [.section-summary-preface]
 Concerning the Rule of the New Covenant,
-or that which GOD hath appointed to be the Rule to the Children of the New Covenant.
+or that which _God_ hath appointed to be the Rule to the Children of the New Covenant.
 
 THE way, the truth, the life; the everlasting way, the everlasting truth,
 the everlasting life; that is the rule in the new covenant.
@@ -570,7 +574,6 @@ Yea, justification is a mystery to man`'s wisdom and understanding,
 with all his knowledge he can gather from scripture: and he only knows it who feels it,
 and hath the experience of it, in that which is true, and which cannot deceive.
 
-
 === Concerning Justification
 
 THE apostle James saith expressly, that by works a man is justified,
@@ -614,7 +617,6 @@ could he obey ever so exactly; for these are from a higher principle,
 and of a far more excellent nature, spirit, and kind, than man`'s nature and spirit is;
 and yet the acceptance is not for the work`'s sake,
 but for the sake of the worker of these works.
-
 
 === Concerning God`'s Love to Mankind
 
@@ -681,7 +683,6 @@ purgeth the vessel from all such misapprehensions and misconceivings,
 which are as really hay and stubble in the sight of God,
 as the grossest darkness of popery is.
 
-
 === Concerning Baptism
 
 WE own the one baptism; and, blessed be the Lord, are baptized therewith into one body.
@@ -703,7 +704,6 @@ which was a figure of the thing (which Paul did find freedom to do to some),
 Paul said he was not sent to do.
 He did it not by commandment, but he might do it by permission, as well as circumcise;
 which was another figure of the same thing.
-
 
 === Concerning Perfection
 
@@ -773,6 +773,7 @@ but of truth in him.
 As for that question,
 Whether Christ hath not reigned in his Spirit all along in the souls of his true people?
 
+[.discourse-part]
 Answer.
 There hath been little of Christ`'s reign in Spirit witnessed all along the apostasy.
 It is a great matter to come to witness Christ`'s reign in the heart: yea,
@@ -914,9 +915,9 @@ ISAAC PENINGTON
 
 25th of the 11th month, 1667
 
-
 === A REPLY TO THY ANIMADVERSIONS
 
+[.inline]
 ==== TO THE FIRST
 
 A MAN is justified upon account of Christ, of being in him, believing in him,
@@ -937,6 +938,7 @@ But out of this are the notions and imaginations of men`'s minds,
 upon and about scriptures concerning the thing;
 who indeed and in truth (as it really is) know it not.
 
+[.inline]
 ==== TO THE SECOND
 
 There are two covenants, and there are works of each, works required by each.
@@ -956,6 +958,7 @@ than to testify a dislike of this distinction.
 And as for the Papists, we meddle not with them, farther than we are led by the Lord:
 for my part, I know not what they hold as to this thing.
 
+[.inline]
 ==== TO THE THIRD
 
 God did threaten the Gentiles (wishing them to take heed of boasting against the Jews),
@@ -986,12 +989,14 @@ or practise those which ye call church ordinances?
 that the Gentiles did tread down the outward court after it was given them?
 They trod down the holy city, indeed, forty-two months.
 
+[.inline]
 ==== TO THE FOURTH
 
 So far as you see, hear, taste, feel any thing in the pure light of the truth,
 as it is in Jesus, we rejoice therein; and heartily desire the increase thereof in you:
 but we would not have you mistaken about these things.
 
+[.inline]
 ==== TO THE FIFTH
 
 Concerning the word or commandment which Moses speaks of,
@@ -1125,13 +1130,15 @@ The fear which God puts into the heart is clean, and keeps the heart clean;
 and out of the good and honest and clean heart, comes good, honest, and clean fruit,
 which is not unclean, like filthy rags.
 Read Isa. 64:5. and consider it, waiting on the Lord to open thine understanding.
-Were the works which the apostle speaks of, Heb.
-11. and James 2:24. to be reckoned as filthy rags?
+Were the works which the apostle speaks of,
+Heb. 11. and James 2:24. to be reckoned as filthy rags?
 
 Abraham was acquainted with the invisible, eternal Word,
 and was turned from darkness to light, and from the power of Satan unto God;
 and in his converted estate had the promise of the seed; and saw,
-with the rest of the prophets, through the day of his flesh to the day of his Spirit. 1 Pet. 1:10-12.
+with the rest of the prophets,
+through the day of his flesh to the day of his Spirit.
+1 Pet. 1:10-12.
 
 David was a spiritual man, and knew the Word of the new covenant;
 which is a lantern to the feet, and a light to the paths,
@@ -1264,6 +1271,7 @@ and causing us to hear and know his voice, and to learn of him;
 who is truth and speaketh truth; who is life and Spirit,
 and giveth of his own eternal life and Spirit to his children.
 
+[.inline]
 ==== TO THE SIXTH
 
 What others have been I know not; but this I know concerning myself,
@@ -1289,6 +1297,7 @@ wherein the power is manifested to crucify that which cannot otherwise be crucif
 
 The Seventh hath been largely spoken to already.
 
+[.inline]
 ==== TO THE EIGHTH
 
 The Lord God knoweth that it is not in my heart to judge or set at nought any man;
@@ -1349,6 +1358,7 @@ and obey his gospel.
 For the righteousness is revealed in the faith,
 and is further and further made the soul`'s, in and by the faith.
 
+[.inline]
 ==== TO THE NINTH
 
 God is my witness (whom I worship in spirit,
@@ -1368,6 +1378,7 @@ For the spiritual weapons are mighty through God,
 to the pulling down of the strong-holds,
 and bringing all (even every thought) into subjection to Christ.
 
+[.inline]
 ==== TO THE TENTH
 
 That God did as much for Judas as for Peter, is not our doctrine:
@@ -1473,5 +1484,3 @@ we cannot have unity with,
 because it is of the same nature with that which
 the Lord hath condemned and destroyed in us,
 and he will not suffer it to live in others, where his life and power prevails.
-
-

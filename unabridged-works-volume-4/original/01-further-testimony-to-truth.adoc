@@ -1,29 +1,35 @@
-== FURTHER TESTIMONY TO TRUTH
+== Further Testimony to Truth / Revived Out of the Ruins of the Apostasy
 
-REVIVED OUT OF
+[.heading-continuation-blurb]
+Or several things opened from the spirit of truth,
+touching the way of life and salvation;
+which will reach to the witness in the hearts of those whose spirits are quickened,
+and whose ears and understandings are opened by the spirit and power of the Lord.
 
-THE RUINS OF THE APOSTASY
-
-OR
-
-SEVERAL THINGS OPENED FROM THE SPIRIT OF TRUTH, TOUCHING THE WAY OF LIFE AND SALVATION; WHICH WILL REACH TO THE WITNESS IN THE HEARTS OF THOSE WHOSE SPIRITS ARE QUICKENED, AND WHOSE EARS AND UNDERSTANDINGS ARE OPENED BY THE SPIRIT AND POWER OF THE LORD
-
+[.heading-continuation-blurb]
 Written in a deep sense and tender love,
 
-BY ISAAC PENINGTON
+[.section-author]
+By _Isaac Penington_
 
+[quote.section-epigraph, , Isa. 60:1-3]
+____
 Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.
 For behold, the darkness shall cover the earth, and gross darkness the people;
 but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 And the Gentiles shall come to thy light, and the kings to the brightness of thy rising.
-Isa. 60:1-3
+____
 
+[quote.section-epigraph, , Isa. 2:5]
+____
 O house of Jacob! come ye, and let us walk in the light of the Lord.
-Isa. 2:5
+____
 
-+++[+++published posthumously in 1680]
+[.section-date]
+published posthumously in 1680
 
-=== PREFACE
+[.centered]
+=== Preface
 
 OH! how excellent and precious is the name of the Lord, in this our day,
 among his people, whom he hath gathered out of the worldly spirit unto himself,
@@ -116,11 +122,11 @@ certain testimony to?
 Happy is the ear that hears! for that also must be of God,
 as the message and messengers are known to be.
 
+[.centered]
 === A FURTHER TESTIMONY TO TRUTH
 
-[.section-summary-preface]
-Some _Queries_ concerning Christ`'s righteousness,--how it justifieth;
-whether as inwardly revealed and dwelling in the heart, or only as imputed, or both.
+[.inline]
+==== Some _Queries_ concerning Christ`'s righteousness,--how it justifieth; whether as inwardly revealed and dwelling in the heart, or only as imputed, or both.
 
 Query 1. Is not Christ the righteousness and justification of the soul with God?
 Is not he made of God unto us righteousness,
@@ -205,6 +211,7 @@ the righteous seed, the righteous faith and obedience of the seed,
 and the works which are wrought by the power, and in the Spirit,
 which being brought to the true light, are always justified by it.
 
+[.inline]
 === Concerning the true Church and Ministry
 
 THERE is a great noise in the world about church and ministry.
@@ -323,13 +330,15 @@ must first take up the cross to that part in him which is not of God,
 and receive from God the eye which sees, and the ear which hears.
 
 [.inline]
-=== An OBJECTION concerning the Newness of the Way of Truth, answered: With a tender, expostulating Exhortation
+=== An _Objection_ concerning the Newness of the Way of Truth, answered: With a tender, expostulating Exhortation
 
+[.discourse-part]
 Objection.
 It is objected against us, that this which we testify to, hold forth, and practice,
 is a new way, sprung up of late,
 never known nor heard of in the world till some few years ago.
 
+[.discourse-part]
 Answer.
 The light eternal, when it shineth out of the darkness,
 after the great apostasy from the Spirit and life of the apostles,
@@ -520,10 +529,12 @@ under a pretence and appearance of leading to him.
 And here hardness and deadness grow and increase,
 the soul being turned from that which is living, and alone able to give life.
 
+[.discourse-part]
 Question.
 But how may I do, who am weak, and full of doubts and fears,
 to keep in the sense of truth, and to come to a certainty that I am not deceived therein?
 
+[.discourse-part]
 Answer.
 To thee, who puttest this question in the uprightness and simplicity of thy heart,
 I have somewhat to say.
@@ -699,14 +710,16 @@ before the least or lowest name or appearance of Jesus;
 the lowest degree and measure of whose life is King and Lord over death forever.
 
 [.inline]
-=== An OBJECTION against the Principle, which in faithfulness to God, and in love to souls, we bear witness to, briefly answered.
+=== An _Objection_ against the Principle, which in faithfulness to God, and in love to souls, we bear witness to, briefly answered.
 
+[.discourse-part]
 Objection.
 MANY do believe, and in that belief do object against it, that it is a natural principle,
 and but a natural principle: and so, in its utmost improvement,
 could lead but to the state of Adam`'s nature, and not to the redemption and new life,
 which is in and by Jesus Christ.
 
+[.discourse-part]
 Answer.
 I can grant that it is natural, in a sense; but not in the intended sense.
 It is a principle, indeed, of God`'s nature, of Christ`'s nature; but not of man`'s nature.
@@ -732,8 +745,10 @@ to the full satisfaction of the soul, where it is heard and felt.
 [.inline]
 === Some Questions and Answers concerning the New Covenant; opening the nature and way of it, as it is experimentally felt in the heart, and witnessed to in the holy Scriptures.
 
-Quest 1. WHAT is the New Covenant?
+[.discourse-part]
+Question 1. WHAT is the New Covenant?
 
+[.discourse-part]
 Answer.
 It is a new agreement between God and the soul, different from that former agreement,
 which was between God and that people of the Jews.
@@ -759,6 +774,7 @@ and a healing of the backslidings of the soul, and a loving it freely.
 
 Question 2. How is this covenant made with the soul?
 
+[.discourse-part]
 Answer.
 In Christ, the seed, who is all in this covenant.
 He is the light of it; he is the life of it; he is the power of it;
@@ -769,6 +785,7 @@ it abides in this covenant; and by growing up in him, it grows up in this covena
 Question 3. Is this an absolutely free covenant?
 or are there any terms or conditions required of the soul in it?
 
+[.discourse-part]
 Answer.
 It is absolutely free in its own nature.
 It comes from the free love of God; it contains in it the free love of God;
@@ -851,6 +868,7 @@ Question 5. But how shall the soul be able to perform all these things?
 Are they required of it in its own strength,
 or doth God undertake to perform and work all in it?
 
+[.discourse-part]
 Answer.
 Not at all in its own strength, will,
 or wisdom (these are eternally shut out of this covenant); but in the strength, life,
@@ -858,6 +876,7 @@ and power, which flows from God in the covenant.
 
 Question 6. How shall the soul receive this strength, life, and power?
 
+[.discourse-part]
 Answer.
 By embracing it as it comes, cleaving to it, panting after it,
 patiently mourning and waiting for it.
@@ -893,6 +912,7 @@ to his way of manifesting his truth; he will not bow to theirs.
 
 Question 7. What are the sins against this covenant, and what effects have they?
 
+[.discourse-part]
 Answer.
 The sins against this covenant are chiefly unbelief in the power,
 and disobedience to the power,
@@ -906,6 +926,7 @@ is more dangerous than the breaking of the first covenant.
 Question 8. Why, can this covenant be broken?
 Hath not God undertaken all in it?
 
+[.discourse-part]
 Answer.
 It is an agreement between God and the soul, wherein things are required of the soul,
 through the life and strength which flows from the covenant.
@@ -956,16 +977,18 @@ according to his good pleasure.
 Amen.
 
 [.inline]
-=== A QUESTION or two, relating to Election, answered
+=== A _Question_ or two, relating to Election, answered
 
 Question 1. How may a man make his calling and election sure?
 
+[.discourse-part]
 Answer.
 By making Christ sure to him, in whom the calling and election is;
 for the Lord chooseth only in him, and refuseth or reprobateth only out of him.
 
 Question 2. How may I make Christ sure to me?
 
+[.discourse-part]
 Answer.
 By receiving him, giving up to him, parting with all for him,
 and waiting upon him in the way and path of life,
@@ -1015,8 +1038,9 @@ the things of God better, the words and scriptures of truth better,
 than they themselves otherwise (or any else) could possibly attain to.
 
 [.inline]
-=== A QUESTION answered concerning the Ground of Men`'s misunderstanding and wresting of Scriptures
+=== A _Question_ answered concerning the Ground of Men`'s misunderstanding and wresting of Scriptures
 
+[.discourse-part]
 Question.
 WHAT is the ground of men`'s misunderstanding and wresting of scriptures?
 
@@ -1090,7 +1114,7 @@ or those living testimonies from the Spirit of the Lord, which declare it not to
 but are ready to wrest the one, and reproach the other.
 
 [.inline]
-=== Some QUESTIONS, ANSWERS, and QUERIES, concerning Deceit and Deceivers; as what they are, what discovers them, how man may come out of them, and be preserved from them, etc.
+=== Some _Questions,_ _Answers,_ and _Queries,_ concerning Deceit and Deceivers; as what they are, what discovers them, how man may come out of them, and be preserved from them, etc.
 
 IN the truth there is no deceit; and they that are in the truth,
 are out of the deceit; and abiding there, are out of the reach of deceivers:
@@ -1100,6 +1124,7 @@ and to help to deceive others.
 
 Question 1. What is deceit, and who are deceivers?
 
+[.discourse-part]
 Answer.
 That which appeareth like truth, but is not,--that is deceit:
 and they which are in a form of godliness, but are without the Spirit, life,
@@ -1107,6 +1132,7 @@ and power of it,--they are deceivers.
 
 Question 2. Who are most liable to deceit?
 
+[.discourse-part]
 Answer.
 The simple, the heedless, the careless, the credulous;
 those that wait not upon the Lord in the light, power, and demonstration of his Spirit,
@@ -1116,6 +1142,7 @@ truth itself into some likeness or resemblance of it.
 
 Question 3. Which is the time of deceit?
 
+[.discourse-part]
 Answer.
 The night; the cloudy, the dark time,
 when the enemy hath raised his fogs and mists in the minds
@@ -1123,14 +1150,17 @@ of men,--then is his time of deceiving their hearts.
 
 Question 4. Is it now night or day?
 
+[.discourse-part]
 Answer.
 It is night with some, day with others.
 Where the light is arisen, there it is day;
 where the darkness covereth and possesseth the minds of men, there it is night.
 
+[.discourse-part]
 Question.
 5 How may a man know whether it be night or day with him?
 
+[.discourse-part]
 Answer.
 By waiting to feel somewhat of the life of God arising in him,
 by turning and hearkening to his witness.
@@ -1139,6 +1169,7 @@ That will faithfully discover how it is with him, and where he is.
 Question 6. How may a man come out of the darkness of the night,
 into the light and brightness of the day?
 
+[.discourse-part]
 Answer.
 By joining to the first glimmerings and breakings forth thereof upon him.
 The least light of truth hath the same nature, virtue and properties with the greatest.
@@ -1157,6 +1188,7 @@ and deceit of the night, into the beauty, brightness, and truth of the day.
 
 Question 7. How may a man be preserved from deceit and deceivers?
 
+[.discourse-part]
 Answer.
 By abiding in that which discovers them to him, and preserveth out of them;
 by dwelling in that light, in that life, in that power, in that truth,
@@ -1220,7 +1252,7 @@ which is arisen in the hearts of those that are quickened
 and raised by the power of the Lord?
 
 [.inline]
-=== That the Way of LIFE and SALVATION is freely held forth by God to all; and there is nothing in him to let, stop, or discourage any man from receiving his Truth, and giving up to him in the faith and obedience of it, but very much to invite and encourage.
+=== That the Way of _Life_ and _Salvation_ is freely held forth by God to all; and there is nothing in him to let, stop, or discourage any man from receiving his Truth, and giving up to him in the faith and obedience of it, but very much to invite and encourage.
 
 IT hath pleased the Lord, who is over all, and good unto all,
 to provide a remedy for the sin and transgression of the creature.
@@ -1388,19 +1420,22 @@ do but give up thyself (in the faith and obedience which he is
 creating in thee) in the way of his quickening and renewing life.
 
 [.inline]
-=== Some QUESTIONS answered concerning the Spirit of CHRIST, and the spirit of the Scribes and Pharisees
+=== Some _Questions_ answered concerning the Spirit of _Christ,_ and the spirit of the Scribes and Pharisees
 
 Question 1. WHAT kind of spirit was the spirit of the Scribes and Pharisees?
 
+[.discourse-part]
 Answer.
 A strict, zealous, righteous spirit,
 according to their understanding and apprehensions of the letter.
 They fasted much, they prayed much, they gave alms,
 they were great contenders for the circumcision and ordinances of Moses.
 
+[.discourse-part]
 Question.
 2 What kind of Spirit was the Spirit of Christ?
 
+[.discourse-part]
 Answer.
 A righteous, strict, and zealous Spirit, according to the power of the endless life.
 He was in that from which the righteousness of the law came,
@@ -1409,6 +1444,7 @@ and which brought it forth and fulfilled it in his vessel.
 Question 3. What did the Scribes and Pharisees judge of Christ according
 to their apprehension and understanding of the letter?
 
+[.discourse-part]
 Answer.
 They judged him a sinner, and transgressor of the law of Moses, a loose person, an eater,
 a drinker, a friend of publicans and sinners;
@@ -1417,6 +1453,7 @@ and transgress the sabbath; yea, one who was a blasphemer, and a deceiver of peo
 
 Question 4. How came the Scribes and Pharisees thus to judge of Christ?
 
+[.discourse-part]
 Answer.
 Because they were in that spirit, nature, and mind, which giveth wrong judgment.
 For it is not a gathered knowledge from the letter, which makes able to judge of spirits,
@@ -1424,16 +1461,19 @@ and about the things of God; but a receiving and being born of the Spirit.
 For from the Spirit alone is a right understanding of the letter,
 which the Spirit hath to give, and giveth to the true birth.
 
+[.discourse-part]
 Question.
 5 What did Christ judge of the Scribes and Pharisees according
 to his knowledge of them from the Spirit and power of life?
 
+[.discourse-part]
 Answer.
 That they were hypocrites, painted walls, and sepulchres,
 which make a fair show in the flesh, but were not of nor in the truth.
 
 Question 6. Is the spirit of the Scribes and Pharisees to be found now in the world?
 
+[.discourse-part]
 Answer.
 There is nothing new under the sun.
 The spirit of wickedness and deceit is always the same, in all ages and generations;
@@ -1445,6 +1485,7 @@ and so are Abel, Enoch, Isaac, Jacob, etc.
 
 Question 7. Where is the spirit of the Scribes and Pharisees now to be found?
 
+[.discourse-part]
 Answer.
 They in all professions, gatherings, and walkings, that are strict, zealous,
 and righteous, according to their own understandings and apprehensions of the letter,
@@ -1454,6 +1495,7 @@ endless life,--they are of and in that spirit.
 Question 8. How may a man come out of the spirit of the Scribes and Pharisees,
 and into the Spirit of Christ?
 
+[.discourse-part]
 Answer.
 By coming to the power of the endless life, wherein Christ`'s ministry is,
 wherein his Spirit is felt and ministereth.
@@ -1466,6 +1508,7 @@ groweth up and remaineth out of his reach.
 
 Question 9. How may a man come to the power of the endless life?
 
+[.discourse-part]
 Answer.
 By waiting to feel it.
 There is somewhat of God near every man; which,
@@ -1474,9 +1517,10 @@ the Lord will give him to feel in the seasons of his good pleasure.
 For it is near man, not as a talent always to lie dead and buried, but to work in him,
 and bring him out of his own sinful, corrupt nature into his holy, pure nature.
 
-Question.
-10. How may a man feel and know the power of this life?
+[.discourse-part]
+Question 10. How may a man feel and know the power of this life?
 
+[.discourse-part]
 Answer.
 By its nature, properties, manner and end of working in the heart.
 It enlightens the soul, it quickens to God,
@@ -1500,10 +1544,11 @@ birth, and Spirit raised in him, and his soul in it living to God,
 and increasing in union and fellowship with him.
 
 [.inline]
-=== Some QUESTIONS answered concerning Blasphemy and Blasphemers
+=== Some _Questions_ answered concerning Blasphemy and Blasphemers
 
 Question 1. What is blasphemy?
 
+[.discourse-part]
 Answer.
 It is the reproaching or speaking ill of the truths or name of God,
 in any of their appearances, or of them whom he hath chosen to bear his name,
@@ -1521,6 +1566,7 @@ or are they apter to reproach and speak evil of the truths of God,
 as they are held forth in their age,
 and the instruments and ministers who then held them forth?
 
+[.discourse-part]
 Answer.
 Men are not so liable to blaspheme the truths (or name) of God, as formerly held forth,
 or the messengers and ministers of former ages,
@@ -1528,6 +1574,7 @@ as the present truth and the present ministry.
 
 Question 3. How cometh that about, or why is it so?
 
+[.discourse-part]
 Answer.
 Because the truths of former ages, and the ministry therein,
 have wrought through the deceit and opposition, which withstood them in their day,
@@ -1557,6 +1604,7 @@ have afterwards still been persecuted and opposed by the present age.
 
 Question 4. Who are the great blasphemers in every age?
 
+[.discourse-part]
 Answer.
 They which profess truth, but are not in the power and life of that which they profess;
 and among these, those especially who have had any taste of the power:
@@ -1576,6 +1624,7 @@ and all that ever they can reap and rend, against the present power and life of 
 Question 5. How come men, who pretend to truth, and to seek after it,
 to run into this grievous and dangerous blasphemy?
 
+[.discourse-part]
 Answer.
 By reason of their not being in that,
 which demonstrateth the truth in the holy power and nature thereof.
@@ -1603,6 +1652,7 @@ Question 6. How come they who have so much literal knowledge of scriptures,
 and have had a true sense and experience (some of them) of the things of God,
 to be out of that which demonstrateth the truth?
 
+[.discourse-part]
 Answer.
 By their turning from it, and rejecting it.
 The Scribes and Pharisees rejected the counsel of God, against themselves.
@@ -1617,6 +1667,7 @@ Oh that ye could read, whose state it is!
 
 Question 7. Why do they turn from it and reject it?
 
+[.discourse-part]
 Answer.
 Because it answers not their expectations.
 That appearance of Christ in flesh in that day,
@@ -1659,8 +1710,9 @@ and hath the true nature of life, and true language from God; which that,
 which knoweth God, heareth; but that which is not of God cannot hear.
 
 [.inline]
-=== A QUESTION concerning Miracles answered
+=== A _Question_ concerning Miracles answered
 
+[.discourse-part]
 Question.
 IF this be a new dispensation of the life and power of God,
 even of the preaching of the everlasting gospel again after the apostasy,
@@ -1684,6 +1736,7 @@ to be made partakers of the inward health and salvation by it.
 Yet seeing in that day Christ did then please to put forth his power outwardly,
 to point to and witness of the inward, why doth he not do so now?
 
+[.discourse-part]
 Answer.
 The nature of the present dispensation doth not require it.
 For the present dispensation of life,
@@ -1748,10 +1801,11 @@ Oh! wait the opening of the eye that sees it,
 and be conceived and brought forth in the womb of it.
 
 [.inline]
-=== Some further QUESTIONS answered, concerning the New Covenant
+=== Some further _Questions_ answered, concerning the New Covenant
 
 Question 1. WHAT were those days, after which the New Covenant was to be made?
 
+[.discourse-part]
 Answer.
 They were the days of the law and prophets, the days of the first covenant,
 the days of God`'s exercising and making trial of that outward people, the Jews,
@@ -1760,6 +1814,7 @@ After the full expiring of those days, another covenant was to be made.
 
 Question 2. What are the days wherein the new covenant is made?
 
+[.discourse-part]
 Answer.
 They are the days of Christ, the days of his power,
 the days of the ministration of his Spirit.
@@ -1769,6 +1824,7 @@ Is it the Israel and Judah according to the flesh?--the
 Israel and Judah according to the old covenant,
 or according to the new?
 
+[.discourse-part]
 Answer.
 When the old covenant is passed away,
 the consideration of Israel and Judah after the flesh passed away also;
@@ -1786,6 +1842,7 @@ Doth it mend that which God found amiss in the other?
 Doth it keep more firmly to him than the other did?
 Is there no falling away from it?
 
+[.discourse-part]
 Answer.
 Yes, it is faultless.
 It doth help the defects of the other.
@@ -1805,10 +1862,12 @@ For so is the promise and word of Christ,
 from his Spirit, and return into the way of death with the other spirit,
 the soul of the Lord will have no pleasure in him.
 
+[.discourse-part]
 Objection.
 But then this also is like the first covenant, depending upon the creature,
 and is defective as the other was.
 
+[.discourse-part]
 Answer.
 No; this covenant doth not depend upon the creature, but upon God`'s love, mercy,
 and power, which hath no limits in this covenant,
@@ -1852,6 +1911,7 @@ as the tempter is to be drawing him into sinning against the covenant, and so in
 
 Question 5. What doth God promise to do for the new house of Israel and Judah in this new covenant?
 
+[.discourse-part]
 Answer.
 He promiseth to put his laws into their mind, and to write them in their hearts.
 (Oh, happy he that knoweth these laws, this mind, this heart,
@@ -1877,6 +1937,7 @@ life, and powerful redemption and righteousness forevermore.
 Question 6. How is this covenant made, and how doth the soul enter into it, grow up in it,
 and reap and enjoy the sweet blessings and promises of it?
 
+[.discourse-part]
 Answer.
 It is made in the faith and obedience of the soul to the gospel,
 to the power of the endless life.
@@ -2008,4 +2069,3 @@ what things God reveals to his children by his Spirit,
 when they wait upon him in his pure fear, and worship and converse with him in spirit;
 for then the fountain of the great deep is unsealed,
 and the everlasting springs surely give up the pure and living water.
-

@@ -222,6 +222,7 @@ there is a question lies before me to propound to you,
 which deserves your serious consideration of,
 and ability to answer in the sight of the Lord, which is this:
 
+[.discourse-part]
 Question.
 Do ye rightly, truly, and fully (as the Lord requireth of you) know, esteem,
 and honor the Son?
@@ -258,6 +259,7 @@ and in the true light and guidance of his Spirit.
 There is another question springs in my heart unto you,
 I beseech you consider of it seriously, perhaps there may be a blessing to you in it.
 
+[.discourse-part]
 Question.
 Do ye rightly and weightily consider and embrace that counsel of Christ, Matt. 6:33.
 "`Seek ye first the kingdom of God,

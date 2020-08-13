@@ -2,6 +2,7 @@
 
 +++[+++no date]
 
+[.discourse-part]
 Question.
 How may a man know whether he readeth the Scriptures to his advantage and benefit?
 or whether he readeth them to his disadvantage or hurt?
@@ -79,6 +80,7 @@ What is the right reading of the Scriptures; and whether a man so read them,
 as is to the benefit and profit of his soul, or to his loss and detriment?
 To come then to the Answer, which is as followeth.
 
+[.discourse-part]
 Answer.
 He that reads the Scriptures in a true measure of life received from God,
 he reads them aright; and whenever he so readeth, it is to his benefit.
