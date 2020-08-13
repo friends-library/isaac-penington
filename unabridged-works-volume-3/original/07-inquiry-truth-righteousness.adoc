@@ -9,7 +9,11 @@ In some _Queries_ on Isaiah 58 and also on Chap. 54.
 [.section-date]
 1671
 
-Query 1. ARE there any people to be found who exceed
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Are there any people to be found who exceed
 the state spoken of in ver. 2. of seeking God daily,
 and delighting to know his ways, as a nation that did righteousness,
 and forsook not the ordinance of their God?
@@ -22,7 +26,8 @@ but to lift up his voice like a trumpet against them,
 because of their transgression and sin which they committed,
 notwithstanding their thus daily seeking the Lord.
 
-Query 2. What was the transgression and the sins
+[.numbered]
+_Query 2._ What was the transgression and the sins
 which the prophet was not to spare them in,
 but lift up his voice like a trumpet against them for?
 Was it not (among other things) for their wrong fasting,
@@ -34,13 +39,15 @@ Ah! how many fast and pray at this day, who never rightly considered,
 nor truly understood, what the fastings, and what the prayers are which God requireth,
 and which alone he will accept!
 
-Query 3. What is the fast which God requireth, and will accept in all ages?
+[.numbered]
+_Query 3._ What is the fast which God requireth, and will accept in all ages?
 Is not this it, "`To loose the bands of wickedness, to undo the heavy burdens,
 to let the oppressed go free,
 to break every yoke`"? etc. ver. 6-7. Who can understand or learn this fast,
 but he that is taught of God?
 
-Query 4. Are there any whose light breaks forth as the morning,
+[.numbered]
+_Query 4._ Are there any whose light breaks forth as the morning,
 and whose health springs forth speedily, and whose righteousness goeth before them,
 and whom the glory of the Lord gathereth up,
 or is a rearward to (as is promised to those who observe this fast),
@@ -49,7 +56,8 @@ as ver. 8-9. Doth not God teach his children in the new covenant to observe this
 And they who are taught by him to keep it (and do faithfully keep it),
 do they not inherit this promise?
 
-Query 5. Are there any now among the sons of men, whose light hath risen in obscurity,
+[.numbered]
+_Query 5._ Are there any now among the sons of men, whose light hath risen in obscurity,
 and whose darkness hath become as noon-day?
 Whom the Lord guideth continually, and whose soul he satisfieth in droughts,
 and makes fat their bones; and makes them like a watered garden,
@@ -59,7 +67,8 @@ who are truly taught of the Lord to observe that which leads hereto,
 they cannot miss of enjoying these precious promises:
 for he is faithful and true who hath promised, ver. 10-11.
 
-Query 6. Are there any at this day, whom God honoreth in building the old waste places,
+[.numbered]
+_Query 6._ Are there any at this day, whom God honoreth in building the old waste places,
 in raising up the foundations of many generations; in repairing the breach,
 and restoring the paths to dwell in?
 What are the paths that are to be dwelt in?
@@ -90,7 +99,8 @@ and the law of life written inwardly is more to the soul than words written outw
 though all the words that ever come from God`'s Holy Spirit are very precious,
 and greatly useful, to those to whom he vouchsafeth to give the understanding of them.
 
-Query 7. What is the sabbath spoken of, ver. 13? Is it the law sabbath,
+[.numbered]
+_Query 7._ What is the sabbath spoken of, ver. 13? Is it the law sabbath,
 or the gospel sabbath?
 Is it inferior in nature to the fast before mentioned?
 What is God`'s holy day, which is the soul`'s delight, the holy of the Lord, honorable,
@@ -99,20 +109,28 @@ faith in him who is life) honor the Lord,
 in ceasing from their own ways, pleasures, and words?
 See also Heb. 4:3 and 10.
 
-Query 8. They that keep God`'s holy sabbath, do they not delight themselves in the Lord?
+[.numbered]
+_Query 8._ They that keep God`'s holy sabbath, do they not delight themselves in the Lord?
 Do they not feel the pleasure of his day, and of his appearance in his day?
 Are not these of the true seed of Jacob (who prevail with the Lord for the blessing)?
 And doth not the Lord feed them with the heritage of Jacob, their father,
 even with the blessing of the covenant of life and peace forevermore?
 
-=== SOME QUERIES ON ISAIAH 54
+====
 
-Query 1. Is there such a state to be witnessed, either in the particular,
+=== Some Queries on Isaiah 54
+
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Is there such a state to be witnessed, either in the particular,
 or in the general, wherein the womb that was barren shall travail and bear,
 and sing for joy of heart and spirit before the Lord?
 See ver. 1.
 
-Query 2. Is there such a state to be witnessed, as of the Maker to become the husband?
+[.numbered]
+_Query 2._ Is there such a state to be witnessed, as of the Maker to become the husband?
 Is not this a glorious state indeed, and a name better than of sons and daughters,
 signifying nearer intimacy and union than any other relation with the Holy One,
 the Redeemer of Israel?
@@ -120,7 +138,8 @@ And do not such as come to this state, even to be married to the Lamb,
 partake more abundantly of his redeeming power and holy presence?
 See ver. 6.
 
-Query 3. Are there some so visited and redeemed by the Lord,
+[.numbered]
+_Query 3._ Are there some so visited and redeemed by the Lord,
 as that they shall never be cast off more,
 as that the floods of wrath shall never overtake them more,
 nor the covenant of their peace be removed?
@@ -128,7 +147,8 @@ Ah, precious state!
 Blessed are they doubtless, who have been so visited and redeemed by God`'s mercy,
 as to be made partakers of it.
 
-Query 4. Who is this that hath been afflicted, tossed with tempests, and not comforted?
+[.numbered]
+_Query 4._ Who is this that hath been afflicted, tossed with tempests, and not comforted?
 Have there been any such in our days,
 who have been deeply afflicted for want of the presence of the Lord God of their life,
 who have been tossed up and down with tempest after tempest,
@@ -137,14 +157,16 @@ And hath the Lord appeared to these, visited these, built upon these, comforted 
 Surely then, the poor whom he hath raised out of the dust,
 and the needy whom he hath lifted off from the dunghill, cannot but praise his name.
 
-Query 5. Who is this, whose stones God lays with fair colors,
+[.numbered]
+_Query 5._ Who is this, whose stones God lays with fair colors,
 and her foundation with sapphires?
 Whose windows God makes of agates, and her gates of carbuncles,
 and all her borders of pleasant stones?
 Was not the covenant of life so adorned in the apostle`'s days?
 And is she not so adorned now again?
 
-Query 6. Whose children are they, who shall be all taught of the Lord,
+[.numbered]
+_Query 6._ Whose children are they, who shall be all taught of the Lord,
 and whose peace shall be great, who shall be established in righteousness,
 who shall be far from oppression, so that they shall not fear; and from terror,
 so that it shall not come near them?
@@ -157,7 +179,8 @@ and are established in the righteous Spirit and life of his Son;
 they are like Mount Zion, which cannot be shaken or removed,
 by all the terrors and oppressing devices of the ungodly.
 
-Query 7. By whom do they gather together, who gather together against such a people?
+[.numbered]
+_Query 7._ By whom do they gather together, who gather together against such a people?
 Certainly it is not by the Lord, nor by any advice or counsel from him;
 but by the advice of that spirit which opposeth himself
 against the power and work of the Lord:
@@ -178,7 +201,8 @@ Oh! the sweet sense of this day, and further hope thereof;
 how doth it bear up the suffering lambs,
 in the midst of all their trials and tribulations!
 
-Query 8. Hath not God created the waster to destroy?
+[.numbered]
+_Query 8._ Hath not God created the waster to destroy?
 And hath not he power over him?
 And doth not he limit him in the midst of his destroying work?
 But did God create him to destroy his heritage?
@@ -188,7 +212,8 @@ but God is the wise, great Master-builder, who counted his cost before he began,
 and knew he was able to maintain his building, against all the oppositions and opposers,
 which could rise up against it.
 
-Query 9. Can any weapon formed against the covenant of life, and the children thereof,
+[.numbered]
+_Query 9._ Can any weapon formed against the covenant of life, and the children thereof,
 who are taught of God, and have peace from him,
 and who are established by him in righteousness,--I say,
 can any weapon formed against these prosper?
@@ -198,6 +223,8 @@ And doth not the Lord say (whatever men say to the
 contrary) that their righteousness is of him?
 Indeed, whoever receiveth the true righteousness, receiveth it from the hand of the Lord,
 and knoweth it to be of him.
+
+====
 
 And this testimony we have, even from the Spirit of the Lord,
 who taketh away our unrighteousness and filthy garments,
@@ -248,4 +275,5 @@ Written in Reading jail, in the tender love, true innocency, and uprightness of 
 which the Lord hath given me to suffer with for his truth`'s sake;
 about the latter end of the 4th month, 1671.
 
-ISAAC PENINGTON
+[.signed-section-signature]
+Isaac Penington
