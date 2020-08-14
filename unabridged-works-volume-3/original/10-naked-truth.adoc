@@ -31,6 +31,7 @@ ____
 [.section-date]
 1674
 
+[.old-style]
 === Preface
 
 True knowledge and true experience, especially concerning things of necessity,
@@ -168,8 +169,10 @@ in the hearts of those that submit themselves willingly to him,
 and walk in the light and leadings of his Holy Spirit.
 Amen.
 
+[.old-style]
 === Naked Truth
 
+[.inline]
 ==== I. Concerning understanding the Holy Scriptures truly and aright
 
 [.discourse-part]
@@ -198,6 +201,7 @@ understanding,`" (Job 32:8) without which,
 man is dead, and can neither hear, nor see,
 nor understand any of the things of God`'s kingdom.
 
+[.inline]
 ==== II. Concerning the illuminating Spirit, and sanctifying Spirit
 
 [.discourse-part]
@@ -224,6 +228,7 @@ and so it is their reprover and condemner, and not their justifier and sanctifie
 But the same Spirit, light and life which enlighteneth, also sanctifieth,
 and there is not another.
 
+[.inline]
 ==== III. Concerning the Holy Spirit of God, and the Holy Scriptures
 
 [.discourse-part]
@@ -241,6 +246,7 @@ God`'s Holy Spirit; as the Jews were,
 who had them read in their synagogues every sabbath day, and yet Christ told them,
 "`Ye neither know the Scriptures, nor the power of God.`"
 
+[.inline]
 ==== IV. Concerning the Law of the Lord, which is perfect, and which converts the soul
 
 [.discourse-part]
@@ -272,6 +278,7 @@ and the holy testimony, statutes, and judgments of the Lord; and the spiritual J
 and Israel of God, in this the day of their redemption and salvation from on high,
 do follow the Lamb whithersoever he goes, and walk in the light of the Lord.
 
+[.inline]
 ==== V. Concerning David`'s longings, expressed in Ps. 42:43. 119. and other places
 
 [.discourse-part]
@@ -296,6 +303,7 @@ the sweetness of light within, truth within!
 Oh, the precious leadings and drawings thereof, which were once felt,
 upon a fresh and tender remembrance thereof, cannot but be longed after again!
 
+[.inline]
 ==== VI. Concerning the Sun, or Fountain of spiritual Light
 
 [.discourse-part]
@@ -323,6 +331,7 @@ or he that sets the Scriptures in the stead of that Word of life which they came
 testify of, and point men to,
 as the fountain and foundation of life and salvation to all mankind?
 
+[.inline]
 ==== VII. Concerning the Word`'s being a fire and a hammer to burn up the chaff, and break the rocks in pieces
 
 [.discourse-part]
@@ -348,6 +357,7 @@ and whose flesh is kept in that holy furnace, it will be consumed there day by d
 until it be quite wasted and destroyed,
 and so he come to be judged according to the flesh, and to live to God in the Spirit.
 
+[.inline]
 ==== VIII. Concerning God`'s writing his law in the heart
 
 [.discourse-part]
@@ -374,6 +384,7 @@ quickening power?
 Every motion and drawing whereof is a law to them who are born of the Spirit,
 and taught of God to eye and walk after the quickening Spirit.
 
+[.inline]
 ==== IX. Concerning the inward light of God`'s Spirit
 
 [.discourse-part]
@@ -402,6 +413,7 @@ and hath power and rule there;
 for nothing but the light and strength of God`'s Spirit is able
 to break his kingdom and dominion inwardly in the heart.
 
+[.inline]
 ==== X. Concerning the ministers and ministry of the gospel
 
 [.discourse-part]
@@ -441,6 +453,7 @@ from the Lord God Almighty to speak in his name, either for turning men unto Chr
 the light and life of men, or for building men up in their holy faith in him,
 whose Spirit and power was and is the resurrection in the life forevermore.
 
+[.inline]
 ==== XI. Concerning trying of spirits, and searching the heart
 
 [.discourse-part]
@@ -462,6 +475,7 @@ which gives them to know his voice, to know when life speaks, and when words are
 and food for the living; and in what mouth they are dead,
 and cannot yield living nourishment.
 
+[.inline]
 ==== XII. Concerning things necessary to Salvation
 
 [.discourse-part]
@@ -487,6 +501,7 @@ and by whom they are conveyed to the soul, according to its need,
 by him who is faithful in all his house,
 and takes care of every sheep which the Father committeth to him.
 
+[.inline]
 ==== XIII. Concerning the true Gospel Church, or Society
 
 [.discourse-part]
@@ -509,6 +524,7 @@ For about this church is the wall of salvation;
 and they that are added by God`'s Spirit and power to this church, and abide in it,
 shall certainly be saved.
 
+[.inline]
 ==== XIV. Concerning the Way to Salvation
 
 [.discourse-part]
@@ -532,6 +548,7 @@ comes to him; he that abides therein, abides in him; he that walks therein, walk
 and he that walks out of the light and leading of his Spirit,
 let him walk in what form he will, yet he walks not in him, the way.
 
+[.inline]
 ==== XV. Concerning Christ`'s saving the Soul.
 
 [.discourse-part]
@@ -556,6 +573,7 @@ and walks in the light, as he is in the light;
 and by the further shining and working of the light and life in him,
 he preserves and saves him daily more and more.
 
+[.inline]
 ==== XVI. Concerning Regeneration, or the New Birth
 
 [.discourse-part]
@@ -574,6 +592,7 @@ by the very same power wherewith he raised our Lord Jesus Christ from the grave,
 makes in the hearts of those whom he visits; who are sensible of, receive,
 and are subject to his inward life, light, and power.
 
+[.inline]
 ==== XVII. Concerning true Holiness
 
 [.discourse-part]
@@ -591,6 +610,7 @@ but in the trees of God`'s planting,
 in the branches which are by him ingrafted into the true vine and olive-tree,
 whose strength of virtue and holiness lies in the sap, which they daily receive from him.
 
+[.inline]
 ==== XVIII. Concerning Christ`'s Works outwardly in the days of his flesh, and inwardly in the day and inward shining of the light of his Spirit in the heart
 
 [.discourse-part]
@@ -608,6 +628,7 @@ Doubtless to reach to the soul, and quicken the soul,
 and raise the soul out of the grave of death, and cure the blindness, deafness, hardness,
 and diseases of the soul, is greater than the outward, and was signified by the outward.
 
+[.inline]
 ==== XIX. Concerning the yoke, or cross of Christ
 
 [.discourse-part]
@@ -628,6 +649,7 @@ where it hath scope unto holiness, freedom unto righteousness,
 and is in strait bonds and holy chains from all liberty to the flesh,
 and from all unholiness and unrighteousness of every kind.
 
+[.inline]
 ==== XX. Concerning making our calling and election sure
 
 [.discourse-part]
@@ -662,6 +684,7 @@ and find them sealed, and sure to thee, in that truth, in that gift,
 in that heavenly light, in that holy seed, which came from God, and is of him,
 and which he delights to own, and will never reject.
 
+[.inline]
 ==== XXI. Concerning Prayer
 
 [.discourse-part]
@@ -682,6 +705,7 @@ the very groanings that come from God`'s Spirit,
 from his breathing and work upon the heart, are right prayers in God`'s sight;
 but other sighs and groans are not so.
 
+[.inline]
 ==== XXII. Concerning Repentance
 
 [.discourse-part]
@@ -706,6 +730,7 @@ This is the repentance of the renewed ones,
 which is the gift of the Lord Jesus Christ unto them,
 and is a godly sorrow for sin not to be repented of.
 
+[.inline]
 ==== XXIII. Concerning Faith
 
 [.discourse-part]
@@ -735,6 +760,7 @@ interest in his power and promises, and victory over the worldly nature,
 and over all the soul`'s enemies.
 Blessed be the Lord for bestowing and increasing it in the hearts of his children.
 
+[.inline]
 ==== XXIV. Concerning Obedience
 
 [.discourse-part]
@@ -770,6 +796,7 @@ It is frequently and abundantly experienced by his holy birth,
 by the child of his begetting.
 Blessed be the name of the Lord.
 
+[.inline]
 ==== XXV. Concerning Justification
 
 [.discourse-part]
@@ -803,6 +830,7 @@ Oh! blessed is he who is not deceived with dead notions of justification,
 but feels the justification which comes from God, and is accompanied with a living sense,
 and with the testimony of his Holy Spirit.
 
+[.inline]
 ==== XXVI. Concerning good Works
 
 [.discourse-part]
@@ -840,6 +868,7 @@ The erring man`'s way and works are often right in his own eyes;
 ah! but blessed is he whose way and works are good and right in the eye of the Lord,
 in the judgment of his searching, unerring light and Spirit.
 
+[.inline]
 ==== XXVII. Concerning Love
 
 [.discourse-part]
@@ -867,6 +896,7 @@ and his brethren in the Spirit, and all mankind,
 who are of his blood (for of one blood God made all mankind) according to the flesh,
 or according to a natural consideration.
 
+[.inline]
 ==== XXVIII. Concerning Meekness and Patience
 
 [.discourse-part]
@@ -888,6 +918,7 @@ Indeed this is of much price in the sight of the Lord,
 and also in the eye of him who hath received it from the Lord, and enjoyeth it in him,
 and possesseth his soul in him.
 
+[.inline]
 ==== XXIX. Concerning the knowledge of the new covenant
 
 [.discourse-part]
@@ -920,6 +951,7 @@ and relation of things) have not the knowledge of the new covenant,
 the knowledge of the thing itself; but only an outward knowledge,
 such as the first birth may catch at, lay hold on, and comprehend.
 
+[.inline]
 ==== XXX. Concerning the fear of the new covenant
 
 [.discourse-part]
@@ -941,6 +973,7 @@ And he that would have this fear, must know the place of wisdom, and wait there 
 and when he hath it, this fear will soon begin to make him wise towards salvation,
 and teach him to depart from evil, which is the cause of destruction. Job 28:28.
 
+[.inline]
 ==== XXXI. Concerning Hope
 
 [.discourse-part]
@@ -976,6 +1009,7 @@ and cause light to break out of obscurity; for light is sown for the righteous,
 and joy for the upright, even in their darkest, saddest, and most distressed conditions;
 in all which the Lord is near them, and there is still ground for them to hope in him.
 
+[.inline]
 ==== XXXII. Concerning Peace
 
 [.discourse-part]
@@ -1002,6 +1036,7 @@ and would not for all this world, for any fear, or danger,
 or expectation of any thing from without,
 hazard the breaking off this precious peace and rest of his soul in his God.
 
+[.inline]
 ==== XXXIII. Concerning Joy
 
 [.discourse-part]
@@ -1054,6 +1089,7 @@ where the power is revealed which does away that which is contrary to the holy f
 and hinders the holy joy and rejoicing in the Lord.
 See 1 John 1:3-4.
 
+[.inline]
 ==== XXXIV. Concerning poverty of spirit and humility
 
 [.discourse-part]
@@ -1096,6 +1132,7 @@ by his power, by his wisdom, by his righteousness, by his holiness,
 which he of his own good pleasure communicateth and causeth to spring in me,
 and filleth and clotheth me with, as seemeth good in his sight.
 
+[.old-style]
 === The Conclusion
 
 There is mention made in the book of the Revelations,
@@ -1144,6 +1181,7 @@ by him that is born of God in whom the seed remaineth, which overcometh the wick
 bruiseth him and keepeth him under:
 and the just live by the faith which giveth victory over him.
 
+[.old-style]
 === A Preface to the Experiences
 
 It hath pleased the Lord, to unseal and open the Fountain of life,
@@ -1228,8 +1266,10 @@ to the builder up of the wasted and desolate ones!
 Glory to his tender mercy, glory to his grace, glory to his love, glory to his wisdom,
 glory to his power, forever and ever, amen
 
+[.old-style]
 === Some Experiences Added
 
+[.inline]
 ==== I. Concerning the seed of the kingdom
 
 Concerning the seed of the kingdom, this I have experienced;
@@ -1247,6 +1287,7 @@ which, as a holy leaven or salt, worketh out that which is unholy and unrighteou
 dark and dead, and seasoneth with light, with life, with grace,
 with the holiness and righteousness of truth.
 
+[.inline]
 ==== II. Concerning the soul`'s food
 
 The soul`'s food is that which nourisheth it,
@@ -1270,6 +1311,7 @@ and so by the sap that springs up into me from him,
 my life is maintained and increased in me daily.
 Glory to his name forever.
 
+[.inline]
 ==== III. Concerning God`'s power
 
 Concerning God`'s power, this I have experienced;
@@ -1291,6 +1333,7 @@ and works, as it gains ground on the creature,
 to put forth and exercise in it the virtue and strength
 which it daily receiveth from its Father.
 
+[.inline]
 ==== IV. Concerning Temptations
 
 Concerning temptations, this I have experienced; that the strength and hurt of them,
@@ -1331,6 +1374,7 @@ The Spirit of darkness, the prince of darkness, is shut out of the land of the l
 Abide thou there: dwell in the light, and walk in the light, as God is in the light,
 and he shall never have power over thee.
 
+[.inline]
 ==== V. Concerning Prayer
 
 I have experienced prayer to be the breathing of that birth which God begets,
@@ -1356,6 +1400,7 @@ And through this Spirit it prays to God,
 and prevails with him on the behalf of others also.
 For the prayers of the righteous avail much, as it is written.
 
+[.inline]
 ==== VI. Concerning Justification and Sanctification, some things which it hath pleased the Lord, in his tender mercy, to give me to experience
 
 [.numbered-group]
@@ -1458,6 +1503,7 @@ and his labor is not in vain in the Lord.
 
 ====
 
+[.inline]
 ==== VII. Concerning Faith
 
 Several things I have experienced, both concerning the nature, virtue,
@@ -1571,6 +1617,7 @@ and he that fights the good fight of faith, shall overcome:
 but he that overcomes not his enemies, which stand in his way,
 shall be sure to be hindered by them from attaining to his journey`'s end.
 
+[.inline]
 ==== VIII. Concerning Obedience, some experiences also
 
 [.numbered-group]
@@ -1638,6 +1685,7 @@ For he that truly believes in Christ, is turned by him to his light,
 and to the power of his Father; and the peace, growth, joy, blessedness,
 etc. is witnessed in subjection thereto.
 
+[.inline]
 ==== IX. Concerning the cross of Christ
 
 This I have experienced concerning the cross of our Lord Jesus Christ;
@@ -1711,6 +1759,7 @@ And whosoever in his travels leaves the cross behind him, does draw back unto pe
 and not travel on, in the living faith, and newness of obedience,
 towards the salvation of the soul.
 
+[.inline]
 ==== X. Concerning the Mystery of Life, and the Mystery of the Fellowship which is therein.
 
 God is hid from man, as he lies in his sinful and fallen state;
@@ -1769,6 +1818,7 @@ Blessed is the eye which sees into the mystery, into the life itself,
 where there is no offence.
 Truth is one and the same forever.
 
+[.inline]
 ==== XI. Concerning judging according to the appearance, and judging righteous judgment.
 
 Judge not according to the appearance, said Christ, but judge righteous judgment.
@@ -1858,6 +1908,7 @@ somewhat else will be judging in thee,
 which will judge according to the appearance of things to thy mind,
 and so thou wilt miss of the true and righteous judgment of God`'s Spirit.
 
+[.inline]
 ==== XII. A question answered about knowing God`'s Spirit
 
 [.discourse-part]
@@ -1888,6 +1939,7 @@ Oh! blessed are they who have their eyes opened and kept open in it,
 to discern the mystery of godliness and the mystery of iniquity,
 that they may be preserved safe in the one, out of the reach of the other!
 
+[.inline]
 ==== XIII. Some queries concerning the seed of the kingdom, in which the kingdom itself is contained (as the nature and substance of things are contained in the seed thereof), and out of which it springeth up and ariseth in the heart
 
 [.numbered-group]
@@ -2045,6 +2097,7 @@ Oh that all that truly breathe after the Lord might be gathered hither, found he
 and dwell here!
 Amen.
 
+[.old-style]
 === Postscript to the Experiences
 
 Persons that have had some true touches of life, and true breathings after the Lord,
@@ -2085,7 +2138,8 @@ and may serve and worship the Lord in the beauty of the inward holiness,
 as the outward Israel was outwardly, to be, and to do,
 in that outward ministration of the shadows of the gospel state.
 
-=== Some scriptures very sweet, and necessary to be experienced in the gospel state
+[.old-style]
+=== Some Scriptures Very Sweet / And Necessary to be Experienced in the Gospel State
 
 "`This is life eternal, that they might know thee the only true God,
 and Jesus Christ whom thou hast sent.`" John 17:3. There
@@ -2532,7 +2586,8 @@ and give them the key which opens into the truth, even into the mystery thereof,
 wherein is the hidden life and virtue.
 Amen.
 
-=== A Few Words Concerning the True Christ; How It May Be Certainly and Infallibly Known Which Is He
+[.old-style]
+=== A Few Words Concerning the True Christ / How It May Be Certainly and Infallibly Known Which Is He
 
 This question relates not to his outward appearance,
 in the days of his flesh; but to his inward and spiritual appearance,
@@ -2633,7 +2688,8 @@ and through me; and therein lies all my ability and strength forevermore.
 
 ====
 
-=== A Few Words in the Bowels of Tender Love and Good Will To My Native Country
+[.old-style]
+=== A Few Words / In the Bowels of Tender Love and Good Will To My Native Country
 
 It is written, "`When thy judgments are in the earth,
 the inhabitants of the world shall learn righteousness.`"
