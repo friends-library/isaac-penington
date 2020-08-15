@@ -37,13 +37,13 @@ Of whom are the fathers, and of whom as concerning the flesh Christ came,
 who is over all, God blessed forever. Amen.
 ____
 
-=== PREFACE
+=== Preface
 
-HAVING been lately at London,
+Having been lately at London,
 upon occasion of a meeting between some of the people called Quakers,
 and some of the people called Anabaptists, and other confederates,
 wherein I was somewhat concerned, being charged or brought in by Thomas Hicks,
-in his second book of Dialogues, called Continuation, p. 4 to prove,
+in his second book of [.book-title]#Dialogues,# called "`Continuation,`" p. 4 to prove,
 that the Quakers account the blood of Christ no more than a common thing;
 and having been at that meeting to clear my innocency in that particular,
 but the thing not then coming in question,
@@ -125,11 +125,11 @@ and the love, truth, and uprightness wherein I wrote these things owned by him.
 But in the love of God, and in the stillness and tenderness of my spirit,
 I was moved by him to write what follows.
 And oh that it would please the Lord to make it serviceable even to T.H. himself,
-for his good!
+for his good
 
-=== THE FLESH AND BLOOD OF CHRIST, etc.
+=== The Flesh and Blood of Christ, etc.
 
-IN the second part of Thomas Hick`'s Dialogues called "`Continuation,`" p. 4.
+In the second part of Thomas Hick`'s [.book-title]#Dialogues# called "`Continuation,`" p. 4.
 he maketh his personated Quaker speak thus:
 "`Thou sayest, we account the blood of Christ no more than a common thing; yea,
 no more than the blood of a common thief.`"
@@ -146,7 +146,11 @@ and to know what the intent of my heart and words (as spoken by me) was,
 I shall say somewhat to his stating the question,
 and then open my heart nakedly and plainly, as it then was, and still is, in this matter.
 
-First, I answer, these were not my words, which he hath set down as mine,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ I answer, these were not my words, which he hath set down as mine,
 but words of his own patching up, partly out of several queries of mine,
 and partly out of his own conceivings upon my queries,
 as if he intended to make me appear both ridiculous and wicked at once.
@@ -193,7 +197,8 @@ by the word veil, intended no more than the flesh, or outward body,
 which in scripture is expressly so called, Heb. 10:20. "`through the veil,
 that is to say, his flesh.`"
 
-Secondly, I cannot but take notice of this, that he hath not cited the place, page,
+[.numbered]
+_Secondly,_ I cannot but take notice of this, that he hath not cited the place, page,
 or pages; nay, not so much as named the book,
 where those words or sayings which he attributeth to me are written;
 whereby any persons that are not willing to take things
@@ -207,7 +212,8 @@ and also followed after; and with what was said in several other places of the b
 which speak of Christ`'s flesh and blood as of no common thing,
 but as that which God makes use of toward the redemption of mankind.
 
-Thirdly,
+[.numbered]
+_Thirdly,_
 The drift of all those queries in that book was not
 to vilify the flesh and blood of Christ,
 by representing it as a common or useless thing,
@@ -230,7 +236,9 @@ And that this was my intent, these words following,
 in the second page of my preface to that book, do plainly express.
 The words are these:--
 
-"`Now to draw men`'s minds to a sense of truth, to a sense of that which is the thing,
+[quote]
+____
+Now to draw men`'s minds to a sense of truth, to a sense of that which is the thing,
 that they might know the bread indeed, that they might know the living waters,
 come to them, and drink thereof,
 and find Christ in them a well of water springing up to eternal life;
@@ -238,7 +246,8 @@ therefore was it in my heart to give forth this question and the ensuing queries
 which he that rightly answers, must know the thing; and he that doth not know the thing,
 by his inability to answer, may find that he doth not, and so may wait upon God,
 that he may receive the knowledge of it, and come to it,
-for the eternal life which it freely giveth.`"
+for the eternal life which it freely giveth.
+____
 
 And that I did mean the mystery, when I spake of bread, water, the wine,
 the live coal from the altar, the leaves of the tree of life, the putting on Christ,
@@ -269,7 +278,8 @@ and another thing what a man feels in Spirit.`" Is it not manifest,
 by the express words themselves,
 that I spake of the inward feeling of the blood in the mystery?
 
-Fourthly, This query,
+[.numbered]
+_Fourthly,_ This query,
 "`Can outward blood cleanse the conscience,`" etc. doth not necessarily,
 nor indeed at all infer, that the blood of Christ, as to the outward,
 was but a common thing, or useless.
@@ -307,6 +317,8 @@ I shall now plainly open my heart, how it hath been, and is still,
 with me in this respect,
 since it pleased the Lord and Father of mercies to
 reveal the mystery of himself and of his Son in me.
+
+====
 
 In the first place, I freely confess, that I do own and acknowledge, as in God`'s sight,
 OUR LORD JESUS CHRIST, HIS FLESH AND BLOOD IN THE MYSTERY.
@@ -369,7 +381,11 @@ and so miss of the mystery of the Spirit, wherein is the quickening virtue,
 and look only at the outward body or flesh, which, without the Spirit, profiteth not,
 nor ever can profit man.
 
-Secondly, I confess further, that I have the sense, experience,
+[.numbered-group]
+====
+
+[.numbered]
+_Secondly,_ I confess further, that I have the sense, experience,
 and knowledge of this also, that in the mystery is the quickening virtue,
 the cleansing virtue, the nourishing virtue, unto life eternal.
 The Spirit, the water, the blood inwardly sprinkled,
@@ -385,7 +401,8 @@ Isa. 6. Oh, read inwardly!
 Oh, wait to be taught of God to read inwardly, that ye may know what these things mean!
 Why should ye quarrel at the precious and tender openings of truth, in love to your souls?
 
-Thirdly, I have likewise this sense, and have also had this knowledge and experience,
+[.numbered]
+_Thirdly,_ I have likewise this sense, and have also had this knowledge and experience,
 that the outward without this cannot avail.
 A man is not cleansed by notions or apprehensions concerning the thing,
 but by the thing itself.
@@ -407,7 +424,8 @@ or of his obedience and sufferings in the flesh,
 but rather are taught and enabled there rightly to understand it,
 and to reap the benefits and precious fruits of it.
 
-Fourthly, The Lord hath shown me this also, very manifestly and clearly,
+[.numbered]
+_Fourthly,_ The Lord hath shown me this also, very manifestly and clearly,
 that in former times (in this nation as well as elsewhere),
 before professors ran so into heaps (I mean,
 into several ways and forms of church-fellowship, so called),
@@ -458,6 +476,8 @@ and I do acknowledge humbly unto the Lord the remission of my sins thereby,
 and bless the Lord for it; even for giving up his Son to death for us all,
 and giving all that believe in his name and power to partake of remission through him.
 
+====
+
 And seeing it is thus with me, seeing the root of the matter is in me, oh,
 how can any man, that hopes to be redeemed by my Lord and Saviour,
 reproach me for speaking of the mystery, without the least derogation to the outward,
@@ -486,9 +506,9 @@ and confess him in Spirit, in the mystery, even in his inward appearance in the 
 and might feel his redeeming power and virtue there,
 and so be brought into union and fellowship with him!
 
-=== THE CONCLUSION OF THE FIRST PART
+=== The Conclusion of the First Part
 
-THERE is a precious promise of God`'s making a feast of fat things on his holy mountain,
+There is a precious promise of God`'s making a feast of fat things on his holy mountain,
 and of destroying there the face of the covering, cast over all people,
 and the veil that is spread over all nations. Isaiah 25:6-7.
 Now, what is this mountain?
@@ -557,12 +577,15 @@ Amen.
 
 === A Brief Account Concerning the People Called Quakers
 
+[.heading-continuation-blurb]
 We are a people of God`'s gathering, who (many of us)
 had long waited for his Appearance, and had undergone great Distress for want thereof.
 
+[.discourse-part]
 Question.
-BUT some say, What appearance of the great God and Saviour did ye want?
+But some say, What appearance of the great God and Saviour did ye want?
 
+[.discourse-part]
 Answer.
 We wanted the presence and power of his Spirit to be inwardly manifested in our spirits.
 We had (as I may say) what we could gather from the letter,
@@ -573,9 +596,11 @@ we wanted the knowledge of the heavenly seed and kingdom, and an entrance into i
 and the holy dominion and reign of the Lord of life over the flesh,
 over sin and death in us.
 
+[.discourse-part]
 Question.
 How did God appear to you?
 
+[.discourse-part]
 Answer.
 The Sun of righteousness did arise in us, the day spring from on high,
 the morning-star did visit us,
@@ -583,9 +608,11 @@ insomuch that we did as really see and feel the light
 and brightness of the inward day in our spirits,
 as ever we felt the darkness of the inward night.
 
+[.discourse-part]
 Question.
 How did God gather you?
 
+[.discourse-part]
 Answer.
 By the voice of his Son, by the arm of his Son,
 by the virtue of his Son`'s light and life inwardly revealed and working in our hearts.
@@ -675,7 +702,11 @@ as it pleaseth the Lord to open my heart at this time in love and
 good will to satisfy and remove prejudices where it may be;
 thus it is in brief:
 
-First,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_
 That which God hath given us the experience of (after
 our great loss in the literal knowledge of things),
 and that which he hath given us to testify of, is the mystery, the hidden life,
@@ -692,7 +723,8 @@ we mind our peculiar work and are faithful in that
 which God hath peculiarly called us to,
 and requireth of us.
 
-Secondly, There is not that need of publishing the other as formerly was.
+[.numbered]
+_Secondly,_ There is not that need of publishing the other as formerly was.
 The historical relation concerning Christ is generally believed
 and received by all sorts that pretend to Christianity.
 His death, his miracles, his rising, his ascending, his interceding,
@@ -700,7 +732,8 @@ etc. is generally believed by all people; but the mystery they miss of,
 the hidden life they are not acquainted with, but alienated from the life of God,
 in the midst of their literal owning and acknowledging of these things.
 
-Thirdly, The knowledge of these, without the knowledge of the mystery,
+[.numbered]
+_Thirdly,_ The knowledge of these, without the knowledge of the mystery,
 is not sufficient to bring them unto God;
 for many set up that which they gather and comprehend
 from the relation concerning the thing,
@@ -726,7 +759,8 @@ the corner,`" who knits together his sanctified body,
 his living body, the church, in this our day,
 more gloriously than in the former ages and generations, blessed be the name of our God.
 
-Fourthly, The mystery, the hidden life, the appearance of Christ in Spirit,
+[.numbered]
+_Fourthly,_ The mystery, the hidden life, the appearance of Christ in Spirit,
 comprehends the other: and the other is not lost or denied, but found in it,
 and there discerned or acknowledged more clearly and abundantly.
 It was to be after it, and comprehends that which went before it.
@@ -769,11 +803,17 @@ but in due time the Lord can make them manifest to thee,
 if thou in uprightness and tenderness of heart, and in the silence of the fleshly part,
 wait upon him.
 
-=== A FEW WORDS CONCERNING THE WAY OF PEACE
+====
 
-"`The way of peace they have not known.`" Rom. 3:17.
+=== A Few Words Concerning the Way of Peace
 
-THERE is a way of peace, of true peace with God,
+[quote.scripture, , Rom. 3:17]
+____
+
+The way of peace they have not known.
+____
+
+There is a way of peace, of true peace with God,
 who is an adversary to all that is unholy and unrighteous.
 Those who have been unholy and unrighteous, who have been awakened, troubled,
 and could find no rest,
@@ -803,10 +843,12 @@ These greatly differ from the Gentile or profane state, both in outward appearan
 and in their own eye; but are the same in the ground with the Gentiles,
 and know no more of the way of peace than the other do.
 
+[.discourse-part]
 Question.
 But what is the way of peace, which neither the profane,
 nor any sort of professors out of the life and power, ever knew, or can know?
 
+[.discourse-part]
 Answer.
 It is an inward way, a way for the inward Jews,
 for the inwardly renewed and circumcised to walk in.
@@ -842,9 +884,9 @@ here is life and peace, rest and joy forevermore.
 The Lord of his tender mercy give men a sense of it, and lead men into it more and more.
 Amen.
 
-=== THE CONCLUSION OF THE WHOLE
+=== The Conclusion of the Whole
 
-THERE is a birth which is born, not of blood, nor of the will of the flesh,
+There is a birth which is born, not of blood, nor of the will of the flesh,
 nor of the will of man, but of God. John 1:13.
 And this birth, which is born of the Spirit, is Spirit.
 chap.
@@ -930,7 +972,7 @@ sanctifying, yea, and justifying also), than any but those only that are born of
 and kept alive by him, yet ever knew, or can know.
 
 [.centered]
-=== POSTSCRIPT
+=== Postscript
 
 [.heading-continuation-blurb]
 Containing a few Words concerning the Doings and
@@ -938,7 +980,7 @@ Sufferings of that despised People called Quakers,
 which are both misunderstood and misrepresented by many:
 with an Exhortation to true Christianity.
 
-FIRST, their doings are looked upon by many to be from a natural principle,
+First, their doings are looked upon by many to be from a natural principle,
 and according to the covenant of works,
 and not from the free grace and gift of God`'s Spirit.
 
@@ -1048,14 +1090,14 @@ Surely his pure praises shall be sounded in the hearts of the living forever and
 Amen.
 
 [.centered]
-=== AN EXHORTATION TO TRUE CHRISTIANITY
+=== An Exhortation to True Christianity
 
 [.heading-continuation-blurb]
 It is easy to pretend to _Christ;_ but to be a true Christian is very precious,
 and many Tribulations and deep Afflictions are to be passed through before it be attained unto,
 as those who are made so by the Lord experience.
 
-NOW everlasting happiness and salvation depends upon true Christianity.
+Now everlasting happiness and salvation depends upon true Christianity.
 Not upon having the name of a Christian only,
 or professing such or such Christian doctrines;
 but upon having the nature of Christianity, upon being renewed by the Spirit of Christ,
@@ -1075,7 +1117,11 @@ I shall set down some few things, which he that inwardly knoweth, witnesseth,
 and enjoyeth, is without all controversy a true Christian,
 whatever men may account of him.
 
-First, He that is a new creature, is without doubt a true Christian.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ He that is a new creature, is without doubt a true Christian.
 He that is regenerated, he that is renewed in the spirit of his mind by Christ Jesus,
 he that is new created in the holy and heavenly image,
 he has felt the power of God`'s Spirit begetting him anew, forming him anew,
@@ -1083,7 +1129,8 @@ out of the old nature and image of the first Adam,
 into the nature and image of the second Adam, who is the quickening Spirit,
 and that which is begotten and born of him is Spirit.
 
-Secondly, He that is in the new covenant is a true Christian.
+[.numbered]
+_Secondly,_ He that is in the new covenant is a true Christian.
 He that hath thirsted after the living waters,
 and hath heard the call to the waters of life,
 hath heard the voice of him who gives life, and hath received life from him,
@@ -1092,20 +1139,23 @@ and who maketh the new and everlasting covenant with all that hear his voice,
 take up his cross and follow him, he is without doubt one of Christ`'s sheep,
 whom the Shepherd owneth, and taketh care of.
 
-Thirdly, He that is inwardly circumcised with the circumcision made without hands,
+[.numbered]
+_Thirdly,_ He that is inwardly circumcised with the circumcision made without hands,
 he is a Jew inward, a Christian inward (in the sight of God),
 who hath felt the Spirit and power of Christ Jesus, and rejoiceth in Christ Jesus,
 and is one of those worshippers whom God hath sought out,
 and taught to worship him in the life and Spirit of his Son.
 
-Fourthly, He that is inwardly washed with clean water, with the inward water,
+[.numbered]
+_Fourthly,_ He that is inwardly washed with clean water, with the inward water,
 he is the inward Jew, the inward Christian.
 God promised to pour out clean water upon his Israel, and they should be clean.
 He who hath the clean water poured upon him inwardly,
 which inwardly washeth and cleanseth,
 he is without controversy one of God`'s inward Israel.
 
-Fifthly, He that feeds on the bread of life within,
+[.numbered]
+_Fifthly,_ He that feeds on the bread of life within,
 and drinks the water of life out of his own well or cistern, he without doubt is living.
 He that is invited to the marriage supper of the Lamb, and comes and sups with the Lamb,
 he is one of the same nature and spirit with him.
@@ -1116,7 +1166,8 @@ and drinks wine in the kingdom, and partakes of the feast of fat things,
 which God makes to his Israel in his holy mountain, he is without doubt one of Christ`'s,
 and partakes of this in and through him.
 
-Sixthly, He that lives the Christian life, who walks not after the flesh,
+[.numbered]
+_Sixthly,_ He that lives the Christian life, who walks not after the flesh,
 but after the Spirit; who doth not fulfill the lusts of the flesh,
 but hath the law of God written in his heart, and his fear put within him,
 and his Holy Spirit given to instruct him,
@@ -1124,7 +1175,8 @@ and to guide him to answer the holy law written in his heart,
 which the carnal mind is not subject to, nor can be subject to,
 without doubt he is spiritual; without doubt he is a true Christian.
 
-Seventhly, He that lives by faith, who knows the faith which is the gift of God,
+[.numbered]
+_Seventhly,_ He that lives by faith, who knows the faith which is the gift of God,
 hath received it, and lives by it; who can do nothing of himself,
 but only by faith in that holy power which doth all in him; so that he lives,
 and believes, and obeys from a holy root of life, which causeth life to spring up in him,
@@ -1133,6 +1185,8 @@ and all grace to spring up in him,--I say, he that lives thus,
 without doubt is ingrafted into the true vine, into the true olive-tree;
 and the root bears him, and ministers sap unto him, and he is a true, fresh, green,
 living branch of the true vine, of the holy olive-tree.
+
+====
 
 Many more things might be mentioned, as they are experimentally known and felt among us,
 who are true Christians;
