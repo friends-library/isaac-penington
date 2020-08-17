@@ -54,7 +54,7 @@ To +++_______+++ +++_______+++
 [.salutation]
 My Dear Friend,
 
-+++...+++ This then is the way of redemption;
+&hellip;This then is the way of redemption;
 to wait to feel the appearance of the light of the Spirit in the heart; and,
 at its least or lowest appearance, to be turned from the darkness towards it.
 Oh! feel the redeeming arm in thine own heart,
@@ -4061,7 +4061,7 @@ London, 1st of Ninth Month, 1675
 To Catherine Pordage
 
 [.salutation]
-Ah! My Poor, Distressed, Entangled Friend,
+Ah! My poor, distressed, entangled friend,
 
 While thou seekest to avoid the snare, thou deeply runnest into it:
 for thou art feeding on the tree of knowledge, in giving way to these thoughts,
@@ -4156,7 +4156,7 @@ Amersham, 25th of Ninth Month, 1675
 To My Dear Suffering Friends in Scotland
 
 [.salutation]
-Dear Freinds and Brethren,
+Dear Friends and Brethren,
 
 Who have partaken of the tender mercy and blessed visitation of the Lord.
 
@@ -4660,7 +4660,7 @@ I+++.+++ P.
 To Thomas Walmsley
 
 [.salutation]
-Friend T.W.,
+Friend T. W.,
 
 God is love: and he giveth love, and teacheth to love;
 and with the love which my God hath given me, and wherewith he hath taught me to love,
@@ -5159,8 +5159,8 @@ I am thy friend, in true love and desires for thee,
 [.signed-section-signature]
 I+++.+++ P.
 
-[.letter-heading]
-The Plain Path-way of Salvation
+[.centered]
+=== The Plain Path-way of Salvation
 
 [.discourse-part]
 The Lord Jesus Christ is the only Saviour.
@@ -5219,7 +5219,7 @@ I+++.+++ P.
 Astrop, 28th of Sixth Month, 1678
 
 [.letter-heading]
-To the Women Friends That Meet at Armscot in Worchestershire
+To the Women Friends That Meet at Armscot in Worcestershire
 
 [.salutation]
 Dear Friends,
