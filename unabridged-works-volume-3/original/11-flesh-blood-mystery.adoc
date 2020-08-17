@@ -577,7 +577,7 @@ Amen.
 
 === A Brief Account Concerning the People Called Quakers
 
-[.heading-continuation-blurb]
+[.section-summary-preface]
 We are a people of God`'s gathering, who (many of us)
 had long waited for his Appearance, and had undergone great Distress for want thereof.
 
@@ -807,10 +807,10 @@ wait upon him.
 
 === A Few Words Concerning the Way of Peace
 
-[quote.scripture, , Rom. 3:17]
+[quote.section-epigraph]
 ____
 
-The way of peace they have not known.
+The way of peace they have not known. Rom. 3:17
 ____
 
 There is a way of peace, of true peace with God,
