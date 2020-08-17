@@ -1,52 +1,78 @@
-== SOMEWHAT RELATING TO CHURCH-GOVERNMENT 
+== Somewhat Relating to Church-government
 
-WHEREIN THE
+[.heading-continuation-blurb]
+Wherein the necessity, usefulness,
+and blessed effects of the true church-government are here and there hinted at;
+and this clearly manifested,
 
-NECESSITY, USEFULNESS, AND BLESSED EFFECTS OF THE TRUE CHURCH-GOVERNMENT ARE HERE AND THERE HINTED AT; AND THIS CLEARLY MANIFESTED
+[.heading-continuation-blurb]
+That the authority and power of Christ`'s spirit
+in his church is no usurped antichristian authority,
+nor contrary to the true light and liberty of any particular member,
+but a cherisher and preserver of it.
 
-THAT
+[.heading-continuation-blurb]
+As also _remarks_ upon some passages in a late book, entitled,
+"`Antichrist`'s Transformations Within Discovered by the Light Within.`"
 
-THE AUTHORITY AND POWER OF CHRIST`'S SPIRIT IN HIS CHURCH IS NO USURPED ANTICHRISTIAN AUTHORITY, NOR CONTRARY TO THE TRUE LIGHT AND LIBERTY OF ANY PARTICULAR MEMBER, BUT A CHERISHER AND PRESERVER OF IT
+[.heading-continuation-blurb]
+Wherein the antichristian transformer is made manifest,
+and the light within cleared from his false imputations and pretences to it.
 
-AS ALSO
+[.heading-continuation-blurb]
+Written in obedience to Him that is true:
+who hath given a certain testimony against him that is false,
+to very many in this his day; and, among others, to me also;
+whom he hath pleased to gather and own among his children and servants in truth.
 
-REMARKS
+[.section-author]
+Isaac Penington
 
+[.section-author]
+ca. 1675, published posthumously
 
-UPON SOME PASSAGES IN A LATE BOOK, ENTITLED, "`ANTICHRIST`'S TRANSFORMATIONS WITHIN`" DISCOVERED BY THE LIGHT WITHIN
+[quote.section-epigraph, , 1 Cor 14:33]
+____
+For God is not the author of confusion, but of peace,
+as in all churches of the saints.
+____
 
-WHEREIN THE
+[quote.section-epigraph, , 1 Cor 5:12]
+____
+For what have I to do, to judge them also that are without?
+Do not ye judge them that are within?
+____
 
+[quote.section-epigraph, , Isa. 9:6-7]
+____
+The government shall be upon his shoulder, etc.
+Of the increase of his government and peace, no end, etc.
+____
 
-ANTICHRISTIAN TRANSFORMER IS MADE MANIFEST, AND THE LIGHT WITHIN CLEARED FROM HIS FALSE IMPUTATIONS AND PRETENCES TO IT
+[quote.section-epigraph, , Matt. 18:7]
+____
+Woe unto the world, because of offences; for it must needs be, that offences come;
+but woe to that man, by whom the offence cometh!
+____
 
-Written in obedience to Him that is true: who hath given a certain testimony against him that is false, to very many in this his day; and, among others, to me also; whom he hath pleased to gather and own among his children and servants in truth
+[quote.section-epigraph, , 1 Cor 11:19]
+____
+For there must be also heresies among you;
+that they which are approved may be made manifest among you.
+____
 
+[quote.section-epigraph, , Acts 20:30]
+____
+Also of your ownselves shall men arise,
+speaking perverse things, to draw away disciples after them.
+____
 
-ISAAC PENINGTON
+[quote.section-epigraph, , 2 Cor 10:18]
+____
+For not he that commendeth himself is approved; but whom the Lord commendeth. 2 Cor. 10:18
+____
 
-
-+++[+++ca. 1675, published posthumously]
-
-
-"`For God is not the author of confusion, but of peace, as in all churches of the saints.`" 1 Cor. 14:33
-
-"`For what have I to do, to judge them also that are without?
-Do not ye judge them that are within?`" 1 Cor. 5:12
-
-"`The government shall be upon his shoulder, etc.
-Of the increase of his government and peace, no end,`" etc.
-Isa. 9:6-7
-
-"`Woe unto the world, because of offences; for it must needs be, that offences come; but woe to that man, by whom the offence cometh!`" Matt. 18:7
-
-"`For there must be also heresies among you; that they which are approved may be made manifest among you.`" 1 Cor. 11:19
-
-"`Also of your ownselves shall men arise, speaking perverse things, to draw away disciples after them.`" Acts 20:30
-
-"`For not he that commendeth himself is approved; but whom the Lord commendeth.`" 2 Cor. 10:18
-
-
+[.centered]
 === PREFACE
 
 IT hath pleased God, in these our days,
@@ -115,7 +141,8 @@ or to testify against the life and power and presence of the Lord, manifested, d
 and ruling in it!
 Amen.
 
-=== REMARKS UPON SOME PASSAGES IN A LATE BOOK, ENTITLED "`Antichrist`'s Transformations Within,`" etc.
+[.old-style]
+=== REMARKS UPON SOME PASSAGES IN A LATE BOOK / ENTITLED "`Antichrist`'s Transformations Within,`" etc.
 
 THE first thing that I shall observe is, That he doth deny that man hath any rule, power,
 dominion, government, or authority, either given or committed to him from the Lord,
@@ -201,10 +228,11 @@ Secondly, The next thing I shall observe is this:--he saith,
 Remark.
 That glory and honor is to be given to man, which God gives to man, who hath said,
 "`Them that honor me, I will honor;
-and they that despise me shall be lightly esteemed.`" 1 Sam.
-2:30. He that brings his deeds to the light,
+and they that despise me shall be lightly esteemed.`" 1 Sam. 2:30.
+He that brings his deeds to the light,
 they being justified and approved there, he hath honor in the light.
-His deeds being made manifest that they are wrought in God, that is honor enough for him. John 3:21.
+His deeds being made manifest that they are wrought in God,
+that is honor enough for him. John 3:21.
 The children of light seek for glory
 and honor and immortality and eternal life;
 and that glory and honor they have, and eternal life from God. Rom. 2:7.
@@ -304,8 +332,9 @@ Yet it is hard to despise the man whom God sends, without despising his gift in 
 and the gift cannot be despised or rejected,
 without despising or rejecting him that gave it;
 as the apostle told the church of the Thessalonians, he that despised or rejected,
-despised or rejected not man,
-but God (who gives his Holy Spirit to them whom he sends forth to minister in his name). 1 Thess. 4:8.
+despised or rejected not man, but God
+(who gives his Holy Spirit to them whom he sends forth to minister in his name).
+1 Thess. 4:8.
 He had been beseeching and exhorting
 the brethren by the Lord Jesus Christ,
 that as they had received of them how they ought to walk, and to please God,
@@ -643,8 +672,7 @@ they should deceive the very elect,`" Matt. 24:24.
 plainly signifying that it is impossible.
 
 Now, their possibility of erring he lays upon the enemy`'s presenting
-to them the fruit of the tree of knowledge whilst they are in Eden,
-p. 6.
+to them the fruit of the tree of knowledge whilst they are in Eden, p. 6.
 
 Remark.
 The enemy`'s presenting temptations doth not imply a possibility of letting in the temptation,
@@ -852,7 +880,8 @@ and obeyed the holy commandments, and yet were far short of their life,
 as may be seen abundantly in his epistles to the church of Corinth.
 But what saith the apostle concerning such?
 "`If any man think himself a prophet, or spiritual,
-let him acknowledge the things that I write unto you are the commandments of the Lord.`" 1 Cor. 14:37.
+let him acknowledge the things that I write unto you are the commandments of the Lord.`"
+1 Cor. 14:37.
 And did not he give commandments about those that were unruly,
 and would not be subject to the order, power,
 and government of God`'s Spirit in the church?
@@ -1030,7 +1059,8 @@ that it may not see the glorious shinings of the light. 2 Cor. 4:3-4.
 And the eye that is blind cannot see, till God opens it.
 The outward eye cannot see the shining of the outward sun, but as it is opened;
 nor can the inward eye see inward things, but as the Lord opens it.
-Paul was sent to the Gentiles to open their eyes, and to turn them from darkness to light. Acts 26:18.
+Paul was sent to the Gentiles to open their eyes,
+and to turn them from darkness to light. Acts 26:18.
 So that man`'s eye is blinded, that though the light shine in the darkness,
 yet he cannot see, nor walk in the way of the light,
 but as God anoints and opens his eye; "`anoint thine eyes with eye-salve,
@@ -1093,6 +1123,7 @@ but rather to the nature of that dark spirit from whence it came;
 which the Lord of his tender mercy manifest to him, and redeem him from, into a tender,
 living, humble sense of the meek and lowly principle of life in the heart.
 
+[.centered]
 === POSTSCRIPT
 
 SINCE the writing of the former, and my not intending to meddle with the rest,
@@ -1175,8 +1206,9 @@ ever beget him into a living sense?
 If not, he was never of us; if the Lord did, let him wait to be begotten so again,
 and he shall soon be one of us again, and judge in the true Spirit, life, and power,
 what he hath here writ and published abroad in the wrong; and he shall no longer believe,
-that this his writing was written from the testimony of Jesus in him (as he expresseth,
-p. 21), but shall experience the life of Jesus condemning it in his own heart,
+that this his writing was written from the testimony of Jesus in him
+(as he expresseth, p. 21),
+but shall experience the life of Jesus condemning it in his own heart,
 as I am sure it hath done and doth in mine,
 and cannot but do in all that have been gathered to, and abide in,
 that which keepeth livingly sensible.
@@ -1261,4 +1293,3 @@ and not perish forever (in the day that never shall
 have end) from the presence of the Lord,
 and from the glory of his power.
 Amen.
-

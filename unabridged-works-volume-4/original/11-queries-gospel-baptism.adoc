@@ -1,16 +1,15 @@
-== A REPLY TO AN ANSWER OF SOME QUERIES CONCERNING THE GOSPEL-BAPTISM
+[#gospel-baptism, short="Concerning Gospel-Baptism"]
+== A Reply to an Answer of Some Queries Concerning the Gospel-Paptism
 
-GIVEN FORTH BY ME, I. P.
+[.section-author]
+Given forth by me, I. P.
 
-WITH
+[.heading-continuation-blurb]
+With answers to some queries
+returned, in a paper subscribed N. B.
 
-ANSWERS TO SOME QUERIES
-
-RETURNED, IN A PAPER SUBSCRIBED
-
-N. B.
-
-+++[+++1679]
+[.section-date]
+1679
 
 Query 1. WHICH is the gospel baptism, or of what kind is the baptism in the gospel state?
 Is it outward or inward?
@@ -325,6 +324,7 @@ It is receiving the truth in the love of it, and being moulded into the nature o
 believing it in the evidence and demonstration of God`'s Spirit,
 and obeying it in the obedience of the new nature, mind, and Spirit.
 And the answer of a good conscience comes from the inward baptism,
+// lint-disable invalid-characters
 from the washing which the apostle calls Αντιτυπους, the anti-type, 1 Pet. 3:21.
 which baptism is not the washing away the filth of the flesh or body;
 but an inward baptism, which so washeth inwardly,
@@ -461,8 +461,8 @@ and as God`'s gathered ones know in this day.
 
 But let him take heed, lest he put the letter,
 or outward descriptions of heavenly things, for the word;
-for the kingdom or gospel state stands not in such kind of words, but in power, 1 Cor.,
-4:20. and the apostles were made able ministers of the New Testament, not of the letter,
+for the kingdom or gospel state stands not in such kind of words, but in power, 1 Cor. 4:20.
+and the apostles were made able ministers of the New Testament, not of the letter,
 but of the Spirit; for the letter killeth, but the Spirit ministereth life. 2 Cor. 3:6.
 So we distinguish the word of life (the quick,
 piercing word that giveth life), from the words which came from it, Acts 5:20.
@@ -483,7 +483,8 @@ how can he make the gospel baptism to be of a nature inferior to it,
 even outward and carnal; viz., a washing with the elementary water of this creation,
 and not with the inwardly sanctifying and cleansing water of life,
 which God sprinkleth upon his spiritual Israel, and also plunges their souls into?
-And consider seriously, whether the apostle, speaking of both circumcision and baptism, Col. 2:11-12.
+And consider seriously, whether the apostle,
+speaking of both circumcision and baptism, Col. 2:11-12.
 did intend either of them as to the outward,
 and not rather both of them as to the inward, wherein the true, inward,
 spiritual circumcising, and also the true, inward baptizing, is witnessed,
@@ -784,7 +785,8 @@ the water wherewith Christ washeth the soul,
 or the water of regeneration whereby God regenerates, that we cannot but deny,
 being taught of God, and having experience of the contrary.
 Yea, it is manifestly but a shadow of Christ`'s baptism, and not the baptism itself;
-not the baptism of his Spirit and fire, wherewith alone the soul can be inwardly purged. Matt. 3:11.
+not the baptism of his Spirit and fire,
+wherewith alone the soul can be inwardly purged. Matt. 3:11.
 compared with Isa. 4:4.
 
 But that water-baptism leads men into the truth of the gospel, is his great mistake.
@@ -1148,12 +1150,10 @@ Answer.
 It is not far off; "`It is nigh thee, saith Moses,
 thou needest not go up to heaven for it, or down to the deep,`" etc.
 For God, in his love to man, hath placed it nigher, even in man`'s mouth and heart,
-that he might hear it and do it.
-Deut.
-30. and Rom.
-10. And he that inclines his ear to this Word, hears and obeys it, lives.
-And as it is the Word of the new covenant (in which
-is the light and life of the new covenant),
+that he might hear it and do it. Deut. 30. and Rom. 10.
+And he that inclines his ear to this Word, hears and obeys it, lives.
+And as it is the Word of the new covenant
+(in which is the light and life of the new covenant),
 so it brings him into the new covenant, or makes an everlasting covenant with him,
 even the sure mercies of David. Isa. 55:3.
 
@@ -1249,8 +1249,9 @@ his appearance in their own hearts, or in the hearts of others;
 but think in their obedience to what they apprehend
 from the Scriptures to have eternal life,
 whilst strangers to the living principle of truth,
-whereby he gives eternal life to his sheep "`that hear his voice,
-and follow the Lamb of God wheresoever he goes,`" and leads along his sheep with him. John 10:27-28.
+whereby he gives eternal life to his sheep
+"`that hear his voice, and follow the Lamb of God wheresoever he goes,`"
+and leads along his sheep with him. John 10:27-28.
 
 He that would know God and Christ to salvation,
 must know them in that mystery of light and life,
@@ -1290,4 +1291,3 @@ about matters of so great concern!
 I+++.+++ P.
 
 Eighteenth of 5th Month, 1679
-

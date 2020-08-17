@@ -1,22 +1,25 @@
-== AN EPISTLE TO ALL SERIOUS PROFESSORS
+== An Epistle to All Serious Professors / Of the Christian Religion
 
-OF
+[.heading-continuation-blurb]
+Wherein a brief touch of my knowledge, sense, belief, and experience concerning the godhead,
+the offering up of the Lord Jesus Christ in his body on the tree,
+as a propitiatory sacrifice to the Father,
+and the imputation of his righteousness to those who believe in his name and power,
+is nakedly laid before them;
 
-THE CHRISTIAN RELIGION
+[.heading-continuation-blurb]
+Wherein I am not alone,
+but one with those who have so learned and experienced the same
+in the leadings and light of his Holy Spirit.
 
-WHEREIN
+[.heading-continuation-blurb]
+Written in love to them
+(that they might have the better understanding of us, as to these things,
+and might not think otherwise either of us, or of the truth of our God,
+which we bear witness to, than there is cause, to their own hurt and prejudice)
 
-A BRIEF TOUCH OF MY KNOWLEDGE, SENSE, BELIEF, AND EXPERIENCE CONCERNING THE GODHEAD, THE OFFERING UP OF THE LORD JESUS CHRIST IN HIS BODY ON THE TREE, AS A PROPITIATORY SACRIFICE TO THE FATHER, AND THE IMPUTATION OF HIS RIGHTEOUSNESS TO THOSE WHO BELIEVE IN HIS NAME AND POWER, IS NAKEDLY LAID BEFORE THEM
-
-WHEREIN
-
-I AM NOT ALONE, BUT ONE WITH THOSE WHO HAVE SO LEARNED AND EXPERIENCED THE SAME IN THE LEADINGS AND LIGHT OF HIS HOLY SPIRIT
-
-Written in love to them (that they might have the better understanding of us, as to these things, and might not think otherwise either of us, or of the truth of our God, which we bear witness to, than there is cause, to their own hurt and prejudice)
-
-ISAAC PENINGTON
-
-+++[+++no date]
+[.section-author]
+Isaac Penington
 
 AFTER it pleased the Lord to touch my heart with the sense of his truth,
 and to manifest unto me the principle of his life,
@@ -160,7 +163,8 @@ and giveth dominion over the wicked one.
 There is no overcoming of the saints here; for as it came from the power,
 so it stands near the power, and engages the power of life against the enemy,
 and so is still too hard for him.
-For he that resisteth the enemy in the true faith, still overcomes him, and makes him fly. James 4:7.
+For he that resisteth the enemy in the true faith,
+still overcomes him, and makes him fly. James 4:7.
 But that belief on Christ, and applying his righteousness,
 which is not of this faith, nor in the true light of life,
 but according to the creature`'s apprehensions concerning things,
@@ -327,4 +331,3 @@ and that that which divideth and scattereth from the living truth,
 might be scattered and brought to nought everywhere, in all who would be one,
 and desire to serve God (with one consent) in that which is true and pure!
 Amen.
-

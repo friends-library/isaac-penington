@@ -1,32 +1,32 @@
-== THE SEED OF GOD AND OF HIS KINGDOM
+== The Seed of God and of His Kingdom
 
+[.heading-continuation-blurb]
+Treated and testified of according to the Scriptures of truth,
+and according to true experience felt in the heart from the God of truth.
 
-TREATED AND TESTIFIED OF
+[.section-author]
+By Isaac Penington
 
-
-ACCORDING TO THE SCRIPTURES OF TRUTH
-
-AND ACCORDING TO
-
-TRUE EXPERIENCE FELT IN THE HEART
-
-
-FROM THE
-
-GOD OF TRUTH
-
-+++_____+++
-
-BY ISAAC PENINGTON
-
-"`The kingdom of heaven is like to a grain of mustard-seed, which a man took and sowed in his field.
+[quote.section-epigraph, , Matt. 13:31-32]
+____
+The kingdom of heaven is like to a grain of mustard-seed,
+which a man took and sowed in his field.
 Which indeed is the least of all seeds: but when it is grown,
-it is the greatest among herbs,`" etc. Matt. 13:31-32.
+it is the greatest among herbs, etc.
+____
 
-"`Being born again, not of corruptible seed, but of incorruptible, by the Word of God which liveth and abideth forever.`" 1 Pet. 1:23.
+[quote.section-epigraph, , 1 Pet. 1:23]
+____
+Being born again, not of corruptible seed, but of incorruptible,
+by the Word of God which liveth and abideth forever.
+____
 
-"`Whosoever is born of God, doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.`" 1 John 3:9.
-
+[quote.section-epigraph, , 1 John 3:9]
+____
+Whosoever is born of God, doth not commit sin;
+for his seed remaineth in him: and he cannot sin,
+because he is born of God.
+____
 
 === PREFACE
 
@@ -213,7 +213,8 @@ II. The nature of it.
 
 III. The effects of it.
 
-=== I. What is hid or wrapped up in this precious, heavenly Seed
+[.inline]
+==== I. What is hid or wrapped up in this precious, heavenly Seed
 
 [.discourse-part]
 Answer.
@@ -497,7 +498,8 @@ is life and peace forevermore; and the knowledge of this seed of the kingdom,
 and of God and Christ in this seed, is the most precious knowledge that can be desired,
 obtained, or enjoyed.
 
-=== II. The Nature of this Seed
+[.inline]
+==== II. The Nature of this Seed
 
 WHAT is the nature of the seed of God, or the seed of the kingdom?
 
@@ -573,7 +575,8 @@ chap.
 25:16. chap.
 13:23.
 
-=== III. Of the Effects
+[.inline]
+==== III. Of the Effects
 
 WHAT are the effects of this seed?
 
@@ -687,7 +690,8 @@ and abides with him in this seed; but it shall be kept by the power of God,
 through the faith that springs from this seed, unto perfect redemption and salvation.
 Amen.
 
-=== SOME QUERIES CONCERNING GOD`'S KINGDOM WHEREBY THE SEED THEREOF MAY BE THE BETTER ILLUSTRATED AND UNDERSTOOD
+[.old-style]
+=== SOME QUERIES CONCERNING GOD`'S KINGDOM / WHEREBY THE SEED THEREOF MAY BE THE BETTER ILLUSTRATED AND UNDERSTOOD
 
 Query 1. WHAT is the kingdom of God,
 which Christ said he must preach to other cities also?
@@ -774,8 +778,7 @@ Luke 11:52. Isa. 22:22.
 Query 15. What kingdom is that,
 wherein he that is least is greater than the greatest prophet?
 wherein he that is feeble shall be as David, and the house of David as God,
-as the angel of the Lord before the inhabitants of Jerusalem? Matt. 11:11.
-Zundefined. 12:8.
+as the angel of the Lord before the inhabitants of Jerusalem? Matt. 11:11. 12:8.
 
 Query 16. Who were they in the apostles`' age (and are there
 any such in this age?) who shall not taste of death outwardly,
@@ -916,4 +919,3 @@ And what are the high mountains of Israel, where their fold and fat pastures sha
 Are not those things to be fulfilled to the spiritual people,
 in the inward and spiritual kingdom of the Messiah? Ezek. 34:12,14.
 John 10:27,28,3,4,9.
-

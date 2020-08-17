@@ -1,30 +1,45 @@
-== SOME MISREPRESENTATIONS OF ME CONCERNING CHURCH-GOVERNMENT CLEARED
+[#misrep-gov-cleared, short="Misrepresentations Concerning Church-government Cleared"]
+== Some Misrepresentations of Me Concerning Church-government Cleared
 
+[.heading-continuation-blurb]
+And the power and authority of God`'s spirit in governing his church testified to.
 
-AND THE
+[.heading-continuation-blurb]
+By one whom it hath pleased the Lord to make a member of the Church,
+which he hath gathered, and preserveth by his own Almighty Arm;
+who accounteth it his duty and honor in the Lord,
+to be subject to the government and ordering of his Spirit and Power in his Church.
 
-POWER AND AUTHORITY OF GOD`'S SPIRIT
+[.section-author]
+Isaac Penington
 
+[quote.section-epigraph, , 1 Cor 16:16]
+____
+That ye submit yourselves unto such,
+and to every one that helpeth with us, and laboreth.
+____
 
-IN GOVERNING HIS CHURCH
+[quote.section-epigraph, , Heb. 13:17]
+____
+Obey them that have the rule over you, and submit yourselves;
+for they watch for your souls, as they that must give account,
+that they may do it with joy, and not with grief;
+for that is unprofitable for you.
+____
 
+[quote.section-epigraph, , 1 Pet. 5:5]
+____
+Likewise, ye younger, submit yourselves unto the elder;
+yea, all of you be subject one to another, and be clothed with humility;
+for God resisteth the proud, and giveth grace to the humble.
+____
 
-TESTIFIED TO
-
-By one whom it hath pleased the Lord to make a member of the Church, which he hath gathered, and preserveth by his own Almighty Arm; who accounteth it his duty and honor in the Lord, to be subject to the government and ordering of his Spirit and Power in his Church
-
-
-ISAAC PENINGTON
-
-"`That ye submit yourselves unto such, and to every one that helpeth with us, and laboreth.`" 1 Cor. 16:16
-
-"`Obey them that have the rule over you, and submit yourselves; for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief; for that is unprofitable for you.`" Heb. 13:17
-
-"`Likewise, ye younger, submit yourselves unto the elder; yea, all of you be subject one to another, and be clothed with humility; for God resisteth the proud, and giveth grace to the humble.`" 1 Pet. 5:5
-
-"`And be not drunk with wine, wherein is excess; but be filled with the Spirit, and submitting yourselves one to another in the fear of God.`" Ephs.
-5:18,21
-
+[quote.section-epigraph, , Eph. 5:18,21]
+____
+And be not drunk with wine, wherein is excess;
+but be filled with the Spirit,
+and submitting yourselves one to another in the fear of God.
+____
 
 === PREFACE
 
@@ -458,8 +473,8 @@ and that eye which so dotes upon it overlooks the one thing which is necessary.`
 
 Confirm.
 This is so manifest from that scripture quoted by me, which is here omitted,
-that he that shall read that scripture, which is Rom.
-14. may easily observe the apostle affirming and teaching these things.
+that he that shall read that scripture, which is Rom. 14.
+may easily observe the apostle affirming and teaching these things.
 
 That even in the apostles`' days,
 Christians were too apt to strive after a wrong unity
@@ -853,7 +868,7 @@ Another Passage in p. 77
 aspiring spirit) "`and trample upon it: and afterwards,
 that in thee may arise which is fit to teach, yea, and to rule in the Lord,`" etc.
 
-P. 78. The example of Christ is urged,
+P+++.+++ 78. The example of Christ is urged,
 who did not exercise a wrong authority over his disciples,
 though he was their Lord and Master, which signified both greatness above them,
 and authority over them,
@@ -926,8 +941,8 @@ for that is fleshly, and lets in the flesh, and destroys the true order, rule,
 and subjection.
 
 And then to limit the government aright,
-these two precious cautions or directions are added,
-p. 85. which I am sure will answer the truth and witness of God in every conscience.
+these two precious cautions or directions are added, p. 85.
+which I am sure will answer the truth and witness of God in every conscience.
 
 First.
 Care must be had that nothing govern in the church of Christ, but the Spirit of Christ.
@@ -935,8 +950,8 @@ Care must be had that nothing govern in the church of Christ, but the Spirit of 
 Secondly, That the conscience be kept tender,
 that nothing be received but according to the light in the conscience.
 
-There is likewise an Objection answered about Uniformity,
-p. 87-88. which not being very large,
+There is likewise an Objection answered about Uniformity, p. 87-88.
+which not being very large,
 and tending further to open the sense of my heart in this thing, I shall also here annex.
 
 [.discourse-part]
@@ -957,7 +972,8 @@ nor Christian.
 And the apostle who exhorts Christians to be of one mind,
 yet doth not bid them force one another into one mind,
 but walk together sweetly so far as they had attained;
-and wherein they were otherwise minded, God in his due time would reveal more to them, Phil. 3:15-16.
+and wherein they were otherwise minded,
+God in his due time would reveal more to them, Phil. 3:15-16.
 He that hath, to him shall be given.
 And the intent and work of the ministry (with the several ministrations of it)
 is to bring into the unity (Eph. 4:13) as persons are able to follow,
@@ -1188,7 +1204,7 @@ And this order and holy government in the Spirit and power
 of the Lord was brought forth in the apostles`' days:
 for the apostles did rejoice in it concerning that church of Colosse,
 who joyed beholding their order, and the steadfastness of their faith in Christ.
-ColoSong. 2:5. For the apostles and ministers
+Col. 2:5. For the apostles and ministers
 of Christ did set things in order in that day, Tit. 1:5.
 1 Cor. 11:34. and it was their joy to see that order observed,
 and their grief when any were unruly,
@@ -1369,4 +1385,3 @@ and shall grow and prosper the more by all opposition;
 the everlasting arm and wisdom of the Almighty being with her, to preserve, prosper,
 and bless her, so be it.
 Amen.
-

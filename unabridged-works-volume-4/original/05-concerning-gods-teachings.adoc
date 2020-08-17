@@ -1,21 +1,25 @@
-== A TREATISE CONCERNING GOD`'S TEACHINGS, AND CHRIST`'S LAW
+== A Treatise Concerning God`'s Teachings / And Christ`'s Law
 
-WITH SOME OTHER THINGS OF
+[.heading-continuation-blurb]
+With some other things of weighty importance particularly mentioned after the preface.
 
-WEIGHTY IMPORTANCE
+[.section-author]
+Written by Isaac Penington
 
-PARTICULARLY MENTIONED AFTER THE PREFACE
+[.section-author-context]
+Prisoner at Reading Jail for the testimony of truth.
 
-WRITTEN BY
+[quote.section-epigraph, , Isa. 29:24]
+They also that erred in spirit shall know understanding,
+and they that murmured shall learn doctrine.
 
-ISAAC PENINGTON
+[.heading-continuation-blurb]
+Blessed be the Lord, it is so.
+This prophecy is sensibly and experimentally fulfilled,
+and fulfilling daily more and more
 
-PRISONER AT READING JAIL FOR THE TESTIMONY OF TRUTH
-
-"`They also that erred in spirit shall know understanding, and they that murmured shall learn doctrine.`" Isa. 29:24. Blessed be the Lord, it is so.
-This prophecy is sensibly and experimentally fulfilled, and fulfilling daily more and more
-
-+++[+++ca. 1671]
+[.section-date]
+ca. 1671
 
 === PREFACE
 
@@ -80,14 +84,22 @@ ISAAC PENINGTON
 
 === A TREATISE CONCERNING GOD`'S TEACHINGS AND CHRIST`'S LAW
 
+[.inline]
 ==== 1. Concerning God`'s Teachings
 
-// todo section epigraphs for both
+[quote.scripture, , John 6:45]
+____
 "`It is written in the prophets`" (said Christ) "`they shall be all taught of God.
 Every one therefore that hath heard, and hath learned of the Father,
-cometh unto me.`" John 6:45. "`For the prophets indeed had said,
+cometh unto me.`"
+____
+
+[quote.scripture, , ]
+____
+"`For the prophets indeed had said,
 All thy children shall be taught of the Lord, and they shall all know me,
 from the least of them to the greatest of them.`"
+____
 
 NOW, whose children are they which shall all be taught of the Lord?
 And which are they which shall all know the Lord by the teachings of his Spirit,
@@ -207,9 +219,13 @@ that knowledge which is life eternal) men must needs perish.
 It cannot be otherwise; for the true knowledge only saves,
 and therefore they which have it not must needs perish.
 
+[.inline]
 ==== II. Concerning the Law of Christ
 
-"`And the isles shall wait for his law,`" Isa. 42:4.
+[quote.scripture, , Isa 42:4]
+____
+And the isles shall wait for his law.
+____
 
 WHAT is that law which the isles were and are to wait for?
 Is it not the grace and truth which comes by Jesus Christ,
@@ -340,6 +356,7 @@ In the former are all the erring judgments; but in the latter is the true,
 unerring judgment of God`'s own Spirit, in the light which is eternal;
 which judgment will stand forever.
 
+[.inline]
 ==== III. A brief Relation concerning myself, in reference to what has befallen me in my Pursuit after Truth
 
 I WAS acquainted with a spring of life from my childhood,
@@ -451,6 +468,7 @@ and know the spiritual and heavenly Jerusalem, and suck at her breasts,
 and be dandled on her knee,
 who is the mother and bringer-up of all that are truly living.
 
+[.inline]
 ==== IV. A Question about preaching the everlasting Gospel answered
 
 [.discourse-part]
@@ -475,7 +493,8 @@ but have also read in the Scriptures of truth.
 [.discourse-part]
 Answer.
 The gospel, after the apostasy, is thus to be preached: "`Fear God, and give glory to him,
-for the hour of his judgment is come; and worship him that made heaven and earth,`" etc. Rev. 14:6-7.
+for the hour of his judgment is come;
+and worship him that made heaven and earth,`" etc. Rev. 14:6-7.
 He that knoweth the preacher that preacheth this;
 he that hath heard this preached in his own heart;
 he that hath met with that fear which God`'s Spirit teacheth and giveth;
@@ -520,6 +539,7 @@ which it is hard for him to forbear doing,
 who readeth them in the liberty of his own spirit, out of the light of God`'s Spirit,
 which is the limit and yoke of the true readers and understanders of the Scriptures.
 
+[.inline]
 ==== V. Concerning Christ`'s Ministry, or Priesthood
 
 CHRIST is made by God a minister, or high priest,
@@ -542,6 +562,7 @@ and uphold and maintain his kingdom under, in the hearts of men;
 but the inward light and power of life breaks it, where the minds of the people are,
 by the Spirit of the Lord, turned thereto, and subjected under its rule and government.
 
+[.inline]
 ==== VI. Concerning the true Knowledge of Christ
 
 IT was said, in the time of the prophets,
@@ -605,6 +626,7 @@ which is living; knowing assuredly,
 that no other teaching or learning the things of God will amount to the true knowledge,
 or be owned in the day of the Lord, but that which is of and in the Spirit.
 
+[.inline]
 ==== VII. A few Words more concerning the Right Way of Knowing, as it is witnessed unto in the Scriptures, and experienced in the Hearts of those that truly and livingly know the Lord
 
 "`WISDOM is justified of her children,`" said Christ. Matt. 11:19.
@@ -638,6 +660,7 @@ For though a man be come to a spiritual state, and hath received the gift of gra
 knowledge, and discerning; yet if he be not watchful to keep to the gift,
 he may easily err, and judge amiss.
 
+[.inline]
 ==== VIII. Concerning Christ`'s Righteousness, which is the Righteousness of all his Saints
 
 CHRIST is the head, his saints the body;
@@ -780,6 +803,7 @@ and the doing of righteousness is a certain evidence of the new birth.
 He that doth righteousness is born of God;
 this fruit can arise from no other but the pure, living, heavenly root.
 
+[.inline]
 ==== IX. Of the Grace of the Gospel
 
 THE prophets of old prophesied of the sufferings of Christ,
@@ -897,6 +921,7 @@ and in everything guided by it), that they may know what that scripture means,
 in the true and weighty experience: "`Sin shall not have dominion over you,
 for ye are not under the law, but under grace.`" Rom. 6:14.
 
+[.inline]
 ==== X. A Question answered concerning real Holiness
 
 [.discourse-part]
@@ -922,8 +947,8 @@ and the cleansing of the soul, mind, and body,
 before its appearing to worship in the inward and spiritual temple? Heb. 10:22.
 Is there not a Jerusalem under the gospel,
 into which no uncircumcised or unclean thing is to enter, or appear before God there?
-Mark what the apostle saith, Heb.
-12. "`Ye are not come to the mount that might be touched,`" to outward Mount Sinai,
+Mark what the apostle saith, Heb. 12.
+"`Ye are not come to the mount that might be touched,`" to outward Mount Sinai,
 or Zion, to the appearance of God there; but ye are come to the inward Zion,
 and to the city of the living God, the heavenly Jerusalem,
 and to fellowship with God and Christ there, ver. 18-22.
@@ -946,6 +971,7 @@ and there must be a cleansing felt,
 before an admittance into the presence of the Holy God,
 and enjoying fellowship with him again.
 
+[.inline]
 ==== XI. Concerning the Law of Sin in the Fleshly Mind, and the Law of Life and Holiness in the Renewed Mind; and whence each have their Strength
 
 WHAT is the law of sin?
@@ -1065,14 +1091,13 @@ which is a ministration not of the letter, but of the Spirit);
 from the least of them to the greatest of them,`" by the teachings of my own Spirit,
 by my writing my law in their hearts, by my holy unction, which shall teach my children,
 my anointed ones, all that they need to know. 1 John 2:27.
-Jer.
-31. and Heb.
-8.
+Jer. 31. and Heb. 8.
 
 Come, be not deceived about the new covenant; but wait to find the entrance thereinto,
 and to feel the virtue thereof, and to know and receive the law and power thereof,
 as becometh Christians.
 
+[.inline]
 ==== XII. Concerning God`'s gathering us Home to himself, who are a people despised and rejected of Men, and in Scorn by them called Quakers
 
 IT pleased the Lord, who is rich in mercy and goodness,
@@ -1091,9 +1116,8 @@ And this ministry hath been raised to go forth in the same virtue, power,
 and Spirit wherein the foregoing ministry was sent.
 
 God promised of old, that he would seek after, search out, and gather home,
-his scattered sheep himself, and become their Shepherd.
-Ezek.
-34. Now, this was fulfilled in a great measure in the days of Christ and his apostles,
+his scattered sheep himself, and become their Shepherd. Ezek. 34.
+Now, this was fulfilled in a great measure in the days of Christ and his apostles,
 when Christ came himself, and also sent his apostles after him,
 to seek and gather the lost sheep of the house of Israel; and not only so,
 but also to preach the gospel to all nations,
@@ -1148,8 +1172,8 @@ and they that do despise the one, would have despised the other,
 had they lived in the day of the appearance and manifestation thereof.
 
 And then, for the manner of its preaching, it was just such as is described,
-ver. 7. of Rev.
-14. For we are commanded to "`fear God, and give glory to him,
+ver. 7. of Rev. 14.
+For we are commanded to "`fear God, and give glory to him,
 because the hour of his judgment`" (the great and terrible day of the Lord) "`was come`";
 and therefore to leave off all false ways and worships,
 and learn to worship the living God, the Creator of all, in Spirit and in truth.
@@ -1264,6 +1288,7 @@ but he that misseth of this shall perish; let him search the Scriptures,
 and practise according to what he apprehends therefrom, as exactly as he can,
 without this Spirit and power.
 
+[.inline]
 ==== XIII. A few Words concerning the Worship which our God hath taught us
 
 OUR worship is a deep exercise of our spirits before the Lord,
@@ -1336,4 +1361,3 @@ demonstration, virtue, and power of his own Spirit;
 that men may be redeemed out of and preserved from deceit in matters of religion,
 wherein the eternal condition of their souls is so deeply concerned!
 Amen.
-

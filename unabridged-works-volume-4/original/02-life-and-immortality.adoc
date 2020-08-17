@@ -11,7 +11,7 @@ highly importing the eternal salvation of souls.
 [.section-author]
 Written by Isaac Penington
 
-[.heading-continuation-blurb]
+[.section-author-context]
 in the time of his imprisonment in Reading Jail.
 
 [.section-date]

@@ -1,6 +1,7 @@
-== CONCERNING THE TIMES AND SEASONS BOTH WHICH HAVE BEEN, AND WHICH ARE YET TO BE
+== Concerning the Times and Seasons / Both Which Have Been, And Which Are Yet to Be
 
-+++[+++1679]
+[.section-date]
+1679
 
 WHEN God made man in his own image, placing him in paradise,
 and giving him dominion over the works of his hands;
@@ -158,8 +159,7 @@ ye must know them there; and if ye know the issues of life there,
 and they sweetly issue up, and flow into your souls,
 they will refresh and delight you in the midst of all the sore afflictions, troubles,
 and distresses, which can befall you outwardly.
-Read Psa.
-46. and consider.
+Read Psa. 46. and consider.
 
 Thirdly, Mind who knocks at the door of your hearts,
 whether it be the destroyer or Saviour of the soul;
@@ -207,7 +207,6 @@ when the flames thereof break forth to consume and burn up the chaff everywhere.
 
 25th of the Sixth Month, 1679
 
-
 === POSTSCRIPT
 
 THE gospel religion is very precious,
@@ -216,4 +215,3 @@ but a bare profession of it, out of the life and power of godliness,
 is of no value in the sight of God, nor is it of any profit or advantage to the soul.
 
 ISAAC PENINGTON
-

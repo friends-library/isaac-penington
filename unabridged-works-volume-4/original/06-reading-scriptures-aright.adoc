@@ -1,6 +1,5 @@
-== A QUESTION ANSWERED CONCERNING READING THE SCRIPTURES ARIGHT
-
-+++[+++no date]
+[#reading-scriptures, short="Concerning Reading the Scriptures Aright"]
+== A Question Answered Concerning Reading the Scriptures Aright
 
 [.discourse-part]
 Question.
@@ -392,4 +391,3 @@ so will not receive him; like the Jews who waited for his appearance,
 and yet rejected him when he came.
 
 ISAAC PENINGTON
-
