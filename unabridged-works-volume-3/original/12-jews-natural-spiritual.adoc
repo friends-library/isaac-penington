@@ -829,7 +829,7 @@ Amen.
 
 === A Few Words to England, My Native Country
 
-[.heading-continuation-blurb]
+[.salutation]
 O Land of my Nativity!
 O my dear Countrymen!
 
@@ -1032,10 +1032,7 @@ And the Maintenance thereof;
 some few Questions answered in Truth and Plainness of heart,
 and left to the Witness and Testimony of God in other Men`'s Consciences.
 
-[.numbered-group]
-====
-
-[.numbered]
+[.discourse-part]
 _Question 1._ Which is the true church,
 or the gospel church or the church according to the new covenant?
 (For there was an old covenant, and a church according to that, under the law;
@@ -1086,7 +1083,7 @@ and the power of Pharaoh outward: a church that hath the inward ark,
 (Rev. 11:19) the inward presence, the inward manna, etc.,
 as the outward church of the Jews had the outward.
 
-[.numbered]
+[.discourse-part]
 _Question 2._ Which is the true gospel ministry, and who are the true gospel ministers?
 
 [.discourse-part]
@@ -1149,7 +1146,7 @@ and the Lord alone is able to build them up by the operation of this Spirit and 
 and they that are the true ministers of the gospel, minister in this,
 and are to wait for it daily from God, that they may minister in it.
 
-[.numbered]
+[.discourse-part]
 _Question 3._ What is the maintenance of the ministers of Christ,
 or what is to be the maintenance of the true ministers under the gospel?
 
@@ -1165,14 +1162,9 @@ how they may be faithful to him, gather souls to him,
 feed them with the bread of life from him;
 not what they shall have from men for so doing, for such covet no man`'s gold or silver, etc.
 
-====
-
 === Some Questions Answered Concerning the Lamb`'s War
 
-[.numbered-group]
-====
-
-[.numbered]
+[.discourse-part]
 _Question 1._ Who is the Lamb?
 
 [.discourse-part]
@@ -1183,7 +1175,7 @@ The Word which was in the beginning.
 and ver. 29. He that was born of the virgin Mary after the flesh;
 and was also the man-child, born of the travailing church, after the Spirit. Rev. 12:5.
 
-[.numbered]
+[.discourse-part]
 _Question 2._ Who makes war with the Lamb?
 
 [.discourse-part]
@@ -1193,7 +1185,7 @@ and under the power thereof,
 who strive to defend and maintain this kingdom against the appearance of his light,
 Spirit, and power in them.
 
-[.numbered]
+[.discourse-part]
 _Question 3._ What strength have they on their side that make war against the Lamb?
 
 [.discourse-part]
@@ -1206,7 +1198,7 @@ to assault and break down the kingdom of darkness, and to set up his own kingdom
 which must be set up, even in the world. Dan. 7:14,27.
 Rev. 11:15.
 
-[.numbered]
+[.discourse-part]
 _Question 4._ Did the great red dragon and his army ever (in any respect) prevail in this battle?
 
 [.discourse-part]
@@ -1240,7 +1232,7 @@ and kept the commandments of God, and the faith of Jesus,
 and would not worship the beast and his image, nor receive his mark,
 either in forehead or hand.
 
-[.numbered]
+[.discourse-part]
 _Question 5._ What was the cry up and down nations, when the dragon and the beast thus prevailed,
 and when the false church carried her cup of fornications
 up and down through kingdoms and nations,
@@ -1264,7 +1256,7 @@ who is the head of the true church and true worshippers. Rev. 13:4.
 and chap.
 17:4-5.
 
-[.numbered]
+[.discourse-part]
 _Question 6._ What is the time of the dragon`'s, the beast`'s,
 and false church`'s thus prevailing against the true church, in reference to the outward,
 though they cannot prevail against its inward life and testimony;
@@ -1281,7 +1273,7 @@ which things were to last, according to the scripture account,
 one thousand two hundred and sixty days, or a time, times, and half a time. 2 Thess. 2:3-4.
 Rev. 12:14-6.
 
-[.numbered]
+[.discourse-part]
 _Question 7._ What will the Lamb do when this time is out?
 
 [.discourse-part]
@@ -1300,7 +1292,7 @@ Oh, who would not kiss the Son, that he might not provoke the Lamb to wrath agai
 whose wrath is dreadful! Rev. 19:11.
 to the end. Ps. 2:12.
 
-[.numbered]
+[.discourse-part]
 _Question 8._ What shall the cry be,
 when God`'s Spirit and power prevaileth over the dragon`'s spirit and power,
 when the Lamb gets the victory, when he smites the earth with the rod of his mouth,
@@ -1325,8 +1317,6 @@ a great voice of much people in heaven shall say: Hallelujah, salvation, and glo
 and honor, and power unto the Lord our God: for true and righteous are his judgments;
 for he hath judged the great whore, who did corrupt the earth with her fornication,
 and hath avenged the blood of his saints at her hand,`" chap. 19. ver. 1-2.
-
-====
 
 Now doth it not concern all people to consider which is Zion, God`'s holy mountain,
 and which is the Jerusalem of his building; and the holy city of God,
