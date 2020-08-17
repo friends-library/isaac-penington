@@ -3,25 +3,24 @@
 [.section-date]
 1678
 
-[quote.section-epigraph, , ]
+[quote.section-epigraph, ,1 John 2:8]
 ____
-"`The darkness is past, and the true light now shineth.`" 1 John 2:8
+The darkness is past, and the true light now shineth.
 ____
 
-[quote.section-epigraph, , ]
+[quote.section-epigraph, ,Isa. 60:1-2]
 ____
-"`Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee:
+Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee:
 for behold, the darkness shall cover the earth, and gross darkness the people;
-but the Lord shall arise upon thee, and his glory shall be seen upon thee.`" Isa. 60:1-2
+but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 ____
 
-[quote.section-epigraph, , ]
+[quote.section-epigraph, ,Ps. 102:16]
 ____
-"`When the Lord shall build up Zion, he shall appear in his glory.`"
-Ps. 102:16. (indeed he doth so.)
+When the Lord shall build up Zion, he shall appear in his glory. (indeed he doth so.)
 ____
 
-THE blessed message which the apostles (who were
+The blessed message which the apostles (who were
 sent by Christ to preach the gospel) heard of Christ,
 and were to declare to others was, "`That God is light,
 and in him is no darkness at all.`" 1 John 1:5.
@@ -40,7 +39,11 @@ the soul in the light comes to see (over the darkness,
 and Satan who darkened it) the things of God and his kingdom,
 as they are revealed in the light, which makes them manifest.
 
-As, First, It sees him, who is the rock, the holy foundation of God,
+[.numbered-group]
+====
+
+[.numbered]
+As, _First,_ It sees him, who is the rock, the holy foundation of God,
 the holy foundation of life in the soul, the living stone,
 by which all the other living stones are made alive,
 and they are taught of God to come to him as to a living stone,
@@ -49,7 +52,8 @@ and so are built upon him, and become God`'s building, and new creation in him. 
 none can miss of the true coming, hearing the voice of the Father,
 and being drawn and taught by him to come to the Son. John 6:44-45.
 
-Secondly, Here the true Jew`'s state, the state of the inward Jew,
+[.numbered]
+_Secondly,_ Here the true Jew`'s state, the state of the inward Jew,
 and the inward circumcision,
 and the true worship (even the worship of the Father in Spirit and truth) is known.
 For the Jew inward is a child of light, begotten in the light, redeemed out of darkness,
@@ -60,7 +64,8 @@ the mind by the Spirit and power of Christ.
 And the gospel worship, or the worship of the Jew inward,
 is the worshipping of God in the newness of the life of his Son.
 
-Thirdly, Here is the true repentance from the dead nature and dead works,
+[.numbered]
+_Thirdly,_ Here is the true repentance from the dead nature and dead works,
 which no man can attain to of himself; but is God`'s gift through his Son,
 whom God hath appointed to be a Prince and a Saviour,
 to give repentance and forgiveness of sins. Acts 5:31.
@@ -70,19 +75,22 @@ but to them that are turned to the light, to them is repentance given unto life.
 compared with chap.
 26:17-18.
 
-Fourthly, Here the true faith, the precious gift of faith, is received,
+[.numbered]
+_Fourthly,_ Here the true faith, the precious gift of faith, is received,
 whereby men believe in him who gives life, and receive life from him.
 And this is the faith which gives access to God, and gives victory over the world,
 and that which is contrary to God: the faith which is given in the light doth so;
 but the faith which men have in the darkness doth not so.
 
-Fifthly, Here is the cross of Christ known, which is an inward, living, spiritual thing,
+[.numbered]
+_Fifthly,_ Here is the cross of Christ known, which is an inward, living, spiritual thing,
 effectually crucifying that man that takes it up, and daily bears it,
 to all that is earthly and sinful;
 and then the pure seed and life of Christ springs up in his earth, over the world,
 and every worldly thing. Gal. 6:14.
 
-Sixthly, Here the pure love springs in the heart, both to him that begets,
+[.numbered]
+_Sixthly,_ Here the pure love springs in the heart, both to him that begets,
 and to him that is begotten.
 In the light there is nothing but love;
 but in the darkness there is no true love to be found;
@@ -90,13 +98,15 @@ but the very love that is found there is of the nature of enmity.
 It is the light of truth that purifieth the heart to the love unfeigned. 1 Pet. 1:22.
 Duet. 30:6.
 
-Seventhly, Here the Lamb`'s patience and meekness is experienced,
+[.numbered]
+_Seventhly,_ Here the Lamb`'s patience and meekness is experienced,
 and the soul adorned with it.
 The Lamb is the light of the world, and they that are made lambs by him,
 partake of his sweet and meek nature, learning of him to be meek and lowly in heart,
 and so have that patience and meekness from him which no other can attain to. Matt. 11:29.
 
-Eighthly, In the light the precious promises are fulfilled and partaken of;
+[.numbered]
+_Eighthly,_ In the light the precious promises are fulfilled and partaken of;
 which make them who partake of them, and in whom they are fulfilled,
 partakers of the divine nature; for the divine nature is not partaken of in the darkness,
 but in him who is light.
@@ -107,7 +117,8 @@ and he is now no more darkness, but light in the Lord,
 then the promises which were made to the children of light he cometh to have a share in. Eph. 5:8.
 2 Pet., 1:4.
 
-Lastly, In the light the holy anointing is received, the voice of Christ heard,
+[.numbered]
+_Lastly,_ In the light the holy anointing is received, the voice of Christ heard,
 and the new everlasting covenant, even the sure mercies of David, made with the soul. Isa. 55:3.
 The law of the new covenant (even the law
 of the Spirit of life in Christ Jesus) written in the mind,
@@ -123,6 +134,8 @@ and put their trust under the shadow of his wings,
 and know what it is to be satisfied with the fatness of his spiritual gospel house,
 and to drink of the river of his pleasures, and in his light to see light! Ps. 36:7-9.
 
+====
+
 This opened in me this morning, in love and compassion towards the Papists.
 My bowels have often rolled over them, and been pained concerning them,
 to see how they are closed and shut up as to the
@@ -136,11 +149,12 @@ I am no disdainer of Papists, or any sort of Protestants, nay, not of Turks or J
 but a mourner because of their several mistakes,
 and a breather to the God of my life for tender mercy towards them all.
 
+[.signed-section-context-close]
 Astrop, 13th of the Seventh month, 1678.
 
-=== POSTSCRIPT
+=== Postscript
 
-AND in this light the true church, the gospel church, the New Testament church, is known;
+And in this light the true church, the gospel church, the New Testament church, is known;
 which is a church of the children of light, a building built in the light,
 which church is in God the Father, and in the Lord Jesus Christ; 2 Thess. 1:1.
 in whom they are built together for a habitation of God,
@@ -179,13 +193,18 @@ the Shepherd of Israel, and faithful Bishop of the soul,
 who overseeth and taketh care of the soul, they would learn,
 and come to know and experience these things following:--
 
-First, The dwelling-place of Mount Zion, and her assemblies,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ The dwelling-place of Mount Zion, and her assemblies,
 and God`'s creating upon every of them a cloud and smoke by day,
 and the shining of a flaming fire by night,
 which is the defence upon all the glory that the Lord bringeth
 forth among his spiritual church and people. Isa. 4:5.
 
-Secondly, They would know the land of the inward Jews, and spiritual Judah,
+[.numbered]
+_Secondly,_ They would know the land of the inward Jews, and spiritual Judah,
 and the song sung therein, because of the strong city which the Lord builds there,
 and the salvation which he appoints for walls and bulwarks about it;
 and would see and know how none but the inward Jews,
@@ -198,7 +217,8 @@ and the resting and feeding-places in it are sure. Isa. 32:18.
 and chap.
 33:15, 20.
 
-Thirdly, They would know the feast of fat things,
+[.numbered]
+_Thirdly,_ They would know the feast of fat things,
 which the Lord of hosts makes to all people that are here;
 to all people that come up to and dwell on his holy mountain,
 and serve and worship him in Spirit and truth.
@@ -214,7 +234,8 @@ of darkness into the kingdom of the dear Son,
 and they shall sup with Christ, and he with them,
 and both together drink of the fruit of the vine of life new in the Father`'s kingdom.
 
-Fourthly, They shall infallibly know here,
+[.numbered]
+_Fourthly,_ They shall infallibly know here,
 in this light which shines on God`'s holy mountain,
 the destroying or swallowing up of the face of the covering cast over all people,
 and the veil spread over all nations. Isa. 25:7.
@@ -226,11 +247,14 @@ in the light and liberty thereof, behold as in a glass the glory of the Lord,
 and are changed into the same image, from glory to glory, by the Spirit of the Lord.
 ver. 17-18.
 
-Lastly, Here the King of righteousness`' highway is known, even the way of holiness,
+[.numbered]
+_Lastly,_ Here the King of righteousness`' highway is known, even the way of holiness,
 which the unclean cannot pass over; but the sanctified in the light do walk in;
 and the wayfaring men here, though fools, do not err in. Isa. 35:8.
 For they that are taught of God in the new covenant,
 and follow the leading of his blessed Spirit, do not err.
+
+====
 
 Oh that the true church were known, which is now come and coming out of the wilderness,
 leaning upon her Beloved, who led and leads her out thence,
