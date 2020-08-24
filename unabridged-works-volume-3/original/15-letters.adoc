@@ -1,6 +1,7 @@
 == Letters of Isaac Penington
 
-TO FRIENDS
+[.letter-heading]
+To Friends
 
 He that is weak and foolish among the lambs, continually ready to wander,
 both out of the pastures and from the fold,
@@ -44,13 +45,16 @@ that that may be worn out which hinders the unity, and so,
 ye may feel your King and Saviour exalted upon his throne in your hearts:
 this is your rest, peace, life, kingdom, and crown forever.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-MY DEAR FRIEND,
+[.salutation]
+My Dear Friend,
 
-$$...$$This then is the way of redemption;
+&hellip;This then is the way of redemption;
 to wait to feel the appearance of the light of the Spirit in the heart; and,
 at its least or lowest appearance, to be turned from the darkness towards it.
 Oh! feel the redeeming arm in thine own heart,
@@ -115,9 +119,11 @@ that know and return at the Shepherd`'s voice, when he calleth after them.
 I remain thy true, entire, faithful, loving Friend,
 in the love and good-will of the Lord, wishing to thy soul as to my own.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
 There is a question ariseth in my heart to thee, which is this:
 
@@ -191,13 +197,17 @@ who reads them in the liberty of his own spirit, out of the light of God`'s Spir
 which is the limit and yoke of the true readers,
 and of those who understand the Scriptures.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 4th of Fourth Month,--
 
-TO A COUPLE ABOUT TO MARRY.
+[.letter-heading]
+To a Couple About to Marry
 
-DEAR FRIENDS,
+[.salutation]
+Dear Friends,
 
 It is a great and weighty thing that ye are about;
 and ye have need of the Lord`'s leading and counsel therein,
@@ -227,13 +237,17 @@ which may be a strength unto you, against the tempter afterwards.
 This is in true love to you, and in singleness of heart, the Lord knoweth.
 From your friend in the truth.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 4th of Third Month, 1668.
 
-TO MILES STANCLIF.
+[.letter-heading]
+To Miles Stanclif.
 
-DEAR M. S.,
+[.salutation]
+Dear M. S.,
 
 Thou art often in my heart; and indeed, I do many times bow unto the Father of spirits,
 for the preservation of whatever is good in thee,
@@ -279,15 +293,20 @@ and in the power.
 So the Lord God Almighty lead thee fully into, and preserve thee perfectly in,
 the way everlasting.
 
+[.signed-section-closing]
 Thy friend in the true love,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 16th of Third month, 1668.
 
-TO JOHN MANNOCK.
+[.letter-heading]
+To John Mannock.
 
-FRIEND,
+[.salutation]
+Friend,
 
 Hath the Lord drawn thy heart to hear the sound of truth,
 and given thee some sense and savor thereof,
@@ -428,13 +447,17 @@ From a friend to all that breathe after the Lord,
 and desire to know and partake of the power and life of truth, as it is in Jesus,
 the alone Redeemer and Saviour of the soul.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 3d or 4th of Tenth Month, 1668.
 
-TO JOHN MANNOCK.
+[.letter-heading]
+To John Mannock.
 
-FRIEND,
+[.salutation]
+Friend,
 
 It is a wonderful thing, to witness the power of God reaching to the heart,
 and demonstrating to the soul the pure way to life, as in his sight and presence.
@@ -500,13 +523,17 @@ and give the glory to him of what belongs to him.
 From thy friend in the truth, which cleanseth the heart from iniquity,
 as it is embraced and dwelt in.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 23rd of Tenth Month, 1668
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-O FRIEND!
+[.salutation]
+O Friend!
 
 That thou hadst the true sense of the drift of my heart in writing
 and sending things to thee!--which is and hath been this--that
@@ -541,13 +568,17 @@ and thou mayest be able to say in the presence of the Lord,
 this is a city of God`'s own building, the foundation whereof was laid with sapphires,
 whose walls are salvation, and its gates praise.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 12th of Third Month, 1669.
 
-TO CATHERINE PORDAGE.
+[.letter-heading]
+To Catherine Pordage.
 
-FRIEND,
+[.salutation]
+Friend,
 
 Thy estate and condition hath been pretty much with me since I last saw thee.
 I am sensible how hard it is for thee to give up
@@ -629,13 +660,17 @@ who is visiting that spirit in thee which hath led thee aside,
 even with the judgment proper for it; that Zion in thee might be thereby redeemed,
 and thy soul converted to, and truly brought forth in, righteousness.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 11th of First Month 1670.
 
-TO THOMAS WALMSLEY.
+[.letter-heading]
+To Thomas Walmsley.
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 There is somewhat on my heart this morning to write to thee,
 in the same love wherein I have hitherto written, which I feel to be pure, of God,
@@ -716,13 +751,17 @@ and bringing that down in thee under his feet which nothing else can bring down.
 This is from the true desire which my soul hath,
 after the eternal salvation and satisfaction of thine.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 28th of First Month, 1670
 
-TO ELIZABETH WaLMSLEY.
+[.letter-heading]
+To Elizabeth Walmsley.
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Who art lovely to me in that precious life wherewith the Lord hath visited thee,
 and wherein he hath brought thee forth for his service, and to his praise.
@@ -794,13 +833,17 @@ keeps in order all that are subject to it!
 
 I remain thy friend and brother, in the life and love which never dies nor changes,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 18th of Second Month, 1670
 
-TO WIDOW HEMMINGS.
+[.letter-heading]
+To Widow Hemmings.
 
-MY DEAR FRIEND,
+[.salutation]
+My Dear Friend,
 
 Whom I truly love, and whose prosperity in the truth I earnestly desire.
 Because I find thy mind much engaged about one thing; to wit,
@@ -846,13 +889,16 @@ and be acquainted with it.
 
 Thy unfeigned friend in the truth which is pure,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, 3rd of Sixth Month, 1670
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-THE Lord God of heaven and earth, who searcheth the heart and trieth the reins, knows,
+The Lord God of heaven and earth, who searcheth the heart and trieth the reins, knows,
 that we who are called Quakers have no secret things
 or hidden principles among us to win people to;
 but as we have ourselves been won to the simplicity and plainness of truth,
@@ -915,13 +961,17 @@ Oh that they knew their state, as it is known in the light of the Lord,
 and by the Spirit of the Lord!
 The Lord open the true eye in them, and give them to see therewith.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, 19th of Seventh Month, 1670
 
-TO NATHANIEL STONAR.
+[.letter-heading]
+To Nathaniel Stonar.
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 There was somewhat on my heart towards thee this morning,
 which I am willing in truth and uprightness to express to thee, as the Lord knoweth.
@@ -988,13 +1038,17 @@ which I feel to be so, by its living virtue and powerful operation in and upon m
 This is my desire for thee, who am thy soul`'s true and sincere friend,
 who would by no means have thee deceived about any thing that concerns it.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, 24th of Seventh Month, 1670
 
-TO WIDOW HEMMINGS
+[.letter-heading]
+To Widow Hemmings
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Since I last saw thee there have been many deep and
 serious thoughts on my heart concerning thee;
@@ -1193,13 +1247,17 @@ which none know but those that are taught of God.
 This is in true friendship and tender love to thy soul,
 from its friend in truth and sincerity,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 26th of Eighth Month, 1670
 
-TO +++_______+++ +++_______+++.
+[.letter-heading]
+To +++_______+++ +++_______+++.
 
-FRIEND,
+[.salutation]
+Friend,
 
 I have had of late some deep and serious thoughts concerning thee, and a sense of thee,
 as between the Lord and my own soul,
@@ -1246,13 +1304,16 @@ that there thou mayest enjoy what in this kind thou desirest!
 
 This is from one, who singly, as in the Lord`'s sight, wisheth well unto thee.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, 27th of Eighth Month, 1670
 
-TO +++_______+++ +++_______+++.
+[.letter-heading]
+To +++_______+++ +++_______+++.
 
-PROFESSORS have long known the name of Christ,
+Professors have long known the name of Christ,
 and what the Scripture relateth concerning him so named;
 but oh that they could once know Christ +++[+++himself,]
 and receive him into their vessels, and feel life flowing from him into them!
@@ -1358,13 +1419,17 @@ either in thyself or others.
 This is in the nakedness of my heart, as in the Lord`'s sight,
 and in the truth of friendship towards thee.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 27th of Ninth Month, 1670
 
-TO WIDOW HEMMINGS
+[.letter-heading]
+To Widow Hemmings
 
-FRIEND,
+[.salutation]
+Friend,
 
 Well may there doubts and scruples arise in the minds of persons concerning prayer,
 as they come to any sense or touch of truth from God`'s Holy Spirit;
@@ -1398,7 +1463,11 @@ and through the life of the Son.
 Now as to thy queries, I shall answer in plainness,
 as the Lord shall please to open my heart.
 
-As to the first:
+[.numbered-group]
+====
+
+[.numbered]
+As to the _first:_
 Whenever the creature finds breathings to the Father from a sense of its wants,
 these are not to be stopped, but to be offered up in that from which the breathings come.
 For there is no true sense of one`'s condition, or of one`'s wants,
@@ -1417,7 +1486,8 @@ and prays for the kingdom, and strives for the kingdom; but it prays amiss,
 and it strives amiss, even so as it never shall obtain, the kingdom being appointed for,
 and given to, another.
 
-To the second: Those that do not know, nor are sensible partakers of the Spirit,
+[.numbered]
+To the _second:_ Those that do not know, nor are sensible partakers of the Spirit,
 yet feeling their want thereof, and true desires after it,
 ought to offer up those desires to God; and keeping in that which begets those desires,
 they shall not long be ignorant of God`'s Spirit,
@@ -1436,7 +1506,8 @@ knowing they can do nothing right without it;
 and surely he will not require duties of them, and withhold that from them,
 without which, they cannot acceptably perform these duties to him.
 
-To the third:
+[.numbered]
+To the _third:_
 A notion that all the soul`'s supplies are from the
 Father is not a sufficient ground of prayer;
 for the false birth may, and often doth, pray so;
@@ -1451,7 +1522,8 @@ even from the flesh, and are of a fleshly nature, neither are of value,
 nor avail with the Lord; but the birth of life, the sensible breathings of his own life,
 in the poorest and weakest babe, are always of esteem, and prevail with the Father.
 
-To the fourth: The creature may misapprehend its duty, may have a wrong sense,
+[.discourse-part]
+To the _fourth:_ The creature may misapprehend its duty, may have a wrong sense,
 apprehending that to be its duty which is not,
 and may not apprehend that to be its duty which is; and so, if the sense be wrong,
 then the act of obedience (according to this wrong sense) is wrong also,
@@ -1475,6 +1547,8 @@ and all other spiritual things; and wilt know Him who is truth and no lie,
 who deceives not, but preserves that mind which is given up to him, and abides in him,
 out of all error and deceit.
 
+====
+
 Thou seemest also to be disturbed about some other duties as well as prayer.
 If the Lord have begun to put a stop to the workings of flesh in thee,
 and thou be subject to him therein, and cease from thine own willings and workings,
@@ -1493,13 +1567,17 @@ but then He that shows mercy is near, and the day of mercy is not far off to tha
 The Lord raise up that in thee, which is of him; and so guide and order thy heart,
 that it may long and cry after him, and be heard and satisfied by him.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 28th of Ninth Month, 1670
 
-TO ELIZABETH WALMSLEY.
+[.letter-heading]
+To Elizabeth Walmsley.
 
-MY VERY DEAR FRIEND,
+[.salutation]
+My Very Dear Friend,
 
 Many are the trials, afflictions, and temptations,
 which the Lord seeth good to exercise us with, for the purifying and making us white,
@@ -1531,13 +1609,17 @@ which first brings down that which is contrary to truth, and then reigns in the 
 
 Thy friend in the love which never dies, and in the truth which changes not,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Catsgrove, 14th of Tenth Month, 1670
 
-TO ELIZABETH STONAR
+[.letter-heading]
+To Elizabeth Stonar
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I am sensible that the Lord hath visited thee with his power,
 reaching to thy heart in the demonstration of his own Spirit,
@@ -1567,6 +1649,7 @@ but truly knew it as it is.
 
 Thy soul`'s true and sincere-hearted friend,
 
+[.signed-section-signature]
 I+++.+++ P.
 
 [.postscript]
@@ -1596,13 +1679,16 @@ because it has a secret sense that it cannot stand before it.
 
 ====
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 16th of Twelfth Month, 1670
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-THE enemy kindles a great distress in the mind, by stirring up an earnest desire,
+The enemy kindles a great distress in the mind, by stirring up an earnest desire,
 and a sense of a seeming necessity to know.
 When a motion ariseth, how shall I do, to know whether it be of God or no?
 For if it be of God, it ought to be obeyed; and if it be not of God,
@@ -1637,9 +1723,10 @@ And when thou comest hither, thou wilt come to thy rest; and as thou abidest her
 thou wilt abide in thy soul`'s true rest, and know the preciousness of that lesson,
 and of whom thou art to learn it, even in every state to be content.
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-WHAT is Paul?
+What is Paul?
 what is Apollos?
 or what is Cephas?
 It is one and the same pure life and word of power which springs in all the holy brethren,
@@ -1662,9 +1749,11 @@ and so come among us, and join to us in the truth, and keep faithful to the prin
 thou wilt never be in danger of leaving us,
 as they that depart from the principle in their own hearts may soon and easily do.
 
+[.letter-heading]
 TO +++_______+++ +++_______+++
 
-FRIEND,
+[.salutation]
+Friend,
 
 Hearken to a word of advice which is in my heart to thee; it may be of great use to thee,
 if the Lord open thy spirit, and cause it to sink in.
@@ -1715,11 +1804,14 @@ The "`eternal life,`" the Spirit, the power, the fountain of living waters,
 the everlasting, pure well, is above the words concerning it.
 This, the believer is to witness in himself, and to draw water with joy out of it.
 
+[.signed-section-signature]
 I+++.+++ P
 
-TO THE FRIEND OF FRANCIS FINES
+[.letter-heading]
+To the Firend of Francis Fines
 
-FRIEND,
+[.salutation]
+Friend,
 
 After some deep exercise of spirit concerning thee, under great grief of heart for thee,
 I felt a constraint of love, forcing these following considerations from me,
@@ -1909,11 +2001,14 @@ spotless Lamb of God! how precious was thy sacrifice in the eye
 of the Father! how acceptable a ransom for all mankind!
 For in the free, full, and universal love of the Father, "`he tasted death for every man.`"
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO THE LADY CONWAY
+[.letter-heading]
+To the Lady Conway
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 As I was lately retired in spirit and waiting upon the Lord,
 having a sense on me of thy long, sore, and deep affliction and distress;
@@ -1996,11 +2091,14 @@ preserving and ordering thy heart for the great day of his love and mercy;
 which will come in the appointed season,
 when the heart is fully exercised and fitted by the Lord for it, and will not tarry.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Thy condition cannot but be weak and dark, until the light of life arise in thee,
 and the power of the Lord overcome and subdue the power of the darkness,
@@ -2041,11 +2139,13 @@ emptiness, poverty, and perfect resignation of spirit.
 
 This counsel is to thee, through a poor, weak vessel,
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-WHO is able to undergo the crosses and afflictions, either inward or outward,
+Who is able to undergo the crosses and afflictions, either inward or outward,
 which befall those,
 whom God draws out of the spirit of this world and path of destruction,
 into the way of eternal rest and peace?
@@ -2080,11 +2180,13 @@ but may overgrow it, and flourish the more because of it.
 
 From thy truly loving friend in the truth, and for the truth`'s sake,
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-IT is of the infinite mercy and compassion of the Lord,
+It is of the infinite mercy and compassion of the Lord,
 that his pure love visiteth any of us; and it is by the preservation thereof alone,
 that we stand.
 If He leave us at any time, but one moment, what are we?
@@ -2130,11 +2232,14 @@ which alone is able to preserve thee; and so thou also fall.
 This is in dear love to thee: retire from that part which looketh out,
 and feel the inward virtue of that which can restore and preserve thee.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO WIDOW HEMMINGS
+[.letter-heading]
+To Widow Hemmings
 
-MY DEAR FRIEND,
+[.salutation]
+My Dear Friend,
 
 Whom I have always truly and faithfully loved as in the sight of the Lord,
 and to whom my love in the Lord still continues.
@@ -2179,11 +2284,14 @@ which gives victory over the enemy, and all his mysterious workings in the heart
 
 Thy friend, in the truest and most sincere love,
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO CATHERINE PORDAGE
+[.letter-heading]
+To Catherine Pordage
 
-FRIEND,
+[.salutation]
+Friend,
 
 In truth of heart and tender love to thee,
 it is with me to return answers to the chief passages of thy letter, as briefly as I may.
@@ -2235,15 +2343,19 @@ according to their need.
 
 Thy friend in true, faithful, and unfeigned love and tenderness,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 25th of First Month, 1671
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
+[.salutation]
 Friend,
 
-I CANNOT but write a few words in truth and innocency
+I cannot but write a few words in truth and innocency
 (concerning the book thou sentest me to peruse),
 what reception soever they may have.
 
@@ -2280,13 +2392,17 @@ This is from one who never thought nor wished ill concerning thee,
 but is a real desirer of thy good, and a well-wisher to thee, being not only required,
 but also taught of God to love his enemies.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, 1st of the 2nd Month, 1671
 
-TO CATHERINE PORDAGE
+[.letter-heading]
+To Catherine Pordage
 
-FRIEND,
+[.salutation]
+Friend,
 
 I observed yesterday, that thou didst own the light to be the principle of life;
 and that thou didst affirm,
@@ -2376,13 +2492,17 @@ should stand, it will be thy great loss and disadvantage.
 This is in love and true friendship to thy soul,
 in a deeper sight of thee and sense concerning thee than thou art aware of.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 26th of Third Month, 1671
 
-TO NATHANIEL STONAR
+[.letter-heading]
+To Nathaniel Stonar
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 There is somewhat on my heart to express to thee, in love and great good-will,
 which is as followeth:--
@@ -2470,8 +2590,10 @@ and thus be acquainted with that faithful travel which leads thither.
 Thy friend in the heartiness of true love,
 so far as the Lord pleaseth to make use of me towards thee,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 7th of the Fourth Month, 1671
 
 [.postscript]
@@ -2543,13 +2665,16 @@ and gone through great tribulation, do reign with him: blessed be his name forev
 
 ====
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 10th of Fourth Month
 
-TO NATHANIEL STONAR
+[.letter-heading]
+To Nathaniel Stonar
 
-IT is a dangerous thing to resist God`'s Spirit; and yet very easy for a man so to do,
+It is a dangerous thing to resist God`'s Spirit; and yet very easy for a man so to do,
 who hath not received a true understanding from the Lord,
 nor is acquainted with the leadings and outgoings of Him, who is pure.
 He that is tender and truly sensible may discern when he resisteth, when he quencheth,
@@ -2592,14 +2717,16 @@ that thou mayst come into a right sense and judgment,
 concerning the state of thine own soul;
 and mayst experience the Lord manifesting things to thee, as indeed they are.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 15th of Fifth Month, 1671
 
 [.postscript]
 ====
 
-Postscript.--O FRIEND!
+Postscript.--O Friend!
 
 Wait to receive an understanding from the Lord, that thou mayst come truly to know,
 whether thou hast resisted God`'s Spirit, or no;
@@ -2646,13 +2773,17 @@ who most sincerely and heartily wisheth well to thee.
 
 ====
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 17th of Fifth Month, 1671
 
-TO CATHARINE PORDAGE
+[.letter-heading]
+To Catherine Pordage
 
-FRIEND,
+[.salutation]
+Friend,
 
 It is true, the way to life is so difficult and intricate, that none can find it,
 but such as are lighted by the Lord, and follow the guidance of his Spirit.
@@ -2812,13 +2943,17 @@ the way of the seed will not be too hard for thee; otherwise it will.
 
 This is to thee, in love and grief, from thy soul`'s true friend,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 21st of Sixth Month, 1671
 
-TO CATHARINE PORDAGE AND ANOTHER
+[.letter-heading]
+To Catherine Pordage and Another
 
-FRIENDS,
+[.salutation]
+Friends,
 
 Take heed of that spirit,
 which will be stirring up hard thoughts in you of God and his way,
@@ -2895,13 +3030,17 @@ for he knows what will be the issue of this destroying work,
 if it have its thorough course and effect upon you;
 and that none of his kingdom will be left standing in you.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 7th of Seventh Month, 1671
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Some Scriptures did spring up and open in my heart towards thee this morning.
 
@@ -3033,15 +3172,19 @@ the Lord in visiting thee with his truth,
 in giving thee a sense beyond others, in so tenderly drawing and inviting thy heart;
 or what this will come to, if thou faithfully give up to hearken to and follow him.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 20th of Tenth Month, 1671
 
-TO ANN FLEETWOOD
+[.letter-heading]
+To Ann Fleetwood
 
-My dear Friend, my ancient Friend,
+[.salutation]
+My Dear Friend, My Ancient Friend,
 
-AH,
+Ah,
 hadst thou known the precious appearance of the spirit and power of our Lord Jesus Christ,
 as it has broken forth in many spirits in this our day;
 blessed be the name of our God forever; I say hadst thou known it, and embraced it,
@@ -3121,7 +3264,11 @@ his Truth, and people.
 
 From thy soul`'s true friend, and most hearty well-wisher,
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.postscript]
+====
 
 P.S. The way of God, and covenant of life,
 is but one and the same throughout all ages and generations;
@@ -3169,13 +3316,18 @@ hid from the eye of his own wisdom.
 These things sprang livingly in me this morning towards thee,
 and they are laid before thee in the melting tenderness of true and unfeigned love.
 
+====
+
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 9th of 5th Month, 1672
 
-TO WIDOW HEMMINGS
+[.letter-heading]
+To Widow Hemmings
 
-THERE are two or three scriptures now on my heart to lay before thee;
+There are two or three scriptures now on my heart to lay before thee;
 and it is the desire of my soul, that thou mayst so know the Lord,
 and so receive his Son, as that thou mayst experience them.
 
@@ -3263,13 +3415,17 @@ on his holy mountain, even in the kingdom which cannot be shaken;
 and the Beloved doth not only knock at the door of the heart, but comes in,
 and sups with his, and they with him.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 16th of Eighth Month, 1672
 
-TO THOMAS AND ANN MUDD
+[.letter-heading]
+To Thomas and Ann Mudd
 
-DEAR FRIENDS,
+[.salutation]
+Dear Friends,
 
 Of whose love to me, I have been and am sensible, and to whom I bear true love.
 
@@ -3356,13 +3512,16 @@ in what fear, in what knowledge, from him, I write this to you;
 who am a true friend to you both (in true and faithful love, as in God`'s sight),
 and a hearty desirer of your everlasting happiness.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 19th of the Twelfth Month, 1672
 
-TO COLONEL KENRICK
+[.letter-heading]
+To Colonel Kenrick
 
-THE gospel dispensation consists in Spirit and power.
+The gospel dispensation consists in Spirit and power.
 The kingdom which Christ and his apostles preached--which
 the true believers were to receive,
 and to wait for an entrance to be ministered to them into--stood not in word,
@@ -3370,7 +3529,11 @@ but in power.
 Now there are four sorts of professors of the Christian religion in this our day,
 one sort whereof only, are acquainted with the gospel dispensation.
 
-First, There is one sort,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ There is one sort,
 which have been nurtured in a profession of Christianity by education,
 and have improved it by study, but have never known the power, virtue,
 and inward life thereof; but as men, with the man`'s part, wisdom, understanding,
@@ -3384,7 +3547,8 @@ but fall very far short of the nature and state of Christianity; yea,
 the strictest among these, many times,
 become the greatest opposers and persecutors of true Christianity.
 
-Secondly, There are some who have had a taste of the true power,
+[.numbered]
+_Secondly,_ There are some who have had a taste of the true power,
 and have had living desires and breathings after it,
 and a sense of the preciousness and excellency of it;
 who have also felt the quickening Spirit, and begun therein;
@@ -3397,7 +3561,8 @@ and from among these do rise the greatest persecutors
 and bitterest persecution against the life,
 truth, and power.
 
-Thirdly, There are some, who,
+[.numbered]
+_Thirdly,_ There are some, who,
 though they never came to the distinct knowledge of the power,
 yet have had a great sense of their want of it, and have abode in that sense;
 and in all the ways and forms of religion they have been or are in, still seek after it;
@@ -3415,7 +3580,8 @@ their longing and cry after the redeeming and gathering power of the Shepherd is
 however they may be, at present, prejudiced against that very dispensation of truth,
 life, and power, whereby the Shepherd gathers.
 
-Fourthly,
+[.numbered]
+_Fourthly,_
 There are some whom God hath brought to the distinct sense and knowledge of the power.
 There are some whose minds God hath turned to the inward light and power.
 There are some whom the Shepherd hath gathered home to the Father`'s house,
@@ -3461,6 +3627,8 @@ the pure understanding and language is given, whereby they know and understand,
 not only words concerning Him, but Him himself who is true, and are in him that is true,
 even in Him who is the very God and life eternal.
 
+====
+
 Yet there are different states among those who are
 thus effectually called and gathered home,
 according to their growth in the truth, and faithfulness to it.
@@ -3479,13 +3647,17 @@ nor do such partake so of the river of life and wine of the kingdom,
 as those whose ear is open to him,
 and who are always ready to obey and follow him "`whithersoever he goeth.`"
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 19th of Fourth Month, 1673
 
-TO WIDOW HEMMINGS
+[.letter-heading]
+To Widow Hemmings
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I think it long since I heard from thee.
 I remember the sweet and precious savor that was upon thy spirit,
@@ -3527,13 +3699,17 @@ and mind nothing else; and it will be well with her.
 
 My dear love is both to thee and her, who am thy sincere friend,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 4th of Ninth Month, 1673
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-DEAR FRIEND,--
+[.salutation]
+Dear Friend,--
 
 For in those true desires, which I observe in thy heart towards the Lord, thou art,
 and canst not but be,
@@ -3628,13 +3804,17 @@ and gather both your minds thereunto, and make you one therein.
 
 Thy friend in truth, who heartily wisheth well to thy soul.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Grove Place, 17th of Ninth Month, 1673
 
-TO ELIZABETH STONAR
+[.letter-heading]
+To Elizabeth Stonar
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Whose life in the Lord, and prosperity in the truth, my heart greatly desireth;
 even that thou mayst come to the perfect service,
@@ -3781,11 +3961,14 @@ and preserve thee from being ensnared with them.
 
 Thy constant friend in the dear love and service of the truth.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Amersham, Bury End, 20th of First Month, 1675
 
-TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
 My love to Friends at Chalfont, as if I named particulars.
 I love them faithfully, and watch for their souls, and am in unity with the living body,
@@ -3819,11 +4002,14 @@ to give themselves liberty hastily to speak against any thing that is done there
 We cannot answer the will of any, in any thing;
 but our God must go before us in everything, or we must stop till he make our way clear.
 
+[.signed-section-context-close]
 Written in the 4th Month, 1675
 
-TO WIDOW HEMMINGS
+[.letter-heading]
+To Widow Hemmings
 
-MY DEAR FRIEND,
+[.salutation]
+My Dear Friend,
 
 I have not forgotten thee; but have often inquired after thee,
 and many times breathed for thee.
@@ -3865,14 +4051,17 @@ nor comfort.
 
 Thy friend, in the truest, sincerest, and most constant love.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 London, 1st of Ninth Month, 1675
 
-TO CATHARINE PORDAGE
+[.letter-heading]
+To Catherine Pordage
 
-AH!
-MY POOR, DISTRESSED, ENTANGLED FRIEND,
+[.salutation]
+Ah! My poor, distressed, entangled friend,
 
 While thou seekest to avoid the snare, thou deeply runnest into it:
 for thou art feeding on the tree of knowledge, in giving way to these thoughts,
@@ -3957,13 +4146,17 @@ where the pure power is met with.
 
 Thy friend in the truth, and in sincere love,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Amersham, 25th of Ninth Month, 1675
 
-TO MY DEAR SUFFERING FRIENDS IN SCOTLAND
+[.letter-heading]
+To My Dear Suffering Friends in Scotland
 
-DEAR FRIENDS AND BRETHREN,
+[.salutation]
+Dear Friends and Brethren,
 
 Who have partaken of the tender mercy and blessed visitation of the Lord.
 
@@ -4036,13 +4229,17 @@ whose breathings are to God for you, and his praises unto him,
 through the sense of his being with you, and daily showing mercy to you,
 upholding and preserving you in the midst of your sore trials and afflictions.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 London, 5th of Fifth Month, 1676
 
-TO HIS BROTHER ARTHUR
+[.letter-heading]
+To His Brother Arthur
 
-DEAR BROTHER,
+[.salutation]
+Dear Brother,
 
 I have been a traveller after the Lord from my childhood,
 and great misery have I undergone for want of him.
@@ -4164,13 +4361,17 @@ Oh that thou knew the church of the firstborn, which are written in heaven,
 the Jerusalem which is above, which is free,
 which is the mother of all who are born of the regenerating virtue and power!
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 20th of Seventh Month, 1676
 
-TO SIR WILLIAM ARMORER (so styled)
+[.letter-heading]
+To Sir William Armorer (so styled)
 
-FRIEND,
+[.salutation]
+Friend,
 
 The weighty sense of an eternal condition after this life,
 hath been upon my heart from my childhood; and it is often with me,
@@ -4236,11 +4437,14 @@ it is the desire of my heart, may not be thy portion from the hand of the Lord.
 This is from a sufferer by thee,
 who never gave thee the least cause or provocation so to deal with me.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-TO THE LADY CONWAY
+[.letter-heading]
+To the Lady Conway
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I have heard both of thy love to truth, and of thy great afflictions outwardly;
 both which occasion a sense concerning thee,
@@ -4305,13 +4509,17 @@ then may thy soul dwell with its Beloved in fulness of joy, life, and peace fore
 This is from the tender love, and fresh breathings of life, in thy soul`'s true Friend,
 and most hearty well-wisher,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 17th of Third Month, 1677
 
-TO JAMES EELES
+[.letter-heading]
+To James Eeles
 
-FRIEND,
+[.salutation]
+Friend,
 
 God is my witness, to whom I must give an account of all my actions,
 that it is my desire to be found in all true love, courtesy, and righteousness,
@@ -4372,13 +4580,17 @@ by those whom he calls forth to testify to his truth in these things.
 So, at present, I say no more, but remain thy friend, ready to do thee any good,
 though I should suffer ever so deeply from thee.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 25th of Fourth Month, 1677
 
-TO DULCIBELLA LAITON
+[.letter-heading]
+To Dulcibella Laiton
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Concerning whom I feel a travail, this is the sense of my heart in relation to thee.
 
@@ -4435,15 +4647,20 @@ that thou mayst sing songs of degrees to the Redeemer of Israel,
 and mayest daily more and more partake of and rejoice in him, who is our joy,
 and the crown thereof.
 
+[.signed-section-closing]
 Thy friend, in the most sincere, tender love,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 11th of Fifth Month, 1677
 
-TO THOMAS WALMSLEY
+[.letter-heading]
+To Thomas Walmsley
 
-FRIEND T. W.,
+[.salutation]
+Friend T. W.,
 
 God is love: and he giveth love, and teacheth to love;
 and with the love which my God hath given me, and wherewith he hath taught me to love,
@@ -4495,13 +4712,17 @@ Oh that thou mayst know the righteousness of the Lord Jesus Christ,
 and be clothed with it, that thou mayst stand justified in God`'s sight forever,
 at that great day!
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 12th of Eleventh Month, 1677
 
-TO GEORGE WINKFIELD
+[.letter-heading]
+To George Winkfield
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 Two things stick upon my heart, since our last short discourse at the window at Kings,
 through my desire that it may go well with thee,
@@ -4556,13 +4777,20 @@ if felt, would soon condemn and draw from.
 
 This is in most sincere love to thee, from him who hath always been thy friend.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 11th of 12th Month, 1677
 
-TO SIR WILLIAM DRAKE (so styled)
+[.letter-heading]
+To Sir William Drake (so styled)
 
-FIRST, There is a God, a holy, righteous, living, powerful God,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ There is a God, a holy, righteous, living, powerful God,
 who made heaven and earth, and all things therein; and at last made man in his own image,
 and set him over the works of his hands, to have dominion,
 and to rule in his wisdom and power over them; and to guide, order, and make use of them,
@@ -4570,11 +4798,13 @@ to the glory of Him that made them.
 Now, in this state, God was pleased and took delight in the works of his hands,
 and in man above all.
 
-Secondly, Man, sinning against his Maker, lost this image, which was his glory,
+[.numbered]
+_Secondly,_ Man, sinning against his Maker, lost this image, which was his glory,
 and became brutish in understanding, and an enemy to God in his mind,
 and liable to the wrath of God`'s holy and righteous nature.
 
-Thirdly, There is no reconciliation to be had between God and man any more,
+[.numbered]
+_Thirdly,_ There is no reconciliation to be had between God and man any more,
 but by the change of this nature in man: for God is unchangeable, he is light,
 he is life, he is holiness unchangeable; and will never be reconciled to,
 or have fellowship with, darkness,
@@ -4583,7 +4813,8 @@ until he be begotten again to God, changed and renewed from his evil and sinful 
 into a good and holy nature, and till he be turned from evil works,
 and know what it is to be the workmanship of God, created anew unto good works.
 
-Fourthly, Nothing can produce this change in man, but the Spirit and power of Christ,
+[.numbered]
+_Fourthly,_ Nothing can produce this change in man, but the Spirit and power of Christ,
 but the grace and truth which is by Jesus Christ.
 Therefore a man had need be sure that he receive this Spirit and power,
 and that he feel the operative, changing virtue of it, and be really changed thereby,
@@ -4592,7 +4823,8 @@ a son and servant to the living God;
 or he can never know what belongs to true reconciliation with God,
 and to fellowship with him in the light and life of his Son.
 
-Fifthly, All the religions and professions upon the face of the earth,
+[.numbered]
+_Fifthly,_ All the religions and professions upon the face of the earth,
 which fall short of this Spirit, life, and power,
 and wherein this new creation in Christ Jesus is not witnessed,
 nor power received to abstain from what is evil, and to become sons to God,
@@ -4604,7 +4836,8 @@ are to be turned away from, and witnessed against,
 by such as are called forth to be witnesses to the true,
 gospel religion and way of worship, which stands in Spirit, life, and power.
 
-Sixthly, This religion and worship, which stands in Spirit, life, and power,
+[.numbered]
+_Sixthly,_ This religion and worship, which stands in Spirit, life, and power,
 is the religion and worship which Christ set up about sixteen hundred years ago. John 4:23-24.
 1 Cor. 4:20. Rom. 6:4. And this
 is the religion which God hath revived and set up again,
@@ -4614,6 +4847,8 @@ they have the witness of it in their own hearts. Rev. 14:6-7.
 1 John 5:10-12. Isa. 53:1. Oh, how sweet are these scriptures,
 when they are rightly read and rightly understood,
 the Lord giving the right understanding, and leading into the true experience of them!
+
+====
 
 Friend, thou expressed to one of my youngest sons, as he related to me,
 that thou hadst a desire I should visit thee,
@@ -4655,15 +4890,23 @@ I remain an acknowledger of thy kindness, and a desirer for thee,
 that thou mayst obtain from God the knowledge of himself and his Son,
 which is experienced, by them that receive it, to be, indeed life eternal.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.postscript]
+====
 
 This was written in true love and goodwill, and in the fear of the Lord,
 and in the springings and openings of his life in my heart,
 on the 19th of the Fifth Month, 1678
 
-TO THE WOMEN`'s MEETING OF FRIENDS IN THE TRUTH, AT JOHN MANNOCK`'s
+====
 
-DEAR FRIENDS,
+[.letter-heading]
+To the Women`'s Meeting of Friends in the Truth, at John Mannock`'s
+
+[.salutation]
+Dear Friends,
 
 Dearly beloved and honored in the Lord, because of his honorable presence and power,
 which is so preciously manifested and found to be among you in your meetings.
@@ -4747,13 +4990,16 @@ as he himself would have them, and as you yourselves can desire them to be.
 
 Your friend and brother in the tender truth, and in the pure love and precious life.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 19th of Fifth Month, 1678
 
-TO THOSE PERSONS THAT DRINK OF THE WATERS AT ASTROP WELLS
+[.letter-heading]
+To Those Persons That Drink of the Waters at Astrop Wells
 
-THERE is a great God, the Creator of all things, who gave man a being here in this world;
+There is a great God, the Creator of all things, who gave man a being here in this world;
 to whom every man must give an account, when he goes out of this world.
 
 This great God, who loves mankind, and would not have them perish, is nigh unto man,
@@ -4792,34 +5038,44 @@ This is written in tender love unto you, from one who pities and loves you,
 and desires your prosperity in this world,
 and your everlasting happiness with God forever.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Astrop, 15th of Sixth Month, 1678
 
-TO SUCH AS DRINK OF THE WATERS AT ASTROP WELLS
+[.letter-heading]
+To Such As Drink of the Waters at Astrop Wells
 
-I ENTREAT you to consider what is within written for your eternal good;
+I entreat you to consider what is within written for your eternal good;
 and be not deceived by the enemy of your souls, in things of an everlasting concern.
 
 Some queries propounded to your consideration,
 in the tender melting love of my heart towards your everlasting welfare.
 
-First query.
+[.numbered-group]
+====
+
+[.numbered]
+_First query._
 Is not the great God, who created heaven and earth, light, pure light, spiritual light,
 eternal light, in whom is no darkness at all? 1 John 1:5.
 
-Second query.
+[.numbered]
+_Second query._
 Is not man, in his natural, unregenerate, corrupt state, darkness?
 And can he possibly, in that state,
 have any union or fellowship with the great God and Saviour?
 See Eph. 5:8. 2 Cor. 4:6. 1 John 1:6.
 
-Third query.
+[.numbered]
+_Third query._
 Doth not the great God, in his tender love to mankind, cause his pure,
 heavenly light to shine in man`'s heart, in this his dark and corrupt state? 2 Cor. 6:6.
 John 1:5.
 
-Fourth query.
+[.numbered]
+_Fourth query._
 What is the end of God`'s causing his pure light to shine in man`'s corrupt heart?
 Is it not, that man might be turned from darkness, and from the power of Satan,
 which keeps him in darkness, to the light which God causeth to shine in him,
@@ -4827,18 +5083,21 @@ and to God from whom this light comes? Acts 26:18.
 that so, following Christ, and not walking in darkness,
 he might obtain the light of life? John 8:12.
 
-Fifth query.
+[.numbered]
+_Fifth query._
 Doth man, in his natural corrupt state, love this light, when it shines in him;
 or rather hate it?
 And can he hate it, without hating God from whom it comes, and of whose nature it is?
 
-Sixth query.
+[.numbered]
+_Sixth query._
 Why doth man, in his natural corrupt state, hate this light?
 Is it not, because his deeds are evil; and because he would continue in his evil deeds,
 without being disturbed or reclaimed by this light?
 John 3:19 to 21.
 
-Seventh query.
+[.numbered]
+_Seventh query._
 What does the light of the pure God, and of his Christ,
 do for them that receive and obey it?
 Doth it not bring them out of darkness, and change their nature;
@@ -4846,7 +5105,8 @@ so that they become children of the light, and no more darkness, as they were be
 but light in the Lord? John 12:36.
 Eph. 5:8.
 
-Eighth query.
+[.numbered]
+_Eighth query._
 How shall it fare with those,
 who receive the shinings of this light of God and Christ in their consciences,
 hearkening to the reproofs of it, eschewing that which it shows to be evil,
@@ -4854,7 +5114,8 @@ and doing that which God by it shows to be good?
 Shall not they receive the remission of their sins from God,
 and an inheritance among the saints in light? Acts 26:18. Col. 1:12-13.
 
-Ninth query.
+[.numbered]
+_Ninth query._
 What will become of those, who do not mind the shining of God`'s light in their hearts,
 nor are turned to it, nor changed by it;
 but spend their time in what pleaseth the corrupt part in themselves?
@@ -4862,18 +5123,23 @@ Will they not be separated, when they go out of this world, from God, who is lig
 and have their portion with dark spirits, in utter darkness?
 2 Thess. 1:6, to 10. See also Matt. 25:30.
 
+====
+
 Oh, consider these things, while ye have time,
 for your souls`' eternal good! that ye miss not of the holy way of life and salvation,
 and so perish; whom God would not have perish, but stretcheth forth his hand of love,
 by his inward "`light of life,`" effectually to save your souls.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Astrop, 20th of Sixth Month, 1678
 
-TO ONE WHO SENT A MESSAGE TO HIM FROM ASTROP WELLS
+[.letter-heading]
+To One Who Sent a Message to Him From Astrop Wells
 
-I HAD no end in writing or sending those papers, but true love to your immortal souls;
+I had no end in writing or sending those papers, but true love to your immortal souls;
 that ye might seriously consider thereof, and be found in the practice of them,
 and so be happy forever.
 For as Christ said to his disciples, so it is with me in this case towards you,
@@ -4890,18 +5156,27 @@ yet the reading and serious consideration thereof may not be unserviceable to th
 
 I am thy friend, in true love and desires for thee,
 
+[.signed-section-signature]
 I+++.+++ P.
 
-THE PLAIN PATH-WAY OF SALVATION
+[.centered]
+=== The Plain Path-way of Salvation
 
+[.discourse-part]
 The Lord Jesus Christ is the only Saviour.
 
+[.discourse-part]
 Grace and truth comes by Jesus Christ.
 
+[.discourse-part]
 The Lord Jesus Christ saves by the grace and truth which comes by him.
 
+[.discourse-part]
 For it is the grace of God that brings salvation, and it is the truth, as it is in Jesus,
 which makes free indeed.
+
+[.small-break]
+'''
 
 He, therefore, that would be saved from sin and condemnation,
 must wait for the inward manifesting and revealing of the grace and truth in his heart;
@@ -4937,13 +5212,17 @@ and to do the will of God,--he doth not yet at all know
 the Lord Jesus Christ unto the salvation of his soul,
 notwithstanding whatsoever he may profess or believe concerning him.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Astrop, 28th of Sixth Month, 1678
 
-TO THE WOMEN FRIENDS THAT MEET AT ARMSCOT IN WORCESTERSHIRE
+[.letter-heading]
+To the Women Friends That Meet at Armscot in Worcestershire
 
-DEAR FRIENDS,
+[.salutation]
+Dear Friends,
 
 In your meetings together to do service for the Lord,
 be every one of you very careful and diligent in watching to his power,
@@ -5015,11 +5294,14 @@ Ye will find a great work to keep one part down,
 that that which is pure and living of God may come up in you, and ye act only in it,
 not exceeding the limits of it.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Written at John Hawford`'s, 7th of Seventh Month, 1678
 
-TO THE SCHOLARS THAT DISTURB FRIENDS, IN THEIR MEETINGS AT OXFORD
+[.letter-heading]
+To the Scholars That Disturb Friends, in Their Meetings at Oxford
 
 I heard such jeering yesterday, at Being moved by the Spirit of God,
 as indeed grieved me;
@@ -5064,6 +5346,8 @@ other things that concern your everlasting welfare.
 This is in true love and good-will to you, from him who wisheth well to your souls:
 even that ye may know, partake of, and rejoice in God`'s salvation.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Oxford, 23d of 7th month, 1678
