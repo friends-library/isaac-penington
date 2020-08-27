@@ -453,7 +453,7 @@ but come truly to witness it.
 ====
 
 [.numbered]
-_Query 1._ WHETHER there be not somewhat which destroys,
+_Query 1._ Whether there be not somewhat which destroys,
 which hath the nature of death and destruction in it,
 and which leaveneth with death and destruction, as it is let in and received?
 
@@ -513,7 +513,7 @@ and who fills it with life and power from on high?
 ====
 
 [.numbered]
-_Query 1._ WHETHER there be not a mystery of light, a mystery of life;
+_Query 1._ Whether there be not a mystery of light, a mystery of life;
 somewhat of a true light hidden, somewhat of true life hidden in the Gentiles?
 Whatsoever makes manifest, is light, saith the apostle. Eph. 5:13-14.
 And that which may be known of God, is manifest in them.
@@ -1891,7 +1891,7 @@ and properties thereof; but come, taste, and see how sweet the light is,
 and what a pleasant thing it is to behold the shinings of this Sun.
 
 [.discourse-part]
-_Question. 10._ Doth God visit all men with this light?
+_Question 10._ Doth God visit all men with this light?
 
 [.discourse-part]
 Answer.
@@ -1901,7 +1901,7 @@ is able to discover the darkness to them,
 and to save them therefrom.
 
 [.discourse-part]
-_Question. 11._ What is the reason, then, that all men are not saved by it?
+_Question 11._ What is the reason, then, that all men are not saved by it?
 
 [.discourse-part]
 Answer.
@@ -1910,7 +1910,7 @@ but join to the darkness, and hearken to the wisdom and reasonings thereof,
 against the appearances and discoveries of the light.
 
 [.discourse-part]
-_Question. 12._ How comes it that men do so?
+_Question 12._ How comes it that men do so?
 
 [.discourse-part]
 Answer.
@@ -1925,7 +1925,7 @@ to bring them out of love with the darkness, and to bring them into the sense of
 and fellowship with, him in the light.
 
 [.discourse-part]
-_Question. 13._ How come some to love the light?
+_Question 13._ How come some to love the light?
 
 [.discourse-part]
 Answer.
@@ -1940,7 +1940,7 @@ notwithstanding the tender visitations of God, to recover and reconcile man to h
 through the blood of his Son.
 
 [.discourse-part]
-_Question. 14._ Against whom do they rebel, that rebel against the light?
+_Question 14._ Against whom do they rebel, that rebel against the light?
 
 [.discourse-part]
 Answer.
@@ -1954,7 +1954,7 @@ and reproves for it, is the light of Christ`'s Spirit, and not another.
 Oh that all that desire to know what and where the true light is, did understand so!
 
 [.discourse-part]
-_Question. 15._ What do they miss of, who do not know nor heed the light of Christ`'s Spirit,
+_Question 15._ What do they miss of, who do not know nor heed the light of Christ`'s Spirit,
 nor mind the reproofs thereof in their hearts,
 but look on it as inferior in kind and nature to what it is?
 
@@ -3413,7 +3413,7 @@ Amen.
 [.inline]
 ==== XX. Concerning Baptism
 
-[quote.epigraph, , Mark 16:16]
+[quote.scripture, , Mark 16:16]
 ____
 He that believeth, and is baptised, shall be saved;
 but he that believeth not, shall be damned.
@@ -4276,7 +4276,7 @@ and shadowed out under the law in the old covenant.
 [.inline]
 ==== XXIV. Some Observations on 2 Pet. 3:14-16
 
-[quote.epigraph, ,2 Peter 3:14-16]
+[quote.scripture, , 2 Peter 3:14-16]
 ____
 Wherefore, beloved, seeing that ye look for such things,
 be diligent that ye may be found of him in peace, without spot and blameless.
@@ -5035,6 +5035,7 @@ wherein is not the substance and kernel (which alone can nourish up to life eter
 but only some show and appearance thereof,
 which cannot really satisfy that which is indeed begotten and born of God`'s Spirit.
 
+[.inline]
 ==== XXIX. A brief Account of the Ground of our Worship, and how it cometh to pass that we cannot conform to the spirit of this world, or to the wills of men therein, but only to the Spirit and Will of our God
 
 We fear God, who made heaven and earth, whose power is over all,
