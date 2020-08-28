@@ -20,7 +20,7 @@ in the time of his imprisonment in Reading Jail.
 [.centered]
 === Preface
 
-THE Gospel is the power of God unto salvation.
+The Gospel is the power of God unto salvation.
 Oh, blessed is he, who meets with that which powerfully saves!
 Most men`'s religion is but a talk and profession of that which they have not;
 and what will such a kind of religion avail,
@@ -107,7 +107,7 @@ The Lord grant thou mayest know and experience him to be so to thee and in thee.
 Amen.
 
 [.old-style]
-=== A FEW WORDS IN GENERAL / TO THOSE THAT DESIRE THE KNOWLEDGE OF THE TRUE GOD
+=== A Few Words in General / to Those That Desire the Knowledge of the True God
 
 [quote.section-epigraph, , ]
 ____
@@ -198,17 +198,23 @@ Ye must feel the holy seed, the living of God, judge in you; and ye judge only i
 or ye will err in judging according to the appearance,
 and not judge the righteous judgment.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, 26th of the Third Month, 1671
 
 [.centered]
-=== LIFE AND IMMORTALITY, etc.
+=== Life and Immortality, etc.
 
 [.inline]
 ==== I. Some _Queries_ concerning the state of the Church as it was in the Apostles`' days, and was to be afterwards
 
-Query 1. WAS not the church exceeding beautiful, and in heavenly glory,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Was not the church exceeding beautiful, and in heavenly glory,
 in the days of the apostles?
 Did she only travail after life and glory?
 Did she not also bring forth?
@@ -220,7 +226,8 @@ Yea, did she not bring forth the man-child,
 which was to rule all nations with a rod of iron?
 Who can read this state, who is not in some measure a partaker of the same glory?
 
-Query 2. Was not this heaven afterwards wrapped up, rolled up;
+[.numbered]
+_Query 2._ Was not this heaven afterwards wrapped up, rolled up;
 and did not this glory pass away?
 Did not the great red dragon fight with the woman?
 And did she not fly into the wilderness, and was not the man-child caught up to God?
@@ -228,7 +235,8 @@ And did not the remnant of her seed (who had the testimony of Jesus,
 and who kept his commandments) testify and prophesy in sackcloth?
 Read the 11th and 12th chapters of the Revelations.
 
-Query 3. Upon the flight of the true church into the wilderness (when
+[.numbered]
+_Query 3._ Upon the flight of the true church into the wilderness (when
 she was thus gone out of sight) did not the false church start up;
 which made a glorious and taking appearance in the world, to the eye of man`'s wisdom?
 Did not she sit upon a scarlet-colored beast (wise and strong) having seven heads,
@@ -240,7 +248,8 @@ and inhabitants of the earth drunk with the wine of her fornication?
 What do those things mean?
 What did the wisdom of God thus describe her for?
 
-Query 4. What did the true church carry into the wilderness with her,
+[.numbered]
+_Query 4._ What did the true church carry into the wilderness with her,
 and what did she leave behind her?
 Did not the temple, the altar, and the true worshippers go along with her?
 Did not the Gentiles, such as were not true Jews,
@@ -255,7 +264,8 @@ what did God regard the outward?
 "`Leave it out of my measure,`" saith the Lord,
 "`and give it to the Gentiles.`" Rev. 11:2.
 
-Query 5. What is the cup, the golden cup, which this false church hath in her hand,
+[.numbered]
+_Query 5._ What is the cup, the golden cup, which this false church hath in her hand,
 wherein are sorceries and witchcrafts, wherewith she bewitcheth people,
 and maketh them drunk?
 Is it not a glorious appearance of things without the true life and power?
@@ -266,7 +276,8 @@ What remains of these is to be found with the true church
 in the wilderness (the blood of whose seed she drinks),
 not with her.
 
-Query 6. What will become of this great woman in the end; this rich, this glorious church?
+[.numbered]
+_Query 6._ What will become of this great woman in the end; this rich, this glorious church?
 Shall she continue forever?
 Shall she sit as a queen forever, and never see sorrow?
 Shall the true church never come out of the wilderness,
@@ -279,7 +290,8 @@ and who is taking and will take to him his great power,
 wherewith he will thunder against her, until he hath brought her down,
 and her flesh be utterly burnt with fire.
 
-Query 7. What shall become of those who drink of her cup,
+[.numbered]
+_Query 7._ What shall become of those who drink of her cup,
 and who believe and worship as she teacheth?
 Shall they not all drink of the wine of the cup of the wrath of God Almighty,
 poured out without mixture?
@@ -292,6 +304,8 @@ keeping the commandments and the faith of Jesus;
 and woe will be to them who have persecuted them, and drunk their blood.
 Read the 13th, 14th, 17th, and 19th chapters of the Revelations,
 which signify of and testify to these things.
+
+====
 
 Now, whereas many say,
 that the book of the Revelations is such a mystical book that it is not to be understood;
@@ -326,11 +340,16 @@ which the earthly wisdom (in the wisest men of this world) is entangled in.
 [.inline]
 ==== II. Some _Queries_ on Chap. 29 and 30 of Deut. compared with Rom. 10
 
-Query 1. DID not God command Moses to make a
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Did not God command Moses to make a
 covenant with the children of Israel in the land of Moab,
 besides the covenant he made with them in Horeb? Duet. 29:1.
 
-Query 2. What was this covenant?
+[.numbered]
+_Query 2._ What was this covenant?
 Was it of the same nature with the former, or was it of a different nature?
 Was not the former the covenant of the law?
 And was not this the covenant of the gospel?
@@ -343,7 +362,8 @@ But Moses and Aaron, with Caleb and Joshua, who knew and partook of the other co
 they were of a better spirit, and understood the leadings and commands of God,
 and followed after him.
 
-Query 3. Had the Jews minded this covenant,
+[.numbered]
+_Query 3._ Had the Jews minded this covenant,
 might they not have been able to keep the other also?
 Did any fail in sacrifices, or outward obedience of the law, who kept to this covenant?
 What a holy man was Samuel, who did not so much as err in government,
@@ -355,7 +375,8 @@ And so the children of God in the gospel, who have a new heart, and a new spirit
 and walk not after the flesh, but after the Spirit and law of life in Christ Jesus,
 they also fulfill the righteousness of the law declared in the letter. Rom. 8:4.
 
-Query 4. What is the commandment of this covenant, and where is it written?
+[.numbered]
+_Query 4._ What is the commandment of this covenant, and where is it written?
 The commandments of the other covenant are written in the law of Moses,
 and in tables of stone; but where is this commandment written,
 or where is it to be found?
@@ -365,7 +386,8 @@ Is not the Word of this commandment nigh in the mouth and in the heart?
 And is it not there placed by the Lord for this very end,
 that men might hear it and do it?
 
-Query 5. Was not this the Word of commandment of life and good,
+[.numbered]
+_Query 5._ Was not this the Word of commandment of life and good,
 or of death and evil to the Jews?
 See chap 30:14-15. And is it not so also to mankind?
 He that hears and obeys the Word of this commandment,
@@ -375,7 +397,8 @@ tribulation and anguish upon his soul from the hand of the Lord,
 either poured out upon him at present, or treasured up for him against hereafter?
 Read Rom. 2:5-6, etc.
 
-Query 6. Was not this other covenant, this second covenant, this new covenant,
+[.numbered]
+_Query 6._ Was not this other covenant, this second covenant, this new covenant,
 which God bid Moses make with them then,
 the same which God makes with believers in the days of the gospel?
 The old covenant had been made with the Jews before; was not this the new?
@@ -394,7 +417,8 @@ or by virtue of this covenant,
 from which mercy and redemption is continually springing
 freely towards the Israel of God?
 
-Query 7. Whether the Word of faith which the apostles preached,
+[.numbered]
+_Query 7._ Whether the Word of faith which the apostles preached,
 was not the same Word nigh in the mouth and heart which Moses preached?
 Is not the Word of life, the Word of faith, the Word of the new covenant,
 one and the same thing in all ages and generations?
@@ -403,7 +427,8 @@ but Christ is the same yesterday, today, and forever.
 And the commandment of life in the mouth and heart changeth not,
 but is always one and the same.
 
-Query 8. What is the justification under this covenant;
+[.numbered]
+_Query 8._ What is the justification under this covenant;
 or what is that which God hath an eye to in justifying any person here?
 Is it not the obedience of faith?
 What doth God condemn but unbelief?
@@ -419,28 +444,38 @@ he is, indeed, made unto such a one of God wisdom, righteousness, sanctification
 and redemption; and blessed are they that do not mistake about this,
 but come truly to witness it.
 
+====
+
 [.inline]
 ==== III. Some Queries concerning destruction and salvation
 
-Query 1. WHETHER there be not somewhat which destroys,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Whether there be not somewhat which destroys,
 which hath the nature of death and destruction in it,
 and which leaveneth with death and destruction, as it is let in and received?
 
-Query 2. Whether there be not somewhat also which saves,
+[.numbered]
+_Query 2._ Whether there be not somewhat also which saves,
 which hath the nature of life and salvation in it,
 and which leaveneth with life and salvation, as it is let in and received?
 
-Query 3. Whether that which destroys be not near,
+[.numbered]
+_Query 3._ Whether that which destroys be not near,
 and whether that which saves be not near also?
 (Doth not Christ stand at the door and knock?
 And may not he be heard and let in?
 See Rev. 3:20)
 
-Query 4. Whether this, which is so near, and so able to save,
+[.numbered]
+_Query 4._ Whether this, which is so near, and so able to save,
 was not that which saved in all ages and generations,
 even before Christ appeared in a body of flesh, and the shedding his blood?
 
-Query 5. Whether, after Christ appeared in a body of flesh, and shedding his blood,
+[.numbered]
+_Query 5._ Whether, after Christ appeared in a body of flesh, and shedding his blood,
 any can be saved thereby, or by any believing on Christ whatsoever,
 without letting in or receiving that life and power which saves?
 Be not deceived; God is not mocked.
@@ -455,22 +490,30 @@ and be changed by the virtue and operation of this, he cannot be saved,
 but is still in his sins, and under condemnation and wrath, because of sin,
 whatever he thinks of himself.
 
-Query 6. Whether Christ was not the same yesterday, today, and forever;
+[.numbered]
+_Query 6._ Whether Christ was not the same yesterday, today, and forever;
 even before he took up the body of flesh, while he was in the body,
 after he laid down the body,
 and after he took it up again and appeared in it to his disciples?
 
-Query 7. Whether Christ, where he inwardly and spiritually appears and is received,
+[.numbered]
+_Query 7._ Whether Christ, where he inwardly and spiritually appears and is received,
 doth not discover, shake, dissettle, and remove that nature which cannot receive the law,
 and so bring up and bring forth the heavenly seed,
 which was afore the law (which is appointed by God for a generation to himself),
 which always doth the will of him who quickens it,
 and who fills it with life and power from on high?
 
+====
+
 [.inline]
 ==== IV. Some Queries on Col. 1:27-29. (Observe, that in verse 27 whereas it is in our common translation rendered, This Mystery among the Gentiles; it is in some other translations rendered, This Mystery in the Gentiles; and so it is in the Greek.)
 
-Query 1. WHETHER there be not a mystery of light, a mystery of life;
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Whether there be not a mystery of light, a mystery of life;
 somewhat of a true light hidden, somewhat of true life hidden in the Gentiles?
 Whatsoever makes manifest, is light, saith the apostle. Eph. 5:13-14.
 And that which may be known of God, is manifest in them.
@@ -481,13 +524,15 @@ Is not this of a precious nature?
 and hath it not precious virtue and power in it,
 though it be little took notice of by them?
 
-Query 2. Do not the saints know what this mystery is?
+[.numbered]
+_Query 2._ Do not the saints know what this mystery is?
 Do they not know what is the riches and glory of it?
 Indeed it hath been hid from ages and generations, so that they knew it not;
 but is it hid from the saints also in the day of the gospel?
 is it not revealed in them and to them?
 
-Query 3. What is this mystery in them in whom it is revealed?
+[.numbered]
+_Query 3._ What is this mystery in them in whom it is revealed?
 Is it not Christ in them?
 Is it not the hope of glory in them?
 Do they not know it to be Christ?
@@ -497,7 +542,8 @@ of those who feel the mystery of life revealed in them?
 who feel Christ (the hope of glory) living, dwelling,
 and reigning in the authority and power of the Father, in their own hearts?
 
-Query 4. Did not the apostles preach this mystery?
+[.numbered]
+_Query 4._ Did not the apostles preach this mystery?
 Did they not preach the word of faith within in the heart?
 the kingdom within?
 Christ, the hope of glory, within?
@@ -510,19 +556,22 @@ that in it they might have union and fellowship with God, who is light?
 Can any have fellowship with God, who is light,
 but as his spirit is brought out of the inward darkness into the inward light?
 
-Query 5. What did the apostle Paul, and the other apostles aim at, in their warning men,
+[.numbered]
+_Query 5._ What did the apostle Paul, and the other apostles aim at, in their warning men,
 and teaching them in all wisdom?
 Was it not to perfect the work of God in them,
 and that they might present every man perfect in Christ Jesus?
 
-Query 6. Did not the grace and power of God go along with the apostles,
+[.numbered]
+_Query 6._ Did not the grace and power of God go along with the apostles,
 and work in them mightily to this end, even for the perfecting the saints?
 And the grace and power of God, working mightily against sin and the power of Satan,
 is it not able to conquer Satan, and to make him fall like lightning,
 and to trample him under feet?
 Consider ver. 29 and 2 Thess. 1:11-12.
 
-Query 7. Did the apostles ever preach such a doctrine,
+[.numbered]
+_Query 7._ Did the apostles ever preach such a doctrine,
 that no man could be perfected in this life;
 but man must always (every day) be committing sin?
 Nay, did they not speak wisdom among them that were perfect, and say,
@@ -535,7 +584,8 @@ but it is much more precious to witness it regenerated.
 But that state none know but they that are in it; but this is most certain,
 that sin is shut out of it, and that all things are new there.
 
-Query 8. Will the mystery of life, where it is received and turned to,
+[.numbered]
+_Query 8._ Will the mystery of life, where it is received and turned to,
 ever cease working against the mystery of death,
 until it hath wrought it out of the mind?
 Shall judgment never be brought forth unto victory over sin in the heart?
@@ -551,32 +601,42 @@ while it doth that which grieves God`'s Spirit;
 for it is impossible but it should grieve the soul also,
 and weaken its joy and rejoicing in the Lord.
 
+====
+
 [.inline]
 ==== V. Some Queries concerning the Way of Life, and Mystery of the Gospel
 
-Query 1. Is not the way of life, the way of holiness, the way of truth,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Is not the way of life, the way of holiness, the way of truth,
 the way of peace, one and the same in all ages and generations?
 Was there ever, or shall there ever be another than that which was from the beginning?
 
-Query 2. Is not this way a pure way, a clean way?
+[.numbered]
+_Query 2._ Is not this way a pure way, a clean way?
 Can any impure thing walk in it?
 Is not the gate strait, and the way narrow, that leadeth unto life?
 Is it easy finding it, or is it easy entering into it, and walking in it?
 Doth not the corruption and unholiness of the hearts of many,
 hinder them from walking in the holy way of life and peace?
 
-Query 3. Is not this way a mystery?
+[.numbered]
+_Query 3._ Is not this way a mystery?
 Can any learn it, but those whose eyes are opened by the Lord,
 and to whom the mystery is revealed by him?
 Can any discern or understand it, but the children of the pure, heavenly wisdom,
 whom the Lord teacheth, and whose eyes he openeth, to see and justify it in every age?
 
-Query 4. Is not the whole vision of God, the whole vision of life,
+[.numbered]
+_Query 4._ Is not the whole vision of God, the whole vision of life,
 the whole vision of peace,
 a book sealed to all sorts (both learned and unlearned in every age and generation),
 but those to whom the Lord unseals it?
 
-Query 5. May not such as are not at all acquainted with the mystery of godliness,
+[.numbered]
+_Query 5._ May not such as are not at all acquainted with the mystery of godliness,
 the mystery of life, the mystery of redemption,
 read what the Scriptures say concerning these things, and get a great deal of knowledge,
 from the letter of the Scriptures, into their minds, and be able to raise doctrines,
@@ -590,7 +650,8 @@ For it is only the mystery of life and redemption (not a literal knowledge and w
 though with an endeavor to practise according thereto) which preserves out of the ditch.
 Oh that this were duly considered of! for it is tenderly and weightily proposed.
 
-Query 6. What is the knowledge of Christ which saves?
+[.numbered]
+_Query 6._ What is the knowledge of Christ which saves?
 Is it a knowledge of him after the letter,
 or a knowledge of him in the Spirit and power of the endless life?
 Can he be known truly, livingly, and savingly, without the Father`'s revealing him in man?
@@ -598,16 +659,19 @@ Or can any truly call him Lord,
 but they that are first taught by the Father to discern his spiritual and heavenly glory,
 and to receive him and bow to him in Spirit?
 
-Query 7. What is it to kiss the Son?
+[.numbered]
+_Query 7._ What is it to kiss the Son?
 Can any do so, but those who discern and receive the light of his Spirit?
 
-Query 8. Can any truly know the Father, unless the Son reveal him?
+[.numbered]
+_Query 8._ Can any truly know the Father, unless the Son reveal him?
 or can any know the Son, unless the Father reveal him?
 I know men may get notions out of the Scriptures concerning God the Father and his Son;
 but can they get true knowledge of either without the inspiration of the Almighty,
 which giveth understanding?
 
-Query 9. Can any person fear God, and depart from evil,
+[.numbered]
+_Query 9._ Can any person fear God, and depart from evil,
 anywhere upon the face of the earth,
 without some visit of the Lord Jesus Christ to his soul,
 and without receiving somewhat of life and power from him?
@@ -620,7 +684,8 @@ For doth not the Spirit of Christ, which convinceth of sin, reach to all men,
 and minister to all men, inwardly and spiritually,
 in some days of instruction about fearing God, and departing from evil?
 
-Query 10. Can any be acquainted with the fear of God,
+[.numbered]
+_Query 10._ Can any be acquainted with the fear of God,
 and be sensible of the hour of his judgment, and give glory to him, and worship him,
 but they must know and receive the everlasting gospel?
 They that are sent to preach this after the apostasy,
@@ -634,7 +699,8 @@ and so acknowledge and believe all that is said concerning Christ; yet for all t
 and in the midst of all this, a man may miss of the gospel;
 for the gospel is a hidden mystery of the life and power, see Col. 1:26-27.
 
-Query 11. Is not the message of the gospel, That God is light,
+[.numbered]
+_Query 11._ Is not the message of the gospel, That God is light,
 and in him is no darkness at all?
 Doth not the Spirit of Christ preach this, more or less, to all people under heaven?
 Yea, is not the gospel preached in every creature, and hid in those that are lost,
@@ -645,6 +711,8 @@ And will not this be the general and universal condemnation of the world,
 that they did not bring their deeds to the light, but turned from it and hated it,
 loving the darkness more than it, because their deeds were evil,
 and they had not a mind to part with them, but to remain and abide in them?
+
+====
 
 Alas! alas! men should pass through the knowledge of things after the letter,
 into the knowledge of things after the Spirit and power of the endless life;
@@ -662,10 +730,15 @@ flesh was to the professors of that age.
 [.inline]
 ==== VI. Some Queries concerning Righteousness or Justification
 
-Query 1. Is there not a new covenant under the gospel,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Is there not a new covenant under the gospel,
 as well as there was an old covenant under the law?
 
-Query 2. What did the old covenant require?
+[.numbered]
+_Query 2._ What did the old covenant require?
 Did it not require obedience to the law of Moses?
 What doth the new covenant require?
 Doth it not require faith in Christ, and obedience to his Spirit?
@@ -673,7 +746,8 @@ Doth it not require faith in the grace,
 and obedience to the grace which bringeth salvation,
 teaching to deny ungodliness and worldly lusts, etc.?
 
-Query 3. What is the righteousness or justification in the old covenant?
+[.numbered]
+_Query 3._ What is the righteousness or justification in the old covenant?
 What doth God justify in the old covenant?
 Doth he not justify the obedience thereto, and condemn all disobedience?
 What is the righteousness or justification of the new covenant?
@@ -682,7 +756,8 @@ Doth he not justify their faith in Christ, and their obedience to the law of his
 Is not whatsoever is not of faith sin, and condemned; and whatsoever is of faith holy,
 and justified?
 
-Query 4. What is faith?
+[.numbered]
+_Query 4._ What is faith?
 Is it not the gift of God?
 What is obedience?
 Doth it not flow from faith?
@@ -693,7 +768,8 @@ And whatsoever springs therefrom, is it not holy and righteous?
 And is not whatsoever is truly holy and righteous justified
 and accounted righteous by the holy and righteous God?
 
-Query 5. To what end was Christ made under the law,
+[.numbered]
+_Query 5._ To what end was Christ made under the law,
 and did fulfill the righteousness of the law?
 Was it not that he might accomplish and fulfill that righteousness,
 and so make way for the bringing in of the everlasting righteousness,
@@ -710,7 +786,8 @@ and which floweth up in me from my union with him:
 for this is absolutely a righteousness of another nature, of another kind,
 of another root.
 
-Query 6. If Christ`'s fulfilling the law of Moses, the law of the first covenant,
+[.numbered]
+_Query 6._ If Christ`'s fulfilling the law of Moses, the law of the first covenant,
 were imputed to us as our righteousness, and we justified in the sight of God thereby,
 were not then our righteousness the righteousness of the first covenant in nature,
 and our justification a justification by the righteousness of the first covenant?
@@ -720,7 +797,8 @@ so that if that be imputed to us for righteousness,
 then the righteousness of the first covenant is imputed to us for righteousness,
 and is our righteousness.
 
-Query 7. Was not faith imputed to Abraham for righteousness?
+[.numbered]
+_Query 7._ Was not faith imputed to Abraham for righteousness?
 What was his righteousness?
 Was it not the faith which he had from Christ, whereby and wherewith he believed God?
 Is not faith of the nature of Christ?
@@ -733,27 +811,36 @@ but retired into faith in the pure power! "`He believed God,`" say the Scripture
 "`and it was accounted to him for righteousness:`" and shall it not be imputed to us also,
 if we have the same faith, and believe in the same power?
 
+====
+
 [.inline]
 ==== VII. Some Queries about being under the Law, and being under Grace
 
-Query 1. WHETHER they that have received the Spirit of grace,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Whether they that have received the Spirit of grace,
 and are under the Spirit of grace; I say, whether they are under the law also,
 or witness freedom therefrom?
 
-Query 2. What is the law?
+[.numbered]
+_Query 2._ What is the law?
 Is it not a ministration of death, of bondage, of condemnation?
 What is the Spirit of the Lord, the Spirit of grace?
 Is it not a Spirit of life, a Spirit of liberty, a Spirit that frees from bondage?
 They that have received it, and are in subjection to it,
 do they not partake of its liberty, and through it come into dominion over sin and death?
 
-Query 3. Is the law to the righteous or the unrighteous?
+[.numbered]
+_Query 3._ Is the law to the righteous or the unrighteous?
 Whom was it made for?
 He that cometh into the holy and righteous nature of the seed,
 doth he not come from under the law?
 Doth he not come into the nature, state, and spirit, which is free from the law?
 
-Query 4. What is it to come through the law into the liberty and redemption of sons?
+[.numbered]
+_Query 4._ What is it to come through the law into the liberty and redemption of sons?
 What is it to know the seed free in the particular,
 and to come into the freedom of the seed?
 Doth not the Son make free, the Truth of God make free, all that come to it,
@@ -766,6 +853,8 @@ They that dwell in the height of notion, they are not free;
 but they that dwell in the power of life, know that which makes free,
 and witness freedom by it.
 
+====
+
 [.inline]
 ==== VIII. Some Queries for the Professors of Christianity to consider of, and try their States by.
 
@@ -773,7 +862,11 @@ For it is good for every one to know and understand his
 Estate aright (what it is in the sight of the Lord),
 and not to be mistaken in a Matter of so great Concernment
 
-Query 1. IS thy spirit, heart, mind, soul, and body,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Is thy spirit, heart, mind, soul, and body,
 a temple for God to dwell in?
 Who dwells in thy heart?
 Doth the Holy Spirit, or the unclean spirit?
@@ -790,7 +883,8 @@ of the Most High than most people are aware of?
 Read 2 Cor. 6:16-17 and chap.
 7:1.
 
-Query 2. Is Christ revealed in thee?
+[.numbered]
+_Query 2._ Is Christ revealed in thee?
 Doth God dwell anywhere, in any heart, but where Christ is,
 but where he is inwardly and spiritually revealed?
 "`Know ye not that Christ is in you,
@@ -802,7 +896,8 @@ for it pleaseth the Father to reveal the Son in such;
 and none can be truly ingrafted into Christ,
 but as Christ is in some measure made manifest within.
 
-Query 3. How dost thou confess Jesus to be the Lord?
+[.numbered]
+_Query 3._ How dost thou confess Jesus to be the Lord?
 Is it by notions from the letter, or by feeling his Spirit and power revealed within,
 and thy heart made subject to his Spirit and power inwardly revealed?
 For there is a confessing Christ in and by the Spirit,
@@ -810,7 +905,8 @@ and a confessing him without the Spirit, according as men can read, conceived,
 and apprehend of him from the letter.
 Consider which of these thine is.
 
-Query 4. Art thou come out of the apostasy and spirit of darkness,
+[.numbered]
+_Query 4._ Art thou come out of the apostasy and spirit of darkness,
 into the light and Spirit of Christ?
 What was the apostasy from?
 Was it not from the Spirit, from the anointing?
@@ -820,7 +916,8 @@ Art thou returned to the anointing,--to the Holy Spirit of the Father?
 Hast thou received it?
 Dost thou live and walk in it, and not fulfill the lusts of the flesh?
 
-Query 5. Dost thou know the tree of righteousness, and the tree of unrighteousness,
+[.numbered]
+_Query 5._ Dost thou know the tree of righteousness, and the tree of unrighteousness,
 inwardly?
 Hast thou felt the axe laid to the root of the corrupt tree, and it cut down;
 and the holy plant of God (the plant of his renown) planted in thy heart,
@@ -835,7 +932,8 @@ are not the good fruit which God calls for and accepts;
 but the denying the least custom or fashion of this world, from a renewed nature,
 and from the drawings and teachings of God`'s Spirit, is good fruit, and accepted by him.
 
-Query 6. Can any be redeemed to God,
+[.numbered]
+_Query 6._ Can any be redeemed to God,
 but by his judgment and righteousness revealed in them?
 Is the soul redeemed from its enemies, while its enemies remain in strength,
 and have the dominion over it?
@@ -854,7 +952,8 @@ changed by, and in some measure brought forth a new plant to God, in the new, ri
 and holy seed.
 See 1 John 3:7.
 
-Query 7. Do ye indeed know the new covenant?
+[.numbered]
+_Query 7._ Do ye indeed know the new covenant?
 Was it ever inwardly revealed in you?
 Do ye know the difference between reading the holy directions given forth in the Scriptures,
 and so getting them into your minds and practicing them as well as you can,--I say,
@@ -875,12 +974,14 @@ all the time of the law, while Christ was in the flesh,
 afterwards when he was revealed in Spirit, and all the time of the apostasy,
 and after the apostasy, and so forever.
 
+====
+
 [.inline]
 ==== IX. A Question answered about preaching the Gospel after the Apostasy
 
 [.discourse-part]
 Question.
-WHY doth God after the apostasy send an angel to preach the everlasting gospel,
+Why doth God after the apostasy send an angel to preach the everlasting gospel,
 after a manner different from what it was preached before the apostasy?
 How was it preached before the apostasy?
 Was it not preached thus, That in Christ alone is remission of sins,
@@ -985,7 +1086,8 @@ and leading them thither?
 [.inline]
 ==== X. Two Questions answered; one concerning others not learning what God teacheth us; the other concerning the Way of his Teaching us
 
-Question 1. WHAT is the reason that others cannot learn, nor become subject to,
+[.discourse-part]
+_Question 1._ What is the reason that others cannot learn, nor become subject to,
 the same spiritual truths, which God makes manifest to us, and subjecteth our spirits to?
 
 [.discourse-part]
@@ -995,7 +1097,8 @@ though they have many advantages above us of parts, learning, etc.,
 and study hard to know much; yet not coming into the right way,
 wherein God`'s Spirit teacheth, they never come to learn the truth, as it is there taught.
 
-Question 2. But what is the way wherein God teacheth you?
+[.discourse-part]
+_Question 2._ But what is the way wherein God teacheth you?
 may some say.
 
 [.discourse-part]
@@ -1065,7 +1168,11 @@ and conceivings upon the Scriptures.
 [.inline]
 ==== XI. Of the threefold Appearance of Christ; to wit, under the Law, in a Body of Flesh, and in his Spirit and Power
 
-FIRST, Under the law.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ Under the law.
 Various were the appearances of Christ; sometimes as an angel, in the likeness of a man;
 so to Abraham, and so to Jacob, when Jacob wrestled with him, and prevailed,
 and had overcome God; so to Joshua, or the captain of the Lord`'s host,
@@ -1228,7 +1335,8 @@ understanding! but to read through the figures (with the eye of life,
 with the eye of the Spirit) into the invisible substance,--this is sweet, precious,
 and heavenly indeed!
 
-Secondly, Concerning Christ`'s appearance in a body of flesh.
+[.numbered]
+_Secondly,_ Concerning Christ`'s appearance in a body of flesh.
 When the time of these shadows drew towards an end, and the fulness of time was come,
 he who thus appeared in several types and shadows
 among that people of the Jews under the law,
@@ -1282,7 +1390,8 @@ and sat down at the right hand of the majesty on high,
 being exalted above all principalities, and powers, and dominions, both in this world,
 and in that which is to come.
 
-Thirdly, Now, the third appearance of Christ,
+[.numbered]
+_Thirdly,_ Now, the third appearance of Christ,
 which these two outward appearances made way for, was his appearance in Spirit,
 even his pure, inward, heavenly appearance in the hearts of his children.
 This he bids his disciples wait for; telling them,
@@ -1315,6 +1424,8 @@ Yea, it was so, in some measure, with some precious ones in the days of old,
 which that promise, Ps. 32:8. "`I will guide thee with mine eye,`" intimates;
 for the eye of the soul must be upon God`'s eye, and observe the motion thereof,
 if it be guided thereby.
+
+====
 
 And truly this administration of the Spirit and power of the gospel is exceeding glorious,
 and they that come into it come into the glory and heavenly dominion and
@@ -1365,7 +1476,7 @@ Amen.
 [.inline]
 ==== XII. Concerning Mount Sinai, and Mount Zion
 
-WAS not Sinai the mount that might be touched, an earthly mount,
+Was not Sinai the mount that might be touched, an earthly mount,
 from whence was the ministration of the law outward, or in the letter,
 which gendered to bondage, condemnation, and death?
 Doth not the apostle Peter say, concerning the law as so administered,
@@ -1423,7 +1534,7 @@ and were taught of God to know and distinguish concerning the things of his king
 [.inline]
 ==== XIII. Of the Signification of Mount Sinai, and Mount Zion
 
-MOUNT SINAI was that mount of earth which the voice
+Mount Sinai was that mount of earth which the voice
 and presence of the Lord shook at the ministration of the law outward.
 
 Now, there is an inward earth, which is to be shaken also;
@@ -1508,7 +1619,7 @@ Amen, Amen.
 [.inline]
 ==== XIV. Concerning the Temple and Sacrifices under the Gospel
 
-GOD`'S temple under the gospel is the light of his Son, the Spirit of his Son,
+God`'s temple under the gospel is the light of his Son, the Spirit of his Son,
 and those souls which are renewed,
 and built up a habitation for him in the Spirit of his Son,
 and those bodies in which renewed minds and spirits dwell.
@@ -1567,7 +1678,8 @@ and 51:16-17. and 141:2. Mal. 1:11. Heb. 10:8-9. Rom.
 [.inline]
 ==== XV. Some Questions concerning the Light of Christ`'s Spirit answered, according to the Testimony of the Scriptures of Truth, and according to Experience.
 
-Question 1. WHAT is the message which Christ sent his apostles to declare,
+[.discourse-part]
+_Question 1._ What is the message which Christ sent his apostles to declare,
 whom he sent to preach the gospel?
 
 [.discourse-part]
@@ -1575,7 +1687,8 @@ Answer.
 This is the message which they heard of him, and which they declared unto others,
 "`That God is light, and in him is no darkness at all.`"
 
-Question 2. What was Christ`'s intent in sending them with this message;
+[.discourse-part]
+_Question 2._ What was Christ`'s intent in sending them with this message;
 and for what end were they to declare it to others?
 
 [.discourse-part]
@@ -1588,14 +1701,16 @@ and might come out of the one into the other (that is,
 out of the darkness into the light), and so might walk in the light,
 as God is in the light.
 
-Question 3. What is the danger of abiding in darkness?
+[.discourse-part]
+_Question 3._ What is the danger of abiding in darkness?
 
 [.discourse-part]
 Answer.
 In the darkness is sin, death, condemnation, and destruction of the soul,
 and separation from God and Christ forever.
 
-Question 4. What is the benefit of being turned to the light, and of coming into the light,
+[.discourse-part]
+_Question 4._ What is the benefit of being turned to the light, and of coming into the light,
 and walking in the light, as God is in the light?
 
 [.discourse-part]
@@ -1603,20 +1718,32 @@ Answer.
 The benefits are great and many; three whereof I may now mention,
 which comprehend and contain in them many more.
 
-First, In the light, remission of sins is received; for there is the blood of sprinkling,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ In the light, remission of sins is received; for there is the blood of sprinkling,
 wherewith those are sprinkled that come thither; and, indeed,
 none can walk and abide there, but they come to witness the blood of Jesus Christ,
 God`'s Son, cleansing them from all sin; and true,
 real cleansing is nowhere else witnessed.
 
-Secondly, They have fellowship with the Father and the Son,
+[.numbered]
+_Secondly,_ They have fellowship with the Father and the Son,
 and come also into fellowship with the saints in light; which are great mysteries,
 and none know what they mean, but such as are in that holy fellowship.
 
-Thirdly, They there receive the earnest of the everlasting inheritance,
+[.numbered]
+_Thirdly,_ They there receive the earnest of the everlasting inheritance,
 and the sealing up by God`'s Holy Spirit unto the day of full redemption.
 
-Question 5. Where is the darkness which men are to be turned from?
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_Question 5._ Where is the darkness which men are to be turned from?
 
 [.discourse-part]
 Answer.
@@ -1624,7 +1751,8 @@ It is within, chiefly within; there is Satan`'s kingdom; there is the house,
 which the "`strong man armed`" keepeth; where his goods are in peace,
 till a "`stronger`" than he cometh to trouble and dispossess him.
 
-Question 6. How or where is the light to be met with which man is to be turned to?
+[.discourse-part]
+_Question 6._ How or where is the light to be met with which man is to be turned to?
 
 [.discourse-part]
 Answer.
@@ -1632,7 +1760,8 @@ It appears within also; it shines in the darkness:
 for thither Christ (the stronger) comes, with the light of his Spirit,
 to overcome and dispossess the strong man of his house and kingdom.
 
-Question 7. When doth the light of Christ`'s Spirit shine in the darkness of man`'s heart?
+[.discourse-part]
+_Question 7._ When doth the light of Christ`'s Spirit shine in the darkness of man`'s heart?
 
 [.discourse-part]
 Answer.
@@ -1645,7 +1774,8 @@ heavenly light in their hearts, that with it the darkness may be resisted, overc
 and subdued in them, and scattered and dispelled from them,
 and their hearts filled with the light and power of life.
 
-Question 8. How may a man perceive or know the light when it shines?
+[.discourse-part]
+_Question 8._ How may a man perceive or know the light when it shines?
 
 [.discourse-part]
 Answer.
@@ -1690,7 +1820,8 @@ and he that judgeth thus shall never judge according
 to the shows and appearances of things,
 but shall still judge the true and righteous judgment.
 
-Question 9. What is the nature and properties of the light of Christ`'s Spirit;
+[.discourse-part]
+_Question 9._ What is the nature and properties of the light of Christ`'s Spirit;
 and what will it do in the hearts of those that turn to it, receive it, and walk in it?
 
 [.discourse-part]
@@ -1703,7 +1834,13 @@ they cannot be overcome by the enemy of their souls;
 but must needs conquer and overcome him.
 To instance in some:
 
-First, It hath an enlightening or manifesting property.
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ It hath an enlightening or manifesting property.
 It will discover all that is of God, and likewise all that is against him.
 It will discover the very mystery of death,
 and the most subtle workings of the enemy in the mystery of darkness,
@@ -1712,7 +1849,8 @@ And it will discover the mystery of life, and the mystery of the way of holiness
 So that not only the precepts of holiness, but the way of the precepts,
 the way of obeying the holy will and Spirit of God in everything, is here learned.
 
-Secondly, It hath an awakening property.
+[.numbered]
+_Secondly,_ It hath an awakening property.
 This light will not let a man sleep in sin, or grow heavy and dull (if he hearken to it);
 but it awakens him that sleeps: and whoever is truly awakened at any time,
 is awakened by this light; by the shining thereof in his heart;
@@ -1721,33 +1859,39 @@ This testimony Paul gives, Eph. 5:13-14.
 "`Whatsoever doth make manifest is light.`" Wherefore he saith,
 "`Awake thou that sleepest,`" etc.
 
-Thirdly, It hath a quickening property.
+[.numbered]
+_Thirdly,_ It hath a quickening property.
 For it is the light of life, the light of Christ`'s Spirit, which is living and powerful;
 and it hath life and power in it, and quickeneth and raiseth the man to whom it reacheth,
 and giveth him ability to arise from the dead.
 
-Fourthly, It hath a cleansing, a sanctifying, a purifying, property.
+[.numbered]
+_Fourthly,_ It hath a cleansing, a sanctifying, a purifying, property.
 Oh! how clean it makes within!
 The light is pure, and it maketh pure.
 All the defilement and corruption is in the darkness; none of it is in the light,
 but the light purgeth it away, where it findeth entertainment.
 
-Fifthly, It hath a uniting and separating property.
+[.numbered]
+_Fifthly,_ It hath a uniting and separating property.
 It unites to God; it unites to that which is pure; and it separates from sin, Satan,
 darkness, and whatever is impure.
 
-Sixthly, It hath a preserving nature and property.
+[.numbered]
+_Sixthly,_ It hath a preserving nature and property.
 It preserves the man in whom it dwells; and where it hath power, and rules,
 it keeps out the darkness; so that darkness cannot break in where it hath place,
 and is kept to: nor can the mind break out from the Lord, which keeps in the sense,
 savor, and seasoning of the light of his Spirit.
+
+====
 
 Indeed time would fail me, to speak of the excellent nature, virtues,
 and properties thereof; but come, taste, and see how sweet the light is,
 and what a pleasant thing it is to behold the shinings of this Sun.
 
 [.discourse-part]
-Question. 10. Doth God visit all men with this light?
+_Question 10._ Doth God visit all men with this light?
 
 [.discourse-part]
 Answer.
@@ -1757,7 +1901,7 @@ is able to discover the darkness to them,
 and to save them therefrom.
 
 [.discourse-part]
-Question. 11. What is the reason, then, that all men are not saved by it?
+_Question 11._ What is the reason, then, that all men are not saved by it?
 
 [.discourse-part]
 Answer.
@@ -1766,7 +1910,7 @@ but join to the darkness, and hearken to the wisdom and reasonings thereof,
 against the appearances and discoveries of the light.
 
 [.discourse-part]
-Question. 12. How comes it that men do so?
+_Question 12._ How comes it that men do so?
 
 [.discourse-part]
 Answer.
@@ -1781,7 +1925,7 @@ to bring them out of love with the darkness, and to bring them into the sense of
 and fellowship with, him in the light.
 
 [.discourse-part]
-Question. 13. How come some to love the light?
+_Question 13._ How come some to love the light?
 
 [.discourse-part]
 Answer.
@@ -1796,7 +1940,7 @@ notwithstanding the tender visitations of God, to recover and reconcile man to h
 through the blood of his Son.
 
 [.discourse-part]
-Question. 14. Against whom do they rebel, that rebel against the light?
+_Question 14._ Against whom do they rebel, that rebel against the light?
 
 [.discourse-part]
 Answer.
@@ -1810,7 +1954,7 @@ and reproves for it, is the light of Christ`'s Spirit, and not another.
 Oh that all that desire to know what and where the true light is, did understand so!
 
 [.discourse-part]
-Question. 15. What do they miss of, who do not know nor heed the light of Christ`'s Spirit,
+_Question 15._ What do they miss of, who do not know nor heed the light of Christ`'s Spirit,
 nor mind the reproofs thereof in their hearts,
 but look on it as inferior in kind and nature to what it is?
 
@@ -1820,7 +1964,11 @@ They miss of many great and precious privileges,
 which they that know it and have received it, and so walk in it, and are subject to it,
 do experience and are acquainted with.
 
-First, They miss of knowing the ways of it:
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ They miss of knowing the ways of it:
 for in this light there are ways or paths of holiness, paths of life,
 paths of righteousness, paths of peace, paths of joy,
 paths of refreshment and consolation,
@@ -1828,7 +1976,8 @@ wherein all these things are daily met with by those that walk there;
 which they that know not the light (or rebel against the light) are not acquainted with.
 See Job 24:13.
 
-Secondly, They miss of the lighting of their candle by it:
+[.numbered]
+_Secondly,_ They miss of the lighting of their candle by it:
 for God lights his candle in the heart by this light, and by no other thing;
 so that in this his light, they, whose candle is lighted by him, see light.
 
@@ -1844,7 +1993,8 @@ and know the word of life (which is nigh in the mouth
 and heart) to be a "`lantern to the feet,
 and a light to the path,`" of the lowest and meanest here.
 
-Thirdly, They miss of the sending forth, or revelation of that from God,
+[.numbered]
+_Thirdly,_ They miss of the sending forth, or revelation of that from God,
 which leads to his holy hill and to his tabernacles,
 which David experienced and desired more of. Ps. 43:3.
 For "`who shall dwell in God`'s holy hill,
@@ -1855,7 +2005,8 @@ But how shall any come thither?
 Surely by God`'s light and truth sent forth from his Spirit into their spirits.
 This is the way of ascending thither in all ages and generations.
 
-Fourthly, They slight that measure of light given them,
+[.numbered]
+_Fourthly,_ They slight that measure of light given them,
 and despise the day of small things,
 and therefore miss of the pouring forth of God`'s Spirit upon them,
 which is plentifully poured forth upon the sons and
@@ -1874,10 +2025,12 @@ out of the sins he is convinced of (and into the paths of righteousness and holi
 into which he is the leader), cannot miss of the Comforter, or of his comforts;
 for he is one and the same with the convincer or reprover.
 
+====
+
 [.inline]
 ==== XVI. The way to know one`'s Election, and to be fully assured of it; as also concerning Election itself.
 
-DAVID saith, "`The Lord hath set apart him that is godly for himself.`" Psa.
+David saith, "`The Lord hath set apart him that is godly for himself.`" Psa.
 4+++.+++ This is God`'s choice.
 God is the great potter, who formeth vessels upon the wheel of his power; some to honor,
 some to dishonor; but not before they were.
@@ -2051,17 +2204,23 @@ and his voice and words to the ends of the world.
 [.inline]
 ==== XVII. Some Observations concerning the Priesthood of Christ, from several Passages in the Epistle to the Hebrews.
 
-Observation 1. WHO is the apostle and high priest of our profession.
+[.numbered-group]
+====
+
+[.numbered]
+_Observation 1._ Who is the apostle and high priest of our profession.
 It is Jesus Christ the Son of God, whom God hath appointed heir of all things,
 by whom he made the worlds; and who is the express image of his Father`'s substance, etc.
 Heb. 1. and chap. 3:1.
 
-Observation 2. Why this high priest was to suffer death; which was,
+[.numbered]
+_Observation 2._ Why this high priest was to suffer death; which was,
 that he might taste death for every man,
 and so through suffering become a perfect Saviour, or perfect Captain of salvation,
 to all the sons that were to be brought by him to glory, chap. 2:9-10.
 
-Observation 3. Why he partook of flesh and blood; one reason whereof was,
+[.numbered]
+_Observation 3._ Why he partook of flesh and blood; one reason whereof was,
 because the children (and that therein he might show them an example of righteousness,
 that he might condemn himself in the flesh) were partakers of flesh and blood;
 for that was the very ground or reason that he took part of the same:
@@ -2070,7 +2229,8 @@ and through death destroy him who had the power of death,
 and so break open the prison doors,
 and deliver those who were captives under him, chap. 2:14-15.
 
-Observation 4. Why he was tempted;
+[.numbered]
+_Observation 4._ Why he was tempted;
 and why in all things it behooved him to be made like unto his brethren; which was,
 "`that he might be a merciful and faithful high priest in things pertaining to God,
 to make reconciliation for the sins of the people.`" For his own suffering
@@ -2087,14 +2247,16 @@ the forgiving and blotting out of the sin);
 and he is the propitiation (or reconciliation) for our sins;
 as the old translation renders it. 1 John 2:1-2.
 
-Observation 5. Christ, our apostle and high priest,
+[.numbered]
+_Observation 5._ Christ, our apostle and high priest,
 is as faithful over all his house as Moses was over his.
 There is not one of the children, not one of his family, but he will teach:
 not one soul belonging to him, but he will succor, being tempted; nor any one,
 but he will be an advocate and reconciliation for (in case of sin),
 in and according to the way that God hath appointed. Heb. 3:2.
 
-Obs 6. Who are Christ`'s house; over whom is he an apostle and high priest.
+[.numbered]
+_Observation 6._ Who are Christ`'s house; over whom is he an apostle and high priest.
 It is over his own house; whose house are all such as are called by him,
 if they receive and hold fast that which gives a right to him, and interest in him.
 chap. 3:6. and ver. 14.
@@ -2103,7 +2265,8 @@ the high priest was priest only over the outward Israel, the Jews natural;
 so under the gospel, Christ is appointed of God high priest over the inward Jews,
 the Jews spiritual.
 
-Observation 7. How this apostle or high priest of our profession
+[.numbered]
+_Observation 7._ How this apostle or high priest of our profession
 doth work in the hearts of his family or household;
 which is by the Word of Life, by the Word of his own eternal power, which pierceth deep,
 and divideth between soul and spirit, joints and marrow,
@@ -2112,7 +2275,8 @@ and bringing every high reasoning and imagination into captivity, that the heart
 mind, and spirit, with all the thoughts and intents thereof,
 may become subject to his Spirit and power. chap. 4:12.
 
-Observation 8. What an advantage we have, by having such an high priest (as was tempted like us,
+[.numbered]
+_Observation 8._ What an advantage we have, by having such an high priest (as was tempted like us,
 and touched with the sense of our infirmities), or coming boldly to the throne of grace,
 that we may obtain mercy, and find grace to help in time of need!
 For he who experimentally knew what the weakness of our flesh is,
@@ -2121,11 +2285,13 @@ and how needful and seasonable help from his Father then was;
 surely he cannot but be ready to give out and multiply
 grace and mercy to his in the time of their need, chap. 4:15-16.
 
-Observation 9. How Christ came to be a high priest;
+[.numbered]
+_Observation 9._ How Christ came to be a high priest;
 which was not by his own taking the honor to himself,
 but by God`'s glorifying him with the call thereto, chap. 5:4-5.
 
-Observation 10. How God fitted Christ, and made him a perfect high priest;
+[.numbered]
+_Observation 10._ How God fitted Christ, and made him a perfect high priest;
 which was by preparing for him a body of flesh,
 and exercising him in the days of his flesh with many trials and temptations;
 and at last with a bitter baptism, and cup of death,
@@ -2139,7 +2305,8 @@ to save and redeem them in their obedience unto him, the leader into,
 and in the way and paths of, life, chap.
 5:7-9.
 
-Observation 11. Where Christ mediates for his people; which is within the veil,
+[.numbered]
+_Observation 11._ Where Christ mediates for his people; which is within the veil,
 in the heavenly place, in the holiest of all,
 where the anchor of our hope reacheth to him, and fasteneth upon him,
 and there remains sure and steadfast; so that we are stayed upon him,
@@ -2148,7 +2315,8 @@ against all the storms and tempests of the powers of darkness, both inward and o
 chap.
 6:19-20.
 
-Observation 12. After what order Christ was made a high priest;
+[.numbered]
+_Observation 12._ After what order Christ was made a high priest;
 which was after the order of Melchizedek, who was king of righteousness,
 and king of peace, even after an holy and heavenly order:
 not after the order of the earthly priesthood,
@@ -2158,18 +2326,21 @@ without descent,
 (for who can declare his generation?) without beginning of days or end of life, chap.
 7:1-3, and 15.
 
-Observation 13. That this priest put an end to and changed the laws of the other earthly,
+[.numbered]
+_Observation 13._ That this priest put an end to and changed the laws of the other earthly,
 shadowy priesthood of Levi, by which perfection was not,
 that he might bring in that priesthood of his own, by which perfection was to be, chap.
 7:11. etc.
 
-Observation 14.
+[.numbered]
+_Observation 14._
 How Christ was made a priest after a different manner from the priests of the law;
 for they were made priests after the law of a carnal commandment;
 but Christ was not made priest so, but after the power of an endless life, chap.
 7:16.
 
-Observation 15. That the work of Christ`'s priesthood continueth until it be finished; that is,
+[.numbered]
+_Observation 15._ That the work of Christ`'s priesthood continueth until it be finished; that is,
 till this high priest hath saved all whom he is to save, which is thus:
 as in all ages the Father draweth souls to him, so he is to save them;
 to destroy their enemies, to blot out their sins,
@@ -2179,17 +2350,20 @@ for God will never be reconciled to his enemy, the devil,
 nor to man while in union with him, chap.
 7:24-25.
 
-Observation 16. That this high priest needeth not to offer many sacrifices to atone by,
+[.numbered]
+_Observation 16._ That this high priest needeth not to offer many sacrifices to atone by,
 as the priests under the law needed to do often: for he was a perfect priest,
 and offered up one perfect, spotless sacrifice;
 and is a propitiation for the sins of the whole world, chap.
 7:27-28.
 
-Observation 17. What sanctuary is Christ the high priest and minister of; which is,
+[.numbered]
+_Observation 17_ What sanctuary is Christ the high priest and minister of; which is,
 of that sanctuary and true tabernacle which the Lord pitcheth, and not man, chap.
 8:2.
 
-Observation 18. What hath he to offer;
+[.numbered]
+_Observation 18._ What hath he to offer;
 for every high priest was ordained to offer both gifts and sacrifices.
 He hath the heavenly gifts and sacrifices to offer;
 even all the gifts and spiritual sacrifices that are revived
@@ -2197,7 +2371,8 @@ and brought forth by him in the holy place,
 even in his temple or spiritual house within the veil;
 he is to offer them all up to his Father, ver. 3. etc.
 
-Observation 19. What covenant he is the mediator of;
+[.numbered]
+_Observation 19._ What covenant he is the mediator of;
 even a better covenant than the priests under the law were mediators of,
 which is established upon better promises: a covenant,
 wherein there is no defectiveness or imperfection,
@@ -2210,7 +2385,8 @@ from the least to the greatest.
 For as men come into this covenant, God will be merciful to their unrighteousness,
 and their sins and their iniquities will he remember no more, ver. 6. to the end.
 
-Observation 20. That Christ is not a high priest of the figures of things,
+[.numbered]
+_Observation 20._ That Christ is not a high priest of the figures of things,
 but of the good things themselves (which came in the time of reformation),
 even of the perfect covenant, the perfect tabernacle,
 and of the worship and service in Spirit and in truth;
@@ -2226,7 +2402,8 @@ in all those that abide and walk in this covenant; who live in the Spirit,
 and walk in the Spirit, and do not fulfill the lusts of the flesh,
 which grieve and provoke God`'s Holy Spirit.
 
-Observation 21. How Christ came to obtain eternal redemption for all his: which was by his blood.
+[.numbered]
+_Observation 21._ How Christ came to obtain eternal redemption for all his: which was by his blood.
 For as the high priest under the law entered into
 the holy place of that tabernacle made with hands,
 by the blood of goats and calves,
@@ -2237,7 +2414,8 @@ and there by his blood obtained remission for all
 that should receive repentance from him,
 and believe in him, ver. 11-12.
 
-Observation 22. How Christ purifieth, purgeth, and sanctifieth the people with his blood?
+[.numbered]
+_Observation 22._ How Christ purifieth, purgeth, and sanctifieth the people with his blood?
 which is, by sprinkling it upon them.
 For under the law, in that outward covenant,
 the unclean were sprinkled with the blood of the sacrifice,
@@ -2246,7 +2424,8 @@ in this inward covenant, believers are sprinkled with the blood of the Lamb,
 that their consciences might be purged from dead works to serve the living God,
 as his cleansed, holy, renewed people, ver. 13-14.
 
-Observation 23. For what cause Christ was mediator of the New Testament; which was,
+[.numbered]
+_Observation 23._ For what cause Christ was mediator of the New Testament; which was,
 that by means of death for the redemption of the transgressors under the first Testament,
 they which are called might receive the promise of eternal inheritance,
 ver. 15. For God hath made Christ a propitiation for all men, both Jews and Gentiles,
@@ -2258,7 +2437,8 @@ So that they that were under the first covenant, hearkening unto him,
 and believing in him, were justified from all things,
 from which they could not be justified by the law of Moses. Acts 13:39.
 
-Observation 24. The necessity of Christ`'s death; which was,
+[.numbered]
+_Observation 24._ The necessity of Christ`'s death; which was,
 because he was to make way by his own blood into the holiest,
 to appear before God for us;
 and to sprinkle the heavenly things with the blood of a sacrifice,
@@ -2270,7 +2450,8 @@ hearts of his) his covenant comes to be of force,
 ver. 16. to 25. and chap.
 13:20-21.
 
-Observation 25. That this high priest need not often offer sacrifices, to put away sin,
+[.numbered]
+_Observation 25._ That this high priest need not often offer sacrifices, to put away sin,
 as the priests of the law did; because this one offering is sufficient,
 and the blood thereof sprinkled upon the conscience, is able to purge away dead works,
 wherever it is sprinkled.
@@ -2279,7 +2460,8 @@ but all that is now further needed, or to be expected by his is,
 his appearing the second time, without sin, unto salvation, in the pure virtue, power,
 and life of his own Spirit, ver. 25. to the end.
 
-Observation 26. What it was, that was the thing of great value with the Father,
+[.numbered]
+_Observation 26._ What it was, that was the thing of great value with the Father,
 in Christ giving up himself to death.
 It was his obedience.
 He did obey his Father in all things, not doing his own will,
@@ -2291,13 +2473,15 @@ for life comes upon all that come to him, and believe in him, through the free g
 which is freely tendered to and come upon all, chap.
 10:7. Rom. 5:18-19.
 
-Observation 27. That God took away sacrifices and burnt-offerings,
+[.numbered]
+_Observation 27._ That God took away sacrifices and burnt-offerings,
 which were appointed by the old covenant,
 that he might establish this obedience among all his children.
 Christ led the way, and all are to follow him in the new obedience,
 and to walk in newness of spirit before the Lord, ver. 9.
 
-Observation 28. That we are sanctified by the same will, by which Christ was sanctified,
+[.numbered]
+_Observation 28._ That we are sanctified by the same will, by which Christ was sanctified,
 or sanctifieth himself.
 In subjection to the same will, which the head obeyed (even in denying themselves,
 taking up the cross to their own wills,
@@ -2310,13 +2494,15 @@ the pouring out the Spirit of grace, the new covenant, and faith in Christ,
 etc.,--all these tend to work out one and the same thing, and they all concur thereto,
 in their several orders and places.
 
-Observation 29. That as this high priest sanctifies men, so he perfects them;
+[.numbered]
+_Observation 29._ That as this high priest sanctifies men, so he perfects them;
 and when they are fully sanctified, then they are forever perfected; but till then,
 Christ, the high priest of our profession,
 hath somewhat to do upon them towards the perfecting of them,
 that he may present them spotless and blameless to his Father, ver. 14-15.
 
-Observation 30. How the apostle proves, "`That by this one offering,
+[.numbered]
+_Observation 30._ How the apostle proves, "`That by this one offering,
 Christ hath forever perfected them that are sanctified.`" He proves it thus:
 by this offering the covenant is established,
 wherein is the putting and writing God`'s law in the heart and mind,
@@ -2329,11 +2515,18 @@ and so no more need of any more sacrificing or offering for sins to such,
 ver. 15-19. For "`he shall sprinkle many nations with
 the blood of this one offering`" Isa. 52:15.
 
-Observation 31. The great privilege of those who indeed believe in Christ,
+[.numbered]
+_Observation 31._ The great privilege of those who indeed believe in Christ,
 and are sprinkled with the blood;
 and how they are to improve and make use of that privilege.
 
-First, They have liberty, confidence, or boldness,
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ They have liberty, confidence, or boldness,
 to enter into the holiest by the blood of Jesus,
 ver. 19. What is more holy than God`'s Spirit?
 Is not that the most holy place?
@@ -2342,15 +2535,18 @@ or according to the new covenant, must worship him in the Spirit, and in the tru
 and must also live in the Spirit, and walk in the Spirit,
 which is the place of everlasting rest, and land of the living.
 
-Secondly, Take notice how they come into the holiest, which is by the new and living way,
+[.numbered]
+_Secondly,_ Take notice how they come into the holiest, which is by the new and living way,
 which Christ hath prepared, or consecrated through his flesh, ver. 20.
 
-Thirdly, They have a high priest there over the house of God,
+[.numbered]
+_Thirdly,_ They have a high priest there over the house of God,
 who appears before God in the holiest,
 and stands ready there to perform all the offices of priesthood for his household,
 ver. 21.
 
-Fourthly, There is an orderly way of drawing nigh to God,
+[.numbered]
+_Fourthly,_ There is an orderly way of drawing nigh to God,
 and worshipping him in the holiest.
 There is a certain manner, after which believers are to approach, and draw nigh to God;
 which is, 1. With a true heart.
@@ -2363,7 +2559,13 @@ and their bodies washed with pure water, ver. 22, 23. and Ps. 26:6.
 "`Christ came by water and blood;
 so here is both the water and the blood, according to the figures thereof, under the law.
 
-Observation 32. Whither they came in the apostles`' days,
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_Observation 32._ Whither they came in the apostles`' days,
 who knew Christ as their high priest and mediator,
 and who partook of the blood of sprinkling.
 They came to spiritual Mount Zion, and to the city of the living God,
@@ -2403,7 +2605,8 @@ but in that which melteth the heart, and purifieth the conscience,
 from that which is dead and unclean, in that is God`'s delight;
 and in that which is melted, broken, and purified by it, ver. 16-17.
 
-Observation.
+[.numbered]
+_Observation._
 Lastly, That there is a sin unto death,
 a kind of sinning for which there is no sacrifice (but a
 certain fearful looking for of judgment and fiery indignation,
@@ -2415,10 +2618,12 @@ that it is a "`fearful thing to fall into the hands
 of the living God,`" when he comes to judge them,
 ver. 30-31.
 
+====
+
 [.inline]
 ==== XVIII. A brief Relation of the Estate or Condition the Lord found many of us in, when he came to visit us, and make known to us the blessed Ministration of his Spirit and Power, and of some of his Dealings with us, in instructing and nurturing us up therein; with a few Words of Exhortation.
 
-THERE are chambers of imagery in many people; and strong-holds,
+There are chambers of imagery in many people; and strong-holds,
 and reasonings, and imaginations, and high thoughts,
 exalted above the pure seed and measure of life in their hearts.
 For every true Christian, every true believer, hath received somewhat of Christ`'s Spirit,
@@ -2807,7 +3012,7 @@ or want of true experience, may judge of it.
 [.inline]
 ==== XIX. Concerning the Gospel State
 
-THE Gospel is a ministration of the new covenant,
+The Gospel is a ministration of the new covenant,
 or a spiritual ministration of the substance of all that was shadowed out under the law.
 There were many things under the law; but in the gospel, God hath gathered all into one;
 in Christ there is but one seed, one Spirit, one life, one power, which redeems,
@@ -3084,7 +3289,11 @@ the terror whereof cannot come near them.
 There are three or four things yet more on my heart
 to mention concerning the gospel state.
 
-First, In it the gospel fast is known; which is not to afflict the soul,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ In it the gospel fast is known; which is not to afflict the soul,
 or to hang down the head like a bulrush for a day; but to loose the bands of wickedness,
 to undo the heavy burdens, to let the oppressed go free, to break every yoke,
 to deal one`'s bread to the hungry ("`to visit the fatherless and widows in their
@@ -3099,7 +3308,8 @@ now goeth before), and the glory of the Lord is the rearward,
 coming after to preserve and defend all that springs up in the power.
 Oh, blessed is he that witnesseth this state!
 
-Secondly, In the gospel state the gospel sabbath is kept, and known to be God`'s holy day,
+[.numbered]
+_Secondly,_ In the gospel state the gospel sabbath is kept, and known to be God`'s holy day,
 and called a delight (the holy of the Lord, honorable),
 and the Lord is honored in it by the soul while it walketh not in its own ways,
 nor findeth its own pleasures, nor speaketh its own words:
@@ -3114,7 +3324,8 @@ Is it any less than the hidden manna?
 Is it any less than the fruit of the living vine?
 Is it any other than the sweetness and fatness of the true olive-tree?
 
-Thirdly, In it the garment of salvation is put on, even the Lord Jesus Christ;
+[.numbered]
+_Thirdly,_ In it the garment of salvation is put on, even the Lord Jesus Christ;
 for here the filthy garments are put off, and the pure garments put on.
 For here the Lord hath appointed to them that "`have mourned in Zion,
 to give them beauty for ashes, the oil of joy for mourning,
@@ -3132,6 +3343,8 @@ and he will not draw back his arm, or put up the sword which he hath drawn,
 till he hath destroyed his adversaries, and laid waste the mount of Esau,
 and made his Jerusalem the praise of the whole earth.
 Amen, hallelujah!
+
+====
 
 And here is the love which casteth out fear, and removeth care;
 so that they that dwell here are careful in nothing,
@@ -3200,10 +3413,13 @@ Amen.
 [.inline]
 ==== XX. Concerning Baptism
 
-"`He that believeth, and is baptised, shall be saved;
-but he that believeth not, shall be damned.`" Mark 16:16.
+[quote.scripture, , Mark 16:16]
+____
+He that believeth, and is baptised, shall be saved;
+but he that believeth not, shall be damned.
+____
 
-THIS is a very weighty scripture,
+This is a very weighty scripture,
 and necessary for every Christian rightly to understand, that he may so believe,
 and be so baptized, as to witness salvation by the gospel of our Lord Jesus Christ.
 
@@ -3347,7 +3563,8 @@ but such as had got the "`form of godliness, but denied the power thereof,`" wer
 with their outside shadows,
 as really as outward Jerusalem was rejected to be trodden under foot of the Gentiles.
 
-Objection 1. But against this it is objected,
+[.discourse-part]
+_Objection 1._ But against this it is objected,
 that the baptism of the Spirit cannot be the baptism spoken of in this place,
 because the baptism spoken of in this place is commanded;
 but the baptism of the Spirit was never commanded,
@@ -3426,7 +3643,8 @@ who thus washeth the soul with his heavenly water,
 in the ministration of his word and power,
 when the virtue and efficacy thereof reacheth to the heart, in and through the faith.
 
-Objection 2. The baptism of the Spirit cannot be here intended,
+[.discourse-part]
+_Objection 2._ The baptism of the Spirit cannot be here intended,
 because this baptism is to be administered by men;
 but the baptism of the Spirit was never administered by men;
 Jesus Christ was the alone minister of this baptism.
@@ -3484,7 +3702,8 @@ And this is true baptism, and the substance of the figure or shadow,
 which was before the figure either of baptism or circumcision was,
 and remains when they are gone.
 
-Objection 3. This baptism in the commission was to all nations;
+[.discourse-part]
+_Objection 3._ This baptism in the commission was to all nations;
 but the baptism of the Spirit fell only on some few at the beginning.
 
 [.discourse-part]
@@ -3529,7 +3748,8 @@ that this is not the ministration of the everlasting substance,
 or the same gospel the apostles preached, because some shadows which they expect,
 and have a strong belief concerning, are not found therein?
 
-Objection 4. The baptism in this commission cannot be the baptism of the Spirit,
+[.discourse-part]
+_Objection 4._ The baptism in this commission cannot be the baptism of the Spirit,
 because it is to be administered in the name of the Spirit.
 
 [.discourse-part]
@@ -3623,7 +3843,8 @@ and worship in the quickenings and virtue of his Spirit.
 [.inline]
 ==== XXI. Some Questions answered, concerning the Gentiles doing by Nature the Things contained in the Law; and so showing the Work of the Law written in their Hearts. Rom. 2:14-15.
 
-Question 1. By what nature did the Gentiles the things contained in the law?
+[.discourse-part]
+_Question 1._ By what nature did the Gentiles the things contained in the law?
 By the enlightened or unenlightened nature?
 By nature, as it lieth corrupted in the fall,
 or by nature in some measure renewed by the light of God`'s Spirit shining in the heart?
@@ -3682,7 +3903,8 @@ not that that which might be known of God was not manifest in them;
 but) that they loved their own dark wisdom, thoughts, and conceivings,
 more than the manifestation of the light of God`'s Spirit within.
 
-Question 2. But if God was the God of the Gentiles, and thus visited them,
+[.discourse-part]
+_Question 2._ But if God was the God of the Gentiles, and thus visited them,
 were any of them saved thereby?
 Did not all the Gentiles universally perish, notwithstanding this light,
 or manifestation of God`'s Spirit within?
@@ -3741,7 +3963,8 @@ For it is not the having much knowledge that saves,
 but the being subject to the measure of the gift which comes from the Lord Jesus Christ,
 the Saviour.
 
-Question 3. But how can those be justified according to Paul`'s gospel,
+[.discourse-part]
+_Question 3._ But how can those be justified according to Paul`'s gospel,
 who never heard Paul`'s gospel?
 
 [.discourse-part]
@@ -3762,7 +3985,7 @@ to judge and condemn all the ungodly.
 [.inline]
 ==== XXII. Concerning the Rule of the Children of the New Covenant.
 
-WHAT was the rule of the Jew outward, as to their outward state?
+What was the rule of the Jew outward, as to their outward state?
 Was not the law and testimony outward?
 Did not God make the law in the letter?
 What is the rule of the Jew inward?
@@ -3875,19 +4098,24 @@ which is truth and no lie, and leads into all truth, and out of every lie and de
 [.inline]
 ==== XXIII. Some Queries concerning the Law, or Word, Statutes, Testimonies, Judgments, etc. which David was so delighted in, and prayed so earnestly for.
 
-DAVID said, "`Thy Word is a lantern to my feet,
+David said, "`Thy Word is a lantern to my feet,
 and a light to my paths.`" He found it sweeter than the honey and the honey-comb.
 He desired to be taught God`'s statutes, and to learn the way of his precepts, etc.,
 as may be abundantly read, Psa. 19. and in other places.
 
-Query 1. What was this Word or law,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ What was this Word or law,
 which there was such an earnest desire in David after;
 by observing whereof he became wiser than his teachers?
 Was it the law of Moses, the law outward; or was it the Word and law of life inward?
 
 If it be said, It was the law of Moses; then I query in the second place:
 
-Query 2. What rule had David from the law of Moses to say,
+[.numbered]
+_Query 2._ What rule had David from the law of Moses to say,
 That God desired not sacrifices, nor delighted in burnt-offering?
 Did not God desire and require of his people under the law,
 that they should perform these things?
@@ -3898,13 +4126,15 @@ And did not God smell a sweet savor in Noah`'s sacrifice?
 How could David say in truth, and from a true Spirit,
 That God did neither desire them nor delight in them?
 
-Query 3. Ought not David to try this Spirit which spake thus in him,
+[.numbered]
+_Query 3._ Ought not David to try this Spirit which spake thus in him,
 whether it was of God or no?
 Should he receive a testimony from any spirit so directly contrary in
 appearance to the foregoing testimonies of God`'s Spirit in the holy Scriptures,
 without a full and certain evidence and demonstration that it was the Spirit of God?
 
-Query 4. How was David to try, or how might he certainly try this Spirit,
+[.numbered]
+_Query 4._ How was David to try, or how might he certainly try this Spirit,
 whether it was of God or no?
 Was he to try it thus, whether it spake according to the testimony and law of Moses,
 according to what Moses had spoken in this matter, which certainly was of God,
@@ -3927,7 +4157,8 @@ where circumcision, sacrifices,
 and such outward things are expressed as of great value with the Lord,
 and as great and high privileges, which were bestowed upon that people in that day.
 
-Query 5. May not the same Spirit, or the children of God in the same spirit,
+[.numbered]
+_Query 5._ May not the same Spirit, or the children of God in the same spirit,
 say to the Lord in this day, concerning things of the same outward nature,
 Thou desirest not such outward things, else would we perform them.
 Thou delightest not in outward shadows of the things of the kingdom.
@@ -3942,7 +4173,8 @@ And thou desirest to see thy children feeding on the living bread,
 the bread which comes down from heaven, and to drink of the wine which refresheth,
 and maketh glad the heart both of God and man?
 
-Query 6. If any of the children of the Most High should in this
+[.numbered]
+_Query 6._ If any of the children of the Most High should in this
 feel the life wherewith God hath quickened them open in their hearts,
 and such a testimony arising from his Spirit in them,
 how should they try whether this Spirit and voice were of God or no?
@@ -3963,6 +4195,8 @@ The Lord hath likewise shown us clearly that outward water, bread, and wine,
 are not the substantial, the spiritual, the heavenly water, the heavenly bread and wine;
 but of the nature of such things as were to be shaken,
 that those things which cannot be shaken, may remain in the gospel state and kingdom.
+
+====
 
 Oh! therefore, let men take heed how they build,
 or how they judge concerning the appearances of God,
@@ -4042,16 +4276,23 @@ and shadowed out under the law in the old covenant.
 [.inline]
 ==== XXIV. Some Observations on 2 Pet. 3:14-16
 
-"`Wherefore, beloved, seeing that ye look for such things,
+[quote.scripture, , 2 Peter 3:14-16]
+____
+Wherefore, beloved, seeing that ye look for such things,
 be diligent that ye may be found of him in peace, without spot and blameless.
 And account that the long-suffering of our Lord is salvation;
 even as our beloved brother Paul also, according to the wisdom given unto him,
 hath written unto you: as also in all his epistles, speaking in them of these things;
 in which are some things hard to be understood,
 which they that are unlearned and unstable wrest, as they do also the other scriptures,
-unto their own destruction.`"
+unto their own destruction.
+____
 
-Observation 1. WHAT Peter, Paul, and the rest of the holy men of God wrote of.
+[.numbered-group]
+====
+
+[.numbered]
+_Observation 1._ What Peter, Paul, and the rest of the holy men of God wrote of.
 They wrote of the grace of the gospel: they wrote of the sufferings of Christ,
 and the glory that should follow, and the salvation of the soul; and true rest,
 which believers should receive, and enter into in him.
@@ -4079,7 +4320,8 @@ with the works thereof, may be burnt up, and the heavens also;
 that so the new heavens and the new earth may be inwardly witnessed and experienced,
 and the King of glory found sitting on his throne, and reigning therein.
 
-Observation 2. How Peter and Paul, with the rest of the apostles and holy men of God, wrote.
+[.numbered]
+_Observation 2._ How Peter and Paul, with the rest of the apostles and holy men of God, wrote.
 They wrote according to the wisdom given unto them.
 They wrote not in their own wills, or according to their own wisdom;
 but kept to the gift and light of the Spirit, which they had received from the Lord.
@@ -4092,7 +4334,8 @@ which is a ministration of the Spirit and power,
 and not of the literal knowledge of things,
 according to man`'s understanding and comprehension.
 
-Observation 3. That there are some things in the writings of Paul (and
+[.numbered]
+_Observation 3._ That there are some things in the writings of Paul (and
 in the other scriptures also) hard to be understood;
 which every one that hath true life and true sense does not at first understand,
 but only such as are grown to a capacity.
@@ -4101,7 +4344,8 @@ are to several states and capacities,
 and can only be understood according to the growth and capacity of each state;
 much less can the carnal understand or digest that which is high and spiritual.
 
-Observation 4.
+[.numbered]
+_Observation 4._
 That there are some among those whom the Lord visiteth, and reacheth to by his power,
 who do not attain to the knowledge of the truth, nor come to the establishment therein:
 some that are always learning, but never come to the true, heavenly,
@@ -4118,7 +4362,8 @@ and so those remain unlearned and unstable as to the mystery of godliness,
 as to the mystery of life and salvation,
 and as to the nature of the things of God`'s kingdom.
 
-Observation 5. That those who are unlearned and unstable in the mystery of truth,
+[.numbered]
+_Observation 5._ That those who are unlearned and unstable in the mystery of truth,
 are wresters of the Scripture.
 They cannot understand things as they are, not having the key; and so they wrest them,
 and strive to make them speak, as they apprehend and would have them.
@@ -4127,11 +4372,14 @@ And here in this state, in this wisdom, is both adding to, and diminishing from,
 the holy words of truth: for in many places they add of their own conceivings,
 and in other places diminish from the drift and intent of God`'s Spirit.
 
-Observation 6. That wresting the Scriptures tends to the destruction of those that do it.
+[.numbered]
+_Observation 6._ That wresting the Scriptures tends to the destruction of those that do it.
 God is the Saviour, and the holy words of the Saviour tend to save;
 but being bent aside by man`'s nature and spirit,
 they are not the same they were when they came from God,
 nor have at all the virtue and nature in them.
+
+====
 
 And indeed wresting the Scriptures is a high, presumptuous, and provoking act,
 and brings God`'s displeasure against, and curse upon, the soul.
@@ -4154,7 +4402,7 @@ and grow up therein.
 [.inline]
 ==== XXV. Concerning the Gospel Ministry, or right Way of teaching and learning the Mystery of Life and Salvation
 
-WHEN Christ came in the fulness of time,
+When Christ came in the fulness of time,
 in that body prepared for him by the Father (he who was filled with the Spirit,
 and anointed of God to preach the gospel), he preached the kingdom of God,
 bidding men seek it, directing them where to seek it, and how they might find it;
@@ -4268,7 +4516,7 @@ and sink under eternal condemnation.
 [.inline]
 ==== XXVI. A few Words concerning the old and new Covenant, with some Queries thereupon
 
-THE old covenant was that covenant which God made with that people,
+The old covenant was that covenant which God made with that people,
 the Jews, when he took them by the hand to bring them out of the land of Egypt outward.
 The new covenant is that covenant which God makes with the soul,
 when he takes it by the hand to lead it out of Egypt inward,
@@ -4306,21 +4554,28 @@ the putting the pure fear in the inward parts, the putting God`'s Spirit within 
 and so causing them to walk in his statutes, and to keep his judgments and do them.
 Whereupon these Queries are in my heart:
 
-Query 1. Will not this covenant inwardly reform the heart, soul, mind, and conscience,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Will not this covenant inwardly reform the heart, soul, mind, and conscience,
 and amend all in this inward, spiritual, renewed people, which was amiss in that outward,
 earthly, unrenewed people?
 
-Query 2. Doth not the soul begin to enter into this covenant so
+[.numbered]
+_Query 2._ Doth not the soul begin to enter into this covenant so
 soon as ever it answers the Lord in the visits of his love,
 turning from sin unto him?
 
-Query 3. How precious is that grace of the gospel which brings into this covenant!
+[.numbered]
+_Query 3._ How precious is that grace of the gospel which brings into this covenant!
 For the people of the Jews came into the old covenant
 by the law which was given by Moses;
 but the children of the new covenant come thereinto by receiving
 the grace and truth which comes by Jesus Christ.
 
-Query 4. Can any possibly enter into this covenant
+[.numbered]
+_Query 4._ Can any possibly enter into this covenant
 without coming to the Lord Jesus Christ,
 and receiving grace from him?
 Can observing precepts and directions from scripture bring into this covenant?
@@ -4329,7 +4584,8 @@ which brings into this covenant?
 Oh! wait to know the ministration of the gospel, and covenant of life,
 with the entrance thereinto, O all that truly desire the salvation of your souls!
 
-Query 5. Wherein doth the ministry of this covenant consist;
+[.numbered]
+_Query 5._ Wherein doth the ministry of this covenant consist;
 or how is the teaching thereof?
 Is it by getting a form of knowledge out of the letter, or ministering the letter?
 Is it not a ministration not of the letter, but of the Spirit?
@@ -4338,23 +4594,31 @@ and was made an able minister thereof by God. 2 Cor. 3:6.
 Truly, none can minister gospelly,
 none can minister under the new covenant, but those that minister from and in the Spirit.
 
+====
+
 ==== XXVII. Queries on Rom. 6th, 7th, and 8th Chapters
 
 [.offset]
 From Chapter 6
 
-Query 1. WHAT is it to be baptized into Christ?
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ What is it to be baptized into Christ?
 Is it not to be baptized into his death?
 Are not they that are truly baptized into Christ buried with him by baptism into death?
 That "`like as Christ was raised up from the dead by the glory of the Father,
 even so they also should walk in the newness of life.`" How
 can they that are dead to sin live any longer therein?
 
-Query 2. What was the end of Christ`'s manifestation in the flesh, and sending his Spirit?
+[.numbered]
+_Query 2._ What was the end of Christ`'s manifestation in the flesh, and sending his Spirit?
 Was it not to destroy the works of the devil; to crucify the old man,
 that the body of sin might be destroyed, that henceforth we should not serve sin?
 
-Query 3. Is he that is crucified with Christ, and dead unto sin, freed from sin?
+[.numbered]
+_Query 3._ Is he that is crucified with Christ, and dead unto sin, freed from sin?
 Doth the truth of Christ, the life of Christ, the Spirit of Christ, the power of Christ,
 make those that receive and obey it free indeed;
 so that sin cannot have dominion over them, to make them do what they hate,
@@ -4363,54 +4627,68 @@ Did not Christ himself die to sin once, but now lives to God?
 And are not believers after this manner to reckon themselves dead indeed unto sin,
 but alive unto God, through Jesus Christ our Lord?
 
-Query 4. Have believers received power from Christ ("`who had all
+[.numbered]
+_Query 4._ Have believers received power from Christ ("`who had all
 power in heaven and earth given unto him`") to become sons?
 Have they received the Spirit of the Father, which hath dominion over sin?
 Can they stop or hinder the reign of it in their mortal body,
 and refuse obeying the lusts thereof,
 and not yield their members instruments of unrighteousness unto sin?
 
-Query 5. Are believers alive from the dead?
+[.numbered]
+_Query 5._ Are believers alive from the dead?
 And can they yield their members servants to righteousness,
 for God to work in and by them, according to his will and pleasure?
 Can they ever come to such a state, as to do nothing against the truth,
 but for the truth; "`to do all things through Christ that strengthens them`"?
 
-Query 6. Is this true, that to whom people yield themselves servants to obey,
+[.numbered]
+_Query 6._ Is this true, that to whom people yield themselves servants to obey,
 his servants they are to whom they obey,
 whether of "`sin unto death,`" or of "`obedience unto righteousness`"?
 
-Query 7. Do men, or is it possible for men, in receiving, joining to,
+[.numbered]
+_Query 7._ Do men, or is it possible for men, in receiving, joining to,
 and obeying the truth, to be made free from sin,
 and become the servants of righteousness?
 
-Query 8. Cannot men have their fruit unto holiness, and at the end everlasting life,
+[.numbered]
+_Query 8._ Cannot men have their fruit unto holiness, and at the end everlasting life,
 without being made free from sin, and becoming servants to God?
 Is the wages of sin death after a man hath believed?
 After a man is turned from sin to Christ, if he hearken afterwards to Satan,
 and commit sin, doth he reap death thereby?
 See also Gal. 6:7-8.
 
+====
+
 [.offset]
 From Chapter 7
 
-Query 1. What law is that which hath dominion over a man as long as he liveth;
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ What law is that which hath dominion over a man as long as he liveth;
 and what life is that in man which the law hath dominion over?
 
-Query 2. How doth a man become dead to the law, that he might be married to another,
+[.numbered]
+_Query 2._ How doth a man become dead to the law, that he might be married to another,
 even to "`him who is raised from the dead,
 that he should bring forth fruit unto God`"? Can any be married to the raised,
 living husband, but the quickened, raised, and living soul?
 And can any else bring forth fruit to God?
 
-Query 3. What is the state of being in the flesh,
+[.numbered]
+_Query 3._ What is the state of being in the flesh,
 and of knowing the things of God after the flesh?
 of receiving directions and practising duties in that state?
 Do not the motions of sin (which all outward laws and directions do but stir up,
 but cannot overcome) work in the members there, in that state,
 to bring forth fruit unto death?
 
-Query 4. How comes a man to be delivered from the law?
+[.numbered]
+_Query 4._ How comes a man to be delivered from the law?
 Is it not by the death of that in him which held him captive unto sin?
 And why doth God quicken with a new life,
 and kill in the hearts of his that wherein they were held?
@@ -4421,28 +4699,33 @@ and that worship alone is living and gospel worship,
 which is in the newness of the Spirit; for such alone the Father seeketh to worship him,
 and such worship alone he accepteth.
 
-Query 5. Is the law sin because it stirs up sin?
+[.numbered]
+_Query 5._ Is the law sin because it stirs up sin?
 Nay; the law itself is not sin, but that which discovers and makes it known;
 for no man can know sin, but by the law or light which discovers it.
 
-Query 6. How is sin dead without the law?
+[.numbered]
+_Query 6._ How is sin dead without the law?
 And how doth it take occasion by the commandment
 to work in the heart all manner of concupiscence?
 
-Query 7. How was Paul alive without the law once?
+[.numbered]
+_Query 7._ How was Paul alive without the law once?
 Could he sacrifice, could he read the Scriptures, could he be knowing,
 could he be zealous,
 could he walk according to the law in the letter blameless in that state?
 See Phil. 3:4-6.
 
-Query 8. What commandment was that, upon the coming whereof sin revived, and he died?
+[.numbered]
+_Query 8._ What commandment was that, upon the coming whereof sin revived, and he died?
 Was it the law in the letter, or the law in the Spirit?
 He saith, "`the commandment which was to life,
 he found to be unto death.`" What is the commandment which is to life?
 Is it not the "`word nigh in the mouth and heart`"? See Deut.
 30.
 
-Query 9. How came sin to take occasion by the commandment (which came forth holily,
+[.numbered]
+_Query 9._ How came sin to take occasion by the commandment (which came forth holily,
 and as just and good from God), to deceive and slay him?
 What was it which it deceived and slew?
 Was it not that part which thought it could obey and serve God,
@@ -4450,20 +4733,23 @@ if his will was made manifest; which now, when the law indeed came, found it cou
 Nor can any man obey the holy law of life, till this nature, wisdom,
 and spirit be in some measure slain in him.
 
-Query 10. Doth then the holy law of God, which God ordains and sends unto life,
+[.numbered]
+_Query 10._ Doth then the holy law of God, which God ordains and sends unto life,
 minister death to the soul?
 or doth sin, being provoked and stirred up to put forth its strength to save its life,
 and retain its dominion in the heart, take occasion by the commandment to work death,
 and show the exceeding evil and sinfulness of its nature?
 
-Query 11. Is not the law spiritual?
+[.numbered]
+_Query 11._ Is not the law spiritual?
 Can sin gain any strength, or advantage by that which is spiritual?
 Surely nay;
 but it taketh occasion then to tyrannize over and captivate me (who am carnal,
 and sold under it), till the power of the Lord make a change in my state,
 working me from under the dominion of it.
 
-Query 12. How is it with the soul in the state of captivity,
+[.numbered]
+_Query 12._ How is it with the soul in the state of captivity,
 when sin is revived by the law,--the soul dead as to its former life and strength,
 and not yet come under the dominion and power of grace?
 Doth it not do what it allows not, and not do the good it would?
@@ -4475,11 +4761,13 @@ Doth not every one feel the strength of sin, and his own inability,
 either to will or do of himself that which is good, etc.,
 before he witness help and deliverance from the Lord?
 
-Query 13. Doth God impute to the soul, or to sin, the effect of this captivity,
+[.numbered]
+_Query 13._ Doth God impute to the soul, or to sin, the effect of this captivity,
 and work of sin and Satan upon the heart,
 against the bent and earnest desires and endeavors of the soul?
 
-Query 14. When is the soul in this state of trouble and captivity?
+[.numbered]
+_Query 14._ When is the soul in this state of trouble and captivity?
 Is it not after some appearance and operation of God`'s power in the heart?
 Is it not after the mind is turned from sin,
 and desireth to be joined to the holy law of life and obey it?
@@ -4488,13 +4776,15 @@ so that the consent is given to the law, and the will is present;
 but how to perform that which is good it findeth not, because faith is yet so weak,
 and sin and unbelief so strong in the heart?
 
-Query 15. Is not this the time of bitter warfare,
+[.numbered]
+_Query 15._ Is not this the time of bitter warfare,
 and day of terrible distress in the heart, and of feeling the wickedness of the estate,
 because of sin; and of crying out,
 and longing after the salvation and deliverance of the gospel?
 Oh! woe is me, who shall deliver me, poor captive, saith the soul, in this state!
 
-Query 16. Is not God very tender to the soul in this state, daily blotting out,
+[.numbered]
+_Query 16._ Is not God very tender to the soul in this state, daily blotting out,
 and not imputing, sin?
 Oh, if it were not for the exceeding mercy, and tender love,
 and help of the Lord in this state, it were impossible for any ever to come through it!
@@ -4503,10 +4793,16 @@ and carries through it, so that a change comes to be witnessed,
 and a better state known by those who consent not to sin;
 but continue in taking part with the good, holy, and spiritual law of life against it.
 
+====
+
 [.offset]
 From Chapter 8
 
-Query 1. What is that state wherein there is no condemnation?
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ What is that state wherein there is no condemnation?
 Is it not the state of the redeemed souls in Christ?
 Doth not condemnation follow, where there is sin and disobedience?
 See Heb. 2:1, etc.
@@ -4515,7 +4811,8 @@ till it be driven from sin by the law unto Christ, and learn of him to walk as h
 even "`not after the flesh, but after the Spirit`"? For to the Spirit, to the seed,
 to the heavenly man, there is no condemnation; nor to them that walk after the Spirit.
 
-Query 2. How came any to walk after the Spirit?
+[.numbered]
+_Query 2._ How came any to walk after the Spirit?
 Can any walk after the Spirit, but as they are made free,
 by the power of Christ revealed in their hearts against the power of Satan,
 from the law of sin and death?
@@ -4523,7 +4820,8 @@ Will not sin and death captivate a man, and entangle him in lusts,
 evil motions and works, till their strength be broken in him,
 and his soul delivered and set free therefrom?
 
-Query 3. How doth the law of the Spirit of life in
+[.numbered]
+_Query 3._ How doth the law of the Spirit of life in
 Christ Jesus make free from the law of sin and death?
 Is it not thus?
 Did not God condemn sin in Christ`'s flesh?
@@ -4537,7 +4835,8 @@ thither where the condemnation cannot come: for in Christ, in the new nature,
 in the heavenly image, in the newness of the Spirit, there never was, nor ever can be,
 any condemnation.
 
-Query 4. Would God have the righteousness of the law fulfilled in his children?
+[.numbered]
+_Query 4._ Would God have the righteousness of the law fulfilled in his children?
 Would he have them walk exactly with him in the new covenant,
 which both comprehends and exceeds the righteousness of the old covenant?
 Consider whether Christ fulfilling the old covenant be their righteousness,
@@ -4554,7 +4853,8 @@ all that desire to know and partake of the righteousness of our Lord Jesus Chris
 in the true and pure sense of life,
 and in the evidence and demonstration of God`'s Holy Spirit!
 
-Query 5. Do not all men act according to the principle, whether of flesh or spirit,
+[.numbered]
+_Query 5._ Do not all men act according to the principle, whether of flesh or spirit,
 to which their minds are joined?
 Do not they which are of the flesh mind, savor, approve, desire after,
 and delight in that which is fleshly?
@@ -4565,7 +4865,8 @@ not so much what their profession and appearance is outwardly,
 as what their root is inwardly, and what nature, spirit, and growth,
 they and their religion are of?
 
-Query 6. What doth it produce to have the mind exercised by the flesh?
+[.numbered]
+_Query 6._ What doth it produce to have the mind exercised by the flesh?
 Doth it not produce death?
 Is not the nature, spirit, and wisdom of the flesh separated from God`'s nature,
 who is life?
@@ -4575,7 +4876,8 @@ that produceth life and peace; doth it not?
 Let all that have inwardly experienced these things,
 assent and testify in spirit before the Lord to his praise.
 
-Query 7. Is not the flesh enmity against God?
+[.numbered]
+_Query 7._ Is not the flesh enmity against God?
 Can any thing which is enmity against God, who is the quickening life,
 do any thing but deaden and kill where it finds entrance?
 Life and peace is witnessed in subjection to God,
@@ -4585,7 +4887,8 @@ subject (or can it be subject) to the holy law of God?
 Nay; there must be a new creation felt in the heart,
 before there can be a subjection to that which is pure and living.
 
-Query 8. Can any men that are in the flesh,
+[.numbered]
+_Query 8._ Can any men that are in the flesh,
 that are not truly and inwardly changed by the Spirit and power of the gospel,--I say,
 can they please God in any thing they do?
 Can they believe, or pray, or read the Scriptures,
@@ -4597,7 +4900,8 @@ This makes most men`'s religion and performances unsavory, because they know not
 nor are turned to, and guided by, that principle and seed of life,
 which seasons and makes savory.
 
-Query 9. How may a man know whether he be in the flesh, or in the Spirit?
+[.numbered]
+_Query 9._ How may a man know whether he be in the flesh, or in the Spirit?
 If he be in the Spirit, doth not the Spirit dwell in him?
 For the Spirit createth anew, and the Spirit dwelleth in that which he new-createth.
 It is the strong man armed who keeps and dwells in the old house;
@@ -4605,7 +4909,8 @@ but the Spirit of Christ keeps and dwells in the new house:
 and if any man have not the Spirit of Christ (notwithstanding all his religion,
 knowledge, faith, prayers, etc.) he is none of his.
 
-Query 10. If Christ, the quickening Spirit, (the living power) be in a man,
+[.numbered]
+_Query 10._ If Christ, the quickening Spirit, (the living power) be in a man,
 doth he not kill sin there?
 Is not the body dead there because of sin?
 Can sin live there, where Christ dwells?
@@ -4617,21 +4922,25 @@ This is a daily seal of the true religion;
 and the daily operation of God`'s Spirit in the hearts of his children,
 shows who dwells there.
 
-Query 11. To which are we debtors, who are redeemed to God by his Spirit and power?
+[.numbered]
+_Query 11._ To which are we debtors, who are redeemed to God by his Spirit and power?
 Are we debtors to the flesh, to live after the flesh,
 which brings into bondage to sin and death?
 Or are we debtors to that Spirit and power of life, which hath made us alive to God,
 and preserveth us in life, and quickeneth us unto life, day by day?
 
-Query 12. Is it possible that any one should come to life, but by the mortifying,
+[.numbered]
+_Query 12._ Is it possible that any one should come to life, but by the mortifying,
 denying and destroying of that which nourisheth sin, and leads into death?
 and what can do that but the power of God`'s Spirit?
 
-Query 13. Are not all the sons of God led by his Spirit?
+[.numbered]
+_Query 13._ Are not all the sons of God led by his Spirit?
 Oh, how necessary then is it for every man to be sure,
 both that he hath received God`'s Spirit, and that he be led by it!
 
-Query 14. What is the Spirit of bondage, which begetteth fear when God awakeneth the soul?
+[.numbered]
+_Query 14._ What is the Spirit of bondage, which begetteth fear when God awakeneth the soul?
 and what is the Spirit of adoption, whereby the soul can cry Abba, Father?
 Can any cry Abba, Father, but those that are begotten of God`'s Spirit?
 Many men put up requests,
@@ -4640,17 +4949,20 @@ may be taking to the eye of man`'s wisdom),
 and yet know not that Spirit which begetteth life in the heart, and teacheth to cry Abba,
 Father.
 
-Query 15. Is it not a precious thing for people truly to
+[.discourse-part]
+_Query 15._ Is it not a precious thing for people truly to
 feel the Spirit of God bearing witness with their spirits,
 that they are God`'s children; heirs of God, and co-heirs with Christ;
 and so leading them through the sufferings,
 that they may come to partake with him of his glory?
 But do any come to partake of his glory, who do not first come through the sufferings?
 
+====
+
 [.inline]
 ==== XXVIII. A further Testimony in brief concerning the Work of _God_ upon our Hearts, who are called Quakers
 
-IT hath been with us, and so we have felt it from the Lord,
+It hath been with us, and so we have felt it from the Lord,
 just as is expressed, Tit. 3:5. Not by works of righteousness which we have done,
 but according to his mercy he saved us,
 by the washing of regeneration and renewing of the Holy Ghost.
@@ -4723,9 +5035,10 @@ wherein is not the substance and kernel (which alone can nourish up to life eter
 but only some show and appearance thereof,
 which cannot really satisfy that which is indeed begotten and born of God`'s Spirit.
 
+[.inline]
 ==== XXIX. A brief Account of the Ground of our Worship, and how it cometh to pass that we cannot conform to the spirit of this world, or to the wills of men therein, but only to the Spirit and Will of our God
 
-WE fear God, who made heaven and earth, whose power is over all,
+We fear God, who made heaven and earth, whose power is over all,
 who hath caused the light of his Holy Spirit to shine in our hearts,
 thereby teaching us how to worship him acceptably in Spirit and truth;
 which worship he hath required of us,
@@ -4810,9 +5123,14 @@ and Babylon, where is the darkness, lust, and confusion,
 and not the holy order of God`'s Spirit,
 neither in the conversations nor in the worships of those that dwell and abide there.
 
+[.inline]
 ==== XXX. Some Queries concerning knowing and owning the Lord Jesus Christ truly and aright, who hath been the only Saviour and Redeemer in all Ages and Generations; and there never was, and never shall be, any other
 
-Query 1. WHETHER they know or own the Lord Jesus Christ truly and aright,
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Whether they know or own the Lord Jesus Christ truly and aright,
 who only know and own him as outwardly described and related of in the Scriptures,
 but know him not inwardly revealed in their hearts,
 as the Word and power of eternal life?
@@ -4822,7 +5140,8 @@ but also as inwardly revealed by the Father, witnessing him formed in them,
 and their hearts changed into his holy and heavenly image,
 by the virtue of his inward appearance, and operation of his Spirit and power in them?
 
-Query 2. Whether they truly and rightly know the death and resurrection of Christ,
+[.numbered]
+_Query 2._ Whether they truly and rightly know the death and resurrection of Christ,
 who know only the relation of them in the Scriptures,
 but are not made conformable to his death, nor raised up by him in the power of his life?
 Or whether they are the true and right knowers of his death and resurrection,
@@ -4832,7 +5151,8 @@ and witness the holy seed of life raised and living in them,
 and themselves raised and made alive to God,
 in and through the power of the Father revealed in them?
 
-Query 3. Whether they truly and rightly confess Christ to be the Lord and King,
+[.numbered]
+_Query 3._ Whether they truly and rightly confess Christ to be the Lord and King,
 Priest and Prophet, of his people,
 who confess it only from the reading of it to be so in the Scriptures?
 Or, whether they are not the true and right confessors of Christ`'s kingly, priestly,
@@ -4844,7 +5164,8 @@ offering spiritual gifts and sacrifices to his Father, and who also prophesieth 
 opening and revealing the mysteries of his kingdom to them,
 as he doth to the least babes that are truly begotten and born of his Spirit?
 
-Query 4. Do they or can they truly know Christ`'s voice,
+[.numbered]
+_Query 4._ Do they or can they truly know Christ`'s voice,
 who never experienced the Word of life speaking in their hearts?
 Where doth the false prophet speak?
 Doth he not speak within?
@@ -4852,7 +5173,8 @@ And where doth the true Shepherd speak?
 Doth he not speak also even in the heart?
 And do not the sheep hear, know, and distinguish his voice there?
 
-Query 5. Who knoweth the truth as it is in Jesus?
+[.numbered]
+_Query 5._ Who knoweth the truth as it is in Jesus?
 Do any do so but those that have felt the drawings of the Father;
 come unto the Son in the drawings; and receive life from and abide in him?
 Do any know the truth in Jesus but those that witness virtue, freedom, life, and power,
@@ -4861,7 +5183,8 @@ Doth not that saying and promise of Christ (John 8:31-32) stand firm in every ag
 "`If ye continue in my words, then are ye my disciples indeed.
 And ye shall know the truth, and the truth shall make you free.`"
 
-Query 6. Who are ingrafted into Christ?
+[.numbered]
+_Query 6._ Who are ingrafted into Christ?
 Can any one be ingrafted into him, but as he is inwardly revealed and made known?
 Yea, is not he in them who are ingrafted into him, and are not they in him?
 Is not he that is truly regenerated cut off from the old stock within,
@@ -4871,7 +5194,8 @@ insomuch as he sensibly feeleth the pure, holy root of life bear him,
 and the sap thereof springing up in him,
 causing him to bring forth fruit to God in due season?
 
-Query 7. Who prayeth in the name of Christ?
+[.numbered]
+_Query 7._ Who prayeth in the name of Christ?
 Doth he who saith these or such like words in the best seriousness
 and sensibleness he can in his own will,
 "`Hear me, O Lord, for Christ`'s sake: I confess I am unworthy;
@@ -4883,20 +5207,23 @@ doth not that sigh or groan ascend up to the Father in Christ`'s name?
 Alas! how outward is men`'s religion!
 But the inward streams and current of the true, pure, and heavenly religion they know not.
 
-Query 8. Who receiveth Christ?
+[.numbered]
+_Query 8._ Who receiveth Christ?
 Do any but those who receive and bow to the light of his Spirit inwardly revealed?
 Can any receive him but they that hear his knocks and open to him?
 Do any know the inward voice of the Shepherd, besides the sheep?
 And can any receive his voice, and not receive him?
 And can any who are ignorant of and refuse his voice, receive him?
 
-Query 9. Who do truly and rightly believe in Christ?
+[.numbered]
+_Query 9._ Who do truly and rightly believe in Christ?
 Do any do so, or can any do so, but they who first feel life,
 from whence the true faith springs?
 Ah that all the faith in men were dashed, but what comes from life, unites to life,
 and abides in life!
 
-Query 10. Whom doth Christ gather from the barren mountains?
+[.numbered]
+_Query 10._ Whom doth Christ gather from the barren mountains?
 Are they not his sheep; his poor, distressed, scattered, wounded, fainting,
 and almost famished sheep?
 What are the mountains he gathers them from?
@@ -4910,7 +5237,8 @@ Is it not to his own holy mountain (which is exalted by God,
 and established over and on top of all those other mountains),
 where the fresh pastures are, and where the streams of life flow, and run plentifully?
 
-Query 11. Who are Christ`'s kindred according to the Spirit?
+[.numbered]
+_Query 11._ Who are Christ`'s kindred according to the Spirit?
 Who is his mother, sister, brother?
 Are any so but they that do the will of the Father?
 And is this obedience a working according to the law, or of the righteousness of the law?
@@ -4918,14 +5246,16 @@ Nay; is it not rather of the nature and righteousness of the gospel?
 Is not that which floweth from his who is righteous, righteous also;
 even as he is righteous?
 
-Query 12. To whom doth Christ give power to become sons?
+[.numbered]
+_Query 12._ To whom doth Christ give power to become sons?
 Is it not to as many as truly and rightly receive him, and believe in his name?
 To as many as received him of old, to them he gave power to become the sons of God.
 Doth he not do so still?
 What is it to receive power to become a son?
 Let the heart that hath received it answer; for the notionist cannot.
 
-Query 13. What is the reason so many who are high in notion and profession,
+[.numbered]
+_Query 13._ What is the reason so many who are high in notion and profession,
 cannot own this precious appearance of the Spirit, power,
 and glory of our Lord Jesus Christ, in this our day, in the hearts of his children,
 after the long night of darkness, which hath so long covered the earth?
@@ -4937,12 +5267,14 @@ Can any love Christ, and not love his brethren?
 Is not wisdom, in her appearances, justified of her children in this age,
 as well as formerly?
 
-Query 14. Are there two Christs, one manifested without, and another revealed within;
+[.numbered]
+_Query 14._ Are there two Christs, one manifested without, and another revealed within;
 or is it the same Lord Jesus Christ, who, in the days of his flesh, appeared outwardly,
 and was afterwards manifested within as the mystery of life, and hope of glory; who also,
 in this our day, is revealed and made known within unto us, by the same eternal Spirit?
 
-Query 15. He that truly and rightly knoweth the Spirit of Christ,
+[.numbered]
+_Query 15._ He that truly and rightly knoweth the Spirit of Christ,
 doth he not know Christ also?
 even as he that knoweth Christ must needs know the Father also.
 Are not the Father and Christ one?
@@ -4956,12 +5288,14 @@ Though they that are out of that Spirit and power knew neither him,
 nor the testimony of life that comes by him,
 no more than the Jews knew his appearance outwardly in their day.
 
+====
+
 [.centered]
 === A Query added concerning Imputation
 
 [.discourse-part]
-Query.
-IN what state was Abraham when faith was imputed to him for righteousness?
+_Query._
+In what state was Abraham when faith was imputed to him for righteousness?
 Was he in the ungodly state;
 in the state of unbelief and disobedience to the Spirit and power of the Lord;
 or was he in the sense of God`'s power,
@@ -4981,9 +5315,9 @@ Doth he not first make a change in them by his power?
 Doth he not first in some measure purify their hearts by faith?
 
 [.centered]
-=== THE CONCLUSION
+=== The Conclusion
 
-THERE are a great many who profess the gospel state, and that they are in Christ,
+There are a great many who profess the gospel state, and that they are in Christ,
 and under grace, and freely justified by grace;
 so that they look upon their sins as covered by the Lord, and not imputed to them,
 they believing, as they pretend, in the name of his Son, and obeying his gospel, etc.,
