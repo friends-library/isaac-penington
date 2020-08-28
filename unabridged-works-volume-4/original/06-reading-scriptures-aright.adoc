@@ -6,7 +6,8 @@ Question.
 How may a man know whether he readeth the Scriptures to his advantage and benefit?
 or whether he readeth them to his disadvantage or hurt?
 
-THAT the holy Scriptures, written by men inspired by God`'s Spirit,
+[.discourse-part]
+That the holy Scriptures, written by men inspired by God`'s Spirit,
 were of great use and benefit to those to whom they
 were written (they rightly understanding them,
 and becoming subject to the voice of God`'s Spirit in those
@@ -356,7 +357,7 @@ he is felt, received, owned, and dearly beloved in the Lord.
 
 === A few Words to such as complain for want of Power
 
-BE sure ye receive Christ; for he is the same that ever he was.
+Be sure ye receive Christ; for he is the same that ever he was.
 "`To as many as received him, to them gave he power`" (not only to stand against sin,
 but) "`to become the sons of God;`" he did so formerly, and he doth so still.
 And they that are true Jews, born after the Spirit, truly circumcised,
@@ -390,4 +391,5 @@ For many talk of Christ, but few come to him in the Father`'s drawings;
 so will not receive him; like the Jews who waited for his appearance,
 and yet rejected him when he came.
 
-ISAAC PENINGTON
+[.signed-section-signature]
+Isaac Penington
