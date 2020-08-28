@@ -73,9 +73,9 @@ For not he that commendeth himself is approved; but whom the Lord commendeth. 2 
 ____
 
 [.centered]
-=== PREFACE
+=== Preface
 
-IT hath pleased God, in these our days,
+It hath pleased God, in these our days,
 to cause his true light to shine forth out of darkness.
 Oh, everlastingly blessed be his name!
 He hath laid the foundation of life in many hearts,
@@ -142,13 +142,14 @@ and ruling in it!
 Amen.
 
 [.old-style]
-=== REMARKS UPON SOME PASSAGES IN A LATE BOOK / ENTITLED "`Antichrist`'s Transformations Within,`" etc.
+=== Remarks upon Some Passages in a Late Book / Entitled "`Antichrist`'s Transformations Within,`" etc.
 
-THE first thing that I shall observe is, That he doth deny that man hath any rule, power,
+The first thing that I shall observe is, That he doth deny that man hath any rule, power,
 dominion, government, or authority, either given or committed to him from the Lord,
 as pertaining to the conscience in things relating to the worship of God.
 
-Remark.
+[.discourse-part]
+_Remark._
 God sent Christ into the world,
 and he gave him power and authority in his name to do whatever he required of him.
 And Christ sends his servants and ministers into the world, as sheep among wolves,
@@ -186,7 +187,8 @@ as pertaining to the conscience in things relating to the worship of God,
 is because it belongeth to Christ, the light,
 the invisible power which dwells in men and women,`" etc.
 
-Remark.
+[.discourse-part]
+_Remark._
 All power in heaven and earth was given to Christ, and belongs to him;
 that is freely granted.
 But the question is, whether he hath not given of this power to his children,
@@ -222,10 +224,15 @@ by departing from the truth, it was gone from.
 It was indeed for the destruction of the flesh, but not of the spirit;
 but that the spirit might be saved in the day of the Lord Jesus. 1 Cor. 5:4-5.
 
-Secondly, The next thing I shall observe is this:--he saith,
+[.numbered-group]
+====
+
+[.numbered]
+_Secondly,_ The next thing I shall observe is this:--he saith,
 "`There is no glory to be given to man, although he be born of the light.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 That glory and honor is to be given to man, which God gives to man, who hath said,
 "`Them that honor me, I will honor;
 and they that despise me shall be lightly esteemed.`" 1 Sam. 2:30.
@@ -286,12 +293,14 @@ and have some of the glory given them which God gave to Christ; and in that are 
 partaking of his Spirit, kingdom, power, and holy dominion over sin and Satan,
 all which is truly glorious. John 17:22.
 
-Thirdly, The third thing I shall observe is this: he saith,
+[.numbered]
+_Thirdly,_ The third thing I shall observe is this: he saith,
 "`All is to be given to Christ, the light in man, unto whom alone it doth belong,
 who is the true Minister,
 and hath power in himself to teach all the sons and daughters of men,`" etc.
 
-Remark.
+[.discourse-part]
+_Remark._
 That Christ is the true Minister, that is not denied; but doth not Christ,
 who is the true Minister in the power of the endless life,
 send forth disciples and ambassadors in the same power, and make them,
@@ -354,12 +363,14 @@ as well as in former ages; and he that is not of God heareth not his voice;
 and hereby the Spirit of truth and spirit of error is known in this,
 as well as in former ages. 1 John 4:6.
 
-Fourthly,
+[.numbered]
+_Fourthly,_
 The fourth passage I shall take notice of is in these words:`"Wherefore,`" said he,
 "`whosoever doth exalt Christ the light, who is the true Minister, before themselves,
 by Christ the light within shall those be exalted.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 This is very different from what went before:
 for before he denied all glory and exaltation at all to man,
 although he be born of the light; here he speaks of exalting Christ, the true minister,
@@ -380,7 +391,8 @@ into that light and holy Spirit of truth,
 which discovers what they are (to those that are in the truth),
 and condemns the ground and root out of which they sprang.
 
-Fifthly, The next thing to be observed by me is this:--He layeth it down as his judgment,
+[.numbered]
+_Fifthly,_ The next thing to be observed by me is this:--He layeth it down as his judgment,
 faith, and belief, that whatever is written to the churches,
 ought to be written from God`'s infallible Spirit, and the Word of eternal life;
 wherein I am one with him: for what good can any thing do the living,
@@ -392,7 +404,8 @@ But his inference thereupon is that which is before me to take notice of.
 inasmuch as it was written from a sight, or a sense, and from the sensible part,
 and not in and from the Spirit of revelation.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 God hath, in his holy church and living people, opened the eye that was once blind,
 and daily anointeth that eye, giving a true sight,
 and in the springings of life giveth a true sense;
@@ -433,7 +446,8 @@ And whereas he further saith:--"`Whatsoever is written, declared, or given forth
 in the sight, or in the sense, or from the sensible part, it is not to be owned;
 for the sensible part is that which hath been in the transgression with the woman,`" etc.
 
-Remark.
+[.numbered]
+_Remark._
 Herein he is greatly mistaken: for Friends in truth do not speak, or write, or admonish,
 or reprove, or give warning from that part;
 but from the sight and sense which God gives to his own birth;
@@ -443,10 +457,12 @@ and are obedient to his Spirit, when it gives advice and warning through any;
 which those that are in the comprehending part, and consider and judge in that,
 cannot have the sense of.
 
-Sixthly, He saith, "`Antichrist will bring a veil over the understanding of men and women,
+[.numbered]
+_Sixthly,_ He saith, "`Antichrist will bring a veil over the understanding of men and women,
 and yet they, for the present, cannot perceive it.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 This is very true.
 I would he and others, who are veiled by antichrist, did see it;
 for then he would not esteem those veiled whom the Lord hath unveiled,
@@ -461,11 +477,13 @@ and so justify themselves in that wherein God condemns them,
 and condemn others in that wherein God justifieth them.
 This is sad work and will have a sad issue.
 
-Seventhly, He saith, "`There is an invisible woman in every visible man,
+[.numbered]
+_Seventhly,_ He saith, "`There is an invisible woman in every visible man,
 and there is an invisible man in every visible woman; and the man Christ Jesus,
 who is the light of the world, he is in them both,`" etc.
 
-Remark.
+[.discourse-part]
+_Remark._
 Is not he now in the notional and comprehending part,
 muddling himself and others (whose ears are open to him) about a woman in a man,
 and a man in a woman, and Christ in both?
@@ -473,11 +491,13 @@ Whereas truth is a plain thing; which they that come to feel and abide in,
 feel and witness redemption, and preservation out of the comprehending part,
 and the dead, notional knowledge thereof.
 
-Eighthly, He saith, He doth not own the judgment and opinion of those ministers,
+[.numbered]
+_Eighthly,_ He saith, He doth not own the judgment and opinion of those ministers,
 nor yet their superiority, who say,
 he that is not justified by the witness of God in Friends, is condemned by it in himself.
 
-Remark.
+[.discourse-part]
+_Remark._
 I shall not now argue that there are true ministers,
 and that there is a true superiority (some being greater
 and some less in the covenant and life of truth),
@@ -491,7 +511,8 @@ in me concerning that thing) cannot but condemn also.
 It is true, as he saith, that "`justification is by Christ alone,
 who is the head in every member,`" etc.
 
-Remark.
+[.discourse-part]
+_Remark._
 But Christ is in other members also, as well as in one;
 and his life hath power to judge and condemn; and it judgeth and condemneth nowhere,
 but that which is to be judged and condemned.
@@ -503,11 +524,13 @@ but also to judge and condemn fallen angels and spirits.
 To what end are they bid to try the spirit, if after they have tried them,
 they may not judge and condemn what they find life and truth judging and condemning?
 
-Ninthly, He excepts against that passage in Friends`' paper (as he recites it),
+[.numbered]
+_Ninthly,_ He excepts against that passage in Friends`' paper (as he recites it),
 "`that none are to minister, but those that are reconciled to the church,
 and have the approbation of the elders.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 What is the end of ministering, but to gather out of the world into the church,
 or to build up the church?
 And are they fit to do either, who are not reconciled to the church?
@@ -516,7 +539,8 @@ Or whom the Spirit, life, and power in the church and elders hath not unity with
 He further saith, "`That God was in Christ, reconciling the world unto himself,
 and not to the church`" (saith he); he remembers no such scripture.
 
-Remark.
+[.discourse-part]
+_Remark._
 God added to the church such as should be saved;
 and were they not reconciled to it before they were added?
 And Christ said concerning that brother that would not hear the church,
@@ -530,11 +554,13 @@ And all such as have thus gone out from God in whom the church is,
 have ministered against the life, Spirit, and power, but not in it;
 but in antichrist`'s spirit and power, and against the truth.
 
-Tenthly, He saith, "`Christ, the light within,
+[.numbered]
+_Tenthly,_ He saith, "`Christ, the light within,
 will not give his power and authority out of his own hand to any man or men;
 for unto him alone is all judgment in heaven and in earth committed in matters of conscience.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 Is Christ`'s power given out of his hands,
 when his life and Spirit in one judgeth concerning
 that which is evil and out of the truth in another?
@@ -546,11 +572,13 @@ and discern when they are out of the life, and when in the life?
 And doth he give the power and authority out of his own hands, in enabling them so to do?
 What dark expressions are these, and dead too; not so much as literally true?
 
-Eleventhly, He saith, "`Christ, the light within, is able to break,
+[.numbered]
+_Eleventhly,_ He saith, "`Christ, the light within, is able to break,
 and he is also able to bind up that which he hath broken,
 and to heal that which he hath wounded,`" etc.
 
-Remark.
+[.discourse-part]
+_Remark._
 And hath not Christ put a spiritual rod and sword into the hands of his church and ministry,
 with which to smite and wound, as his Spirit guides and leads them?
 Have they not power both to bind and loose as Christ saith?
@@ -574,11 +602,13 @@ where his Spirit did build up, and defends the buildings,
 and judgeth out all such sandy and windy doctrines, which are loose and airy,
 and have not a ground or bottom in the truth.
 
-Twelfthly, He saith, "`There is fallibility attends all those, who are regenerated,
+[.numbered]
+_Twelfthly,_ He saith, "`There is fallibility attends all those, who are regenerated,
 and born of the Spirit of God, who is light,
 and that it is possible for them to err from the light again,`" etc.
 
-Remark.
+[.discourse-part]
+_Remark._
 He doth herein lay the state of the truly regenerate
 and born of God lower than the scripture lays it.
 The scripture saith, "`Whosoever is born of God, doth not commit sin;
@@ -619,7 +649,8 @@ and that it is possible for them to err from the light again; the enemy,
 which is the power of darkness,
 presenting to them the fruit of the tree of knowledge,`" etc.
 
-Remark.
+[.discourse-part]
+_Remark._
 If God be infallible, as he confesseth (though it is to be questioned,
 whether from any true knowledge of his nature, or only from the comprehension),
 and God beget children, into what doth he beget them?
@@ -650,7 +681,8 @@ both in themselves and others; both which are an abomination to the Lord.
 He saith, "`There is a fallibility attends all those that are regenerate,
 and born of the Spirit of God.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 What all?
 Those that come to the highest pitch, and greatest growth, can they not pass fallibility,
 and arrive at infallibility in a measure, and abide in it?
@@ -674,7 +706,8 @@ plainly signifying that it is impossible.
 Now, their possibility of erring he lays upon the enemy`'s presenting
 to them the fruit of the tree of knowledge whilst they are in Eden, p. 6.
 
-Remark.
+[.discourse-part]
+_Remark._
 The enemy`'s presenting temptations doth not imply a possibility of letting in the temptation,
 and so of erring, in all to whom he doth present things.
 For he presented things to Christ,
@@ -687,7 +720,8 @@ presenting to them the fruit of the tree of knowledge;
 namely thus, "`Their minds taking delight in it, and they feeding upon it,
 the enemy hath power to draw their minds out of Eden again.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 The regenerate and born of God are partakers of the divine nature,
 and wait on God for living food, and receive it of him, and live by it,
 and cannot abide dead, dry, notional food, nor feed upon it.
@@ -700,10 +734,14 @@ how much stronger is it in those that are grown in truth,
 and who come to be naturalized into it, the contrary nature being crucified,
 and slain in them by the cross of Christ, and the new and holy nature ruling in them?
 
-Thirteenthly, He saith,
+[.numbered]
+_Thirteenthly,_ He saith,
 "`Wherefore I do believe that I ought not to subject myself to what the church imposeth.`"
 
-Remark.
+====
+
+[.discourse-part]
+_Remark._
 The church of God under the law, walking in that outward covenant,
 was a glorious camp or body; and had outward power, according to the outward law,
 appertaining to it.
@@ -727,7 +765,8 @@ to subject himself to what the church imposeth,
 are these:--"`For then,`" saith he, "`I must believe that it is God in them,
 which doth impose those yokes of bondage upon their brethren.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 The church is called into the liberty of the gospel,
 and her children are born of the word immortal, and of the truth which makes free;
 and it is not the church`'s nature, either to receive or impose yokes of bondage,
@@ -754,7 +793,8 @@ Another reason he gives is,
 Because (he saith) he must also then believe that the church is infallible,
 and cannot err.
 
-Remark.
+[.discourse-part]
+_Remark._
 The Spirit of God is infallible;
 the power whereby the church was gathered and built up is infallible.
 Christ is infallible, and hath given to his church of his infallible Spirit;
@@ -776,7 +816,11 @@ And will not that power keep and preserve all that keep to it?
 He addeth further to the foregoing words, "`Which thing I cannot believe,
 for then I must believe these particulars following.`"
 
-First, "`I must believe that they are as infallible as God is;
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ "`I must believe that they are as infallible as God is;
 and that it is as impossible for them to err, as it is for God to err.`"
 
 [.discourse-part]
@@ -804,7 +848,8 @@ and small regard or faithfulness to him,
 who hath entrusted her with his own Spirit and power, for edification and salvation,
 and not for destruction.
 
-Secondly,
+[.numbered]
+_Secondly,_
 "`That no man or woman shall ever attain to any higher
 measure of the grace of God than they;
 and that they are come to the highest revelation
@@ -829,7 +874,8 @@ and mind the peace of the church,
 and be subject to the Spirit and pure power of life in the church;
 else their growth is in another spirit, which the true church can never own.
 
-Thirdly, "`And that there is no more to be made known by the Spirit of God,
+[.numbered]
+_Thirdly,_ "`And that there is no more to be made known by the Spirit of God,
 in the sons and daughters of men, but what already is made known to them.`"
 
 [.discourse-part]
@@ -852,7 +898,8 @@ and of his church, that they may be preserved out of it!
 For had this been hearkened and kept to, things had been better with many,
 as to their inward state, and true peace with the Lord, than they have been.
 
-Fourthly, "`Or if there be any thing more to be revealed by the Spirit of God,
+[.numbered]
+_Fourthly,_ "`Or if there be any thing more to be revealed by the Spirit of God,
 that God will make it known to them, and to none else.`"
 
 [.discourse-part]
@@ -893,13 +940,15 @@ Yea; in the Spirit that was in them, and with them,
 they knew which were the vain talkers, the unruly, and deceivers;
 and what mouths were to be stopped, and what power would stop them.
 
-Fifthly, he saith, "`Friends,
+[.numbered]
+_Fifthly,_ he saith, "`Friends,
 I would have you seriously take into your consideration some of your doctrines
 and principles which are commonly preached among us,
 how they can stand with God`'s sovereignty, dominion, and glory,
 that either the seed or God should arise in man.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 Christ preached a seed, even the kingdom, like a grain of mustard seed,
 and this seed sown in man.
 Now, if it was sown in man, in his earthly heart, nature, and spirit,
@@ -954,7 +1003,8 @@ and man may crucify to himself the Lord of glory.
 
 His third and fourth questions are, "`What shall raise it up?`" And, "`By what?`"
 
-Answer to both.
+[.discourse-part]
+_Answer to both._
 The power of God, the Spirit of God, the life of God, entering into its own in man,
 entering into the witness, raiseth it up, brings that under which resisted, oppressed,
 and kept it down.
@@ -966,9 +1016,12 @@ resisted his Holy Spirit in the pure manifestations thereof;
 for what is done to it is done to him.
 "`Saul, Saul, why persecutest thou me?`"
 
-Lastly, "`Whether the appearance of God in man, to man by his Spirit,
+[.numbered]
+_Lastly,_ "`Whether the appearance of God in man, to man by his Spirit,
 be not for the quickening and raising of man, both soul and body,
 out of a state of bondage and captivity?`"
+
+====
 
 [.discourse-part]
 Answer.
@@ -1015,7 +1068,8 @@ and is spiritually crucified to this day! Rev. 11:8.
 He saith, "`The kingdom of heaven is within all men and women, and heaven is above hell,
 and the light is above darkness,`" p. 7.
 
-Remark.
+[.discourse-part]
+_Remark._
 If he mean that their nature is so, I grant it; but if he mean that heaven,
 or the light which is heavenly,
 is uppermost in men who are under the kingdom and power of darkness,
@@ -1029,7 +1083,8 @@ and power (which is due unto it) in that heart.
 
 He saith, "`The seed is to redeem, and not to be redeemed.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 This is true, relating to the seed, as it is in itself:
 but as God hath bestowed it on man, given it as a gift in man,
 and it condescends to his condition, descending into the lower parts of the earth,
@@ -1046,14 +1101,16 @@ and mourns bitterly over him, and turns from and hates that sin whereby it pierc
 He saith, "`The seed in both man and woman is both God and Christ,
 and is above the seed of the serpent in all, and he is in himself,`" etc. p. 7.
 
-Remark.
+[.discourse-part]
+_Remark._
 Who denies that God and Christ, and the holy seed, which are one in nature,
 though not in measure and fulness, as he is in himself, is above the seed of the serpent?
 
 He addeth further, "`Neither hath man`'s mind been so blinded,
 that he could not see his sins by the light,`" p, 8 l. 38 (as corrected by the errata).
 
-Remark.
+[.discourse-part]
+_Remark._
 There is an eye that the god of this world blinds,
 that it may not see the glorious shinings of the light. 2 Cor. 4:3-4.
 And the eye that is blind cannot see, till God opens it.
@@ -1124,23 +1181,28 @@ which the Lord of his tender mercy manifest to him, and redeem him from, into a 
 living, humble sense of the meek and lowly principle of life in the heart.
 
 [.centered]
-=== POSTSCRIPT
+=== Postscript
 
-SINCE the writing of the former, and my not intending to meddle with the rest,
+Since the writing of the former, and my not intending to meddle with the rest,
 there hath something lain upon me, as to some few passages therein also,
 to write a few words by way of testimony, to one or two particulars therein:
 but that which mainly lay upon me was somewhat in relation to his Postscript;
 he looking upon it as so unanswerable,
 and yet so plain and clear an answer arising to it in my heart.
 
-First, As to his main controversy with Friends,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ As to his main controversy with Friends,
 about the "`Christ that died at Jerusalem`" (he affirming,
 "`That neither justification nor condemnation is by him;`" and reproaching Friends,
 "`as having gone back to the professors`' Christ and Saviour,
 who died without the gates of Jerusalem,`" as page 17, 21, 26),
 this is in my heart to say: --
 
-Remark.
+[.discourse-part]
+_Remark._
 Is Christ divided?
 Is there one Christ that died without the gates of Jerusalem,
 and another that did not die?
@@ -1162,11 +1224,13 @@ Is it not Christ that died?`" And where did he die?
 Was it not without the gates of Jerusalem?
 "`Yea rather, that is risen again,`" etc. Rom. 8:33-34.
 
-Secondly, The next thing that lies upon me to take notice of, is writing against sense,
+[.numbered]
+_Secondly,_ The next thing that lies upon me to take notice of, is writing against sense,
 and disowning the exhortation to come to a sense, and to wait in a sense,
 and abide in a sense, etc. as p. 25.
 
-Remark.
+[.discourse-part]
+_Remark._
 Though I have given a touch at this already, in the foregoing part,
 yet there is somewhat more lies upon me.
 The inward man, the new man, the spiritual man, hath inward and spiritual senses.
@@ -1194,7 +1258,8 @@ let antichrist transform in any of his ministers ever so mysteriously.
 
 He saith, "`God is not a sense, nor is his Spirit a sense.`"
 
-Remark.
+[.discourse-part]
+_Remark._
 It is not for him, in his notional way, to say what God is; he that made the eye,
 shall not he see?
 He that made the ear, shall not he hear?
@@ -1213,7 +1278,8 @@ as I am sure it hath done and doth in mine,
 and cannot but do in all that have been gathered to, and abide in,
 that which keepeth livingly sensible.
 
-Thirdly, The third thing, and that which most lies upon me,
+[.numbered]
+_Thirdly,_ The third thing, and that which most lies upon me,
 is that charge of his upon Friends, That they do show more homage, reverence,
 and obedience to the form outwardly, than to the power of God inwardly;
 and that they worship the form beyond the power,
@@ -1225,7 +1291,10 @@ This practice he would have them vindicate, if they can:
 indeed he hath sufficiently condemned it, and more than God hath allowed him to do,
 or will justify him in.
 
-Remark.
+====
+
+[.discourse-part]
+_Remark._
 The thing is nakedly and plainly thus; the great God, by the arm of his power,
 hath gathered a people to himself,
 and taught them to worship him in his own Spirit and truth; yea,
@@ -1262,7 +1331,8 @@ is those words about the close of his postscript:
 the tendency of which book is,
 for the overthrowing of all antichrist`'s ministers in this nation,`" etc.
 
-Remark.
+[.discourse-part]
+_Remark._
 This testimony lies on my heart concerning him, that he is not in a condition,
 or capacity to write or speak in or from God`'s Spirit.
 He may pretend to have written this, or to write another book, from God`'s Spirit,
