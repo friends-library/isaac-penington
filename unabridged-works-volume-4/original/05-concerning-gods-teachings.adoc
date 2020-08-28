@@ -21,9 +21,9 @@ and fulfilling daily more and more
 [.section-date]
 ca. 1671
 
-=== PREFACE
+=== Preface
 
-CHRIST, who came from the Father, and knew the way of truth and life everlasting,
+Christ, who came from the Father, and knew the way of truth and life everlasting,
 and was to guide men to the Father, being the only way unto him, preached the kingdom,
 and bid men seek the kingdom;
 teaching and instructing them in many parables concerning it,
@@ -80,9 +80,10 @@ and are in great love presented to thy view,
 By a sufferer for the truth which lives in him, and in which he lives,
 through the tender mercy of the Lord, and to the glory of the riches of his grace,
 
-ISAAC PENINGTON
+[.signed-section-signature]
+Isacc Penington
 
-=== A TREATISE CONCERNING GOD`'S TEACHINGS AND CHRIST`'S LAW
+=== A Treatise Concerning God`'s Teachings and Christ`'s Law
 
 [.inline]
 ==== 1. Concerning God`'s Teachings
@@ -101,7 +102,7 @@ All thy children shall be taught of the Lord, and they shall all know me,
 from the least of them to the greatest of them.`"
 ____
 
-NOW, whose children are they which shall all be taught of the Lord?
+Now, whose children are they which shall all be taught of the Lord?
 And which are they which shall all know the Lord by the teachings of his Spirit,
 from the least to the greatest?
 Are they not the children of the free woman,
@@ -227,7 +228,7 @@ ____
 And the isles shall wait for his law.
 ____
 
-WHAT is that law which the isles were and are to wait for?
+What is that law which the isles were and are to wait for?
 Is it not the grace and truth which comes by Jesus Christ,
 even the grace in the inward parts, even the truth in the inward parts?
 The law outward was given by Moses to the outward Jews;
@@ -359,7 +360,7 @@ which judgment will stand forever.
 [.inline]
 ==== III. A brief Relation concerning myself, in reference to what has befallen me in my Pursuit after Truth
 
-I WAS acquainted with a spring of life from my childhood,
+I was acquainted with a spring of life from my childhood,
 which enlightened me in my tender years, and pointed my heart towards the Lord,
 begetting true sense in me, and faith and hope and love and humility and meekness etc.,
 so that indeed I was a wonder to some that knew me,
@@ -542,7 +543,7 @@ which is the limit and yoke of the true readers and understanders of the Scriptu
 [.inline]
 ==== V. Concerning Christ`'s Ministry, or Priesthood
 
-CHRIST is made by God a minister, or high priest,
+Christ is made by God a minister, or high priest,
 over the spiritual Israel of God, "`not after the law of a carnal commandment,
 but after the power of an endless life,`" (as Heb. 7:16 and chap.
 8:2); and he ministers with his Spirit and power unto and in all his.
@@ -565,7 +566,7 @@ by the Spirit of the Lord, turned thereto, and subjected under its rule and gove
 [.inline]
 ==== VI. Concerning the true Knowledge of Christ
 
-IT was said, in the time of the prophets,
+It was said, in the time of the prophets,
 under the ministration of the law, that "`the priest`'s lips should keep knowledge,
 and they`" (that is, the outward Israel,
 Israel after the flesh) "`should seek the law at his mouth;
@@ -629,7 +630,7 @@ or be owned in the day of the Lord, but that which is of and in the Spirit.
 [.inline]
 ==== VII. A few Words more concerning the Right Way of Knowing, as it is witnessed unto in the Scriptures, and experienced in the Hearts of those that truly and livingly know the Lord
 
-"`WISDOM is justified of her children,`" said Christ. Matt. 11:19.
+"`Wisdom is justified of her children,`" said Christ. Matt. 11:19.
 Now, who is wisdom?
 What is wisdom?
 Is it not the heavenly mother of all the living?
@@ -663,7 +664,7 @@ he may easily err, and judge amiss.
 [.inline]
 ==== VIII. Concerning Christ`'s Righteousness, which is the Righteousness of all his Saints
 
-CHRIST is the head, his saints the body;
+Christ is the head, his saints the body;
 and do they not all partake of one nature, one Spirit, one virtue, one life,
 one righteousness?
 Doth not Christ give them of his own righteousness,
@@ -806,7 +807,7 @@ this fruit can arise from no other but the pure, living, heavenly root.
 [.inline]
 ==== IX. Of the Grace of the Gospel
 
-THE prophets of old prophesied of the sufferings of Christ,
+The prophets of old prophesied of the sufferings of Christ,
 and the glory that should follow. 1 Pet. 1:10-11.
 Now, what was the glory which should follow?
 Was it not the setting up Christ`'s inward and invisible kingdom in the hearts of men?
@@ -926,7 +927,7 @@ for ye are not under the law, but under grace.`" Rom. 6:14.
 
 [.discourse-part]
 Question.
-ARE not persons to be really holy (really sanctified
+Are not persons to be really holy (really sanctified
 in Christ Jesus) who would be received by the Lord,
 and enjoy fellowship with him as sons and daughters, in the gospel of his Son?
 
@@ -974,7 +975,7 @@ and enjoying fellowship with him again.
 [.inline]
 ==== XI. Concerning the Law of Sin in the Fleshly Mind, and the Law of Life and Holiness in the Renewed Mind; and whence each have their Strength
 
-WHAT is the law of sin?
+What is the law of sin?
 Who writes it in the mind?
 And what is it when it is writ?
 "`When lust hath conceived, it bringeth forth sin: and sin when it is finished,
@@ -1100,7 +1101,7 @@ as becometh Christians.
 [.inline]
 ==== XII. Concerning God`'s gathering us Home to himself, who are a people despised and rejected of Men, and in Scorn by them called Quakers
 
-IT pleased the Lord, who is rich in mercy and goodness,
+It pleased the Lord, who is rich in mercy and goodness,
 to pity our many wanderings and sore distresses,
 and at length to gather us home to the light and Spirit of his Son,
 which was the gospel standard in the apostles`' days.
@@ -1291,7 +1292,7 @@ without this Spirit and power.
 [.inline]
 ==== XIII. A few Words concerning the Worship which our God hath taught us
 
-OUR worship is a deep exercise of our spirits before the Lord,
+Our worship is a deep exercise of our spirits before the Lord,
 which doth not consist in an exercising the natural part or natural mind,
 either to hear or speak words, or in praying according to what we, of ourselves,
 can apprehend or comprehend concerning our needs; but we wait,
@@ -1321,7 +1322,7 @@ delighting in us, and over us to do us good;
 and our land yields its increase to the Lord of life, who hath redeemed it,
 and planted the precious plants and seeds of life in it.
 
-=== THE CONCLUSION
+=== The Conclusion
 
 Now, this ought to be the great care of every renewed mind,
 even to keep out that which is unclean.
