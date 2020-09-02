@@ -141,8 +141,8 @@ and departers from the light in themselves;
 though they might pretend they were still for the light,
 and that it was the overseers that were departed and erred from it?
 
-[.offset]
-The next Words he cites are these:
+[.inline]
+==== The next Words he cites are these:
 
 "`Two things are here excluded by Christ,
 from whence all the mischief ariseth in the church,
@@ -177,9 +177,8 @@ Because of which Spirit, because of which power,
 because of which holy authority and dominion,
 the gates of hell shall not be able to prevail against it.
 
-[.offset]
-His next citation is this (which, though somewhat long,
-I am willing to recite punctually, that my innocency may the more appear):
+[.inline]
+==== His next citation is this (which, though somewhat long, I am willing to recite punctually, that my innocency may the more appear):
 
 "`This spirit must be kept out from amongst you,--this aspiring spirit, this lofty,
 ruling spirit, which loves to be great, which loves to have dominion,
@@ -284,8 +283,8 @@ and power) that it is not light, as persons may pretend and imagine; but real da
 gross darkness, darkness that may be felt, even by the least babes that are in the true,
 living sense?
 
-[.offset]
-The next Citation
+[.inline]
+==== The next Citation
 
 "`If this rule of Christ had been kept to, antichrist`'s power could never have got up,
 nor the poor innocent lambs so often have been worried by the wolves.`"
@@ -319,8 +318,8 @@ that it might draw men from that which is indeed the light within,
 into that which is indeed darkness in the sight of the Lord,
 and in the sight of all that are kept truly living and sensible by him?
 
-[.offset]
-The next Citation
+[.inline]
+==== The next Citation
 
 "`The great work of the minister of Christ, is to keep the conscience open to Christ,
 and to preserve men from receiving any truths as from them,
@@ -382,8 +381,8 @@ of God`'s true Spirit and power in his children,
 who keep their habitations in that light which these are departed from,
 though they make ever so great pretences to it?
 
-[.offset]
-The next Citation
+[.inline]
+==== The next Citation
 
 "`Ah, poor hearts! how simply do they come thither, where they once tasted refreshment,
 to find wholesome advice, not suspecting what is got up there since;
@@ -478,8 +477,8 @@ And doth not he worship and obey that idol, that wrong spirit, that wrong power?
 And will not the Lord visit and judge him for his
 spiritual adultery and idolatry from the true?
 
-[.offset]
-The next Citation
+[.inline]
+==== The next Citation
 
 "`In the apostles`' days,
 Christians were too apt to strive after a wrong unity
@@ -565,8 +564,8 @@ which indeed is their own state and condition in God`'s sight; but not the churc
 which was gathered and is preserved by him, glory to the Lord,
 over all the accusations of the accuser, through what mouth soever he utter them forth.
 
-[.offset]
-The next Citation
+[.inline]
+==== The next Citation
 
 "`Oh! how sweet and pleasant is it to the truly spiritual eye,
 to see several sorts of believers, several forms of Christians in the school of Christ,
@@ -634,8 +633,8 @@ and are run back into the uncircumcised paths of the world again,
 which came from and answer the uncircumcised spirit and nature,
 both in themselves and others?
 
-[.offset]
-The next Citation
+[.inline]
+==== The next Citation
 
 "`And he that knows what it is to receive any truths from the Spirit,
 and to be led into any practices by the Spirit,
@@ -684,8 +683,8 @@ and to the true testimony and practices which it once taught him,
 and still teacheth all that hearken to its voice and holy motions,
 and listen not to the voice and instigations of a stranger?
 
-[.offset]
-The next Citation
+[.inline]
+==== The next Citation
 
 "`The great error of the state of the apostasy hath
 been to set up an outward order and uniformity,
@@ -751,8 +750,8 @@ evil), as well as, to the utmost,
 to cherish the liberty of the tender consciences in and to the Lord?
 Read and consider these scriptures following, Tit. 1:15. 1 Tim. 1:19. and 4:2.
 
-[.offset]
-The next Citation
+[.inline]
+==== The next Citation
 
 "`And this I can truly say concerning myself, I never found my spirit forward to draw any,
 either to any thing I believed to be true,
@@ -787,9 +786,8 @@ that they may return to the true Spirit, and to the holy testimony and practices
 and not condemn such, as departers from the light and truth, who abide in it,
 nor justify themselves as abiding in it, when they are really departed from it?
 
-[.offset]
-His last citation of words of mine is out of another book, entitled,
-[.book-title]#An Answer to the Common Objection,# etc. p. 8. The words are these:
+[.inline]
+==== His last citation of words of mine is out of another book, entitled, [.book-title]#An Answer to the Common Objection,# etc. p. 8. The words are these:
 
 "`That power therefore in the church which spares the hypocrites
 (who can easily comply with an outward conformity in worship,
@@ -895,8 +893,8 @@ For as the church is to be tender of every member,
 so every member is to be tender and regardful towards the church,
 and of the power and authority which God hath given it.
 
-[.offset]
-The next Passage that is on me to mention, is p. 76
+[.inline]
+==== The next Passage that is on me to mention, is p. 76
 
 "`There is nothing to hurt in the mountain of God`'s holiness;
 but there is a righteous sceptre, a sweet sceptre, a spiritual sceptre,
@@ -908,8 +906,8 @@ And when the church hath testified against their practices, or denied their spir
 it leaves them to the Lord; yet still praying to him that repentance may be given them,
 and mercy shown them by him, whose mercy endures forever.`"
 
-[.offset]
-Another Passage in p. 77
+[.inline]
+==== Another Passage in p. 77
 
 "`Let the life in every one rise over it,`" (speaking of the proud,
 aspiring spirit) "`and trample upon it: and afterwards,
