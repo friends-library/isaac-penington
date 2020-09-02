@@ -41,9 +41,9 @@ but be filled with the Spirit,
 and submitting yourselves one to another in the fear of God.
 ____
 
-=== PREFACE
+=== Preface
 
-UPON occasion of the suffering of our dear friends and brethren in New England,
+Upon occasion of the suffering of our dear friends and brethren in New England,
 cruel imprisonments, many hard usages, and at last (some of them) death itself,
 for their obedience and faithful testimony to the Lord, and his precious truth;
 and because of the undue covering thereof,
@@ -66,43 +66,55 @@ which never was intended by me: for in that very book which is thus made use of,
 I did positively affirm the necessity and use of the true church-government,
 which may more fully appear in that which hereafter follows.
 
-=== SOME MISREPRESENTATIONS OF ME CONCERNING CHURCH GOVERNMENT
+=== Some Misrepresentations of Me Concerning Church Government
 
-OR the manifesting that I am misrepresented,
+[.heading-continuation-blurb]
+Or the manifesting that I am misrepresented,
 and the clearing of my innocency from those misrepresentations, this is on my heart: --
 
-First,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_
 to set down those words which John Pennyman hath cited out of that part of my book which
 speaks of the authority and government which Christ excluded out of his church.
 
-Secondly, To add somewhat, in way of confirmation of that truth and tender sense,
+[.numbered]
+_Secondly,_ To add somewhat, in way of confirmation of that truth and tender sense,
 which was then upon my heart.
 
-Thirdly, To propose some questions, as I shall find them arise in my heart,
+[.numbered]
+_Thirdly,_ To propose some questions, as I shall find them arise in my heart,
 further to open and manifest the intent of my heart in this thing.
 
-Fourthly, To annex somewhat,
+[.numbered]
+_Fourthly,_ To annex somewhat,
 which is mentioned and immediately added in the very same part of the book,
 concerning true church-government;
 which plainly manifesteth that I was not against the true church-government,
 nor did mention or intend any of those things to hinder, deny,
 or oppose the true church-government, of which I do there infer an absolute necessity.
 
-Fifthly, It is on my heart to add a few considerations further, concerning the necessity,
+[.numbered]
+_Fifthly,_ It is on my heart to add a few considerations further, concerning the necessity,
 usefulness, and benefit of the true church-government.
+
+====
 
 The first words John Pennyman cites out of this part of my book,
 concerning the authority and government which Christ excluded out of his church,
 from Matt. 20:25 to 29 are these:
 
-"`HERE Christ cuts off that power and authority,
+"`Here Christ cuts off that power and authority,
 which grows up in the corrupt nature of man,
 which was ever and anon springing up even in the disciples;
 here he wholly excludes it out of his church, and saith expressly,
 he would have no such thing amongst them, no such kind of greatness,
 no such kind of authority.
 
-Confirm.
+[.discourse-part]
+_Confirm._
 It is the full belief of my heart,
 that Christ hath cut off that power and authority
 which grows up in the corrupt nature of man,
@@ -129,6 +141,7 @@ and departers from the light in themselves;
 though they might pretend they were still for the light,
 and that it was the overseers that were departed and erred from it?
 
+[.offset]
 The next Words he cites are these:
 
 "`Two things are here excluded by Christ,
@@ -138,7 +151,8 @@ and liberties for conscience`' sake.
 First, Greatness: Secondly,
 The exercising dominion and authority by those that would be great therein.`"
 
-Confirm.
+[.discourse-part]
+_Confirm._
 It is my belief, that all the mischief in the church,--tyranny,
 and oppression of men`'s consciences, and of their persons, estates,
 and liberties for conscience`' sake,--doth arise from a wrong greatness,
@@ -163,10 +177,11 @@ Because of which Spirit, because of which power,
 because of which holy authority and dominion,
 the gates of hell shall not be able to prevail against it.
 
+[.offset]
 His next citation is this (which, though somewhat long,
 I am willing to recite punctually, that my innocency may the more appear):
 
-"`THIS spirit must be kept out from amongst you,--this aspiring spirit, this lofty,
+"`This spirit must be kept out from amongst you,--this aspiring spirit, this lofty,
 ruling spirit, which loves to be great, which loves to have dominion,
 which would exalt itself because of the gifts it hath received,
 and would bring others into subjection;
@@ -200,8 +215,9 @@ Yet for further satisfaction,
 I shall add a confirmation to the truth of that which he hath cited;
 and that in several particulars, because of the length of the citation.
 
-Confirm.
-First, An aspiring spirit, a lofty, ruling spirit, which loves to be great,
+[.discourse-part]
+_Confirm._
+_First,_ An aspiring spirit, a lofty, ruling spirit, which loves to be great,
 which loves to have dominion, which would exalt itself,
 etc. must be kept out from among the disciples and church of Christ.
 There must not be such a spirit, or loving to be great, or such a ruling among them,
@@ -213,14 +229,19 @@ It cannot be well with the church that it should be so,
 that God`'s Spirit should be grieved or quenched or stopped in its
 holy way of governing and ordering the church of its own building.
 
-Second, That which would exalt itself because of the gifts it hath received,
+[.numbered-group]
+====
+
+[.numbered]
+_Second,_ That which would exalt itself because of the gifts it hath received,
 and would bring others into subjection;
 this spirit must be subdued among Christ`'s disciples, or it will ruin all.
 God alone, Christ alone, the Spirit alone, the truth alone, the seed alone,
 is to be exalted in the church; not flesh, not self, not the aspiring, lofty,
 ruling spirit.
 
-Third, The Lord gives grace and knowledge for another end,
+[.numbered]
+_Third,_ The Lord gives grace and knowledge for another end,
 than for men to take upon them to be great, and rule over others because of it.
 Man, without grace and true knowledge, is high and exalted,
 and would be ruling over and subjecting others;
@@ -229,7 +250,8 @@ even out of every desire of aspiring and ruling over others,
 in earnest breathings and endeavors that both the grace
 and spirit may teach and rule both over himself and others.
 
-Fourth, Because God hath given a man knowledge,
+[.numbered]
+_Fourth,_ Because God hath given a man knowledge,
 he must not take upon him to rule over others with his knowledge.
 Christ did not rule over his disciples with his knowledge,
 nor require them to believe what he knew to be truth.
@@ -239,9 +261,12 @@ If he do, he will do it out of the leadings of life, and of God`'s holy Spirit;
 and so will wound and hurt his own life thereby;
 and so far as herein he prevails on others, he will hurt their life too.
 
-Fifth, Therefore this spirit (which Christ never was of himself,
+[.numbered]
+_Fifth,_ Therefore this spirit (which Christ never was of himself,
 nor encouraged in his disciples) the church is to watch over, beat down, testify against,
 turn from, lay flat, and keep beneath all, and so not suffer it to arise.
+
+====
 
 [.discourse-part]
 Question.
@@ -259,12 +284,14 @@ and power) that it is not light, as persons may pretend and imagine; but real da
 gross darkness, darkness that may be felt, even by the least babes that are in the true,
 living sense?
 
+[.offset]
 The next Citation
 
-"`IF this rule of Christ had been kept to, antichrist`'s power could never have got up,
+"`If this rule of Christ had been kept to, antichrist`'s power could never have got up,
 nor the poor innocent lambs so often have been worried by the wolves.`"
 
-Confirm.
+[.discourse-part]
+_Confirm._
 It is most certainly true, if the wrong authority and government had been kept down;
 if the aspiring, lofty spirit, which exalts itself,
 and loves to have the preeminence over that which
@@ -292,9 +319,10 @@ that it might draw men from that which is indeed the light within,
 into that which is indeed darkness in the sight of the Lord,
 and in the sight of all that are kept truly living and sensible by him?
 
+[.offset]
 The next Citation
 
-"`THE great work of the minister of Christ, is to keep the conscience open to Christ,
+"`The great work of the minister of Christ, is to keep the conscience open to Christ,
 and to preserve men from receiving any truths as from them,
 further than the Spirit opens, or to imitate any of their practices,
 further than the Spirit leads, guides, and persuades them;
@@ -302,6 +330,7 @@ for persons are exceeding prone to receive things as truths,
 from those they have a high opinion of, and to imitate their practices,
 and so hurt their own growth, and endanger their souls.`"
 
+[.discourse-part]
 Confirm.
 When the minister of Christ comes with the gospel of Christ, he finds men in darkness,
 with their consciences defiled, with the door of the heart shut against Christ.
@@ -353,9 +382,10 @@ of God`'s true Spirit and power in his children,
 who keep their habitations in that light which these are departed from,
 though they make ever so great pretences to it?
 
+[.offset]
 The next Citation
 
-"`AH, poor hearts! how simply do they come thither, where they once tasted refreshment,
+"`Ah, poor hearts! how simply do they come thither, where they once tasted refreshment,
 to find wholesome advice, not suspecting what is got up there since;
 and so give dominion to a wrong thing, and take directions from a wrong spirit,
 and betray their own simplicity?
@@ -370,7 +400,8 @@ a true and clear evidence) shall not be innocent,
 nor the Lord will not hold him guiltless,
 when he comes to visit for spiritual adultery and idolatry.`"
 
-Confirm.
+[.discourse-part]
+_Confirm._
 This hath been experienced in this our day, more than once; when some,
 having departed from the power whereby the innocent lambs
 had tasted sweet nourishment and refreshment through them,
@@ -395,7 +426,8 @@ but the church he could not prevail upon.
 The gates of hell, the power of the dragon, the mouth of the dragon, nay,
 the tail of the dragon (which what if I should say is the false prophet within) cannot.
 
-Further Confirm.
+[.discourse-part]
+_Further Confirm._
 Indeed, the main thing is to keep the conscience pure to the Lord.
 To bring men to that which purifies the conscience, and to keep them to it,
 this is the great work.
@@ -420,7 +452,8 @@ that he might have raised up that part in me, which could have answered him.
 And though he himself be dead, yet his spirit is alive in others at this day,
 which the Lord discover and preserve his people from!
 
-Further Confirm.
+[.discourse-part]
+_Further Confirm._
 It is not good to make haste to be rich (no not in religion).
 He that rightly believeth, and abideth in the true and living faith,
 makes not haste to run into knowledge, worships, and performances,
@@ -445,9 +478,10 @@ And doth not he worship and obey that idol, that wrong spirit, that wrong power?
 And will not the Lord visit and judge him for his
 spiritual adultery and idolatry from the true?
 
+[.offset]
 The next Citation
 
-"`IN the apostles`' days,
+"`In the apostles`' days,
 Christians were too apt to strive after a wrong unity
 and uniformity in outward practices and observations,
 and to judge one another unrighteously in these things.
@@ -471,7 +505,8 @@ and not in an outward uniformity; that was not necessary in the apostles`' days,
 nor is it necessary now;
 and that eye which so dotes upon it overlooks the one thing which is necessary.`"
 
-Confirm.
+[.discourse-part]
+_Confirm._
 This is so manifest from that scripture quoted by me, which is here omitted,
 that he that shall read that scripture, which is Rom. 14.
 may easily observe the apostle affirming and teaching these things.
@@ -530,9 +565,10 @@ which indeed is their own state and condition in God`'s sight; but not the churc
 which was gathered and is preserved by him, glory to the Lord,
 over all the accusations of the accuser, through what mouth soever he utter them forth.
 
+[.offset]
 The next Citation
 
-"`OH! how sweet and pleasant is it to the truly spiritual eye,
+"`Oh! how sweet and pleasant is it to the truly spiritual eye,
 to see several sorts of believers, several forms of Christians in the school of Christ,
 every one learning their own lesson, performing their own peculiar service, and knowing,
 owning, and loving one another in their several places,
@@ -546,7 +582,8 @@ And this is far more pleasing to me, than if he walked just in the track wherein
 nay (so far as I am spiritual), I cannot so much as desire that he should do so,
 until he be particularly led thereto, by the same Spirit that led me.`"
 
-Confirm.
+[.discourse-part]
+_Confirm._
 The spiritual eye beholdeth things aright, beholdeth things in the Lord,
 and tasteth sweetness in, and is pleased with, that which is spiritual.
 If every one did eye the Lord, subject to the Lord,
@@ -597,9 +634,10 @@ and are run back into the uncircumcised paths of the world again,
 which came from and answer the uncircumcised spirit and nature,
 both in themselves and others?
 
+[.offset]
 The next Citation
 
-"`AND he that knows what it is to receive any truths from the Spirit,
+"`And he that knows what it is to receive any truths from the Spirit,
 and to be led into any practices by the Spirit,
 and how prone the fleshly part is to make haste, and how dangerous that haste is,
 will not be forward to press his knowledge or practices upon others,
@@ -607,7 +645,8 @@ but rather wait patiently till the Lord fit them for the receiving thereof,
 and fear lest they should receive and practise too soon,
 even in that part which cannot serve the Lord.`"
 
-Confirm.
+[.discourse-part]
+_Confirm._
 I will send the comforter, the Spirit of truth, saith Christ to his disciples,
 and he shall lead you into all truth.
 Now, the disciple of Christ is led into truth,
@@ -645,9 +684,10 @@ and to the true testimony and practices which it once taught him,
 and still teacheth all that hearken to its voice and holy motions,
 and listen not to the voice and instigations of a stranger?
 
+[.offset]
 The next Citation
 
-"`THE great error of the state of the apostasy hath
+"`The great error of the state of the apostasy hath
 been to set up an outward order and uniformity,
 and to make men`'s consciences bend thereto, either by arguments of wisdom, or by force;
 but the property of the true church-government is to leave
@@ -656,7 +696,8 @@ to preserve it single and entire for the Lord to exercise,
 and to seek unity in the light and in the Spirit,
 walking sweetly and harmoniously together in the midst of differing practices.`"
 
-Confirm.
+[.discourse-part]
+_Confirm._
 That there have been ages of apostasy from the true Spirit and power of the apostles,
 is very manifest, both by the doctrines, discipline,
 and cruel practices of those that would have themselves
@@ -710,9 +751,10 @@ evil), as well as, to the utmost,
 to cherish the liberty of the tender consciences in and to the Lord?
 Read and consider these scriptures following, Tit. 1:15. 1 Tim. 1:19. and 4:2.
 
+[.offset]
 The next Citation
 
-"`AND this I can truly say concerning myself, I never found my spirit forward to draw any,
+"`And this I can truly say concerning myself, I never found my spirit forward to draw any,
 either to any thing I believed to be true,
 or to any practice or way of worship I observed or walked in;
 but desired that the power and leadings of life might go before them,
@@ -720,7 +762,8 @@ and I was afraid lest men should receive things from my hand,
 and not from the Lord`'s.`" He hath written in the margin of the book he sent me, "`Oh,
 what a tender spirit was here!`" intimating as if it were not so with me now.
 
-Confirm.
+[.discourse-part]
+_Confirm._
 Blessed be the Lord, it was so with me formerly, and is so with me daily more and more;
 for as I wait on the Lord in his truth, which makes tender; so upon this occasion,
 being forced to it, I cannot but confess,
@@ -744,16 +787,18 @@ that they may return to the true Spirit, and to the holy testimony and practices
 and not condemn such, as departers from the light and truth, who abide in it,
 nor justify themselves as abiding in it, when they are really departed from it?
 
+[.offset]
 His last citation of words of mine is out of another book, entitled,
-"`An Answer to the common Objection,`" etc. p. 8. The words are these:
+[.book-title]#An Answer to the Common Objection,# etc. p. 8. The words are these:
 
-"`THAT power therefore in the church which spares the hypocrites
+"`That power therefore in the church which spares the hypocrites
 (who can easily comply with an outward conformity in worship,
 without feeling an inward life and virtue),
 but lights heavy on that which is tender and shy in matters of worship,
 that is not the true church power, but at best but a counterfeit of the true.`"
 
-Confirm.
+[.discourse-part]
+_Confirm._
 The power which Christ hath given his church is not to spare hypocrites,
 who may easily comply with an outward uniformity in worship,
 without feeling an inward life and virtue.
@@ -850,9 +895,10 @@ For as the church is to be tender of every member,
 so every member is to be tender and regardful towards the church,
 and of the power and authority which God hath given it.
 
+[.offset]
 The next Passage that is on me to mention, is p. 76
 
-"`THERE is nothing to hurt in the mountain of God`'s holiness;
+"`There is nothing to hurt in the mountain of God`'s holiness;
 but there is a righteous sceptre, a sweet sceptre, a spiritual sceptre,
 which reacheth the spirit in the power of life,
 but toucheth not the outward man.`" To which I may add,
@@ -862,9 +908,10 @@ And when the church hath testified against their practices, or denied their spir
 it leaves them to the Lord; yet still praying to him that repentance may be given them,
 and mercy shown them by him, whose mercy endures forever.`"
 
+[.offset]
 Another Passage in p. 77
 
-"`LET the life in every one rise over it,`" (speaking of the proud,
+"`Let the life in every one rise over it,`" (speaking of the proud,
 aspiring spirit) "`and trample upon it: and afterwards,
 that in thee may arise which is fit to teach, yea, and to rule in the Lord,`" etc.
 
@@ -944,11 +991,18 @@ And then to limit the government aright,
 these two precious cautions or directions are added, p. 85.
 which I am sure will answer the truth and witness of God in every conscience.
 
-First.
+[.numbered-group]
+====
+
+[.numbered]
+_First._
 Care must be had that nothing govern in the church of Christ, but the Spirit of Christ.
 
-Secondly, That the conscience be kept tender,
+[.numbered]
+_Secondly,_ That the conscience be kept tender,
 that nothing be received but according to the light in the conscience.
+
+====
 
 There is likewise an Objection answered about Uniformity, p. 87-88.
 which not being very large,
@@ -1031,9 +1085,13 @@ as too many now do, to the great hurt of their own souls,
 and the hardening of others against God`'s precious way and truth,
 which will be bitterness in the latter end unto all such!
 
-=== THREE OR FOUR CONSIDERATIONS ADDED CONCERNING CHURCH-GOVERNMENT
+=== Three or Four Considerations Added Concerning Church-government
 
-First, THAT it is the holy will and pleasure of the great God,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That it is the holy will and pleasure of the great God,
 that his church should be governed by his Holy Spirit and power revealed in it.
 God is the God of order, and not of confusion,
 and he would have everything in the right and holy order everywhere,
@@ -1062,7 +1120,8 @@ but as the Lord hath thrown down that which shall never be built up more,
 so the Lord hath built up that which shall never be thrown down more,
 and brought many of his people to a settled state, in the unchangeable truth and power.
 
-Secondly, It is the great work of Satan, and the great interest of Satan,
+[.numbered]
+_Secondly,_ It is the great work of Satan, and the great interest of Satan,
 to oppose the holy order and government of the Spirit of Christ in his church.
 It is that power which threw down his kingdom, and that power will keep his kingdom down;
 yea, the more that authority and power is established in the church,
@@ -1081,7 +1140,8 @@ the light that hath stayed with the church hath been
 a help to recover such who have mistaken in judgment,
 and erred from the light in their own particulars.
 
-Thirdly,
+[.numbered]
+_Thirdly,_
 There is great benefit and safety to every particular in the holy
 order and government which God hath ordained in his church.
 God knoweth it is not fit for believers or his gathered ones to be alone,
@@ -1133,37 +1193,53 @@ And indeed it is manifested, indeed it doth dwell there,
 and those that are the begotten and born and preserved by God`'s Holy Spirit,
 and power of the immortal Word of life, daily witness it.
 
-Fourthly, The glory and beauty of the New Testament church doth, in no small degree,
+[.numbered]
+_Fourthly,_ The glory and beauty of the New Testament church doth, in no small degree,
 consist in the holy order and government of them, as a spiritual, living body,
 by the blessed Spirit and power of the Lord.
+
+====
 
 There were four things wherein the glory of the church
 of the Jews under the first covenant did much consist.
 
-The first was, in the salvation wherewith God visited them,
+[.numbered-group]
+====
+
+[.numbered]
+The _first_ was, in the salvation wherewith God visited them,
 and which he bestowed upon them.
 "`Happy art thou, O Israel: who is like unto thee, O people saved by the Lord,
 the shield of thy help, and who is the sword of thine excellency.
 And thine enemies shall be found liars unto thee,
 and thou shalt tread upon their high places.`" Duet. 33:29.
 
-Secondly, In the gifts God bestowed upon them;
+[.numbered]
+_Secondly,_ In the gifts God bestowed upon them;
 for God did adorn and beautify that people with the
 good things which he bestowed upon them. Ezek. 16:14.
 
-Thirdly, In the presence of the Lord their God in the midst of them,
+[.numbered]
+_Thirdly,_ In the presence of the Lord their God in the midst of them,
 the ark of whose presence was with them, and whose dwelling-place was among them,
 and who was nigh unto them to be inquired of by them,
 and to answer and supply them with all that they wanted and called upon him for. Duet. 4:7.
 
-Fourthly,
+[.numbered]
+_Fourthly,_
 In the holy statutes and righteous judgments which
 God gave them to be ordered and governed by,
 as his chosen people, ver. 5, 6, 8.
 
+====
+
 Now, all these are much more fulfilled in the New Testament church; for,
 
-First, There is the salvation witnessed,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ There is the salvation witnessed,
 which this outward salvation of this outward people was but a figure of.
 There the everlasting arm of God`'s power is revealed
 in an inward and spiritual way and manner,
@@ -1172,13 +1248,15 @@ to wound the dragon inwardly,
 and to defend his gathered people from the inroads of his strength,
 and from the subtlety of his temptations.
 
-Secondly, The Lord doth give great gifts to his churches;
+[.numbered]
+_Secondly,_ The Lord doth give great gifts to his churches;
 he blesseth them with all spiritual blessings in heavenly things in Christ.
 Mark the diversity of gifts, and diversity of manifestations,
 which God gave to his churches in the apostles`' days.
 1 Cor. 12:4, etc.
 
-Thirdly, There was God`'s presence revealed; there Christ was in the midst,
+[.numbered]
+_Thirdly,_ There was God`'s presence revealed; there Christ was in the midst,
 whenever they were gathered together in his name.
 Every church (as well as that of the Ephesians) was built
 up together a habitation of God through the Spirit. Eph. 2:22.
@@ -1187,12 +1265,15 @@ the fulness of him that filleth all in all, chap.
 1:22-23. Yea, they were and are the temple of the living God,
 in which God would dwell and walk, and be their God, and they his people. 2 Cor. 6:16.
 
-Fourthly,
+[.numbered]
+_Fourthly,_
 The holy order of his own Spirit and life God will not fail to reveal unto them,
 that they may walk in the Spirit of the gospel, in the power of the gospel,
 in the order of the gospel,
 and the holy government of God`'s Spirit and power may shine in the midst of them,
 and that God may bless them as a habitation of justice, and mountain of holiness. Jer. 31:23.
+
+====
 
 The church is a body; every particular soul that is renewed, quickened, and kept alive,
 is a member.
@@ -1260,18 +1341,24 @@ before I have light and faith in my own particular?
 Answer.
 I shall answer this question according to the naked and plain sense of truth in my heart.
 
-First, God gives power to his church to perform all that he requires of her as a church.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ God gives power to his church to perform all that he requires of her as a church.
 Now, the church is a spiritual body, and is to take care of her members,
 to look after them that they mind the truth, and walk according to truth,
 and to admonish and reprove them when they do otherwise.
 And every member of the church ought to hear the church,
 in whatever she speaks unto it from God.
 
-Secondly, every member hath need of the light, Spirit,
+[.numbered]
+_Secondly,_ every member hath need of the light, Spirit,
 and power which God gives his church, and reveals in his church,
 for the good of the body, and the benefit and advantage of each member therein.
 
-Thirdly, The light, Spirit, and power in the church is never contrary to the light,
+[.numbered]
+_Thirdly,_ The light, Spirit, and power in the church is never contrary to the light,
 Spirit, and power in any member; but always one with it,
 and a cherisher and preserver of what God begets, and which answers his witness in any.
 The new Jerusalem, the church of God`'s building in his own Spirit and power,
@@ -1280,7 +1367,8 @@ The greatest degree of light owns, and is at unity with, the least,
 and the least degree of light hath a sense of that
 which is in degree and measure above it.
 
-Fourthly, The light in the weakest, which they are at first to be turned,
+[.numbered]
+_Fourthly,_ The light in the weakest, which they are at first to be turned,
 and afterwards to be kept to, though there is a sufficiency in it for the particular,
 yet they are not so understanding and sensible of it as those whose
 senses have been long exercised in the living truth,
@@ -1298,7 +1386,8 @@ and were able to give us true judgment from him,
 in such cases as our weak minds were apt to be entangled about,
 and could not see through!
 
-Fifthly, Great sobriety is needful in such cases,
+[.numbered]
+_Fifthly,_ Great sobriety is needful in such cases,
 wherein men are too prone to be judging others, especially the church of God.
 Every man is to take heed of thinking of himself more highly than he ought to think;
 but to think soberly, according as God hath dealt to every man the measure of faith. Rom. 12:3.
@@ -1318,7 +1407,8 @@ The church is not apt to be such an erring body from the light, Spirit,
 and power of the Lord Jesus,
 as many (who mistake concerning the light in their own particulars) are too apt to suppose.
 
-Lastly, Ever since the fall of man, man hath been secretly, or more manifestly,
+[.numbered]
+_Lastly,_ Ever since the fall of man, man hath been secretly, or more manifestly,
 directed by a light, or the principle within to direct or guide his ways.
 To Adam the holy seed was promised,
 which was not only to appear outwardly in a body of flesh,
@@ -1334,6 +1424,8 @@ and of the new nature, by which nature they did in measure answer the holy law o
 and do the things contained in the law, which by the old, corrupt nature no man can do.
 Also Christ preached the kingdom, or seed of the kingdom within.
 And the apostles preached the same Word of faith within, which Moses had testified of.
+
+====
 
 Yet in none of these dispensations was any testimony from God to be despised;
 but his voice to be heard in the prophets, in Christ, and in the apostles.
