@@ -1,10 +1,12 @@
 == Epistles to Friends
 
-=== TO FRIENDS IN AND ABOUT THE TWO CHALFONTS
+[.letter-heading]
+To Friends in and about the Two Chalfonts
 
-DEAR FRIENDS.
+[.salutation]
+Dear Friends,
 
-YE have a deep place in my heart, and my cries are to the Lord for you,
+Ye have a deep place in my heart, and my cries are to the Lord for you,
 that ye may live to him, and find his life springing up and abounding in you.
 What is it to have a distinct name, or distinct meetings from the world,
 unless the power of the Lord be felt in your hearts, and his presence in your assemblies?
@@ -67,11 +69,16 @@ forever and ever.
 Your friend and brother, in the meek, innocent nature of the Lamb,
 and in the begetting of the royal, heavenly life,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 From my present place of Confinement in Aylesbury, according to the will of God;
 who is blessed, and to be blessed in all that he doth, or suffereth to be done:
 22nd of the 3d month, 1666.
+
+[.postscript]
+====
 
 O my friends! prize the rich, tender mercy of the Lord, in calling you out of this world,
 towards his everlasting inheritance and fulness of life!
@@ -86,9 +93,12 @@ even the dominion and reign of God over all that is contrary to him,
 and the sitting down in the rest, joy, and peace of his nature forevermore.
 Amen.
 
-=== TO FRIENDS IN TRUTH, IN AND ABOUT THE TWO CHALFONTS
+====
 
-OH, let every soul wait to feel the pure life of God,
+[.letter-heading]
+To Friends in Truth, in and about the Two Chalfonts
+
+Oh, let every soul wait to feel the pure life of God,
 that in that we may wrestle with our tender Father,
 for the opening the depth of his bowels and tender mercy,
 that that may be brought forth in every vessel, and in the whole body,
@@ -112,15 +122,19 @@ to whom the Lord hath given to remember and breathe for you, who am a prisoner,
 and have suffered many afflictions,
 because that of God which is in me cannot bow to that which is of man.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 From Aylesbury prison, the 23d of the Sixth month, 1666
 
-=== TO DILIGENT AND FAITHFUL FRIENDS, IN AND ABOUT THE TWO CHALFONTS
+[.letter-heading]
+To Diligent and Faithful Friends, in and about the Two Chalfonts
 
+[.salutation]
 O tender and dearly-beloved Friends,
 
-MY spirit is at this time touched with the sense
+My spirit is at this time touched with the sense
 of the great goodness and mercy of the Lord,
 insomuch as I feel breakings forth therein, and repeating there over and over again, Oh,
 what hath the Lord done for us, what hath the Lord done for us?
@@ -155,7 +169,11 @@ It is on my heart to instance in some things a little more particularly,
 that the sense and remembrance of God`'s goodness to you herein,
 may come the nearer and closer to your spirits.
 
-First,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_
 Have ye not had experience of the Lord`'s love and
 faithfulness in manifesting his name unto you,
 which ye have in some measure known, as pure, precious, and excellent,
@@ -171,7 +189,8 @@ but the name of the Lord hath never deceived or disappointed
 any of you that have trusted in it,
 relying upon his kindness, tenderness, mercy, love and faithfulness therein.
 
-Secondly, Hath not the Lord given you a proportion of the pure, heavenly patience,
+[.numbered]
+_Secondly,_ Hath not the Lord given you a proportion of the pure, heavenly patience,
 even of the Lamb`'s meekness and patience,
 and also given you to possess your souls therein,
 wherein hath been felt a true measure of rest and peace with him,
@@ -180,7 +199,8 @@ And hath not this been a help and succor to you, even in the time of his judgmen
 wherein ye have been enabled to wait and lie still, until the indignation was over-past,
 and the mercy sprang afresh?
 
-Thirdly, Hath not God manifested to you the place of his worship, even so that ye know,
+[.numbered]
+_Thirdly,_ Hath not God manifested to you the place of his worship, even so that ye know,
 and have often experienced it to be in his name, Spirit, truth, and power?
 And hath he not prepared for you, and given to you, the pure offering and sacrifice,
 and accepted it at your hands?
@@ -188,7 +208,8 @@ And have ye not often, yea, may I not say always, felt his presence meeting ther
 and the refreshments which come from his presence in this day of his mercy,
 and of his tender visiting and refreshing his seed?
 
-Fourthly, Have ye not felt the word of his power shaking the mountains,
+[.numbered]
+_Fourthly,_ Have ye not felt the word of his power shaking the mountains,
 breaking the rocks, and making the dark hard part in you, and the enemy of your souls,
 to tremble at the sound of his voice?
 Yea, have ye not found thereby the stony heart in a great measure taken out of you,
@@ -196,19 +217,22 @@ and a tender heart, an heart like flesh, given you instead thereof,
 which hath melted and bowed before the Lord,
 and tenderly received the impressions of his Spirit?
 
-Fifthly, Have ye not found the laws of life,
+[.numbered]
+_Fifthly,_ Have ye not found the laws of life,
 the laws of the new covenant written by the finger of God`'s Spirit in this new heart,
 so that ye could read the will and requirings of your God,
 by the light of his Spirit in the inner man?
 
-Sixthly, Hath not he also put his Spirit within you,
+[.numbered]
+_Sixthly,_ Hath not he also put his Spirit within you,
 that ye have not only read the law written,
 but have also found a delight (and ability also in him) to do his will?
 For the Lord hath not left you to do what he requires, according to the old covenant,
 but he himself worketh in you both to will and to
 do what is acceptable to him of his own good pleasure.
 
-Seventhly, Have ye not found his fear put into your hearts,
+[.numbered]
+_Seventhly,_ Have ye not found his fear put into your hearts,
 even a fear which no precepts of men can teach, nor ye can by no means attain to,
 but as he pleaseth to give it you?
 And doth not this fear make you wise in him to depart from evil?
@@ -217,7 +241,8 @@ Doth it not keep out the evil?
 Did ye not find this virtue in it at the very first,
 and do ye not still find it to this very day?
 
-Eighthly, Do ye not find the blotting out of iniquity,
+[.numbered]
+_Eighthly,_ Do ye not find the blotting out of iniquity,
 and the not remembering of your sins by the Lord?
 Ah! how hath the Lord forgiven you!
 How doth he pity you!
@@ -227,7 +252,8 @@ and where he is never weary of pardoning, blotting out, and forgiving?
 Do ye not feel the sprinkling of the blood of the covenant daily by him upon your consciences,
 and the precious virtue thereof?
 
-Ninthly, Do ye not find the anointing near you, yea, within you,
+[.numbered]
+_Ninthly,_ Do ye not find the anointing near you, yea, within you,
 ready to teach you to know the Lord, so that ye indeed know him,
 not according to outward names and apprehensions only,
 but his nature in his heavenly power, in his inward virtue, manifestations, operations,
@@ -236,7 +262,8 @@ And this is true knowledge indeed, pure knowledge, fresh knowledge, living knowl
 which makes you conformable to, and brings you forth in,
 the image and likeness of what ye know.
 
-Tenthly, Is not the way of the ransomed, the way of holiness,
+[.numbered]
+_Tenthly,_ Is not the way of the ransomed, the way of holiness,
 become clear and pleasant to you?
 Hath not the Lord removed many stumbling-blocks, that he might make the way plain?
 And is it not a path wherein there is no erring,
@@ -254,7 +281,8 @@ and that that which would corrupt and destroy, may,
 by the lifting up and displaying of the banner of his love and power in you,
 be beat down and kept out.
 
-Eleventhly, Hath not God given you of the true humility,
+[.numbered]
+_Eleventhly,_ Hath not God given you of the true humility,
 whereby that which was once exalted in you above his fear, and above his seed,
 is now brought down and laid low, and his pure life and fear in you exalted over it?
 Do ye not know the feigned humility and fear (which man`'s wisdom teacheth,
@@ -262,7 +290,8 @@ and man`'s wisdom learneth) and abhor them?
 And is not the true fear and humility which ye have received from God very precious,
 and of great use and service to you?
 
-Twelfthly, Have ye not received the true love,
+[.numbered]
+_Twelfthly,_ Have ye not received the true love,
 whereby ye are taught and enabled to love the Lord your God above all, and the brethren,
 children, and fathers in him; yea, and your very enemies also.
 How precious is this!
@@ -273,7 +302,8 @@ which cannot truly love neither the Lord nor his people, nor his creatures,
 though it maketh a subtle, deceitful show thereof,
 to the deluding both of itself and others.
 
-Thirteenthly,
+[.numbered]
+_Thirteenthly,_
 Do ye not know the true righteousness and the true
 sanctification which is in Christ Jesus,
 and which ye receive and abide in in him,
@@ -284,7 +314,8 @@ out of the election) have only the words of, and their own apprehensions upon th
 but know not nor feel nor enjoy the thing itself, as ye do this day,
 blessed be the name of your merciful God and Redeemer?
 
-Fourteenthly, Do ye not know Zion, the holy hill of God,
+[.numbered]
+_Fourteenthly,_ Do ye not know Zion, the holy hill of God,
 and Jerusalem the holy city which is built thereon, which hath long been hid,
 even from ages and generations, but now is made manifest in the Spirit,
 and many are already come thither, and many more are travelling thitherwards,
@@ -294,7 +325,8 @@ and find their souls translated by the mighty power of God from death and hell a
 into the nature, love, and life of the Lamb;
 in whose light those that are saved and redeemed by him walk?
 
-Fifteenthly, Do ye not know the true church and body of Christ,
+[.numbered]
+_Fifteenthly,_ Do ye not know the true church and body of Christ,
 which is one spirit with him, which is flesh of his flesh, and bone of his bones?
 And hath not the Lord in his mercy made you members thereof?
 And do ye not feel the nourishment, virtue, life,
@@ -305,7 +337,8 @@ For he that is gathered by, and walks in, the true light,
 is also in the true life and fellowship, both with that which begets,
 and with that which is begotten.
 
-Sixteenthly, Do ye not know the kingdom and reign of Christ already in measure set up,
+[.numbered]
+_Sixteenthly,_ Do ye not know the kingdom and reign of Christ already in measure set up,
 and daily more and more setting up in your hearts?
 And is not his government sweet, pure, heavenly, precious,
 refreshing to that which is of God in you,
@@ -316,7 +349,8 @@ And what he hath done, and what he is doing, and what he yet will do in you,
 of his own tender love, and for his own name`'s sake; do not your hearts leap within you,
 when at any time the Lord pleaseth to give you the sense and sight thereof?
 
-Seventeenthly, Do ye not know the fast which the Lord hath chosen,
+[.numbered]
+_Seventeenthly,_ Do ye not know the fast which the Lord hath chosen,
 and hath not the Lord helped you to keep that fast?
 Have ye not felt his power break the bond of iniquity in you,
 and the once oppressed in you coming up in a true measure of the pure freedom,
@@ -326,7 +360,8 @@ the Lord hath prepared on his holy mountain,
 even of the fat things, and wines on the lees well refined,
 which they that inhabit there eat and drink of abundantly in his presence?
 
-Eighteenthly, Do ye not feel God the Lord making an everlasting covenant with you,
+[.numbered]
+_Eighteenthly,_ Do ye not feel God the Lord making an everlasting covenant with you,
 even of the love and mercies sure to David and his seed forevermore?
 Is not he near you, yea, with you and in you, who is the gatherer into,
 and the preserver in, this covenant?
@@ -336,6 +371,8 @@ power, and presence of his life and Spirit in you), even as he keepeth covenant 
 insomuch as ye begin to feel a settlement and establishment in him that is true,
 and your calling and election becoming sure,
 and the danger and fear of falling away or miscarrying removing from off your spirits?
+
+====
 
 What shall I say to you, what shall I mention further, or what shall I instance in?
 Have ye not felt the wilderness become a fruitful field,
@@ -430,15 +467,19 @@ and in which his life, love, joy,
 and peace naturally and delightfully spring up and flow into the soul.
 Amen, Amen.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Written in Aylesbury Jail, about the Ninth and Tenth of the Twelfth month, 1666
 
-=== FOR FRIENDS OF OUR MEETING, AND THEREABOUTS
+[.letter-heading]
+For Friends of our Meeting, and Thereabouts
 
-DEAR FRIENDS,
+[.salutation]
+Dear Friends,
 
-I AM deeply sensible that it is a day of trouble, rebuke, and distress,
+I am deeply sensible that it is a day of trouble, rebuke, and distress,
 to the Israel of God.
 The Lord hath pitched his pure, living tent, and begun to build up his beloved city;
 the Lord hath indeed had mercy upon Zion, and favoured the ruins and desolations thereof.
@@ -510,9 +551,14 @@ Your friend, brother, and companion in the faith and patience of the saints,
 who has had a share in the afflictions which befall his children and chosen ones,
 for his name`'s sake,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, the 9th of the Sixth Month, 1670
+
+[.postscript]
+====
 
 And truly friends, it is not grievous, but rather joy to me,
 to undergo the several afflictions and temptations, which my tender Father,
@@ -522,13 +568,16 @@ in this our day, to bear the reproach of Christ,
 and to suffer for the testimony of his precious truth,
 than to enjoy the pleasures of sin and glory of this world, which are but for a season?
 
-=== TO FRIENDS IN TRUTH, IN CHALFONT, AND THEREABOUTS
+====
+
+[.letter-heading]
+To Friends in Truth, in Chalfont, and Thereabouts
 
 Dear friends (whom I love in the Lord,
 and whose prosperity and growth in the truth I greatly desire),
 this sense is on my heart, in reference to you at this time.
 
-THE Lord`'s soul travaileth for you (having visited you in tender mercy,
+The Lord`'s soul travaileth for you (having visited you in tender mercy,
 and with great lovingkindness), and he desireth to enjoy and possess you,
 as an inheritance for himself, to delight in and to do good unto continually;
 and I know there are many among you, who have also desired and travailed after the Lord,
@@ -702,9 +751,14 @@ and also in the joy and glory, of this day of the salvation of our God,
 which is further to be revealed and enjoyed by those
 who meekly and patiently wait for it,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, 22nd of the Third month, 1671
+
+[.postscript]
+====
 
 And all my dear friends,
 who have known what it is to be uncovered and stripped of your
@@ -735,3 +789,5 @@ so that he that is pure power and life is felt tabernacling and living in his pe
 and he gives unto them to live in and through and with him;
 and they cannot but sound praises to the power and glory of his life from day to day;
 glory in the highest to our God, and to his Christ, forever and ever, amen, hallelujah!
+
+====
