@@ -11,13 +11,16 @@ returned, in a paper subscribed N. B.
 [.section-date]
 1679
 
-Query 1. WHICH is the gospel baptism, or of what kind is the baptism in the gospel state?
+[.discourse-part]
+_Query 1._ Which is the gospel baptism, or of what kind is the baptism in the gospel state?
 Is it outward or inward?
 Is it the figure of the inward baptism, or the inward baptism itself?
 
+[.discourse-part]
 N.B.`'s answer is, "`It is a stooping to God`'s law.`"
 
-Reply, This is a very improper answer, and not at all to the thing in hand;
+[.discourse-part]
+_Reply,_ This is a very improper answer, and not at all to the thing in hand;
 for the query was not concerning the stooping or subjecting to baptism;
 but what the baptism is, which is to be stooped and subjected to,
 whether that be an inward or outward baptism?
@@ -30,11 +33,13 @@ for the query tends to determine what the baptism itself is,
 and when that is once determined, about stooping and subjecting to it,
 there will be no question I hope between us.
 
+[.discourse-part]
 Now, to explain what this law of God is, which is to be stooped to, he saith,
 "`It is the law of the Spirit of life in Christ;`" quoting to prove it, Rom. 8:2.
 Matt. 28:18-19. Mark 16:16.
 
-Reply, That baptism (water-baptism),
+[.discourse-part]
+_Reply,_ That baptism (water-baptism),
 as he afterwards expresseth it in his answer to this query,
 is the law of the Spirit of life in Christ Jesus, I never read in scriptures.
 Nor doth it effect in the heart what the law of the Spirit of life in Christ Jesus doth,
@@ -82,11 +87,13 @@ thing (or to your obedience as to such an outward thing),
 which belongs to the Spirit and power of the Lord Jesus,
 and to the law of his life inwardly written in the heart.
 
+[.discourse-part]
 Another scripture he brings to prove water-baptism
 to be the law of the Spirit of life in Christ Jesus,
 is Matthew 28:19.
 
-Reply, If it were granted, that Christ did in that place command water-baptism,
+[.discourse-part]
+_Reply,_ If it were granted, that Christ did in that place command water-baptism,
 yet that would not prove it to be the law of the Spirit of life in him.
 The law of the Spirit of life in him is a deep thing (I beseech you do not mistake it),
 and hath mighty effects in the soul, which water-baptism never had,
@@ -186,11 +193,13 @@ yet that would not have excused him from preaching.
 No more would men`'s saying he baptized in his own name excuse him from baptizing,
 if water-baptism had been Christ`'s command and ordinance.
 
+[.discourse-part]
 The last place he brings to prove water-baptism to be the law of
 the spirit of life in Christ Jesus is Mark 16:16. "`He that believeth,
 and is baptized, shall be saved; but he that believeth not, shall be damned.`"
 
-Reply, This showeth the necessity of the gospel baptism,
+[.discourse-part]
+_Reply,_ This showeth the necessity of the gospel baptism,
 but this doth not express which the gospel baptism is,
 whether an inward or outward washing.
 We know, having been taught by the Lord,
@@ -198,20 +207,24 @@ that there is no salvation without inward washing,
 which is also very demonstrable to others; but God forbid that all should be damned,
 that are not baptized with outward water.
 
+[.discourse-part]
 He saith, "`This law was confirmed by them that had the Spirit-baptism,
 being commanded to be obeyed by them that had the Spirit.`" Acts 10:47-48.
 
-Reply, That Peter did command persons to be baptized with water, and that John`'s baptism,
+[.discourse-part]
+_Reply,_ That Peter did command persons to be baptized with water, and that John`'s baptism,
 or water-baptism, was made use of in those days, and that John had it from God,
 and that it was done in God`'s name, this is not denied;
 but that water-baptism was Christ`'s baptism, or the gospel baptism,
 this place doth not prove.
 
+[.discourse-part]
 He saith, further,
 "`The kind of this baptism is water-baptism,`" bringing Matt. 3:16.
 and Acts 8:38-39. to prove it.
 
-Reply, Matt. 3:16. only proves that Christ was baptized with water,
+[.discourse-part]
+_Reply,_ Matt. 3:16. only proves that Christ was baptized with water,
 but doth not prove that water-baptism is the gospel baptism.
 If I could prove by scripture expressly, that Christ was circumcised,
 yet that would not prove that therefore that was to be the gospel circumcision.
@@ -236,7 +249,8 @@ and those that do so, may err in their judgments, notwithstanding; though I am p
 the Lord is tender to persons that do things in tenderness of heart to him,
 notwithstanding some error or mistake in their judgments.
 
-Query 2. What is it that is to be washed in the gospel state?
+[.discourse-part]
+_Query 2._ What is it that is to be washed in the gospel state?
 Is it the outward or inward man?
 And what is the inward man to be washed with?
 
@@ -248,7 +262,8 @@ so that the soul comes to be sanctified by the word and Spirit.`"
 For the proof of which he quotes John 3:23. and chap.
 15:3.
 
-Reply, That the whole body was to go into the water, according to John`'s baptism,
+[.discourse-part]
+_Reply,_ That the whole body was to go into the water, according to John`'s baptism,
 is granted; but that this is the gospel baptism, or Christ`'s baptism, is denied by us.
 It is the inward Jew that is to be washed in the gospel state, and it is inward water,
 spiritual water, that he is to be washed with.
@@ -287,7 +302,8 @@ for not taking up John`'s baptism; which God doth not allow him to do;
 but in the gospel state, every one is to hear the Son, the Shepherd of the soul,
 and follow him the substance, and not Moses`'s circumcision or John`'s baptism.
 
-Query 3. What is washed away by the gospel baptism?
+[.discourse-part]
+_Query 3._ What is washed away by the gospel baptism?
 Is it the filth of the outward body or flesh?
 Or the filth of the soul?
 And with what water is the filth of the soul to be washed away?
@@ -297,7 +313,8 @@ Answer.
 "`Sin is washed away by the gospel baptism;`" for the proof whereof he quotes. Acts 22:16.
 Rom. 6:17-18.
 
-Reply, Thus far we agree, that sin is washed away by the gospel baptism;
+[.discourse-part]
+_Reply,_ Thus far we agree, that sin is washed away by the gospel baptism;
 but what that baptism is which washeth away sin, herein we greatly differ.
 He affirmeth it to be outward water, and the washing of the outward man therewith.
 I affirm it to be inward water, from the inward,
@@ -332,9 +349,11 @@ that the answer of a good conscience is presently felt, in the sight and presenc
 And then the soul knows what water it was washed with, which was able to produce,
 and did produce this effect.
 
+[.discourse-part]
 He saith, "`And thus it appears; First it takes off disobedience.`"
 
-Reply, What is it takes off disobedience?
+[.discourse-part]
+_Reply,_ What is it takes off disobedience?
 The truth as it is in Jesus, the life and power of truth, felt and working in the heart,
 destroys the disobedient nature, and takes away the disobedience thereof;
 but outward washing of the body doth not,
@@ -347,10 +366,12 @@ which is not witnessed in the other;
 I mean in that which men call obedience to that which they account a literal command,
 according to their conceivings and apprehensions.
 
+[.discourse-part]
 "`Secondly,
 As it leads persons unto Christ;`" for which he quotes Rom. 6:2-3. Gal. 3:27.
 
-Reply, That which leads unto Christ, and into the truth as it is in him,
+[.discourse-part]
+_Reply,_ That which leads unto Christ, and into the truth as it is in him,
 the children of the new covenant know, who are drawn by the Father,
 and are taught and learn of him to come to the Son. John 6:44-45.
 And how can we give that honor to John`'s baptism,
@@ -367,11 +388,13 @@ But John`'s baptism, or the washing the body with outward water,
 doth none of these things,
 but is only a type or representation of what is done in and by the inward baptism.
 
+[.discourse-part]
 He adds further, "`And so the soul receives Christ in his prophetical and priestly office;
 so by Christ we are delivered from all filthiness of flesh and spirit,
 that we may perfect holiness in the fear of God.`"
 
-Reply, The kingdom of Christ is spiritual, the kingdom of Christ is within,
+[.discourse-part]
+_Reply,_ The kingdom of Christ is spiritual, the kingdom of Christ is within,
 and he that would truly know him as he is King, Prophet, and Priest,
 must hear his knocks, know his voice, open to him, and let him in,
 and then he will manifest himself there, and the soul shall know what he is,
@@ -390,6 +413,7 @@ But the Corinthians were not cleansed from all filthiness
 of the flesh and spirit by water-baptism,
 but were afterwards exhorted by Paul to do it.
 
+[.discourse-part]
 Query 4. What water is it that the inward Israel shall be sprinkled with,
 that they may be clean?
 Is it not inward water, spiritual water?
@@ -402,7 +426,8 @@ Answer.
 "`Baptism is not sprinkling, nor so rendered by the Spirit, but baptize;
 baptize is to dip or put into the water.`"
 
-Reply, When God sprinkleth his inward Israel,
+[.discourse-part]
+_Reply,_ When God sprinkleth his inward Israel,
 with the water which he hath promised to sprinkle with,
 he doth sufficiently cleanse them; for whom the Lord sprinkleth with this water,
 they are cleansed thereby. Ezek. 36:25.
@@ -417,9 +442,11 @@ The water which Christ speaks of, John 3:5. (which place he quotes) is not outwa
 but of the same nature with the Spirit, whereof the soul is washed and born again,
 and riseth up in the new life with Christ.
 
+[.discourse-part]
 He saith, "`The inward fits for the outward.`"
 
-Reply, It is true,
+[.discourse-part]
+_Reply,_ It is true,
 John`'s baptism did require inward qualifications (in which respect it went beyond circumcision),
 and so, where those qualifications were found, who could forbid water?
 But Christ`'s baptism, the baptism with Spirit and fire to purify the mind,
@@ -431,7 +458,8 @@ So that those whom he hath baptized to repentance, he tells of another baptism,
 a more glorious baptism than his, which happy are they that wait for,
 and feel accomplished in them.
 
-Query 5. What is the gospel circumcision?
+[.discourse-part]
+_Query 5._ What is the gospel circumcision?
 Is it not an inward and spiritual circumcision?
 And is not the circumcising knife, wherewith the inward Israel is circumcised,
 inward and spiritual?
@@ -445,7 +473,8 @@ Answer.
 "`It is inward, spiritual, heavenly,
 that which God works by the knife of his word.`" Heb. 4:12. Hos. 6:5.
 
-Reply, This is true; we whom God hath called, quickened, enlightened, circumcised,
+[.discourse-part]
+_Reply,_ This is true; we whom God hath called, quickened, enlightened, circumcised,
 and baptized, experience it so; and happy is he, if he experience it also.
 For the word is living, and makes alive; the word is quick and powerful,
 sharper than any two-edged sword,
@@ -496,7 +525,8 @@ the putting off the body of the sins of the flesh
 by the circumcision and baptism of Christ,
 this avails, and is of great esteem with God.
 
-Query 6. What is the one baptism of the spiritual Israel, without which,
+[.discourse-part]
+_Query 6._ What is the one baptism of the spiritual Israel, without which,
 there is no salvation?
 Can there be any salvation without the inward washing of the soul?
 May there not be salvation without the outward washing of the body?
@@ -506,7 +536,8 @@ Answer.
 "`That which Christ Jesus commanded; for there is but one baptism commanded,
 and that leads us to Christ and God.`"
 
-Reply, Was not John`'s baptism commanded, which was an outward washing?
+[.discourse-part]
+_Reply,_ Was not John`'s baptism commanded, which was an outward washing?
 And is not the inward washing commanded also?
 Was not Israel commanded to circumcise their hearts,
 and was not that an inward circumcision?
@@ -532,7 +563,8 @@ For men may easily mistake about the letter;
 but the new birth doth not mistake concerning the Spirit,
 nor the true sheep concerning the voice of Christ.
 
-Query 7. How are men buried with Christ by baptism into death?
+[.discourse-part]
+_Query 7._ How are men buried with Christ by baptism into death?
 Is it not an inward, spiritual death, that men are thus buried with Christ into?
 And is it not effected by an inward, spiritual baptism?
 
@@ -541,7 +573,8 @@ Answer.
 "`By water-baptism; for Christ was buried, so are we.
 Christ was buried by baptism in the water, so are we.`"
 
-Reply, Christ was outwardly circumcised; so are we also circumcised; not outwardly,
+[.discourse-part]
+_Reply,_ Christ was outwardly circumcised; so are we also circumcised; not outwardly,
 as Christ was.
 Christ was not circumcised to effect any thing upon him (for he needed it not),
 but for our sakes.
@@ -550,12 +583,14 @@ and baptized with the circumcision and baptism which we need,
 which is the circumcising and baptizing of our souls,
 and not the circumcising or washing of our bodies.
 
+[.discourse-part]
 He adds, "`Christ did it to fulfill all righteousness;
 we to fulfill the righteous law and will of God,
 we thereby entering into covenant with God,
 whereby we set to his seal +++[+++I suppose he means, our seal], that he is true.
 
-Reply, It remains yet to be proved,
+[.discourse-part]
+_Reply,_ It remains yet to be proved,
 that baptizing with water is God`'s law and will in the gospel state.
 I am sure there are those that are taught otherwise by him that teacheth all his children,
 from the least to the greatest, in the new covenant.
@@ -571,7 +606,8 @@ and so can set to their seal that God is true and faithful,
 who hath not only promised such things,
 but is daily fulfilling and making them good in and to their souls.
 
-Query 8. What is that baptism,
+[.discourse-part]
+_Query 8._ What is that baptism,
 from whence there certainly and constantly ariseth
 the answer of a good conscience towards God?
 Doth not this always arise from the inward baptism,
@@ -583,7 +619,8 @@ And doth it not then answer the holy will, law, and Spirit, of the holy and good
 Answer.
 "`The baptism of water; being that which Christ commanded.`"
 
-Reply, Water-baptism, or outward washing of the body, cannot make the conscience good;
+[.discourse-part]
+_Reply,_ Water-baptism, or outward washing of the body, cannot make the conscience good;
 for a man may do that upon a mistake, through error of judgment,
 and go unchanged into it, and come unchanged out of it.
 But the inward circumcision and inward baptism,
@@ -593,9 +630,11 @@ in what he teacheth and requireth.
 But that water-baptism was commanded by Christ, is still denied on our part,
 and unproved on his.
 
+[.discourse-part]
 He saith, "`A clear conscience ariseth from a true conformity to the law of God.`"
 
-Reply, This is very true.
+[.discourse-part]
+_Reply,_ This is very true.
 But what is the law of God in the new covenant, but what he writes in the heart?
 God is the teacher of his people in the new covenant,
 and what he teacheth and requireth of them by his Spirit, is their law.
@@ -617,7 +656,8 @@ elementary nature, which might be shaken and pass away.
 For it was the will of God, that all such things should be shaken and pass away,
 that the kingdom itself alone, which cannot be shaken, might remain. Heb. 12:27.
 
-Conclusion.
+[.discourse-part]
+_Conclusion._
 Oh that people knew and experienced the baptism which is the substance,
 and then they would not idolize that baptism, or outward washing,
 which in its nature can be no more than a sign, signification,
@@ -630,7 +670,8 @@ is that which brings us to the substance, Christ Jesus our Lord,
 the substance of all things.
 So that signs or significations are nothing to us, but Christ is all to our souls.`"
 
-Reply, That water-baptism is the gospel baptism, can never be proved by you,
+[.discourse-part]
+_Reply,_ That water-baptism is the gospel baptism, can never be proved by you,
 it being neither the nature of the gospel, nor commanded by Christ,
 the law-giver in the gospel.
 And that this washing with outward water is the baptizing into Christ,
@@ -664,12 +705,14 @@ but God praised the inwardly circumcised and washed.
 So that their justification and praise is of him,
 and they matter not the justification or praise of man.
 
+[.discourse-part]
 He adds further,
 "`Neither do we these things but to obey him and follow
 his footsteps that he went before us in,
 and so he is our leader and commander.`"
 
-Reply, Every practice of his he doth not lead or command his disciples to follow him in.
+[.discourse-part]
+_Reply,_ Every practice of his he doth not lead or command his disciples to follow him in.
 He was circumcised outwardly; are we to take it up because it was his footstep?
 No more are we to take up the outward washing, because it was his footstep.
 But we are to take up that circumcision which cutteth off that which is evil from us,
@@ -679,10 +722,12 @@ baptizeth and effectually cleanseth from sin.
 Oh, how plain are these things where the eye is single,
 and the mind not blinded or prejudiced with its own conceivings and misapprehensions!
 
+[.discourse-part]
 He adds yet, "`So that we are not idolizing any thing,
 but following Christ in the way he went before us in.`"
 
-Reply, I wish from my heart ye were not idolizing John`'s baptism, or water-baptism,
+[.discourse-part]
+_Reply,_ I wish from my heart ye were not idolizing John`'s baptism, or water-baptism,
 by setting it in the place of Christ`'s baptism,
 and not attributing that to it which belongs to Christ`'s baptism, and not to it.
 To affirm that water-baptism is the law of the Spirit of life in Christ,
@@ -701,9 +746,11 @@ although Christ himself was accounted a blasphemer for testifying the truth,
 by the professors of that age; and such a judgment may his followers meet with now,
 from the professors of this age.
 
+[.discourse-part]
 He saith further, "`I know that the pretence of all this is the baptism of the Spirit.`"
 
-Reply, He is greatly mistaken.
+[.discourse-part]
+_Reply,_ He is greatly mistaken.
 It is not a pretence, but a feeling of the baptism of the Spirit,
 by the water of the fountain of life which God opens in the heart,
 and the being born of this water and of the Spirit.
@@ -714,9 +761,11 @@ the washing of the body with outward water,
 we should sin against the Lord,
 and be unfaithful in the testimony he hath given us to bear.
 
+[.discourse-part]
 He saith, "`Take notice that the baptism of the Spirit is a promise, not a duty.`"
 
-Reply, That it is a promise is granted; but it is also a duty to receive the promise,
+[.discourse-part]
+_Reply,_ That it is a promise is granted; but it is also a duty to receive the promise,
 and to give up to be baptized by him.
 Now, to open this a little; for I write in love and tender good-will,
 and in that which opens my heart.
@@ -749,10 +798,12 @@ and be found in him, filled and clothed with his righteous Spirit, life,
 and nature! in which righteous Spirit, life, and nature,
 the true circumcision and the true baptism is witnessed.
 
+[.discourse-part]
 He saith, "`The promise of the Spirit,
 John calls the baptism of the Spirit.`" Matt. 3:11.
 
-Reply, Though the Spirit, when poured out according to the promise of the Father,
+[.discourse-part]
+_Reply,_ Though the Spirit, when poured out according to the promise of the Father,
 did baptize several ways;
 yet that is not it which John there calls the baptism of the Spirit;
 but the baptism of the Spirit is the inward purging away of sin and filth,
@@ -761,23 +812,27 @@ which those that were baptized by John were afterwards to expect and wait for,
 that with his fan their floor might be purged, their chaff burnt up,
 and the wheat gathered into the garner, ver. 12.
 
+[.discourse-part]
 He saith again, "`Take notice, that the being baptized with the Spirit,
 or having the Spirit, does not excuse us of our being baptized in water,
 but rather fits us for it.`"
 
-Reply, If baptism with water were a command of Christ, being baptized with the Spirit,
+[.discourse-part]
+_Reply,_ If baptism with water were a command of Christ, being baptized with the Spirit,
 or having the Spirit, would not excuse from it.
 But if baptizing with the Spirit be the gospel baptism,
 and that which was figured out or represented by John`'s baptism,
 then we are not to turn back from the substance to the figure,
 or from Christ`'s command to his disciples, to God`'s command by John to his disciples.
 
+[.discourse-part]
 He quotes Acts 8:29. compared with ver. 38-39. "`Where`" saith he, "`we may see,
 that the Spirit was in the work of the administration of water-baptism,
 as it leads men to the truth of the gospel, and therefore it is that the apostle saith,
 '`that by one Spirit we are baptized into one body.`'`" 1 Cor. 12:13.
 
-Reply, God, from whom the law was, and the prophets, and John`'s preaching and baptism,
+[.discourse-part]
+_Reply,_ God, from whom the law was, and the prophets, and John`'s preaching and baptism,
 did work in them all by his Spirit; and John`'s ministration being the highest,
 God might please to work most therein.
 But that this is Christ`'s baptism, commanded by him in the gospel, or the water thereof,
@@ -818,7 +873,8 @@ which it is on my heart to return an Answer to, in the nakedness and plainness o
 as the Lord hath pleased to open and give me the
 knowledge and experience of the things queried of.
 
-Query 1. "`Whether the baptism of the Spirit be not a promise,
+[.discourse-part]
+_Query 1._ "`Whether the baptism of the Spirit be not a promise,
 and the work of God to give it to his creatures,
 and the baptism of afflictions an imputation of wicked men;
 and but one baptism commanded by Christ as a duty to submit unto; if not water-baptism,
@@ -850,7 +906,8 @@ but they alone that know the truth as it is in Jesus, and keep it. Heb. 12:22.
 Isa. 52:1. and chap.
 26:2.
 
-Query 2. "`If but one baptism commanded,
+[.discourse-part]
+_Query 2._ "`If but one baptism commanded,
 and men cannot baptize one another with the Spirit,
 and it is sinful to afflict one another, what baptism is this one baptism?
 
@@ -869,7 +926,8 @@ How often have we found our souls taught and baptized by the water
 of life flowing from the spring of life through the holy ministry,
 which God hath mercifully raised up, and maketh use of, in these our days.
 
-Query 3. "`Whether it be not the work of God on the inner man,
+[.discourse-part]
+_Query 3._ "`Whether it be not the work of God on the inner man,
 that brings the outward man to be baptized, and obey the commands of God?`"
 
 [.discourse-part]
@@ -880,7 +938,8 @@ which brings men to discern and subject to Christ`'s baptism;
 for the baptism of Christ is not discerned by man`'s wisdom, or by the reasoning mind,
 but by the sense of life in the heart.
 
-Query 4. "`Whether men can be truly sanctified by faith and the Spirit,
+[.discourse-part]
+_Query 4._ "`Whether men can be truly sanctified by faith and the Spirit,
 that are disobedient to God, and live so?`"
 
 [.discourse-part]
@@ -891,7 +950,8 @@ for all are not obedient who judge themselves so, but those whom God judgeth so.
 The inward Jew is obedient to the inward baptism, which Christ hath appointed,
 and dareth not set up John`'s outward in its place.
 
-Query 5. "`Whether the Spirit of God doth not distinguish between sprinkling of the Spirit,
+[.discourse-part]
+_Query 5._ "`Whether the Spirit of God doth not distinguish between sprinkling of the Spirit,
 and baptism?`"
 
 [.discourse-part]
@@ -920,7 +980,8 @@ and a new heart and spirit of God`'s creating and forming is witnessed by me,
 and God`'s Spirit testifies in me, and to me, "`That I am an Israelite indeed,
 in whom is no guile.`"
 
-Query 6. "`Whether the circumcising knife be not the word of God,
+[.discourse-part]
+_Query 6._ "`Whether the circumcising knife be not the word of God,
 and the soul obeying of it be not a sign the knife hath entered,
 and taken place on the soul of man?`"
 
@@ -942,9 +1003,12 @@ terming water-baptism the "`Law of the Spirit of life in Christ;`"
 which cannot but be strange language to all that know the nature,
 virtue, life, and power of the law of the Spirit of life in Christ Jesus.
 
-Query 7. "`Whether baptism doth not lead men into Christ,
+[.discourse-part]
+_Query 7._ "`Whether baptism doth not lead men into Christ,
 as obedience to the mind of God in Noah`'s time led him into the ark,
 that we may be saved by Christ, as Noah was by the ark?`"
+
+[.discourse-part]
 
 [.discourse-part]
 Answer.
@@ -973,7 +1037,8 @@ and so the soul works out its salvation,
 by the power which works in it "`both to will and to do according
 to God`'s good pleasure.`" Phil. 2:12-13. Eph. 1:19-20.
 
-Query 8. "`Whether Christ was not buried in the water in baptism?
+[.discourse-part]
+_Query 8._ "`Whether Christ was not buried in the water in baptism?
 We then being baptized, are we not buried with Christ by baptism?
 
 [.discourse-part]
@@ -998,7 +1063,8 @@ and yet not know what it is to die with Christ, or rise with Christ?
 But he that knoweth the inward baptism witnesseth and experienceth these things,
 being made a partaker with Christ, both in his death and resurrection.
 
-Query 9. "`Whether obedience to the law of God doth not give
+[.discourse-part]
+_Query 9._ "`Whether obedience to the law of God doth not give
 a soul a good conscience in the sight of God,
 and disobedience make the conscience guilty?
 And whether ever the soul can be clear of sin,
@@ -1022,7 +1088,8 @@ whether ever the soul can be clear of sin, while living in ignorance of,
 or disobedience to, Christ`'s circumcision and baptism,
 whereby alone sin can be cut off from the heart, and washed away from the conscience.
 
-Query 10. "`Whether to obey God be not the way to meet with God,
+[.discourse-part]
+_Query 10._ "`Whether to obey God be not the way to meet with God,
 and to be baptized of God?`"
 
 [.discourse-part]
@@ -1040,7 +1107,8 @@ And they only have the true knowledge of Christ, and the true obedience,
 who know the shinings of this light, and walk with God in the shinings thereof. 2 Cor. 4:6.
 1 John 1:7.
 
-Query 11. "`Whether men can idolize God`'s ordinances, in keeping, doing, loving,
+[.discourse-part]
+_Query 11._ "`Whether men can idolize God`'s ordinances, in keeping, doing, loving,
 and living up to them?`"
 
 [.discourse-part]
@@ -1050,7 +1118,8 @@ as Moses`' and John`'s, but inward and spiritual), they idolize them,
 and are found guilty of so doing, in the sight of him who judgeth righteously.
 Is it not idolizing the shadow or figure, to set it up in the place of the substance?
 
-Query 12. "`Whether men`'s calling the keeping, doing, loving,
+[.discourse-part]
+_Query 12._ "`Whether men`'s calling the keeping, doing, loving,
 and pleading for God`'s ordinances, idolatry,
 but not some of those hard speeches Jude speaks of, Jude 15?
 
@@ -1076,6 +1145,7 @@ and deny his inward circumcision and baptism to be
 the gospel ordinance of our Lord Jesus Christ,
 setting up John`'s water-baptism in the stead thereof.
 
+[.discourse-part]
 The last Query, "`Whether it be not invading,
 and laboring to make void God`'s law and commands, when men so slight, contemn, despise,
 write, and do all they can to keep people from closing in with them,
@@ -1106,6 +1176,7 @@ and will gather people more and more from the outward water-baptism of John,
 to the inward baptism by His Holy Spirit and fire,
 which happy are they that know and are baptized with.
 
+[.discourse-part]
 He saith at the close, "`I have no end in this, but God`'s glory.`"
 
 [.discourse-part]
@@ -1119,7 +1190,7 @@ wherewith he circumciseth and baptizeth inwardly and spiritually.
 And to set up that which is outward in the stead
 of this is both to dishonor the Father and the Son.
 
-=== THE CONCLUSION
+=== The Conclusion
 
 Now, for a close, I shall open a little of the mystery of Christ,
 and of his enlightening, quickening, circumcising, and baptizing, from some scriptures,
@@ -1288,6 +1359,8 @@ will at last lie down in sorrow from the hand of the Lord.
 Oh that none might be deceived by the enemy of their soul,
 about matters of so great concern!
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Eighteenth of 5th Month, 1679
