@@ -3,35 +3,44 @@
 [.section-date]
 1670
 
-Query 1. WHETHER every man ought not to endeavor to be fully persuaded in his own soul
+[.numbered-group]
+====
+
+[.numbered]
+_Query 1._ Whether every man ought not to endeavor to be fully persuaded in his own soul
 concerning the religion and worship which he performs and offers up to God?
 
-Query 2. Whether,
+[.numbered]
+_Query 2._ Whether,
 when a man is fully persuaded concerning the religion
 and worship he ought to perform to God,
 whether he is not then bound in conscience so to worship and serve God,
 as he is fully persuaded in his own soul?
 
-Query 3. Whether, if a man should leave that way of religion and worship,
+[.numbered]
+_Query 3._ Whether, if a man should leave that way of religion and worship,
 whereof he is fully persuaded in his own soul,
 and should worship according to the law and worship of the country wherein he lives,
 whether this would be accepted of the Lord,
 and whether his soul would not be in danger of the
 displeasure and wrath of the Lord therefor?
 
-Query 4. Whether God hath given any man or men power, by laws and penalties,
+[.numbered]
+_Query 4._ Whether God hath given any man or men power, by laws and penalties,
 to compel men to worship him contrary to the belief of their
 hearts and the full persuasions of their souls?
 Is it not written, that whatsoever is not of faith is sin?
 And hath God given any men power and authority to compel others to sin?
 Surely the end of magistracy is to restrain men from sin, and not to compel men to sin.
 
-Query 5. Whether under the law of Moses,
+[.numbered]
+_Query 5._ Whether under the law of Moses,
 the worship was not first made manifestly clear to men`'s hearts and consciences,
 and they fully persuaded thereof,
 before they suffered any penalties annexed for failing in it, or turning aside from it?
 
-Query 6. Whether under the gospel,
+[.numbered]
+_Query 6._ Whether under the gospel,
 Christ or his apostles did ever compel any by outward force to their way of worship,
 or give any rule for compulsion after their days.
 Did not they say, they were not lords over men`'s faith,
@@ -41,13 +50,15 @@ Now, if men should commend us for worshipping as they teach us,
 and by laws require of us contrary to the belief and full persuasion of our own souls,
 and Christ condemn and punish us therefor, would it not go hard with us?
 
-Query 7. Was it not the beast that compelled men to worship,
+[.numbered]
+_Query 7._ Was it not the beast that compelled men to worship,
 and is he not branded therefor?
 Rev. 13. But could he by his laws and penalties compel any,
 whose names were written in the book of life, to his worship?
 others indeed he did compel, and cause to worship, as may be seen in that chapter.
 
-Query 8. Is not Christ`'s kingdom spiritual?
+[.numbered]
+_Query 8._ Is not Christ`'s kingdom spiritual?
 Are not the weapons of his warfare spiritual?
 Are they not mighty through God, to convince and establish men in the truth,
 and in the way of the gospel worship?
@@ -70,6 +81,8 @@ some of them Atheists?
 Is there not a ground of jealousy at least, if not a strong argument,
 against that worship and way of religion which pleaseth these?
 
+====
+
 Can that which came from God, and is of God, please corrupt man?
 And who are they that dissent from, and dare not practice it?
 Are they not men of tender consciences, and that fear to offend the Lord,
@@ -84,9 +97,14 @@ yet if they did not oppose that which is good,
 but could suffer others quietly to serve and fear the Lord,
 neither their sin nor danger would be so great.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, 19th of the Seventh month, 1670.
+
+[.postscript]
+====
 
 He that ruleth over men must be just, ruling in the fear of God;
 now he that is just and ruleth in the fear of God,
@@ -142,6 +160,10 @@ faithful testimony to the true worship of God in Spirit and truth,
 which he hath taught us, and required us to practise and give our testimony to,
 than to be found unfaithful and disobedient to him herein.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail, the 12th of 7th Mo. 1670
+
+====
