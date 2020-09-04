@@ -3,7 +3,7 @@
 [.section-date]
 1679
 
-WHEN God made man in his own image, placing him in paradise,
+When God made man in his own image, placing him in paradise,
 and giving him dominion over the works of his hands;
 then was a time of great joy to Adam and Eve, and should have still been so to them,
 and all mankind, had they continued in the state wherein they were created.
@@ -101,6 +101,7 @@ but he will be a munition of rocks unto them, and their inward life shall be pre
 and they shall enjoy peace with the Lord in the midst
 of all that shall outwardly befall them.
 
+[.signed-section-context-close]
 Mesborow in Kent, 22nd of the 6th Month, 1679
 
 The everlasting gospel hath been preached in this nation (and also other nations),
@@ -148,12 +149,17 @@ and find inward rest and peace with him in the day of outward trouble and sore d
 
 To such, a few words of advice, very early this morning, lay upon my heart.
 
-First, Seek the Lord (oh, do not seek the world,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ Seek the Lord (oh, do not seek the world,
 but seek the Lord who redeems out of the spirit of the world, where the wrath comes,
 and upon which it is to seize!). And "`seek righteousness, seek meekness;
 it may be ye shall be hid in the day of the Lord`'s anger.`" Zeph. 2:3.
 
-Secondly, Wait upon God, that ye may learn of him to "`keep your heart with all diligence,
+[.numbered]
+_Secondly,_ Wait upon God, that ye may learn of him to "`keep your heart with all diligence,
 for out of it are the issues of life.`" If ever ye know the issues of life,
 ye must know them there; and if ye know the issues of life there,
 and they sweetly issue up, and flow into your souls,
@@ -161,7 +167,8 @@ they will refresh and delight you in the midst of all the sore afflictions, trou
 and distresses, which can befall you outwardly.
 Read Psa. 46. and consider.
 
-Thirdly, Mind who knocks at the door of your hearts,
+[.numbered]
+_Thirdly,_ Mind who knocks at the door of your hearts,
 whether it be the destroyer or Saviour of the soul;
 for both of these knock often at the door, but men are not aware thereof.
 And wait to receive power from God, to be faithful door-keepers,
@@ -169,7 +176,8 @@ that ye may keep the door of your hearts shut against the enemy,
 when he knocks with any temptation, and may open them to the Lord,
 when he knocks with any motion or pure stirring of life.
 
-Fourthly, Wait to know, and experience truly, and also more and more,
+[.numbered]
+_Fourthly,_ Wait to know, and experience truly, and also more and more,
 the Christian Spirit and state, the state of a servant to the Father, and his Son Christ,
 the state of a soldier, the state of a pilgrim and holy traveller;
 to be doing the Lord`'s work (the Lord`'s will, and not your own),
@@ -178,6 +186,8 @@ and to be travelling farther and farther out of the spirit, mind,
 and nature of this world (wherein the kingdom of darkness stands), into God`'s Spirit,
 where the kingdom of the dear Son is known and entered into,
 by those that deny their own wisdom, and become as little children.
+
+====
 
 Many have the form of godliness, who are not accepted of the Lord;
 but such only as know God`'s power, and are led by his Spirit,
@@ -205,13 +215,15 @@ Surely, these shall not only be able to abide, but dwell with the devouring fire
 and everlasting burnings; and that shall be their safety and shelter,
 when the flames thereof break forth to consume and burn up the chaff everywhere.
 
+[.signed-section-context-close]
 25th of the Sixth Month, 1679
 
-=== POSTSCRIPT
+=== Postscript
 
-THE gospel religion is very precious,
+The gospel religion is very precious,
 being inwardly felt and experienced in the life and power of it;
 but a bare profession of it, out of the life and power of godliness,
 is of no value in the sight of God, nor is it of any profit or advantage to the soul.
 
-ISAAC PENINGTON
+[.signed-section-signature]
+Isaac Penington
