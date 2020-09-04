@@ -1,8 +1,10 @@
 == Letters of Isaac Penington
 
-=== TO S. W.
+[.letter-heading]
+To S. W.
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I ever had a love to thee, and a deep sense of the serious work of God upon thy heart,
 and the upright desires of thy soul after Him.
@@ -51,13 +53,17 @@ Amen.
 
 Thy friend, in the true, sincere love of the heavenly, everlasting seed.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 13th of Twelfth Month, 1678
 
-=== TO THE LADY CONWAY
+[.letter-heading]
+To the Lady Conway
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 In tender love, and in a sense of thy sore afflictions and exercises,
 I do most dearly salute thee; desiring for thee,
@@ -101,13 +107,16 @@ I remain a sympathizer with thee in thy sufferings;
 who desire all the advantage and blessings from the God of my life may come to thee,
 which hardships, temptations, and trials prepare the heart and make way for.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 14th of 12th Month, 1678
 
-=== POSTSCRIPT
+=== Postscript
 
-My dear Friend,
+[.salutation]
+My Dear Friend,
 
 Some time after writing the foregoing, this arose in me to thee.
 If the Lord, in thy waiting upon him, to search and try thy heart and ways,
@@ -126,9 +135,11 @@ which he will not fail to work thy mind into; that, in the issue of all,
 thou mayest reap the quiet fruits of righteousness and heavenly peace from his hand.
 Amen, so be it from the Lord to thy soul!
 
-=== TO S. W.
+[.letter-heading]
+To S. W.
 
-DEAR S. W.
+[.salutation]
+Dear S. W.
 
 I have ever had a love to thee,
 and have many times been filled with earnest desires for thee;
@@ -243,13 +254,17 @@ dressed, and delighted in by him.
 
 This is a salutation of love from thy friend in the truth, which lives and changes not.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 27th of Twelfth Month, 1678
 
-=== TO M. HIORNS
+[.letter-heading]
+To M. Hiorns
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I received two letters from thee lately,
 whereby the sense is revived in me of thy great love to me,
@@ -277,7 +292,7 @@ unchangeable seed in thy own heart,
 and mayst daily feel thy mind bowed down and worship in it,
 become wholly leavened into it, and perfectly changed and preserved by it.
 
-=== POSTSCRIPT
+=== Postscript
 
 We are here but awhile in this world, for the Lord to make use of us,
 and serve himself by us; and so, by his ordering of us, to fit us for the crown of glory,
@@ -325,15 +340,19 @@ both in ascending and descending, or they will miss their way; yea,
 they must be daily taught of him to be silent before him, and know +++[+++what it is]
 to be still in him, or they will be apt to miss in either.
 
+[.signed-section-closing]
 This from thy friend,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Amersham, Woodside, 4th of Fifth Month, 1679.
 
-=== TO SARAH ELGAR
+[.letter-heading]
+To Sarah Elgar
 
-THE child which the Lord hath taken from thee was his own.
+The child which the Lord hath taken from thee was his own.
 He hath done thee no wrong, in calling it from thee.
 Take heed of murmuring, take heed of discontent, take heed of any grief,
 but what truth allows thee.
@@ -352,18 +371,27 @@ thou mayest day by day receive and enjoy satisfaction therein.
 Oh, wait to feel the Lord making thy heart what he would have it to be,
 in this thy deep and sore affliction!
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Nunnington, Sixth Month, 1679
+
+[.postscript]
+====
 
 Now, let the world see how thou prizest the truth, and what truth can do for thee.
 Feed on it; do not feed on thy affliction; and the life of truth will arise in thee,
 and raise thee up over it, to the honor of the name of the Lord,
 and to the comfort of thy own soul.
 
-=== TO WILLIAM ROLLS
+====
 
-FRIEND,
+[.letter-heading]
+To William Rolls
+
+[.salutation]
+Friend,
 
 David saw through the sacrifices and burnt offerings in his time;
 and the spiritual eye sees through all shadows to the substance,
@@ -392,11 +420,15 @@ but mayst meet with the right key, and the right understanding,
 wherein thy soul will be safe and happy; which is my heart`'s desire for thee,
 who am a real friend and well-wisher to thy soul in the Lord.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO THE POOR AMONG FRIENDS, who are relieved by the charity and bowels of love, which God opens in other Friends towards them
+[.letter-heading]
+To the Poor among Friends, who are relieved by the charity and bowels of love,
+which God opens in other Friends towards them
 
-O FRIENDS,
+[.salutation]
+O Friends,
 
 Ye ought deeply and often to consider of God`'s visiting you with his precious truth,
 whereto being faithful, ye are sure to be happy forever;
@@ -439,11 +471,14 @@ and of which we must give an account to him; and if ye in any thing judge us,
 wherein our God justifies us, certainly the Lord will therein condemn you.
 Therefore be wary and watchful in this matter.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO SARAH BOND
+[.letter-heading]
+To Sarah Bond
 
-DEAR SARAH,
+[.salutation]
+Dear Sarah,
 
 I have had many thoughts of thee in this my imprisonment;
 wherein I have seen in spirit thy error and miscarriage,
@@ -527,11 +562,13 @@ I am thy friend, and a dear lover of that in thee which desires the Lord;
 and oh that that might come up in thee, and be severed from the earth,
 that thy soul may live!
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== FOR MY DEAR FRIENDS IN THE TRUTH AT LEWES
+[.letter-heading]
+For My Dear Friends in the Truth at Lewes
 
-THE God of truth plants his truth in the hearts of people, that it might grow there,
+The God of truth plants his truth in the hearts of people, that it might grow there,
 and bring forth fruit to him.
 O my dear friends! feel it grow in every one of your hearts,
 and bringing forth the proper fruits of its growth to the Lord.
@@ -568,11 +605,13 @@ This is the salutation of my love to you, which lay so upon me,
 that I could not pass it by, who am your friend, in the everlasting,
 unchangeable truth of our blessed God and Saviour.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-BECAUSE my not praying in my family, according to the custom of professors,
+Because my not praying in my family, according to the custom of professors,
 seemed to be such a great stumbling-block to thee,
 it sprang up in my heart to render thee this account thereof.
 
@@ -651,11 +690,14 @@ but without the true, pure, fresh life.
 
 From a faithful friend and lover of souls.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO E. TERRY
+[.letter-heading]
+To E. Terry
 
-FRIEND,
+[.salutation]
+Friend,
 
 If the Lord hath extended favor to thee and shown thee mercy,
 I therein rejoice on thy behalf.
@@ -723,11 +765,14 @@ and seed of Christ`'s life and Spirit,
 nor discern his appearance therein; yet take heed of fighting against it; for, indeed,
 if thou dost, thou fightest against no less than the Lord Jesus Christ himself.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO A NEAR RELATIVE
+[.letter-heading]
+To a Near Relative
 
-DEAR +++_______+++,
+[.salutation]
+Dear +++_______+++,
 
 The gospel is the power of God unto salvation;
 it is the glad tidings of freedom from sin,
@@ -741,7 +786,8 @@ by the gift and inspiration thereof, preach these tidings to the poor and needy,
 to the captives, to those that groan under the pressure of the body of corruption.
 
 The gospel, through the great mercy of God, I have, at length, heard preached;
-and I have not heard man, but the voice of my Beloved; whose voice is welcome to me,
+and I
+have not heard man, but the voice of my Beloved; whose voice is welcome to me,
 though in the meanest boy, or most contemptible female.
 For in Christ, there is neither male nor female; nor should his Spirit,
 which is not limited to males, be quenched in any.
@@ -796,13 +842,16 @@ so gaping after the seat of government hath sunk the good thing in others also;
 and made their eye so dim,
 that they cannot see the mighty breakings forth of the Spirit of Christ in his people.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO RICHARD ROBERTS
+[.letter-heading]
+To Richrd Roberts
 
+[.salutation]
 R+++.+++ R.
 
-THOU didst acquaint me that Timothy Fly, the Anabaptist teacher,
+Thou didst acquaint me that Timothy Fly, the Anabaptist teacher,
 did charge me with denying Christ`'s humanity, and also the blood of Christ,
 which was shed at Golgotha, without the gates of Jerusalem;
 and that I own no other Christ but what is within men.
@@ -848,11 +897,13 @@ And yet, there is no other bridegroom, who now appears in spirit,
 or spiritually in the hearts of his, than He that once appeared in the prepared body,
 and did the Father`'s will therein.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== ADDRESSED TO THE INDEPENDENTS AT CANTERBURY
+[.letter-heading]
+Addressed to the Independents at Canterbury
 
-I HAVE been a seeker after God, and a worshipper of him from my childhood,
+I have been a seeker after God, and a worshipper of him from my childhood,
 according to the best of my understanding; and, at last,
 sat down in that way which is called Independency,
 believing it to be the way of the gospel,
@@ -934,11 +985,14 @@ the Lord is arisen to shake terribly the earth, and to build up his Zion,
 and to give unto his people "`a peaceable habitation and
 sure dwellings and quiet resting-places`" upon Mount Zion. Isa. 32:18.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO FRANCIS PORDAGE
+[.letter-heading]
+To Francis Pordage
 
-FRIEND,
+[.salutation]
+Friend,
 
 There is a mind, which can never know nor receive the things of God`'s kingdom; and yet,
 this mind is very busy in searching and inquiring after them.
@@ -994,11 +1048,13 @@ and done great things inwardly for and in our spirits; yet,
 if we were not kept under the yoke, but that part in us had liberty to know, and live,
 and act, and worship, we should yet perish, and be cut off from the land of the living.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== IN REPLY TO AN ANSWER OF I. H. TO SOMEWHAT WRITTEN ON BEHALF OF TRUTH
+[.letter-heading]
+In Reply to an Answer of I. H. to Somewhat Written on Behalf of Truth
 
-+++_______+++ INDEED, to speak properly, the church of the gospel, or new testament church,
++++_______+++ indeed, to speak properly, the church of the gospel, or new testament church,
 is invisible.
 The persons in whom the church is, are visible;
 yet the new testament church is not a society of men,
@@ -1071,9 +1127,11 @@ not waiting for the guidance of the Spirit; then that which is corrupt may creep
 and endanger the body.
 Jude 4.
 
-=== TO BRIDGET ATLEY
+[.letter-heading]
+To Bridget Atley
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I am sensible of thy sore travail and deep distress,
 and how hard it is for thee to meet with that which is comfortable and refreshing,
@@ -1123,13 +1181,17 @@ and filled with all it rightly desires after,
 in the proper season and goodness of the Lord;
 to whose wise ordering and tender mercy I commit thee, remaining
 
+[.signed-section-context-close]
 Thy faithful friend,
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO ABRAHAM GRIMSDEN
+[.letter-heading]
+To Abraham Grimsden
 
-FRIEND,
+[.salutation]
+Friend,
 
 Thou hast made some profession of truth, and at times come amongst us;
 but whether thou hast been changed thereby,
@@ -1178,11 +1240,14 @@ for he will not hold such guiltless!
 I am, in this, faithful and friendly to thy soul, desiring its eternal welfare,
 and that it may not forever perish from the presence and power of the Lord.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-FRIEND,
+[.salutation]
+Friend,
 
 God breathed into man the breath of life, and man thereby became a living soul to God,
 to whom by transgression he died.
@@ -1219,9 +1284,11 @@ Oh that all who truly desire salvation, might know the way hither,
 and receive that from God, which cleanseth and keepeth clean!
 Amen.
 
-=== TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-FRIEND,
+[.salutation]
+Friend,
 
 The Lord God on whom I wait, and whom I worship in spirit and truth,
 and whom it is my delight to serve and obey,
@@ -1297,11 +1364,14 @@ and slighting the grace and truth which is by Jesus Christ,
 which is now powerfully revealed in many hearts?
 Blessed be he who hath visited his people with the horn of salvation.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-O DEAR FRIEND!
+[.salutation]
+O Dear Friend!
 
 The eternal love of my Father is to thee; and, because he loves thee,
 and would entirely enjoy thee,
@@ -1334,11 +1404,14 @@ and preserves the lost sheep.
 
 I remain thy dear friend, and a well-wisher to thy soul, in the love of my Father.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO +++_______+++ +++_______+++
+[.letter-heading]
+To +++_______+++ +++_______+++
 
-DEAR FRIEND,
+[.salutation]
+Dear Friend,
 
 I received thy letter kindly, and in the tenderness of love,
 which desires thy enjoyment of the Lord in this world,
@@ -1471,11 +1544,14 @@ reaping the sheaves in life everlasting, of all that thou hast sown to the Spiri
 This is the earnest and single desire of my soul for thee,
 who am thy true and faithful friend, and a hearty well-wisher to thee and thine.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO RUTH PALMER
+[.letter-heading]
+To Ruth Palmer
 
-MY DEAR FRIEND,
+[.salutation]
+My Dear Friend,
 
 Whose love I am sensible of, and whom I entirely wish well unto, and desire for thee,
 that thou mayst purchase and possess the pearl of price;
@@ -1629,11 +1705,13 @@ This is a blessed experience; and these know Christ indeed.
 The Lord grant that thou mayst so do! which is the
 hearty desire of thy soul`'s true and faithful friend,
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== TO JOSEPH WRIGHT
+[.letter-heading]
+To Joseph Wright
 
-I ENTREAT thy son to acquaint my brother Arthur, that I took very kindly,
+I entreat thy son to acquaint my brother Arthur, that I took very kindly,
 and was very glad of, his affectionate expressions towards me;
 having been somewhat jealous, that though my religion had enlarged my love towards him,
 yet his religion might have diminished his to me.
@@ -1685,4 +1763,5 @@ by such as the world knows not, but despiseth: blessed be the name of the Lord!
 I desire my sincere, entire affection, as in God`'s sight,
 may be remembered to my dear brother.
 
+[.signed-section-signature]
 I+++.+++ P.
