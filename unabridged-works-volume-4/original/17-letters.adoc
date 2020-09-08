@@ -113,10 +113,10 @@ I+++.+++ P.
 [.signed-section-context-close]
 14th of 12th Month, 1678
 
-=== Postscript
+[.postscript]
+====
 
-[.salutation]
-My Dear Friend,
+Postscript.-- My Dear Friend,
 
 Some time after writing the foregoing, this arose in me to thee.
 If the Lord, in thy waiting upon him, to search and try thy heart and ways,
@@ -134,6 +134,8 @@ waiting upon him in the meek, quiet, patient, and resigned spirit,
 which he will not fail to work thy mind into; that, in the issue of all,
 thou mayest reap the quiet fruits of righteousness and heavenly peace from his hand.
 Amen, so be it from the Lord to thy soul!
+
+====
 
 [.letter-heading]
 To S. W.
@@ -292,9 +294,10 @@ unchangeable seed in thy own heart,
 and mayst daily feel thy mind bowed down and worship in it,
 become wholly leavened into it, and perfectly changed and preserved by it.
 
-=== Postscript
+[.postscript]
+====
 
-We are here but awhile in this world, for the Lord to make use of us,
+Postscript.--We are here but awhile in this world, for the Lord to make use of us,
 and serve himself by us; and so, by his ordering of us, to fit us for the crown of glory,
 which he will give us fully to wear in the other world.
 Now, feel the child`'s nature, which chooseth nothing,
@@ -339,6 +342,8 @@ For the greatest, as well as the least, must be daily taught of the Lord,
 both in ascending and descending, or they will miss their way; yea,
 they must be daily taught of him to be silent before him, and know +++[+++what it is]
 to be still in him, or they will be apt to miss in either.
+
+====
 
 [.signed-section-closing]
 This from thy friend,
@@ -846,7 +851,7 @@ that they cannot see the mighty breakings forth of the Spirit of Christ in his p
 I+++.+++ P.
 
 [.letter-heading]
-To Richrd Roberts
+To Richard Roberts
 
 [.salutation]
 R+++.+++ R.
@@ -1054,8 +1059,8 @@ I+++.+++ P.
 [.letter-heading]
 In Reply to an Answer of I. H. to Somewhat Written on Behalf of Truth
 
-+++_______+++ indeed, to speak properly, the church of the gospel, or new testament church,
-is invisible.
+Indeed, to speak properly, the church of the gospel,
+or new testament church, is invisible.
 The persons in whom the church is, are visible;
 yet the new testament church is not a society of men,
 but rather of the invisible life in men.
