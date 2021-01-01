@@ -672,6 +672,7 @@ it seems, conceived so great, as well as unjust, displeasure against this innoce
 And although it was the year of the plague,^
 footnote:[The Great Plague of 1665-1666 was the last major
 epidemic of the bubonic plague to occur in England,
+// lint-disable invalid-characters "%"
 killing an estimated 100,000 people, about 15% of London`'s population.]
 and the sickness was suspected to be in the jail,
 the Earl of Bridgewater would not be prevailed with (by the earnest pleas of
