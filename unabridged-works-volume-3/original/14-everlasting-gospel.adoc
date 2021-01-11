@@ -3,19 +3,19 @@
 [.section-date]
 1678
 
-[quote.section-epigraph, ,1 John 2:8]
+[quote.section-epigraph, , 1 John 2:8]
 ____
 The darkness is past, and the true light now shineth.
 ____
 
-[quote.section-epigraph, ,Isa. 60:1-2]
+[quote.section-epigraph, , Isa. 60:1-2]
 ____
 Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee:
 for behold, the darkness shall cover the earth, and gross darkness the people;
 but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 ____
 
-[quote.section-epigraph, ,Ps. 102:16]
+[quote.section-epigraph, , Ps. 102:16]
 ____
 When the Lord shall build up Zion, he shall appear in his glory. (indeed he doth so.)
 ____
