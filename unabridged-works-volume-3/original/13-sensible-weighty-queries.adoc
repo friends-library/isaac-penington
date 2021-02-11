@@ -307,7 +307,6 @@ Amen.
 
 [quote.scripture, , Verse 10]
 ____
-
 Who is among you that feareth the Lord, and obeyeth the voice of his servant,
 that walketh in darkness, and hath no light?`"
 It is rendered in another translation:
@@ -318,7 +317,6 @@ ____
 
 [quote.scripture, , Verse 11]
 ____
-
 Behold, all ye that kindle a fire, that compass about with sparks,
 walk in the light of your own fire, and in the sparks ye have kindled,
 this ye shall have of mine hand, ye shall lie down in sorrow.

@@ -212,7 +212,7 @@ especially those who are taken in so great a snare,
 and come to so great a loss of their tenderness towards God, his truths, and people,
 and run so great a hazard and danger of the loss of their own souls.
 
-[discrete]
+[.inline]
 ==== The Grounds or Causes expressed of their making that Law of Banishment, are in Substance these three.
 
 [.numbered-group]
@@ -3082,7 +3082,7 @@ notwithstanding the pretence to justice,
 their whole course of proceedings will prove in truth
 (and according to righteous judgment) but persecution.
 
-[discrete]
+[.inline]
 ==== Now the Grounds of their Proceedings they mention to be these:
 
 [.numbered-group]
@@ -3201,7 +3201,6 @@ what a narrow step there is between you and the pit.
 
 [quote.scripture, , Matt. 20:25-28]
 ____
-
 But Jesus called them unto him, and said,
 Ye know that the princes of the Gentiles exercise dominion over them,
 and they that are great exercise authority upon them.

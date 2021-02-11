@@ -10,8 +10,10 @@ Written by Isaac Penington
 Prisoner at Reading Jail for the testimony of truth.
 
 [quote.section-epigraph, , Isa. 29:24]
+____
 They also that erred in spirit shall know understanding,
 and they that murmured shall learn doctrine.
+____
 
 [.heading-continuation-blurb]
 Blessed be the Lord, it is so.
