@@ -1,4 +1,4 @@
-[#state-of-things, short="Some Considerations Concerning the State of Things"]
+[short="Some Considerations Concerning the State of Things"]
 == Some Considerations
 
 [.heading-continuation-blurb]

@@ -1,4 +1,4 @@
-[#boston, short="An Examination of the Court of Boston`'s Proceedings"]
+[short="An Examination of the Court of Boston`'s Proceedings"]
 == An Examination of the Grounds or Causes
 
 [.heading-continuation-blurb]

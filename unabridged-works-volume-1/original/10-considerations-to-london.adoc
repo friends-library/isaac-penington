@@ -1,4 +1,4 @@
-[#considerations-london, short="Considerations Proposed to the City of London"]
+[short="Considerations Proposed to the City of London"]
 == Some Considerations
 
 [.heading-continuation-blurb]

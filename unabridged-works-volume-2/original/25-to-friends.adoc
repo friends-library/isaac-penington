@@ -1,4 +1,4 @@
-[#to-friends, short="To Friends, in the Tender Spirit of Life and Love"]
+[short="To Friends, in the Tender Spirit of Life and Love"]
 == To Friends
 
 [.heading-continuation-blurb]

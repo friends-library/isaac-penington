@@ -1,4 +1,4 @@
-[#question-king, short="A Weighty Question for the King and Parliament"]
+[short="A Weighty Question for the King and Parliament"]
 == A Weighty Question / Propounded to the King and Both Houses of Parliament
 
 [.heading-continuation-blurb]

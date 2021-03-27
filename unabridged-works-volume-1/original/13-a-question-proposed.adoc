@@ -1,4 +1,4 @@
-[#question-propounded, short="A Question Propounded to Rulers, Teachers, and People"]
+[short="A Question Propounded to Rulers, Teachers, and People"]
 == A Question
 
 [.heading-continuation-blurb]

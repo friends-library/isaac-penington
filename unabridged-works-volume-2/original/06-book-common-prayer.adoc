@@ -1,4 +1,4 @@
-[#common, short="Concerning the Book of Common Prayer"]
+[short="Concerning the Book of Common Prayer"]
 == The Consideration of a Position+++<br />+++Concerning the Book of Common Prayer
 
 [.heading-continuation-blurb]

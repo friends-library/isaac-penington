@@ -1,4 +1,4 @@
-[#ch1, short="Things of Great Weight and Concernment to All"]
+[short="Things of Great Weight and Concernment to All"]
 == Some Things of Great Weight and Concernment to All,
 
 [.heading-continuation-blurb]

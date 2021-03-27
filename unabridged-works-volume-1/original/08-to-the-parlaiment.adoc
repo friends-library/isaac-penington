@@ -1,4 +1,4 @@
-[#to-parliament.style-blurb, short="To the Parliament"]
+[.style-blurb, short="To the Parliament"]
 == To the Parliament, the Army, and all the Well-affected in the Nation, who have been faithful to the Good Old Cause
 
 [.section-date]

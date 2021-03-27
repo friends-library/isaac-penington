@@ -1,4 +1,4 @@
-[#order-gov-church, short="The Order and Government of the Church of Christ"]
+[short="The Order and Government of the Church of Christ"]
 == Some Queries Concerning the Order and Government of the Church of Christ
 
 [.numbered-group]

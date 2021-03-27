@@ -1,10 +1,10 @@
-.first-chapter dt {
+.chapter-1 dt {
   font-style: italic;
   font-weight: 400;
   text-decoration: underline;
   text-align: center;
 }
 
-.first-chapter dd p {
-  margin-top: 0;
+.chapter-1 dd {
+  margin-top: 0.5em;
 }
